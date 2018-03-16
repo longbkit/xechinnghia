@@ -1,6 +1,6 @@
-baseurl = "https://admiring-stallman-38fa23.netlify.com/"
-title = "Universal"
-theme = "universal"
+baseurl = "http://localhost:1313/"
+title = "Xe chín nghĩa"
+theme = "xechinnghia"
 themesDir = "./themes"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -18,31 +18,41 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Trang chủ"
-    url  = "/"
+    name = "Dịch vụ"
+    url  = "/dich-vu/"
     weight = 1
 
 [[menu.main]]
-    name = "Bảng giá"
-    url  = "/bang-gia/"
+    name = "Giới thiệu"
+    url  = "/gioi-thieu/"
     weight = 2
 
 [[menu.main]]
-    name = "Dịch vụ"
-    identifier = "dich-vu"
-    url  = "/dich-vu/"
+    name = "Thuê xe"
+    identifier = "xe-cho-thue"
+    url  = "/xe-cho-thue/"
     weight = 3
 
 [[menu.main]]
-    name = "Tin tức"
-    identifier = "tin-tuc"
-    url  = "/tin-tuc/"
+    name = "Lịch trình"
+    identifier = "lich-trinh"
+    url  = "/gioi-thieu/lich-xe-xuat-ben/"
     weight = 4
 	
 [[menu.main]]
-    name = "Liên hệ"
-    url  = "/lien-he/"
+    name = "Bảng giá"
+    url  = "/bang-gia/"
     weight = 5
+
+[[menu.main]]
+    name = "Tuyển dụng"
+    url  = "/tuyen-dung/"
+    weight = 6
+
+[[menu.main]]
+    name = "Liên hệ"
+    url  = "https://www.facebook.com/xechinnghia"
+    weight = 7
 
 # Top bar social links menu
 
@@ -72,9 +82,10 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Chín Nghĩa - Tất cả vì khách hàng"
+    copyright = "Chín Nghĩa - Tất cả vì khách hàng [votuong.tq@gmail.com]" 
+    defaultKeywords = ["cho thue xe tai quang ngai",  "cho thue xe cuoi tai quang ngai",  "dich vu cho thue xe tai quang ngai",  "cho thue xe tu lai tai quang ngai",  "cho thue xe du lich tai quang ngai",  "cho thue xe gia re tai quang ngai"]
+    defaultDescription = "Thuê xe du lịch, thuê xe tự lái, xe tuyến cố định Quảng Ngãi,"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -98,7 +109,6 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -121,7 +131,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = false
+    enable = true
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>

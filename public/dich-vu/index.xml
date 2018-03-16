@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dịch vụ on Xe chín nghĩa</title>
+    <link>http://localhost:1313/dich-vu/</link>
+    <description>Recent content in Dịch vụ on Xe chín nghĩa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Mar 2018 14:38:51 +0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/dich-vu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vận tải hành khách</title>
+      <link>http://localhost:1313/dich-vu/van-tai-hanh-khach/</link>
+      <pubDate>Thu, 15 Mar 2018 14:38:51 +0700</pubDate>
+      
+      <guid>http://localhost:1313/dich-vu/van-tai-hanh-khach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vận chuyển hàng hóa</title>
+      <link>http://localhost:1313/dich-vu/van-chuyen-hang-hoa/</link>
+      <pubDate>Thu, 15 Mar 2018 14:39:57 +0700</pubDate>
+      
+      <guid>http://localhost:1313/dich-vu/van-chuyen-hang-hoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cho thuê xe du lịch</title>
+      <link>http://localhost:1313/dich-vu/cho-thue-xe-du-lich/</link>
+      <pubDate>Thu, 15 Mar 2018 14:40:05 +0700</pubDate>
+      
+      <guid>http://localhost:1313/dich-vu/cho-thue-xe-du-lich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trạm dừng chân, nhà hàng</title>
+      <link>http://localhost:1313/dich-vu/tram-dung-chan-nha-hang/</link>
+      <pubDate>Thu, 15 Mar 2018 14:40:17 +0700</pubDate>
+      
+      <guid>http://localhost:1313/dich-vu/tram-dung-chan-nha-hang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cho thuê bến đỗ</title>
+      <link>http://localhost:1313/dich-vu/cho-thue-ben-do/</link>
+      <pubDate>Thu, 15 Mar 2018 14:40:29 +0700</pubDate>
+      
+      <guid>http://localhost:1313/dich-vu/cho-thue-ben-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vận tải đường thủy</title>
+      <link>http://localhost:1313/dich-vu/van-tai-duong-thuy/</link>
+      <pubDate>Thu, 15 Mar 2018 14:40:38 +0700</pubDate>
+      
+      <guid>http://localhost:1313/dich-vu/van-tai-duong-thuy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
