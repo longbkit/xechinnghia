@@ -4,6 +4,7 @@
       <div class="col-lg-9 col-md-9 col-sm-7 col-xs-12 col-ms-12">
          <div class="news-items row">
          	{{ range .Data.Pages }}
+            {{ if isset .Params "weight"}}
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-ms-12 margintop30">
                <div class="row">
                   <div class="each-news col-lg-5 col-md-5 col-sm-12 col-xs-12 col-ms-12">
@@ -24,6 +25,7 @@
                   </div>
                </div>
             </div>
+            {{ end }}
             {{ end }}
 
          </div>

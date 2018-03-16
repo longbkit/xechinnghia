@@ -4,13 +4,13 @@
         {{ range sort (where .Site.Pages "Type" "chi-nhanh") ".Params.date" "asc" }}
          <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
             <h3 class="heading"><i class="fa fa-map-marker"></i> 
-                <span> {{ if .Params.IsNew }} <img src="/img/uploads/freecontent/hot-hot.gif" alt=""> {{ end }} {{ .Title }}</span></h3>
+                <span> {{ if .Params.isNew }} <img src="/img/uploads/freecontent/hot-hot.gif" alt=""> {{ end }} {{ .Title }}</span></h3>
             <div class="clearfix"></div>
             <div class="main_primary" style="margin-bottom:10px;background: #fff;">
                <div class="primary" style="padding: 15px 0;">
                   <ul>
-                     <li> {{ .Params.Address }}</li>
-                     <li>Liên Hệ: <strong style="color:red">&nbsp;{{ .Params.Contact }}</strong></li>
+                     <li> {{ .Params.address }}</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;{{ .Params.contact }}</strong></li>
                   </ul>
                </div>
             </div>

@@ -3,18 +3,18 @@
    <title>{{ .Title }}</title>
    {{ if .Keywords }}
    <meta name="keywords" content="{{ delimit .Keywords ", " }}">
-   {{ else if .Site.Params.DefaultKeywords }}
-   <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">  
+   {{ else if .Site.Params.defaultKeywords }}
+   <meta name="keywords" content="{{ delimit .Site.Params.defaultKeywords ", " }}">  
    {{ end }}
 
    {{ if .Description }}
    <meta name="description" content="{{ .Description }}">
-   {{ else if .Site.Params.DefaultDescription }}
-   <meta name="description" content="{{ .Site.Params.DefaultDescription }}">
+   {{ else if .Site.Params.defaultDescription }}
+   <meta name="description" content="{{ .Site.Params.defaultDescription }}">
    {{ end }}
    
-   <meta name="author" content="{{ .Site.Params.Author }}">
-   <meta name="copyright" content="{{ .Site.Params.Copyright }}">
+   <meta name="author" content="{{ .Site.Params.author }}">
+   <meta name="copyright" content="{{ .Site.Params.copyright }}">
    <meta name="robots" content="index, archive, follow, noodp">
    <meta name="googlebot" content="index,archive,follow,noodp">
    <meta name="msnbot" content="all,index,follow">
@@ -24,8 +24,8 @@
    <meta property="og:type" content="website">
    {{ if .Description }}
    <meta property="og:description" content="{{ .Description }}">
-   {{ else if .Site.Params.DefaultDescription }}
-   <meta property="og:description" content="{{ .Site.Params.DefaultDescription }}">
+   {{ else if .Site.Params.defaultDescription }}
+   <meta property="og:description" content="{{ .Site.Params.defaultDescription }}">
    {{ end }}
    <meta property="og:site_name" content="{{ .Title }}">
    <meta property="og:url" content="{{ .Site.BaseURL }}">
