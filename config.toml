@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313/"
+baseurl = "https://mystifying-poincare-ccb57a.netlify.com/"
 title = "Xe chín nghĩa"
 theme = "xechinnghia"
 themesDir = "./themes"
