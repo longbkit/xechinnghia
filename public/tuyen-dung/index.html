@@ -146,7 +146,7 @@
       <div class="col-lg-9 col-md-9 col-sm-7 col-xs-12 col-ms-12">
          <div class="news-items row">
          	
-            
+	        
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-ms-12 margintop30">
                <div class="row">
                   <div class="each-news col-lg-5 col-md-5 col-sm-12 col-xs-12 col-ms-12">
@@ -175,86 +175,257 @@
          <div class="clearfix"></div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 col-ms-12">
-         <div class="main_primary">
-            <ul class="v-tabs clearfix" role="tablist">
-               <li role="presentation" class="active"><a href="#booking" aria-controls="home" role="tab" data-toggle="tab">Tìm chuyến</a></li>
-            </ul>
-            <div class="tab-content">
-               <div role="tabpanel" class="tab-pane active primary">
-                  <form class="form" name="bookingPartialForm">
-                     <div class="row">
-                        <div class="col-sm-12">
-                           <div class="form-group">
-                              <label for="">Chọn điểm khởi hành</label>
-                              <div class="controls">
-                                 <i class="fa fa-bus text-primary"></i>
-                                 <select class="form-control selectpicker" name="startpoin" onchange="fill_endpoin();">
-                                    <option value="quang-ngai" selected="selected">Quảng Ngãi</option>
-                                    <option value="ho-chi-minh">Hồ Chí Minh</option>
-                                    <option value="ha-noi">Hà Nội</option>
-                                    <option value="can-tho">Cần Thơ</option>
-                                    <option value="tan-binh">Tân Bình</option>
-                                    <option value="daklak">ĐăkLăk</option>
-                                    <option value="binh-phuoc">Bình Phước</option>
-                                    <option value="hai-phong">Hải Phòng</option>
-                                 </select>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-sm-12">
-                           <div class="form-group">
-                              <label for="">Chọn điểm đến</label>
-                              <div class="controls">
-                                 <i class="fa fa-bus text-primary"></i>
-                                 <select class="form-control selectpicker" name="endpoin" id="endpoin">
-                                    <option value="ho-chi-minh">Hồ Chí Minh</option>
-                                    <option value="ha-noi">Hà Nội</option>
-                                    <option value="can-tho">Cần Thơ</option>
-                                    <option value="daklak">ĐăkLăk</option>
-                                    <option value="binh-phuoc">Bình Phước</option>
-                                    <option value="tan-binh">Tân Bình</option>
-                                    <option value="hai-phong">Hải Phòng</option>
-                                 </select>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-sm-12">
-                           <div class="form-group" style="margin-bottom: 0;">
-                              <label for="">Ngày khởi hành</label>
-                              <div class="controls">
-                                 <i class="fa fa-calendar text-primary"></i>
-                                 <input type="text" value="15/03/2018" name="date" id="datestart" class="form-control">
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-sm-12">
-                           <div class="form-group">
-                              <label for=""></label>
-                              <div class="controls">
-                                 <button onclick="fill_search();" type="button" class="btn btn-primary btn-block btn-flat btn-booking"><i class="fa fa-ticket icon-flat bg-btn-actived" style="top:0"></i> Tìm vé</button>
-                                 <div class="clearfix"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="clearfix"></div>
-                  </form>
-                  <a class="btn btn-success btn-block btn-booking" title="Hướng dẫn mua vé" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=huongdanmuave">Hướng dẫn mua vé</a>
-                  <a class="btn btn-default btn-block btn-booking" title="Qui định chung" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=quidinh">Qui định chung</a>
-                  <a class="btn btn-danger btn-block btn-booking" title="Các lỗi phát sinh" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=cacloiphatsinh">Các lỗi phát sinh</a>
-                  <div class="modal fade" id="blocksearch" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                     <div class="modal-dialog modal-md">
-                        <div class="modal-content">
-                        </div>
-                     </div>
-                  </div>
+            <div class="main_primary">
+    <ul class="v-tabs clearfix" role="tablist">
+        <li role="presentation" class="active"><a href="#booking" aria-controls="home" role="tab" data-toggle="tab">Tìm chuyến</a></li>
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active primary">
+<form class="form" name="bookingPartialForm">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label for="">Chọn điểm khởi hành</label>
+                <div class="controls">
+                    <i class="fa fa-bus text-primary"></i>
+                    <select class="form-control selectpicker" name="startpoin" onchange="fill_endpoin();">
+                                                <option value="quang-ngai" selected="selected">Quảng Ngãi</option>
+                        <option value="ho-chi-minh">Hồ Chí Minh</option>
+                        <option value="ha-noi">Hà Nội</option>
+                        <option value="can-tho">Cần Thơ</option>
+                        <option value="tan-binh">Tân Bình</option>
+                        <option value="daklak">ĐăkLăk</option>
+                        <option value="binh-phuoc">Bình Phước</option>
+                        <option value="hai-phong">Hải Phòng</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label for="">Chọn điểm đến</label>
+                <div class="controls">
+                    <i class="fa fa-bus text-primary"></i>
+                    <select class="form-control selectpicker" name="endpoin" id="endpoin">
+                                                <option value="ho-chi-minh">Hồ Chí Minh</option>
+                        <option value="ha-noi">Hà Nội</option>
+                        <option value="can-tho">Cần Thơ</option>
+                        <option value="daklak">ĐăkLăk</option>
+                        <option value="binh-phuoc">Bình Phước</option>
+                        <option value="tan-binh">Tân Bình</option>
+                        <option value="hai-phong">Hải Phòng</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="form-group" style="margin-bottom: 0;">
+                <label for="">Ngày khởi hành</label>
+                <div class="controls">
+                    <i class="fa fa-calendar text-primary"></i>
+                    <input type="text" value="16/03/2018" name="date" id="datestart" class="form-control">
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label for=""></label>
+                <div class="controls">
+                    <button onclick="fill_search();" type="button" class="btn btn-primary btn-block btn-flat btn-booking"><i class="fa fa-ticket icon-flat bg-btn-actived" style="top:0"></i> Tìm vé</button>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</form>
+<a class="btn btn-success btn-block btn-booking" title="Hướng dẫn mua vé" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=huongdanmuave">Hướng dẫn mua vé</a>
+<a class="btn btn-default btn-block btn-booking" title="Qui định chung" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=quidinh">Qui định chung</a>
+<a class="btn btn-danger btn-block btn-booking" title="Các lỗi phát sinh" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=cacloiphatsinh">Các lỗi phát sinh</a>
+<div class="modal fade" id="blocksearch" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-md">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+
+        </div>
+   </div>
+</section>
+<section class="container">
+   <section id="body-news">
+      <div class="row freecontent">
+        
+        
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Quang Ngai Chin Nghia</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> 01 Trần Thủ Độ - Thành phố Quảng Ngãi</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;1900 636 636</strong></li>
+                  </ul>
                </div>
             </div>
          </div>
-         <div class="clear"></div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Ho Chi Minh Bxmd</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> 292 Đinh Bộ Lĩnh, P.26, Q.Bình Thạnh</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;02873.076.076 - 02835.115.115</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  BX An Sương - Tân Bình - Tân Phú</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> 51A Tân Thành ,P.Hòa Thạnh, Q.Tân Phú</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;1900 636 636</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Hà nội - Bến xe nước ngầm</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> Văn phòng số 02 trong bến xe Nước Ngầm</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;02473.076.076 - 0971.000.399</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Đắklắk - Buôn Mê Thuột</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> Phòng vé 08 - 71 Nguyễn Tất Thành</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;0262.6545444 - 0262.3797676</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Đắk Nông</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> Quốc lộ 14</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;1900 636 636</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Bình Phước - Bến Xe Trường Hải</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> P.vé 04 - Phú Riềng Đỏ - Tân Xuân - Đ.Xoài</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;1900 636 636</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Bến xe Cần Thơ</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> P.vé 04 - Phú Riềng Đỏ - Tân Xuân - Đ.Xoài</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;1900 636 636</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  Hải Phòng - Bến xe Niệm Nghĩa</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> 275 Trần Nguyên Hãn - Lê Chân</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;1900 636 636</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
+        
+         <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 col-ms-12">
+            <h3 class="heading"><i class="fa fa-map-marker"></i> 
+                <span>  <img src="/img/uploads/freecontent/hot-hot.gif" alt="">  Hà Nội - Văn Phòng 2</span></h3>
+            <div class="clearfix"></div>
+            <div class="main_primary" style="margin-bottom:10px;background: #fff;">
+               <div class="primary" style="padding: 15px 0;">
+                  <ul>
+                     <li> Ngõ 96/83 Ngọc Hồi -Hoàng Mai</li>
+                     <li>Liên Hệ: <strong style="color:red">&nbsp;02473.076.076 - 01226.67.76.76</strong></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+         
+         
       </div>
-   </div>
+   </section>
 </section>
+
 
 
 
