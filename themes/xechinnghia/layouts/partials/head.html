@@ -7,6 +7,8 @@
    <meta name="keywords" content="{{ delimit .Site.Params.defaultKeywords ", " }}">  
    {{ end }}
 
+   {{ .Hugo.Generator }}
+
    {{ if .Description }}
    <meta name="description" content="{{ .Description }}">
    {{ else if .Site.Params.defaultDescription }}
