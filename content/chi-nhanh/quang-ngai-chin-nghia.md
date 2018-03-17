@@ -1,5 +1,5 @@
 +++
-title = "Quang Ngai Chin Nghia"
+title = "Quảng Ngãi - Chín Nghĩa"
 address = "01 Trần Thủ Độ - Thành phố Quảng Ngãi"
 contact = "1900 636 636"
 weight =  1
