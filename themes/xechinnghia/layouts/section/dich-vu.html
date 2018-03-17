@@ -4,7 +4,7 @@
       <div class="col-lg-9 col-md-9 col-sm-7 col-xs-12 col-ms-12">
          <div class="news-items row">
          	{{ range .Data.Pages }}
-            {{ if ge .Params.weight 0 }}
+            {{ if gt .Params.weight 0 }}
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-ms-12 margintop30">
                <div class="row">
                   <div class="each-news col-lg-5 col-md-5 col-sm-12 col-xs-12 col-ms-12">
@@ -20,8 +20,8 @@
                      {{ else }}
                      buon qua
                      {{ end }}
-                     <a class="img-thumb" href="/dich-vu/van-tai-hanh-khach-21.html">
-                        <h3 class="text-uppercase text-primary">{{.Params.weight }} abc {{ .Title }}</h3>
+                     <a class="img-thumb" href="{{ .URL }}">
+                        <h3 class="text-uppercase text-primary">{{ .Title }}</h3>
                      </a>
                      <p class="text-justify">{{ .Description }}</p>
                      <p class="clearfix">
