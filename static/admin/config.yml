@@ -6,7 +6,7 @@ publish_mode: editorial_workflow
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
-bai-viet:
+collections:
   - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
     label: "Tin tức mới" # Used in the UI
     folder: "content/tin-tuc" # The path to the folder where the documents are stored
