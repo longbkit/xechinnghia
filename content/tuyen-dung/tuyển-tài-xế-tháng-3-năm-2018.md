@@ -6,9 +6,9 @@ thumbnail: /images/uploads/banner-1.jpg
 ---
 MÔ TẢ CÔNG VIỆC
 
-
-
 \- Lái xe 7,9,10 Chỗ
+
+
 
 \- Chuyên chở KH hợp đồng Hà Nội - Hạ Long - Hải Phòng theo lịch mà công ty sắp xếp. 
 
@@ -19,8 +19,6 @@ MÔ TẢ CÔNG VIỆC
 \- Làm các công việc khác theo yêu cầu của quản lý
 
 QUYỀN LỢI ĐƯỢC HƯỞNG
-
-
 
 \- Thu nhập : 8-13 Tr / tháng theo năng lực của ứng viên
 
@@ -40,8 +38,6 @@ QUYỀN LỢI ĐƯỢC HƯỞNG
 
 YÊU CẦU KHÁC
 
-
-
 \- Có bằng lái xe từ B2 trở lên ưu tiên có bằng lái D hoặc E
 
 \- Có kinh nghiệm lái xe.
@@ -59,7 +55,5 @@ YÊU CẦU KHÁC
 \- Ưu tiên cho ứng viên đã qua nghiệp vụ quân sự, có kinh nghiệm lái xe cho lãnh đạo và sử dụng thành thạo các loại xe
 
 HỒ SƠ BAO GỒM
-
-
 
 \- Bộ hò sơ đầy đủ theo quy định
