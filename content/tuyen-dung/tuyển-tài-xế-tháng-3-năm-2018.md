@@ -1,59 +1,51 @@
 ---
 layout: tuyen-dung
 title: Tuyển tài xế tháng 3 năm 2018
-date: '2018-03-19T22:15:28+07:00'
+date: '2018-03-20T10:56:51+07:00'
 thumbnail: /images/uploads/banner-1.jpg
 ---
-MÔ TẢ CÔNG VIỆC
+**I. Chín Nghĩa cần tuyển tài xế:**
 
-\- Lái xe 7,9,10 Chỗ
++ Vận hành xe hơi loại 5 và 7 chỗ theo quy định công ty 
+
++ Đưa, đón nhân viên phụ trách đi công tác theo quy định công ty 
+
++ Đưa, đón khách theo chỉ thị từ cấp trên 
+
++ Các công việc khác : Quản lý vật tư máy in, máy in, máy photocopy, nước uống, ... và các vật dụng văn phòng khác tại công ty theo chỉ thị của cấp trên. Quyền lợi được hưởng I. Mức lương : Từ 6 triệu trở lên 
 
 
 
-\- Chuyên chở KH hợp đồng Hà Nội - Hạ Long - Hải Phòng theo lịch mà công ty sắp xếp. 
+**II. Phúc lợi được hưởng :**
 
-Đặc điểm xe liên tục đi về trong ngày giữa 2 đầu văn phòng HÀ NỘI - HẠ LONG
++ Được làm việc trong môi trường chuyên nghiệp, đồng nghiệp thân thiện. 
 
-\- Thường xuyên kiểm tra xe, vệ sinh xe sạch sẽ, bảo dưỡng hoặc đề xuất bảo dưỡng theo đúng chế độ.
++ Được hưởng đầy đủ các chế độ BHXH,BHYT, BHTN theo quy định của BLLĐ 
 
-\- Làm các công việc khác theo yêu cầu của quản lý
++ Được tham gia BHYT tai nạn 24h, sức khoẻ (Bảo Hiểm Bảo Việt ) ngay sau khi trở thành nhân viên chính thức của công ty. 
 
-QUYỀN LỢI ĐƯỢC HƯỞNG
++ Được thưởng từ 1 đến 3 tháng lương tổng/ năm , tuỳ theo năng lực, hiệu quả công việc đạt được, sự cống hiến đối với công ty - Trường hợp nay chỉ áp dụng đối với nhân viên làm việc tại công ty đủ 12 tháng trở lên . 
 
-\- Thu nhập : 8-13 Tr / tháng theo năng lực của ứng viên
++ Được xét lương thành tích cuối năm theo năng lực, thành quả công việc đối với nhân viên có dưới 12 tháng làm việc tại công ty 
 
-\- Được hưởng đầy đủ các chế độ BHXH, BHYT theo quy định.
++ Được hưởng các chế độ phúc lợi khác : đào tạo tiếng Nhật theo quy định của công ty, du lịch công ty, khám sức khỏe định kỳ/ năm. 
 
-\- Hưởng phụ cấp ăn trưa
+Ứng viên có thể đi làm trong dịp Tết Âm Lịch, có thể tăng ca và gắn bó lâu dài với công ty.
 
-\- Lương cơ bản, thưởng cuối năm….
+Yêu cầu công việc + Nam từ 25 - 34 tuổi 
 
-\- Tham gia các hoạt động của công ty và hưởng các phúc lợi khác của Công ty.
++ Tính tình hiền hòa, thật thà, trung thực, vui vẻ 
 
-\- Được đào tạo các kỹ năng cần thiết cho công việc.
++ Có bằng lái xe ô tô hạng B2 (bắt buộc) 
 
-\- Ký hợp đồng lao động ngay sau khi kết thúc thử việc
++ Nhiệt tình trong công việc 
 
-\- Được làm việc trong môi trường năng động, chuyên nghiệp, khả năng thăng tiến cao.
++ Ưu tiên người miền Nam Yêu cầu hồ sơ - Đơn xin việc. 
 
-YÊU CẦU KHÁC
+Sơ yếu lý lịch (Có công chứng).
 
-\- Có bằng lái xe từ B2 trở lên ưu tiên có bằng lái D hoặc E
+Hộ khẩu, chứng minh nhân dân (Sao y, công chứng)
 
-\- Có kinh nghiệm lái xe.
+Giấy khám sức khỏe.
 
-\- Có thế chấp trách nhiệm (Trao đổi khi phỏng vấn)
-
-\- Trung thực, nhanh nhẹn, nhiệt tình trong ứng xử.
-
-\- Rành đường thành phố, am hiểu luật giao thông
-
-\- Chịu được áp lực công việc cao, sức khỏe tốt
-
-\- Am hiểu và có kiến thức cơ bản về sửa chữa xe; Có kinh nghiệm quản lý, bảo quản khắc phục sự cố xe tốt.
-
-\- Ưu tiên cho ứng viên đã qua nghiệp vụ quân sự, có kinh nghiệm lái xe cho lãnh đạo và sử dụng thành thạo các loại xe
-
-HỒ SƠ BAO GỒM
-
-\- Bộ hò sơ đầy đủ theo quy định
+Bằng lái xe B2 (Sao y, công chứng) Thông tin liên hệ Người liên hệ: Thúy Hoa Email: ntthoa0119@gmail.com Số điện thoại: 0907925025 Địa chỉ công ty: SỐ 121 - 123 Bạch Đằng, Phường 2, Quận Tân Bình, TP.HCM

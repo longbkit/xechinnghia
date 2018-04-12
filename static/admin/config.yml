@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: refactor_index_pages # Branch to update master (optional; defaults to master)
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
@@ -13,9 +13,20 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
       - {label: "Tiêu đề", name: "title", widget: "string"}
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Đánh giá (thang điểm 1-5)", name: "rating", widget: "number"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "tuyen-dung"
+    label: "Tin tuyển dụng mới"
+    folder: "content/tuyen-dung"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "tuyen-dung"}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Hình ảnh", name: "image", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
