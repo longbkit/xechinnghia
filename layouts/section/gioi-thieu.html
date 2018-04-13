@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section id="body-main">
+    <div class="container">
+        <div class="col-lg-9 col-md-9 col-sm-7 col-xs-12 col-ms-12">
+        	<div class="list-group">
+	        	{{ range $index, $element := sort .Data.Pages ".Params.date" }}
+				<a class="show h4" href="{{ .URL }}" data-content="{{ .Description }}" data-img="{{ .Params.image }}" data-rel="tooltip" data-placement="bottom" title="{{ .Title }}">
+					<h4 class="list-group-item-heading">
+						<span class="label label-default">{{ add $index 1 }}</span>&nbsp;&nbsp;{{ .Title }}
+					</h4>
+				</a>
+	        	{{ end }}
+	        </div>
+        </div>
+        {{ partial "search_ticket" . }}
+    </div>                
+</section>
+{{ partial "section_branch_offices" . }}
+
+{{ end }}

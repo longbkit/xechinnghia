@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+   <body style="background: #fff;">
+      	<div class="br-modal">
+        	<div id="sb-site">
+	         	<div class="br-header">
+					{{ partial "top.html" . }}
+
+					{{ partial "nav.html" . }}
+				</div>
+
+	          	{{ block "main" . }}{{ end }}
+
+	        	{{ partial "footer" . }}
+			</div>
+    	</div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

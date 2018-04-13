@@ -7,17 +7,36 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
+  - name: "home"
+    label: "Trang chủ"
+    folder: "content/index.html"
+    fields:
+    - {label: Title, name: title, widget: string}
+    - {label: Subtitle, name: subtitle, widget: string}
+    - {label: Image, name: image, widget: image}
+    - {label: "Blurb", name: blurb, widget: object, fields: [
+        {label: "Heading", name: "heading", widget: string},
+        {label: "Text", name: "text", widget: "text"}]}
+    - {label: "Intro", name: intro, widget: object, fields: [
+        {label: "Heading", name: "heading", widget: string},
+        {label: "Text", name: "text", widget: "text"}]}
+    - {label: "Products", name: products, widget: list, fields: [
+        {label: "Image", name: "image", widget: "image"},
+        {label: "Text", name: "text", widget: "text"}]}
+    - {label: "Values", name: "values", widget: "object", fields: [
+        {label: "Heading", name: "heading", widget: string},
+        {label: "Text", name: "text", widget: "text"}]}
   - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
     label: "Tin tức mới" # Used in the UI
     folder: "content/tin-tuc" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
       - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
-      - {label: "Đánh giá (thang điểm 1-5)", name: "rating", widget: "number"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
   - name: "tuyen-dung"
     label: "Tin tuyển dụng mới"

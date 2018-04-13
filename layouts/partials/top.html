@@ -1,0 +1,17 @@
+{{ if .Site.Params.topbar.enable }}
+<div id="top-nav" class="hidden-xs">
+  <div class="container">
+     <div class="col-sm-12">
+        <ul class="clearfix">
+           <li><a href="{{ .Site.BaseURL }}dich-vu/van-tai-hanh-khach"><i class="fa fa-bus" aria-hidden="true"></i> Vận tải hành khách</a></li>
+           <li><a href="{{ .Site.BaseURL }}dich-vu/van-chuyen-hang-hoa"><i class="fa fa-truck" aria-hidden="true"></i> Vận chuyển hàng hóa</a></li>
+           <li><a href="{{ .Site.BaseURL }}dich-vu/cho-thue-xe-du-lich"><i class="fa fa-taxi" aria-hidden="true"></i> Cho thuê xe du lịch</a></li>
+           <li><a href="{{ .Site.BaseURL }}dich-vu/tram-dung-chan-nha-hang"><i class="fa fa-umbrella" aria-hidden="true"></i> Trạm dừng chân, Nhà hàng</a></li>
+           <li><a href="{{ .Site.BaseURL }}dich-vu/cho-thue-ben-do"><i class="fa fa-building-o" aria-hidden="true"></i> Cho thuê bến đỗ</a></li>
+           <li><a href="{{ .Site.BaseURL }}dich-vu/van-tai-duong-thuy"><i class="fa fa-ship" aria-hidden="true"></i> Vận tải đường thủy</a></li>
+        </ul>
+     </div>
+     <div class="col-sm-0"></div>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,80 @@
+<div class="col-lg-3 col-md-3 col-sm-5 col-xs-12 col-ms-12">
+            <div class="main_primary">
+    <ul class="v-tabs clearfix" role="tablist">
+        <li role="presentation" class="active"><a href="#booking" aria-controls="home" role="tab" data-toggle="tab">Tìm chuyến</a></li>
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active primary">
+<form class="form" name="bookingPartialForm">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label for="">Chọn điểm khởi hành</label>
+                <div class="controls">
+                    <i class="fa fa-bus text-primary"></i>
+                    <select class="form-control selectpicker" name="startpoin" onchange="fill_endpoin();">
+                                                <option value="quang-ngai" selected="selected">Quảng Ngãi</option>
+                        <option value="ho-chi-minh">Hồ Chí Minh</option>
+                        <option value="ha-noi">Hà Nội</option>
+                        <option value="can-tho">Cần Thơ</option>
+                        <option value="tan-binh">Tân Bình</option>
+                        <option value="daklak">ĐăkLăk</option>
+                        <option value="binh-phuoc">Bình Phước</option>
+                        <option value="hai-phong">Hải Phòng</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label for="">Chọn điểm đến</label>
+                <div class="controls">
+                    <i class="fa fa-bus text-primary"></i>
+                    <select class="form-control selectpicker" name="endpoin" id="endpoin">
+                                                <option value="ho-chi-minh">Hồ Chí Minh</option>
+                        <option value="ha-noi">Hà Nội</option>
+                        <option value="can-tho">Cần Thơ</option>
+                        <option value="daklak">ĐăkLăk</option>
+                        <option value="binh-phuoc">Bình Phước</option>
+                        <option value="tan-binh">Tân Bình</option>
+                        <option value="hai-phong">Hải Phòng</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="form-group" style="margin-bottom: 0;">
+                <label for="">Ngày khởi hành</label>
+                <div class="controls">
+                    <i class="fa fa-calendar text-primary"></i>
+                    <input type="text" value="16/03/2018" name="date" id="datestart" class="form-control">
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label for=""></label>
+                <div class="controls">
+                    <button onclick="fill_search();" type="button" class="btn btn-primary btn-block btn-flat btn-booking"><i class="fa fa-ticket icon-flat bg-btn-actived" style="top:0"></i> Tìm vé</button>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</form>
+<a class="btn btn-success btn-block btn-booking" title="Hướng dẫn mua vé" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=huongdanmuave">Hướng dẫn mua vé</a>
+<a class="btn btn-default btn-block btn-booking" title="Qui định chung" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=quidinh">Qui định chung</a>
+<a class="btn btn-danger btn-block btn-booking" title="Các lỗi phát sinh" data-toggle="modal" data-refresh="true" data-target="#blocksearch" href="/index.php?language=vi&amp;nv=muave&amp;op=main&amp;action=cacloiphatsinh">Các lỗi phát sinh</a>
+<div class="modal fade" id="blocksearch" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-md">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+
+        </div>

@@ -1,0 +1,19 @@
+{{ with .Site.GetPage "page" "gioi-thieu/gioi-thieu-hai-au.md" }}
+
+<section class="ph2 ph6-l pt4 bg-light-gray pb4 pb5-ns">
+	<div class="dt flex flex-wrap-reverse">
+		<div class="dtc v-top w-100 w-50-l mid-gray pr5-l pr2">
+			<h1 class="f4 f3-l blue v-top ma0 dn dib-l">{{ .Title }}</h1>
+			<p class="lh-copy tj">
+				{{ .Description }}
+			</p>
+		</div>
+		<div class="dtc v-top w-100 w-50-l center">
+			<img src="{{ .Params.image }}" alt="A bright blue sky" class="w-100 db" />
+		</div>
+		<h1 class="f4 f3-l blue v-top ma0 dib dn-l mb2">Giới thiệu nhà xe Hải Âu</h1>
+	</div>
+
+</section>
+
+{{ end }}

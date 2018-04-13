@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section id="body-main">
+   <div class="container">
+      <div class="col-lg-9 col-md-9 col-sm-7 col-xs-12 col-ms-12">
+      	<div class="news_column">
+			<div class="alert alert-info clearfix" style="    margin-bottom: 0;">
+				<p class="text-justify">Tất cả xe du lịch đều đúng tiêu chuẩn: Có đầy đủ bảo hiểm cho xe và hành khách; Lái xe, phụ xe được đào tạo phục vụ chuyên nghiệp, thân thiện; Đúng giờ, chu đáo, cẩn thận.&nbsp;</p>
+			</div>
+		</div>
+		<div class="news-items row">
+			{{ range sort .Data.Pages ".Params.date"}}
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-ms-12 margintop30">
+				<div class="bggrid">
+			        <div class="news-item-l hover-effect-1">
+			            <a class="img-thumb" href="{{ .URL }}">
+			                <img src="{{ .Params.image }}" alt="Xe 45 chổ">
+			            </a>
+			        </div>
+			        <div class="col-sm-12">
+			            <a class="img-thumb" href="{{ .URL }}">
+			                <h3 class="text-uppercase text-primary">{{ upper .Title }}</h3>
+			            </a>
+			            <p class="text-justify">{{ .Description }}</p>
+			            <p class="clearfix">
+			                <a class="pull-right" href="{{ .URL }}">Xem tiếp... <i class="fa fa-angle-double-right"></i> </a>
+			            </p>
+			        </div>
+			        <div class="clearfix"></div>
+			    </div>
+			</div>
+            {{ end }}
+         </div>
+         <div class="clearfix"></div>
+         <div class="clearfix"></div>
+      </div>
+      {{ partial "search_ticket" . }}
+   </div>
+</section>
+{{ partial "section_branch_offices" . }}
+
+{{end}}

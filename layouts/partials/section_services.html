@@ -1,0 +1,12 @@
+<section class="ph2 ph6-l">
+	<h1 class="f3 f2-l tc blue">{{ .Params.values.heading }}</h1>
+	<div class="flex flex-wrap">
+		{{ range .Params.values.data }}
+		<div class="w-50 w-25-l pa3">
+			<p class="util-wifi"> </p> 
+			<h4 class="tc">{{ .title }}</h4> 
+			<p class="tc mid-gray">{{ .description }}</p>
+		</div>
+		{{ end }}
+	</div>
+</section>
