@@ -7,19 +7,22 @@ media_folder: "static/img" # Media files will be stored in the repo under static
 public_folder: "/img" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "home"
-    label: "Trang chủ"
-    file: "content/_index.md"
-    fields:
-    - {label: "Tiêu đề", name: title, widget: string}
-    - {label: "Banner", name: image, widget: image}
-    - {label: "Tuyến đường", name: "routes", widget: object, fields: [
-      {label: "Tiêu đề", name: "heading", widget: string}]}
-    - {label: "Values", name: "values", widget: "object", fields: [
-        {label: "Tiêu đề", name: "heading", widget: string},
-        {label: "Giá trị cốt lõi", name: "data", widget: "list", fields: [
-          {label: "Tên", name: "title", widget: "string"},
-          {label: "Mô tả", name: "description", widget: "text"}]}]}
+  - name: "pages"
+    label: "Trang riêng"
+    files:
+      - file: "content/_index.md"
+        name: "home"
+        label: "Trang chủ"
+        fields:
+        - {label: "Tiêu đề", name: title, widget: string}
+        - {label: "Banner", name: image, widget: image}
+        - {label: "Tuyến đường", name: "routes", widget: object, fields: [
+          {label: "Tiêu đề", name: "heading", widget: string}]}
+        - {label: "Values", name: "values", widget: "object", fields: [
+            {label: "Tiêu đề", name: "heading", widget: string},
+            {label: "Giá trị cốt lõi", name: "data", widget: "list", fields: [
+              {label: "Tên", name: "title", widget: "string"},
+              {label: "Mô tả", name: "description", widget: "text"}]}]}
   - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
     label: "Tin tức mới" # Used in the UI
     folder: "content/tin-tuc" # The path to the folder where the documents are stored
