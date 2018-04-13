@@ -1,6 +1,6 @@
 ---
 title: Xe khách Hải Âu
-image: /img/home-jumbotron.jpg
+image: /img/banner-haiau.png
 banners:
 - image: /img/banner-haiau.png
 - image: /img/banner-haiau.png

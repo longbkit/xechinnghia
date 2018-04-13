@@ -9,23 +9,17 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections:
   - name: "home"
     label: "Trang chủ"
-    folder: "content/index.html"
+    file: "content/_index.md"
     fields:
-    - {label: Title, name: title, widget: string}
-    - {label: Subtitle, name: subtitle, widget: string}
-    - {label: Image, name: image, widget: image}
-    - {label: "Blurb", name: blurb, widget: object, fields: [
-        {label: "Heading", name: "heading", widget: string},
-        {label: "Text", name: "text", widget: "text"}]}
-    - {label: "Intro", name: intro, widget: object, fields: [
-        {label: "Heading", name: "heading", widget: string},
-        {label: "Text", name: "text", widget: "text"}]}
-    - {label: "Products", name: products, widget: list, fields: [
-        {label: "Image", name: "image", widget: "image"},
-        {label: "Text", name: "text", widget: "text"}]}
+    - {label: "Tiêu đề", name: title, widget: string}
+    - {label: "Banner", name: image, widget: image}
+    - {label: "Tuyến đường", name: "routes", widget: object, fields: [
+      {label: "Tiêu đề", name: "heading", widget: string}]}
     - {label: "Values", name: "values", widget: "object", fields: [
-        {label: "Heading", name: "heading", widget: string},
-        {label: "Text", name: "text", widget: "text"}]}
+        {label: "Tiêu đề", name: "heading", widget: string},
+        {label: "Giá trị cốt lõi", name: "data", widget: "list", fields: [
+          {label: "Tên", name: "title", widget: "string"},
+          {label: "Mô tả", name: "description", widget: "text"}]}]}
   - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
     label: "Tin tức mới" # Used in the UI
     folder: "content/tin-tuc" # The path to the folder where the documents are stored
