@@ -4,11 +4,11 @@ image: /img/banner-haiau.png
 banners:
 - image: /img/banner-haiau.png
 - image: /img/banner-haiau.png
-routes:
-    heading: "Những chuyến đi phổ biến"
+headings:
+    route: "Những chuyến đi phổ biến"
+    value: "Vì sao khách hàng chọn chúng tôi?"
+    news: "Tin tức mới"
 values:
-  heading: Vì sao khách hàng chọn chúng tôi?
-  data:
   - title: Wifi miễn phí
     description: Cung cấp Wifi miễn phí tại các phòng chờ & xe Vip
   - title: Trung chuyển miễn phí

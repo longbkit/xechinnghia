@@ -1,32 +1,9 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+{{ define "main" }}
 
-  {{ partial "head.html" . }}
+<main class="cf dark-gray">
+{{ partial "section_breadcrumbs_single" . }}
+{{ partial "section_main_list" . }}
+{{ partial "section_right_news" . }}
+</main>
 
-   <body style="background: #fff;">
-        <div class="br-modal">
-            <div id="sb-site">
-                <div class="br-header">
-                    {{ partial "top.html" . }}
-
-                    {{ partial "nav.html" . }}
-                </div>
-                <section id="body-main">
-                    <div class="container">
-                        <div class="col-lg-9 col-md-9 col-sm-7 col-xs-12 col-ms-12">
-                          {{ block "main" . }}{{ end }}
-                        </div>
-                        {{ partial "search_ticket" . }}
-                    </div>                
-                </section>
-                {{ partial "section_branch_offices" . }}
-                {{ partial "footer" . }}
-            </div>
-        </div>
-    <!-- /#all -->
-
-    {{ partial "scripts.html" . }}
-
-  </body>
-</html>
-
+{{ end }}
