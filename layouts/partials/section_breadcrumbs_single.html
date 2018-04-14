@@ -1,0 +1,14 @@
+<section class="bg-light-gray pv2">
+	<div class="mw8-5 center breadcrumb">
+		<span><a href="/">Trang chủ</a></span>
+		{{ if eq .Kind "section"}}
+		> 
+		<span>Tin tức</span>
+		{{ else }} 
+		>
+		<span><a href="/tin-tuc">Tin tức</a></span> 
+		>
+		<span>{{ .Title }}</span>
+		{{ end }}
+		</div>
+</section>

@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<main class="cf dark-gray">
+
+
+	{{ partial "section_breadcrumbs_single" . }}
+	<div class="mw8-5 center darkblue">
+		<div class="fl mw7-5">
+		{{ range $index, $element := (.Paginator 4).Pages.ByPublishDate }}
+		{{ if eq $index 0 }}
+			{{ partial "news_first_article" $element }}
+		{{ else }}
+			{{ partial "news_default_article" $element }}
+		{{ end }}
+		{{ end }}
+
+		{{ partial "pagination" . }}
+		</div>
+
+		{{ partial "section_right_news" . }}
+	</div>
+</main>
+
+{{ end }}

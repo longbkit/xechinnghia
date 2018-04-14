@@ -1,0 +1,26 @@
+{{ if gt .Paginator.TotalPages 1}}
+<div class="tc mw8 center mv3 ">
+  <div class="dib overflow-hidden ba br2 b--light-silver">
+    <nav class="cf" data-name="pagination-numbers-bordered">
+      {{ if .Paginator.HasPrev}}
+      <a class="fl dib link dim black f6 f5-ns b pa3 br b--light-silver" href="{{ printf "/%s/%s/%d" .Type "page" (sub .Paginator.PageNumber 1) }}" title="Previous">← Trước</a>
+      {{ end }}
+      {{ if .Paginator.HasNext }}
+      <a class="fr dib link dim black f6 f5-ns b pa3" href="{{ printf "/%s/%s/%d" .Type "page" (add .Paginator.PageNumber 1) }}" title="Next">Sau →</a>
+      {{ end }}
+      <div class="overflow-hidden center dt tc">
+        {{ $curPage := .Paginator.PageNumber }}
+        {{ $pageType := .Type }}
+        {{ range $i, $sequence := (seq .Paginator.TotalPages)}}
+        {{ $.Scratch.Set "selected" "black" }}
+        {{ if eq $curPage $sequence }}
+        {{ $.Scratch.Set "selected" "white bg-blue" }}
+        {{ end }}
+        <a class="dtc link dim {{ $.Scratch.Get "selected" }} f6 f5-ns b pa3 br b--light-silver" href="{{ printf "/%s/%s/%d" $pageType "page" $sequence }}" title="{{ $sequence }}">{{ $sequence }}</a>
+        {{ end }}
+      </div>
+    </nav>
+  </div>
+</div>
+
+{{ end }}
