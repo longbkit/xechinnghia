@@ -1,12 +1,12 @@
 <section class="cf ph2 ph6-l">
 	<h1 class="f3 f2-l tc blue mt4">{{ .Params.headings.news }}</h1>
-
+	<div class="cf">
 	{{ $posts := .Paginate (where .Data.Pages.ByPublishDate.Reverse "Type" "tin-tuc") }}
   {{ range first 4 $posts.Pages }}
 	<div class="fl w-100 w-25-l pa2">
 		<a href="{{ .URL }}" class="db link dim tc">
 			<div class="absolute pa2 white">{{ dateFormat "02-01-2006" .PublishDate }}</div>
-			<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="w-100 db h4-5 w6 black-10"/>
+			<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="w-100 db black-10" style="min-height: 12rem;"/>
 			<dl class="mt2 f6 lh-copy">
 				<dt class="clip">Title</dt>
 				<dd class="f5 tj ml0 dark-gray">{{ .Title }}</dd>
@@ -14,5 +14,6 @@
 		</a>
 	</div>
   {{ end }}
+</div>
 
 </section>
