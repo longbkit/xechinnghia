@@ -30,13 +30,13 @@ date: 2018-03-16T04:47:10.000Z
 
 <div style="background-color: transparent; text-align: center; margin-left: 120px;"><span style="font-size:14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div>
 
-<p style="text-align:center"><img alt="" height="290" src="/pictures/picfullsizes/2018/01/03/bus%20HA(3).jpg" width="585"></p>
+<p style="text-align:center"><img alt="" height="290" src="/pictures/picfullsizes/2018/01/03/bus%20HA(3).jpg"></p>
 
 <p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;&nbsp;</span></p>
 
 <div contenteditable="false" tabindex="-1">&nbsp;</div>
 
-<p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;<img alt="" height="56" src="/pictures/picfullsizes/2018/01/06/ddt%20trung%20chuy%E1%BB%83n.png" width="181">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"> &nbsp; &nbsp; &nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(5).png" width="243"></a></span></p>
+<p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;<img alt="" height="56" src="/pictures/picfullsizes/2018/01/06/ddt%20trung%20chuy%E1%BB%83n.png" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"> &nbsp; &nbsp; &nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(5).png" ></a></span></p>
 
 <p>&nbsp;</p>
 
@@ -49,7 +49,7 @@ date: 2018-03-16T04:47:10.000Z
 <div style="text-align: justify;">
 <div style="background-color: transparent;">
 <div style="text-align: start; background-color: transparent;">
-<table style="background-color: rgb(255, 255, 255); width: 1110px; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color: rgb(255, 255, 255); color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase; text-align: center;">
@@ -95,7 +95,7 @@ date: 2018-03-16T04:47:10.000Z
 <div style="text-align: justify;">
 <div style="background-color: transparent;">
 <div style="text-align: start; background-color: transparent;">
-<table style="background-color: rgb(255, 255, 255); width: 1110px; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color: rgb(255, 255, 255); color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase; text-align: center;">
@@ -243,16 +243,16 @@ date: 2018-03-16T04:47:10.000Z
 <table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255); text-align: justify;">
 	<tbody>
 		<tr>
-			<td width="79">
+			<td>
 			<div style="background-color: transparent;">
 			<table align="left" cellpadding="0" cellspacing="0">
 				<tbody>
 					<tr>
-						<td height="7" width="46">
+						<td height="7">
 						<p style="margin-left: 80px;">&nbsp;</p>
 						</td>
-						<td width="227">
-						<div class="container" style="width: 1140px; position: relative; max-width: 100%; font-family: arial;">
+						<td">
+						<div class="container" style="position: relative; max-width: 100%; font-family: arial;">
 						<div class="ict detail">
 						
 					</div>
