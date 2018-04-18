@@ -9,6 +9,13 @@ nav li:hover>.sub-menu {
   display:block;
 }
 
+.w6 {
+  width: 20rem;
+}
+
+.h4-5 {
+  height: 12rem;
+}
 
 .main-background-color {
 	background-color: #0071b7;
