@@ -181,3 +181,30 @@
 .mw7-5 {
   max-width: 52rem;
 }
+
+
+/*
+Header - navigation
+*/
+
+#header.transparent-navbar {
+    height: 80px;
+    z-index: 1000;
+    padding: 0 0 10px;
+    margin-bottom: 0;
+    background: transparent;
+    will-change: transfo9m, opacity;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+}
+
+.h6 {
+  height: 32rem;
+}
+
+.h7 {
+  height: 48rem;
+}

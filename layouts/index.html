@@ -8,6 +8,19 @@
 {{ partial "section_intro" . }}
 
 {{ partial "section_home_news" . }}
+
+
+<script type="text/javascript" src="/js/moment.js"></script>
+<script type="text/javascript" src="/js/pikaday.js"></script>
+
+<script>
+	var datePicker = new Pikaday({
+		field: document.getElementById('departDate'),
+		format: 'DD-MM-YYYY'
+	});
+	datePicker.setDate(new Date());
+</script>
+
 </main>
 
 {{ end }}

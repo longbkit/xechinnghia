@@ -6,7 +6,7 @@
 	{{ partial "section_breadcrumbs_single" . }}
 	<div class="mw8-5 center darkblue">
 		<div class="fl mw7-5">
-		{{ range $index, $element := (.Paginator 4).Pages.ByPublishDate }}
+		{{ range $index, $element := (.Paginate .Data.Pages.ByPublishDate.Reverse).Pages }}
 		{{ if eq $index 0 }}
 			{{ partial "news_first_article" $element }}
 		{{ else }}

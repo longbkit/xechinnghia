@@ -47,25 +47,25 @@ collections:
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "trang-rieng"
-    label: "Trang riêng mới"
-    folder: "content/trang-rieng"
+  - name: "pages"
+    label: "Trang riêng"
+    folder: "content/pages"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
+      - {label: "Layout", name: "layout", widget: "string", default: "tin-tuc"}
+      - {label: "Link", name: "url", widget: "string", default: "tin-tuc"}
       - {label: "Tiêu đề", name: "title", widget: "string"}
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
-      - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "tuyen-dung"
-    label: "Tin tuyển dụng mới"
-    folder: "content/tuyen-dung"
+  - name: "routes"
+    label: "Tuyến đường"
+    folder: "content/tuyen-duong"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "tuyen-dung"}
       - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Thứ tự", name: "weight", widget: "string"}
+      - {label: "Link", name: "url", widget: "string"}
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
-      - {label: "Hình ảnh", name: "image", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}

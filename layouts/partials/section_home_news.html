@@ -1,44 +1,18 @@
 <section class="cf ph2 ph6-l">
 	<h1 class="f3 f2-l tc blue mt4">{{ .Params.headings.news }}</h1>
 
+	{{ $posts := .Paginate (where .Data.Pages.ByPublishDate.Reverse "Type" "tin-tuc") }}
+  {{ range first 4 $posts.Pages }}
 	<div class="fl w-100 w-25-l pa2">
-		<a href="https://geo.itunes.apple.com/us/album/the-life-of-pablo/id1123231885?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-			<div class="absolute pa2 white">04.04.2018</div>
-			<img src="/img/travel-by-bus.jpg" alt="The Life of Pablo - Album Cover" class="w-100 db  black-10"/>
+		<a href="{{ .URL }}" class="db link dim tc">
+			<div class="absolute pa2 white">{{ dateFormat "02-01-2006" .PublishDate }}</div>
+			<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="w-100 db  black-10"/>
 			<dl class="mt2 f6 lh-copy">
 				<dt class="clip">Title</dt>
-				<dd class="f5 tj ml0 dark-gray">Vé xe đi Cát Bà xe khách Cát Bà Express giảm giá hấp dẫn chỉ trong 5 ngày.</dd>
+				<dd class="f5 tj ml0 dark-gray">{{ .Title }}</dd>
 			</dl>
 		</a>
 	</div>
-	<div class="fl w-100 w-25-l pa2">
-		<a href="https://geo.itunes.apple.com/us/album/the-life-of-pablo/id1123231885?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-			<div class="absolute pa2 white">04.04.2018</div>
-			<img src="/img/travel-by-bus.jpg" alt="The Life of Pablo - Album Cover" class="w-100 db  black-10"/>
-			<dl class="mt2 f6 lh-copy">
-				<dt class="clip">Title</dt>
-				<dd class="f5 tj ml0 dark-gray">Vé xe đi Cát Bà xe khách Cát Bà Express giảm giá hấp dẫn chỉ trong 5 ngày.</dd>
-			</dl>
-		</a>
-	</div>
-	<div class="fl w-100 w-25-l pa2">
-		<a href="https://geo.itunes.apple.com/us/album/the-life-of-pablo/id1123231885?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-			<div class="absolute pa2 white">04.04.2018</div>
-			<img src="/img/travel-by-bus.jpg" alt="The Life of Pablo - Album Cover" class="w-100 db  black-10"/>
-			<dl class="mt2 f6 lh-copy">
-				<dt class="clip">Title</dt>
-				<dd class="f5 tj ml0 dark-gray">Vé xe đi Cát Bà xe khách Cát Bà Express giảm giá hấp dẫn chỉ trong 5 ngày.</dd>
-			</dl>
-		</a>
-	</div>
-	<div class="fl w-100 w-25-l pa2">
-		<a href="https://geo.itunes.apple.com/us/album/the-life-of-pablo/id1123231885?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-			<div class="absolute pa2 white">04.04.2018</div>
-			<img src="/img/travel-by-bus.jpg" alt="The Life of Pablo - Album Cover" class="w-100 db  black-10"/>
-			<dl class="mt2 f6 lh-copy">
-				<dt class="clip">Title</dt>
-				<dd class="f5 tj ml0 dark-gray">Vé xe đi Cát Bà xe khách Cát Bà Express giảm giá hấp dẫn chỉ trong 5 ngày.</dd>
-			</dl>
-		</a>
-	</div>
+  {{ end }}
+
 </section>
