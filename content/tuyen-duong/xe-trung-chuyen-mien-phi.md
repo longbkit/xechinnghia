@@ -254,24 +254,7 @@ date: 2018-03-16T04:47:10.000Z
 						<td width="227">
 						<div class="container" style="width: 1140px; position: relative; max-width: 100%; font-family: arial;">
 						<div class="ict detail">
-						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;">
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); text-align: start;">&nbsp;</p>
-
-```
-					<div style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); background-color: transparent;">
-					<div style="outline: 0px; font-size: 16px; font-family: arial; line-height: 26px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
-					<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><span style="font-weight: 700;">XE KHÁCH HẢI ÂU</span></span></p>
-
-					<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:</span></span></p>
-
-					<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: 700;">02253. 717 717</span></span></span></span></p>
-
-					<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook.png" width="243"></a></span></p>
-					</div>
-					</div>
-					</div>
-
-					<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;"><span style="font-size:14px;"><span style="color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></div>
+						
 					</div>
 					</div>
 					</td>
@@ -282,8 +265,7 @@ date: 2018-03-16T04:47:10.000Z
 		</td>
 	</tr>
 </tbody>
-```
 
 </table>
 
-\    </div>
+</div>
