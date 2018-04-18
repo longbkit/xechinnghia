@@ -6,7 +6,7 @@ description: Xe trung chuyển miễn phí
 date: 2018-03-16T04:47:10.000Z
 ---
 <div class="description">
-                    	   <h3 class="catItemTitle" style="font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-size:14px;"><b>DỊCH VỤ XE TRUNG CHUYỂN&nbsp;</b></span></h3>
+                    	   <h3 class="catItemTitle" style="line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-size:14px;"><b>DỊCH VỤ XE TRUNG CHUYỂN&nbsp;</b></span></h3>
 
 <p style="text-align: center;"><span style="font-size:14px;">Dịch vụ miễn phí dành cho khách hàng của Hải Âu</span></p>
 
@@ -15,7 +15,7 @@ date: 2018-03-16T04:47:10.000Z
 <div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
 <div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
 <div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="font-size:14px;"><span style="outline: 0px; font-family: Arial; line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">Dịch vụ xe trung chuyển của xe khách Hải Âu</span><span style="color: rgb(0, 137, 207); font-family: Arial; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;là&nbsp;hoạt động vận tải hành khách theo tuyến cố định để đón hành khách đến bến xe, điểm đón, trả khách nhằm đảm bảo sự thuận tiện - sức khỏe - an toàn - tiết kiệm thời gian cho khách hàng.</span></span></p>
+<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="font-size:14px;"><span style="outline: 0px; line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">Dịch vụ xe trung chuyển của xe khách Hải Âu</span><span style="color: rgb(0, 137, 207); font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;là&nbsp;hoạt động vận tải hành khách theo tuyến cố định để đón hành khách đến bến xe, điểm đón, trả khách nhằm đảm bảo sự thuận tiện - sức khỏe - an toàn - tiết kiệm thời gian cho khách hàng.</span></span></p>
 </div>
 </div>
 </div>
@@ -42,14 +42,14 @@ date: 2018-03-16T04:47:10.000Z
 
 <p>&nbsp;</p>
 
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-weight: bolder;">LỊCH TRÌNH XE CHẠY&nbsp;&nbsp;</span><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; text-align: start;">​</span></span></div>
+<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-weight: bolder;">LỊCH TRÌNH XE CHẠY&nbsp;&nbsp;</span><span style=" text-align: start;">​</span></span></div>
 
 <p style="text-align: justify;"><span style="font-size:14px;"><span style="color: rgb(0, 137, 207); text-align: center;">&nbsp;&nbsp;</span><span style="background-color: transparent; color: rgb(0, 137, 207); text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-align: start;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-align: start; background-color: transparent; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
 
 <div style="text-align: justify;">
 <div style="background-color: transparent;">
 <div style="text-align: start; background-color: transparent;">
-<table style="background-color: rgb(255, 255, 255); color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color: rgb(255, 255, 255); color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase; text-align: center;">
@@ -85,7 +85,7 @@ date: 2018-03-16T04:47:10.000Z
 
 <p>&nbsp;</p>
 
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-weight: bolder;">ĐIỂM ĐÓN KHÁCH&nbsp;</span><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; text-align: start;">​</span></span></div>
+<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-weight: bolder;">ĐIỂM ĐÓN KHÁCH&nbsp;</span><span style=" text-align: start;">​</span></span></div>
 
 <p style="text-align: center;"><span style="font-size:14px;"><span style="text-align: start; background-color: transparent; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
 
@@ -95,7 +95,7 @@ date: 2018-03-16T04:47:10.000Z
 <div style="text-align: justify;">
 <div style="background-color: transparent;">
 <div style="text-align: start; background-color: transparent;">
-<table style="background-color: rgb(255, 255, 255); color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color: rgb(255, 255, 255); color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase; text-align: center;">
@@ -171,29 +171,29 @@ date: 2018-03-16T04:47:10.000Z
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;">Phà Rừng</span></td>
 		</tr>
 		<tr>
-			<td rowspan="8" style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Thượng Lý - Bến xe phía Bắc</span></span></td>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">BX Thượng Lý</span></span></td>
+			<td rowspan="8" style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Thượng Lý - Bến xe phía Bắc</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">BX Thượng Lý</span></span></td>
 		</tr>
 		<tr>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Cầu Bính</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Cầu Bính</span></span></td>
 		</tr>
 		<tr>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Khu công nghiệp VSIP</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Khu công nghiệp VSIP</span></span></td>
 		</tr>
 		<tr>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Núi Đèo</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Núi Đèo</span></span></td>
 		</tr>
 		<tr>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Bệnh viện Thủy Nguyên</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Bệnh viện Thủy Nguyên</span></span></td>
 		</tr>
 		<tr>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Ngã 4 Thủy Sơn</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Ngã 4 Thủy Sơn</span></span></td>
 		</tr>
 		<tr>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Đường 10</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Đường 10</span></span></td>
 		</tr>
 		<tr>
-			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); font-family: arial; text-align: center;">Bến xe phía Bắc</span></span></td>
+			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); text-align: center;">Bến xe phía Bắc</span></span></td>
 		</tr>
 		<tr>
 			<td rowspan="10" style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;">Cầu Rào - Thượng Lý</span></td>
@@ -252,7 +252,7 @@ date: 2018-03-16T04:47:10.000Z
 						<p style="margin-left: 80px;">&nbsp;</p>
 						</td>
 						<td">
-						<div class="container" style="position: relative; max-width: 100%; font-family: arial;">
+						<div class="container" style="position: relative; max-width: 100%; ">
 						<div class="ict detail">
 						
 					</div>
