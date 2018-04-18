@@ -1,3 +1,3 @@
-+++
-title = "Giới thiệu xe Hải Âu"
-+++
+---
+title: "Tin tức"
+---
