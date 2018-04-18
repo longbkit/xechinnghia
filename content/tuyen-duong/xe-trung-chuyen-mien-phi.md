@@ -1,11 +1,9 @@
 ---
-title: "Xe trung chuyển miễn phí"
-weight:  8
-date: 2018-03-16T11:47:10+07:00
+title: Xe trung chuyển miễn phí
+weight: 8
 url: /xe-trung-chuyen-mien-phi/
-description: ""
-thumbnail: /img/driver.png
-image: /img/driver.png
+description: Xe trung chuyển miễn phí
+date: 2018-03-16T04:47:10.000Z
 ---
 <div class="description">
                     	   <h3 class="catItemTitle" style="font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-size:14px;"><b>DỊCH VỤ XE TRUNG CHUYỂN&nbsp;</b></span></h3>
@@ -32,13 +30,13 @@ image: /img/driver.png
 
 <div style="background-color: transparent; text-align: center; margin-left: 120px;"><span style="font-size:14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div>
 
-<p style="text-align:center"><img alt="" height="290" src="/pictures/picfullsizes/2018/01/03/bus%20HA(3).jpg" width="585"></p>
+<p style="text-align:center"><img alt="" height="290" src="/pictures/picfullsizes/2018/01/03/bus%20HA(3).jpg" ></p>
 
 <p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;&nbsp;</span></p>
 
 <div contenteditable="false" tabindex="-1">&nbsp;</div>
 
-<p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;<img alt="" height="56" src="/pictures/picfullsizes/2018/01/06/ddt%20trung%20chuy%E1%BB%83n.png" width="181">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"> &nbsp; &nbsp; &nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(5).png" width="243"></a></span></p>
+<p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;<img alt="" height="56" src="/pictures/picfullsizes/2018/01/06/ddt%20trung%20chuy%E1%BB%83n.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"> &nbsp; &nbsp; &nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(5).png" ></a></span></p>
 
 <p>&nbsp;</p>
 
@@ -51,7 +49,7 @@ image: /img/driver.png
 <div style="text-align: justify;">
 <div style="background-color: transparent;">
 <div style="text-align: start; background-color: transparent;">
-<table style="background-color: rgb(255, 255, 255); width: 1110px; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color: rgb(255, 255, 255); ; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase; text-align: center;">
@@ -97,7 +95,7 @@ image: /img/driver.png
 <div style="text-align: justify;">
 <div style="background-color: transparent;">
 <div style="text-align: start; background-color: transparent;">
-<table style="background-color: rgb(255, 255, 255); width: 1110px; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color: rgb(255, 255, 255); color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase; text-align: center;">
@@ -245,50 +243,26 @@ image: /img/driver.png
 <table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255); text-align: justify;">
 	<tbody>
 		<tr>
-			<td width="79">
+			<td >
 			<div style="background-color: transparent;">
 			<table align="left" cellpadding="0" cellspacing="0">
 				<tbody>
 					<tr>
-						<td height="7" width="46">
+						<td height="7" >
 						<p style="margin-left: 80px;">&nbsp;</p>
 						</td>
-						<td width="227">
-						<div class="container" style="width: 1140px; position: relative; max-width: 100%; font-family: arial;">
+						<td >
+						<div class="container" style="position: relative; max-width: 100%; font-family: arial;">
 						<div class="ict detail">
 						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;">
 						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); text-align: start;">&nbsp;</p>
 
-						<div style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); background-color: transparent;">
-						<div style="outline: 0px; font-size: 16px; font-family: arial; line-height: 26px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><span style="font-weight: 700;">XE KHÁCH HẢI ÂU</span></span></p>
-
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:</span></span></p>
-
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: 700;">02253. 717 717</span></span></span></span></p>
-
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:14px;"><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook.png" width="243"></a></span></p>
-						</div>
-						</div>
-						</div>
-
-						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;"><span style="font-size:14px;"><span style="color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></div>
-						</div>
-						</div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</div>
-			</td>
-		</tr>
-	</tbody>
 </table>
 
 <table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255); text-align: justify;">
 	<tbody>
 		<tr>
-			<td width="79">&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
