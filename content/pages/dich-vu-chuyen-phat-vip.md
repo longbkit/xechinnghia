@@ -30,25 +30,25 @@ image: /img/driver.png
 
 <div style="background-color: transparent; text-align: center;">&nbsp;</div>
 
-<div style="background-color: transparent; text-align: center;"><img alt="" height="375" src="/pictures/picfullsizes/2018/01/04/HA%20express.jpg" width="500">&nbsp; &nbsp;&nbsp;<img alt="" height="248" src="/pictures/picfullsizes/2018/01/04/HA%20express%202.jpg" width="350"><img alt="" height="221" src="/pictures/picfullsizes/2018/01/04/HA%20express%201.png" width="350">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div style="background-color: transparent; text-align: center;"><img alt="" height="375" src="/pictures/picfullsizes/2018/01/04/HA%20express.jpg">&nbsp; &nbsp;&nbsp;<img alt="" height="248" src="/pictures/picfullsizes/2018/01/04/HA%20express%202.jpg"><img alt="" height="221" src="/pictures/picfullsizes/2018/01/04/HA%20express%201.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 
 <div style="background-color: transparent; text-align: center;">&nbsp;</div>
 
 <div style="background-color: transparent; text-align: justify;">&nbsp;
-<p><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="52" src="/pictures/picfullsizes/2018/01/04/%C4%91t%20chuy%E1%BB%83n%20ph%C3%A1t(2).png" width="193">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/04/facebook(3).png" width="243"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p>
+<p><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="52" src="/pictures/picfullsizes/2018/01/04/%C4%91t%20chuy%E1%BB%83n%20ph%C3%A1t(2).png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/04/facebook(3).png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p>
 
 <p><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; </span></p>
 
 <div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:20px;"><span style="font-weight: bolder;">BẢNG GIÁ</span></span></span></div>
 
-<p><img alt="" height="50" src="/pictures/picfullsizes/2018/01/06/h%C3%A0nh%20l%C3%BD.png" width="118"></p>
+<p><img alt="" height="50" src="/pictures/picfullsizes/2018/01/06/h%C3%A0nh%20l%C3%BD.png"></p>
 
 <p style="margin-left: 360px; text-align: justify;">&nbsp;</p>
 
 <table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 130px;">Tên hàng</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Tên hàng</th>
 			<th style="border: 1px solid rgb(221, 221, 221);">
 			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Kích cỡ</p>
 			</th>
@@ -108,14 +108,14 @@ image: /img/driver.png
 
 <p>&nbsp;</p>
 
-<p><img alt="" height="54" src="/pictures/picfullsizes/2018/01/06/h%C3%A0ng%20h%C3%B3a.png" width="145"></p>
+<p><img alt="" height="54" src="/pictures/picfullsizes/2018/01/06/h%C3%A0ng%20h%C3%B3a.png"></p>
 
 <p style="margin-left: 360px; text-align: justify;">&nbsp;</p>
 
 <table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 130px;">Tên hàng</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Tên hàng</th>
 			<th style="border: 1px solid rgb(221, 221, 221);">
 			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Kích cỡ</p>
 			</th>
@@ -230,7 +230,7 @@ image: /img/driver.png
 
 <p style="text-align: justify;">&nbsp;</p>
 
-<p style="text-align: justify;"><img alt="" height="62" src="/pictures/picfullsizes/2018/01/04/icon1.png" width="296"><span style="color:#0089cf;"><span style="font-size:16px;"><strong>&nbsp;<img alt="" height="54" src="/pictures/picfullsizes/2018/01/04/%C4%90%E1%BA%B6T%20V%C3%89(3).png" width="180"></strong></span></span></p>
+<p style="text-align: justify;"><img alt="" height="62" src="/pictures/picfullsizes/2018/01/04/icon1.png" ><span style="color:#0089cf;"><span style="font-size:16px;"><strong>&nbsp;<img alt="" height="54" src="/pictures/picfullsizes/2018/01/04/%C4%90%E1%BA%B6T%20V%C3%89(3).png"></strong></span></span></p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
@@ -239,7 +239,7 @@ image: /img/driver.png
 <table style="background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 130px;">Văn phòng</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Văn phòng</th>
 			<th style="border: 1px solid rgb(221, 221, 221);">
 			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Điện thoại liên lạc</p>
 			</th>
@@ -278,7 +278,7 @@ image: /img/driver.png
 <table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 130px;">Văn phòng</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Văn phòng</th>
 			<th style="border: 1px solid rgb(221, 221, 221);">
 			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Điện thoại liên lạc</p>
 			</th>
@@ -318,7 +318,7 @@ image: /img/driver.png
 </div>
 </div>
 
-<p style="text-align: justify;"><img alt="" height="76" src="/pictures/picfullsizes/2018/01/04/icon%202.png" width="291"><span style="font-weight: 700; color: rgb(0, 137, 207); font-size: 16px; text-align: justify;">&nbsp;&nbsp;<img alt="" height="54" src="/pictures/picfullsizes/2018/01/04/%C4%90%E1%BA%B6T%20V%C3%89(1).png" width="180"></span><span style="background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent; text-indent: -0.25in; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp;</span></p>
+<p style="text-align: justify;"><img alt="" height="76" src="/pictures/picfullsizes/2018/01/04/icon%202.png" ><span style="font-weight: 700; color: rgb(0, 137, 207); font-size: 16px; text-align: justify;">&nbsp;&nbsp;<img alt="" height="54" src="/pictures/picfullsizes/2018/01/04/%C4%90%E1%BA%B6T%20V%C3%89(1).png"></span><span style="background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent; text-indent: -0.25in; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp;</span></p>
 
 <p style="text-align: justify;"><span style="background-color: transparent; text-indent: -0.25in; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
 
@@ -327,7 +327,7 @@ image: /img/driver.png
 <table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 130px;">Văn phòng</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Văn phòng</th>
 			<th style="border: 1px solid rgb(221, 221, 221);">
 			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Điện thoại liên lạc</p>
 			</th>
@@ -355,18 +355,18 @@ image: /img/driver.png
 
 <p style="text-align: justify;"><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</p>
 
-<p style="margin-left: 80px;"><img alt="" height="793" src="/pictures/picfullsizes/2018/01/04/v%C3%AC%20sao%20b%E1%BA%A1n%20n%C3%AAn%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20chuy%E1%BB%83n%20ph%C3%A1t%20VIP%20h%E1%BA%A3i%20%C3%A2u.png" width="750"><span style="background-color: transparent; color: rgb(0, 137, 207); font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 16px; color: rgb(0, 137, 207); font-weight: 700; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+<p style="margin-left: 80px;"><img alt="" height="793" src="/pictures/picfullsizes/2018/01/04/v%C3%AC%20sao%20b%E1%BA%A1n%20n%C3%AAn%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20chuy%E1%BB%83n%20ph%C3%A1t%20VIP%20h%E1%BA%A3i%20%C3%A2u.png" ><span style="background-color: transparent; color: rgb(0, 137, 207); font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 16px; color: rgb(0, 137, 207); font-weight: 700; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
 
 <table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255); text-align: justify;">
 	<tbody>
 		<tr>
-			<td height="7" width="46">
+			<td height="7">
 			<p style="margin-left: 40px;">&nbsp;</p>
 			</td>
-			<td width="13">
+			<td>
 			<p style="margin-left: 40px;">&nbsp;</p>
 			</td>
-			<td width="79">
+			<td>
 			<p style="margin-left: 200px; text-align: start;">&nbsp;</p>
 			</td>
 		</tr>
@@ -377,8 +377,8 @@ image: /img/driver.png
 <table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255); text-align: justify;">
     <tbody>
         <tr>
-            <td width="227">
-            <div class="container" style="width: 1140px; position: relative; max-width: 100%; font-family: arial;">
+            <td>
+            <div class="container" style=" position: relative; max-width: 100%; font-family: arial;">
             <div class="ict detail">
             <div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;">
             <div style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); background-color: transparent;">
@@ -389,7 +389,7 @@ image: /img/driver.png
 
             <p style="margin-bottom: 0px; margin-left: 40px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size: 18px;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: 700;">02253. 711&nbsp;711&nbsp;</span></span></span></p>
 
-            <p style="margin-bottom: 0px; margin-left: 40px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="61" src="/pictures/picfullsizes/2018/01/03/facebook.png" width="243"></span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+            <p style="margin-bottom: 0px; margin-left: 40px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="61" src="/pictures/picfullsizes/2018/01/03/facebook.png"></span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
             </div>
             </div>
             </div>
