@@ -8,7 +8,7 @@ thumbnail: /img/driver.png
 image: /img/driver.png
 ---
 <div class="description">
-                    	   <h3 class="catItemTitle" style="font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-weight: 700;">XE ĐƯỜNG 5A:&nbsp;HẢI PHÒNG - HẢI DƯƠNG&nbsp;- HÀ NỘI</span></h3>
+                    	   <h3 class="catItemTitle" style="line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-weight: 700;">XE ĐƯỜNG 5A:&nbsp;HẢI PHÒNG - HẢI DƯƠNG&nbsp;- HÀ NỘI</span></h3>
 
 <div id="itemListLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
 <div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
@@ -17,7 +17,7 @@ image: /img/driver.png
 <div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 <p style="text-align: center;"><em><span style="color: rgb(0, 0, 0);">Đúng giờ - Thuận tiện - Nhanh chóng</span></em></p>
 
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">Xe đường 5A: Hải Phòng&nbsp;- Hải Dương&nbsp;- Hà Nội</span><span style="color: rgb(35, 31, 32); font-family: Arial; font-size: 14px;">&nbsp;</span><span style="color: rgb(0, 137, 207); font-family: Arial; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">là tuyến xe chạy&nbsp;trên đường&nbsp;5 cũ từ Hải Phòng (bến xe Cầu Rào, Niệm Nghĩa, Thượng Lý, Kiến Thụy) đến Hà Nội&nbsp;(bến xe Gia Lâm) của xe khách Hải Âu với tần suất 15 - 20 phút/chuyến.</span></p>
+<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px;line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">Xe đường 5A: Hải Phòng&nbsp;- Hải Dương&nbsp;- Hà Nội</span><span style="color: rgb(35, 31, 32);font-size: 14px;">&nbsp;</span><span style="color: rgb(0, 137, 207);font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">là tuyến xe chạy&nbsp;trên đường&nbsp;5 cũ từ Hải Phòng (bến xe Cầu Rào, Niệm Nghĩa, Thượng Lý, Kiến Thụy) đến Hà Nội&nbsp;(bến xe Gia Lâm) của xe khách Hải Âu với tần suất 15 - 20 phút/chuyến.</span></p>
 </div>
 </div>
 </div>
@@ -30,26 +30,26 @@ image: /img/driver.png
 
 <div style="background-color: transparent; text-align: center;">&nbsp;</div>
 
-<div style="background-color: transparent; text-align: center; margin-left: 120px;"><img alt="" height="317" src="/pictures/picfullsizes/2018/01/16/HP-HN.jpg" width="448">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
+<div style="background-color: transparent; text-align: center; margin-left: 120px;"><img alt="" height="317" src="/pictures/picfullsizes/2018/01/16/HP-HN.jpg">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
 
 <p style="margin-left: 120px;">&nbsp;</p>
 
-<p style="margin-left: 120px;">&nbsp;<img alt="" height="62" src="/pictures/picfullsizes/2018/01/03/%C4%91i%E1%BB%87n%20tho%E1%BA%A1i(3).png" width="187">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/xekhachviphaiau/">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(5).png" width="243"></a></p>
+<p style="margin-left: 120px;">&nbsp;<img alt="" height="62" src="/pictures/picfullsizes/2018/01/03/%C4%91i%E1%BB%87n%20tho%E1%BA%A1i(3).png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/xekhachviphaiau/">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(5).png"></a></p>
 
 <p style="margin-left: 240px; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 <div>
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></div>
+<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></div>
 
 <div style="background-color: transparent; text-align: center;">&nbsp;</div>
 
 <div style="background-color: transparent; text-align: center;">
 <div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hải Phòng&nbsp;- Hải Dương- Hà Nội</span></span></span></div>
 
-<table style="background-color: rgb(255, 255, 255); text-align: start; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 1200px;">
+<table style="background-color: rgb(255, 255, 255); text-align: start; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">Bến xe</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Bến xe</th>
 			<th style="border: 1px solid rgb(221, 221, 221);">
 			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Giờ&nbsp;xe chạy</p>
 			</th>
@@ -130,10 +130,10 @@ image: /img/driver.png
 
 <div style="background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hà Nội&nbsp;- Hải Dương- Hải Phòng</span></span></span></div>
 
-<table style="background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 1200px;">
+<table style="background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">Bến xe</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Bến xe</th>
 			<th style="border: 1px solid rgb(221, 221, 221);">
 			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Giờ&nbsp;xe chạy</p>
 			</th>
@@ -194,13 +194,13 @@ image: /img/driver.png
 <div style="background-color: transparent;">
 <div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span>
 
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">BẢNG GIÁ&nbsp;</span></div>
+<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">BẢNG GIÁ&nbsp;</span></div>
 
 <div style="background-color: transparent; text-align: justify;">
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px 15px 320px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIÁ VÉ SUỐT: 75.000 đồng/1 vé/1 lượt</span></div>
+<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px 15px 320px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIÁ VÉ SUỐT: 75.000 đồng/1 vé/1 lượt</span></div>
 </div>
 
-<table style="background-color: rgb(255, 255, 255); width: 1110px; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color: rgb(255, 255, 255);color: rgb(41, 43, 44);border: 4px solid rgb(236, 236, 236);">
 	<tbody>
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 			<td style="padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase; text-align: center;"><span style="font-size: 16px;">&nbsp;VÉ CHẶNG</span></td>
@@ -254,9 +254,9 @@ image: /img/driver.png
 <table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255);">
 	<tbody>
 		<tr>
-			<td height="7" width="46">&nbsp;</td>
-			<td width="13">&nbsp;</td>
-			<td width="79">
+			<td height="7" >&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>
 			<p style="margin-left: 160px; text-align: start;">&nbsp;</p>
 
 			<p style="text-align: start;">&nbsp;</p>
@@ -265,31 +265,31 @@ image: /img/driver.png
 			<table align="left" cellpadding="0" cellspacing="0">
 				<tbody>
 					<tr>
-						<td height="7" width="46">
+						<td height="7" >
 						<p style="margin-left: 80px;">&nbsp;</p>
 						</td>
-						<td width="227">
-						<div class="container" style="width: 1140px; position: relative; max-width: 100%; font-family: arial;">
+						<td>
+						<div class="container" style="position: relative; max-width: 100%; ">
 						<div class="ict detail">
 						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;">
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); text-align: start;">&nbsp;</p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px;line-height: 26px; color: rgb(35, 31, 32); text-align: start;">&nbsp;</p>
 
-						<div style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); background-color: transparent;">
-						<div style="outline: 0px; font-size: 16px; font-family: arial; line-height: 26px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-weight: 700;">XE KHÁCH HẢI ÂU</span></p>
+						<div style="outline: 0px; font-size: 14px;line-height: 26px; color: rgb(35, 31, 32); background-color: transparent;">
+						<div style="outline: 0px; font-size: 16px;line-height: 26px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px;line-height: 26px;"><span style="font-weight: 700;">XE KHÁCH HẢI ÂU</span></p>
 
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:</span></p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px;line-height: 26px;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:</span></p>
 
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size:18px;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: 700;">02253. 717 717&nbsp;</span></span></span></p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px;line-height: 26px;"><span style="font-size:18px;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: 700;">02253. 717 717&nbsp;</span></span></span></p>
 
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(1).png" width="243"></a></p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px;line-height: 26px;"><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook(1).png"></a></p>
 
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;">&nbsp;</p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px;line-height: 26px;">&nbsp;</p>
 						</div>
 						</div>
 						</div>
 
-						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span></div>
+						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;"><span style="color: rgb(0, 137, 207);font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span></div>
 						</div>
 						</div>
 						</td>
