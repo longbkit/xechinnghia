@@ -5,6 +5,11 @@
     margin-bottom: -4px;
 }
 
+nav li:hover>.sub-menu {
+  display:block;
+}
+
+
 .main-background-color {
 	background-color: #0071b7;
 }

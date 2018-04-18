@@ -1,7 +1,8 @@
-<div class="fr" style="width: 320px; ">
+<div class="fr pl4-l dn db-l" style="width: 320px; ">
   <h2 class="sans-serif ph3 ph0-l">Tin tức mới</h2>
 
   {{ range first 4 (where .Site.Pages.ByPublishDate.Reverse "Type" "tin-tuc") }}
+  {{ if .Description }}
   <article class="pv2 bt bb b--black-10 ph3 ph0-l">
     <div class="flex flex-column flex-row-ns">
       <div class="w-100 w-60-ns pr3-ns order-2 order-2-ns">
@@ -13,6 +14,7 @@
     </div>
     <time class="f6 db gray">{{ dateFormat "02-01-2006" .Date }}</time>
   </article>
+  {{ end }}
   {{ end }}
   			
 </div>
