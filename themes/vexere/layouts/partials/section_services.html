@@ -1,0 +1,20 @@
+<section class="cf ph2 ph6-l mb4">
+	{{ with .Site.GetPage "section" "dich-vu" }}
+	<p class="f4 f4-l tc blue mt4">{{ .Title }}</p>
+	{{ end }}
+	<div class="cf">
+	{{ $posts := (where .Data.Pages "Type" "dich-vu") }}
+  {{ range first 3 $posts }}
+	<div class="dtc-l fl w-100 w-33-l pa2">
+		<div class="ba br1 dark-gray b--black-10">
+			<a href="{{ .URL }}" class="db link dim tc">
+				<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="w-100 h5 db black-10" style="min-height: 12rem;"/>
+				<p class="f5 tc ml0 color truncate">{{ .Title }}</p>
+				<p class="f7 tj color ph3 ">{{ .Description }}</p>
+			</a>
+		</div>
+	</div>
+  {{ end }}
+</div>
+
+</section>

@@ -1,43 +1,11 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+{{ define "main" }}
 
-  {{ partial "head.html" . }}
+<main class="cf dark-gray">
+    {{ partial "section_breadcrumbs_single" . }}
+    <div class="mw8-5 center darkblue">
+        {{ partial "section_main_single" . }}
+        {{ partial "section_right_news" . }}
+    </div>
+</main>
 
-   <body style="background: #fff;">
-        <div class="br-modal">
-            <div id="sb-site">
-                <div class="br-header">
-                    {{ partial "top.html" . }}
-
-                    {{ partial "nav.html" . }}
-                </div>
-                <section id="body-main">
-                    <div class="container">
-                        <div class="col-lg-9 col-md-9 col-sm-7 col-xs-12 col-ms-12">
-                            <div class="news_column">
-                                <div>
-                                    <h1 class="title margin-bottom-lg">{{ .Title }}</h1>
-                                    <div class="row margin-bottom-lg"></div>
-                                    <div id="news-bodyhtml" class="bodytext margin-bottom-lg">
-                                        {{ .Content }}
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="clearfix"></div>
-                            <div class="clearfix"></div>
-                        </div>
-                        {{ partial "search_ticket" . }}
-                    </div>                
-                </section>
-                {{ partial "section_branch_offices" . }}
-                {{ partial "footer" . }}
-            </div>
-        </div>
-    <!-- /#all -->
-
-    {{ partial "scripts.html" . }}
-
-  </body>
-</html>
-
+{{ end }}

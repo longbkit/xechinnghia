@@ -1,0 +1,226 @@
+.main-background {
+	background-image: url(/img/banner-haiau.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: -4px;
+}
+
+nav li:hover>.sub-menu {
+  display:block;
+}
+
+@media (--breakpoint-large) {
+
+  .w6-l {
+    width: 20rem;
+  }
+
+  .h4-5-l {
+    height: 12rem;
+  }
+
+}
+
+.bg-color {
+	background-color: #0071b7;
+}
+
+.color {
+	color: #d5ffff;
+}
+
+.popupCloseBtn:before, .popupCloseBtn:after {
+  content: '';
+  position: absolute;
+  background: #2C3E50;
+  border-radius: 1px;
+  left: 14px;
+  right: 14px;
+  top: 24px;
+  height: 3px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  -webkit-transition: background .1s;
+  transition: background .1s;
+}
+
+.popupCloseBtn:after {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+.popupCloseBtn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 51px;
+  height: 51px;
+  font-size: 0;
+  cursor: pointer;
+}
+
+.popup {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  right: 10px;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-pack: end;
+  -webkit-box-pack: end;
+          justify-content: flex-end;
+  pointer-events: none;
+  -webkit-perspective: 2000px;
+          perspective: 2000px;
+}
+
+.popupContainer {
+  -webkit-box-shadow: 0 50px 100px rgba(50, 50, 93, 0.1), 0 15px 35px rgba(50, 50, 93, 0.15), 0 5px 15px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 50px 100px rgba(50, 50, 93, 0.1), 0 15px 35px rgba(50, 50, 93, 0.15), 0 5px 15px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  position: relative;
+  font-size: 17px;
+  line-height: 40px;
+  white-space: nowrap;
+  -ms-flex-positive: 1;
+  -webkit-box-flex: 1;
+          flex-grow: 1;
+  -webkit-transform: rotate3d(1, 1, 0, -15deg);
+          transform: rotate3d(1, 1, 0, -15deg);
+  -webkit-transform-origin: 100% 0;
+          transform-origin: 100% 0;
+  opacity: 0;
+  will-change: transform,opacity;
+  -webkit-transition-property: opacity,-webkit-transform;
+  transition-property: opacity,-webkit-transform;
+  transition-property: transform,opacity;
+  transition-property: transform,opacity,-webkit-transform;
+  -webkit-transition-duration: .25s;
+          transition-duration: .25s;
+}
+
+.opened .popupContainer {
+  -webkit-transform: none;
+          transform: none;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.hamburger {
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  height: 50px;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 17px;
+  line-height: 50px;
+  font-weight: 400;
+  padding: 0 10px;
+}
+
+.hamburger h2 {
+  font-size: 0;
+  left: 27px;
+  top: 25px;
+}
+
+.hamburger h2, .hamburger h2:before, .hamburger h2:after {
+  position: absolute;
+  width: 24px;
+  height: 3px;
+  border-radius: 3px;
+  background: currentColor;
+}
+
+.hamburger h2:before, .hamburger h2:after {
+  content: '';
+  left: 0;
+}
+
+.hamburger h2:before {
+  top: -9px;
+}
+
+.hamburger h2:after {
+  top: 9px;
+}
+
+#btnControl {
+    display: none;
+}
+
+#btnControl:checked + label .popupContainer {
+      -webkit-transform: none;
+          transform: none;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.date-picker {
+  background:#fff url(https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png)  97% 50% no-repeat ;
+}
+
+.util-wifi {
+	background: url(../img/icon-tien-ich.png) center 0px no-repeat;
+	height: 100px;
+}
+
+.util-trung-chuyen {
+	background: url(../img/icon-tien-ich.png) center -178px no-repeat;
+	height: 100px;
+}
+
+.util-dung-sl {
+	background: url(../img/icon-tien-ich.png) center -361px no-repeat;
+	height: 100px;
+}
+
+.util-de-mua {
+	background: url(../img/icon-tien-ich.png) center -579px no-repeat;
+	height: 100px;
+}
+
+.news-date-h {
+  height: 69px;
+}
+
+.mw8-5 {
+  max-width: 73rem;
+}
+
+.mw7-5 {
+  max-width: 52rem;
+}
+
+
+/*
+Header - navigation
+*/
+
+#header.transparent-navbar {
+    height: 80px;
+    z-index: 1000;
+    padding: 0 0 10px;
+    margin-bottom: 0;
+    background: transparent;
+    will-change: transfo9m, opacity;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+}
+
+.h6 {
+  height: 32rem;
+}
+
+.h7 {
+  height: 48rem;
+}

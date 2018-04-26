@@ -1,0 +1,71 @@
+backend:
+  name: git-gateway
+  branch: xehaiau # Branch to update master (optional; defaults to master)
+
+publish_mode: editorial_workflow
+media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "Homepage"
+    label: "Trang chủ"
+    files:
+      - file: "content/_index.md"
+        name: "home"
+        label: "Trang chủ"
+        fields:
+        - {label: "Tiêu đề", name: title, widget: string}
+        - {label: "Banner", name: image, widget: image}
+        - {label: "Values", name: "values", widget: "object", fields: [
+            {label: "Tiêu đề", name: "heading", widget: string},
+            {label: "Giá trị cốt lõi", name: "data", widget: "list", fields: [
+              {label: "Tên", name: "title", widget: "string"},
+              {label: "Mô tả", name: "description", widget: "text"}]}]}
+        - {label: "Tuyến đường", name: "routes", widget: object, fields: [
+            {label: "Tiêu đề", name: "heading", widget: string}]}
+        - {label: "Tin tức", name: ""}
+      - file: "content/gioi-thieu/gioi-thieu-hai-au.md"
+        name: "gioi-thieu-hai-au"
+        label: "Giới thiệu công ty"
+        fields:
+        - {label: "Tiêu đề", name: "title", widget: string}
+        - {label: "Mô tả", name: "description", widget: text}
+        - {label: "Ngày đăng", name: "date", widget: datetime}
+        - {label: "Hình ảnh", name: "image", widget: image}
+        - {label: "Ảnh thu nhỏ", name: "thumbnail", widget: image}
+        - {label: "Nội dung", name: "body", widget: markdown}
+
+  - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
+    label: "Tin tức" # Used in the UI
+    folder: "content/tin-tuc" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Trang riêng"
+    folder: "content/pages"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "string", default: "tin-tuc"}
+      - {label: "Link", name: "url", widget: "string", default: "tin-tuc"}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "routes"
+    label: "Tuyến đường"
+    folder: "content/tuyen-duong"
+    create: true
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Thứ tự", name: "weight", widget: "string"}
+      - {label: "Link", name: "url", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}

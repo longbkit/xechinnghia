@@ -1,0 +1,34 @@
+{{ define "main" }}
+<main class="cf dark-gray mb3">
+    {{ partial "section_breadcrumbs_single" . }}
+    <div class="mw8-5 center darkblue pa0-l pa3">
+        <h1 class="f3 lh-title">{{ .Title }}</h1>
+        <h2 class="f4 lh-title gray">{{ .Params.address }}</h2>
+        <h2 class="f4 lh-title gray">SĐT: {{ .Params.phone }}</h2>
+        <div class="relative">
+            <iframe class="w-100 h6" src="https://www.google.com/maps/embed/v1/place?q=S%E1%BB%91%2016%20T%C3%B4n%20%C4%90%E1%BB%A9c%20Th%E1%BA%AFng,%20H%E1%BA%A3i%20Ph%C3%B2ng&zoom=17%20&key=AIzaSyDQ3SDL9lGwL984ReY5sQY2bPyjs03giXU">
+
+            </iframe>
+            <div class="pa3 ba br1 br2 b--black-10 main-background-color o-70 absolute top-0 right-0 mt3 mr3">
+                <form netlify class="" action="#" name="Liên hệ">
+                    <fieldset class="cf bn ma0 pa0">
+                        <div class="cf flex flex-column">
+                            <input class="f5 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid br2-ns mb1" placeholder="Họ và tên" type="text" name="name" value="" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đi')" oninput="this.setCustomValidity('')" required>
+                            <input class="f5 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid br2-ns mb1" placeholder="Số điện thoại" type="text" name="phone" value="" id="from" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đi')" oninput="this.setCustomValidity('')" required>
+                            <input class="f5 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid br2-ns mb1" placeholder="Địa chỉ email" type="text" name="email" autocomplete="email" value="" id="from" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đi')" oninput="this.setCustomValidity('')" required>
+                            <textarea class="f5 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid br2-ns mb1" placeholder="Nội dung" type="text" name="message" value="" id="from" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đi')" oninput="this.setCustomValidity('')" required></textarea>
+                           
+                           
+                            <input class="f4 f3-l button-reset fl pv3 tc bn bg-animate bg-black-70 hover-bg-black white pointer br2-ns mt2" type="submit" value="Gởi">
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+        
+    </div>
+</main>
+
+
+
+{{ end }}

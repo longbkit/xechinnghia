@@ -1,13 +1,27 @@
 {{ define "main" }}
 
-{{ partial "section_body_top" . }}
+<main>
+{{ partial "section_home_top" . }}
 
-{{ partial "section_call_center" . }}
+{{ partial "section_services" . }}
 
-<div id="body-service" class="container">
-</div>
+{{ partial "section_intro" . }}
 
-{{ partial "section_branch_offices" . }}
+{{ partial "section_home_news" . }}
+
+hello world 
+
+<script type="text/javascript" src="/js/moment.js"></script>
+<script type="text/javascript" src="/js/pikaday.js"></script>
+
+<script>
+	var datePicker = new Pikaday({
+		field: document.getElementById('departDate'),
+		format: 'DD-MM-YYYY'
+	});
+	datePicker.setDate(new Date());
+</script>
+
+</main>
 
 {{ end }}
- 

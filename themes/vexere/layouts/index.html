@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+<main>
+{{ partial "section_home_top" . }}
+
+{{ partial "section_bang_gia" . }}
+
+{{ partial "section_intro" . }}
+
+{{ partial "section_services" . }}
+
+{{ partial "section_home_news" . }}
+<script type="text/javascript" src="/js/moment.js"></script>
+<script type="text/javascript" src="/js/pikaday.js"></script>
+
+<script>
+	var datePicker = new Pikaday({
+		field: document.getElementById('departDate'),
+		format: 'DD-MM-YYYY'
+	});
+	datePicker.setDate(new Date());
+
+	new Pikaday({
+		field: document.getElementById('selectDate0'),
+		trigger: document.getElementById('btnSelectDate0'),
+		format: 'DD-MM-YYYY',
+		minDate: new Date(),
+		onSelect: function(date){
+			document.getElementById('fSelectDate0').submit();
+		}
+	});
+
+	new Pikaday({
+		field: document.getElementById('selectDate1'),
+		trigger: document.getElementById('btnSelectDate1'),
+		format: 'DD-MM-YYYY',
+		minDate: new Date(),
+		onSelect: function(date){
+			document.getElementById('fSelectDate1').submit();
+		}
+	});
+
+	new Pikaday({
+		field: document.getElementById('selectDate2'),
+		trigger: document.getElementById('btnSelectDate2'),
+		format: 'DD-MM-YYYY',
+		minDate: new Date(),
+		onSelect: function(date){
+			document.getElementById('fSelectDate2').submit();
+		}
+	});
+
+	new Pikaday({
+		field: document.getElementById('selectDate3'),
+		trigger: document.getElementById('btnSelectDate3'),
+		format: 'DD-MM-YYYY',
+		minDate: new Date(),
+		onSelect: function(date){
+			document.getElementById('fSelectDate3').submit();
+		}
+	});
+</script>
+
+</main>
+
+{{ end }}

@@ -1,25 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.LanguageCode }}" class="f5">
 
   {{ partial "head.html" . }}
 
-   <body style="background: #fff;">
-      	<div class="br-modal">
-        	<div id="sb-site">
-	         	<div class="br-header">
-					{{ partial "top.html" . }}
+  <body class="sans-serif">
+		  {{ partial "header.html" . }}
 
-					{{ partial "nav.html" . }}
-				</div>
+	    {{ block "main" . }}{{ end }}
 
-	          	{{ block "main" . }}{{ end }}
+      {{ partial "bottom" . }}
+	    {{ partial "footer" . }}
 
-	        	{{ partial "footer" . }}
-			</div>
-    	</div>
-    <!-- /#all -->
-
-    {{ partial "scripts.html" . }}
+      {{ partial "scripts.html" . }}
 
   </body>
 </html>

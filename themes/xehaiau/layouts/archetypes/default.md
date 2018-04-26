@@ -1,10 +1,11 @@
 +++
+title = ""
 tags = []
 categories = []
 description = ""
 menu = ""
 banner = ""
-images = []
+thumbnail = ""
 +++
 
 <!--more-->

@@ -1,0 +1,51 @@
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <title>{{ .Title }}</title>
+   {{ if .Keywords }}
+   <meta name="keywords" content="{{ delimit .Keywords ", " }}">
+   {{ else if .Site.Params.defaultKeywords }}
+   <meta name="keywords" content="{{ delimit .Site.Params.defaultKeywords ", " }}">  
+   {{ end }}
+
+   {{ .Hugo.Generator }}
+
+   {{ if .Description }}
+   <meta name="description" content="{{ .Description }}">
+   {{ else if .Site.Params.defaultDescription }}
+   <meta name="description" content="{{ .Site.Params.defaultDescription }}">
+   {{ end }}
+   
+   <meta name="author" content="{{ .Site.Params.author }}">
+   <meta name="copyright" content="{{ .Site.Params.copyright }}">
+   <meta name="robots" content="index, archive, follow, noodp">
+   <meta name="googlebot" content="index,archive,follow,noodp">
+   <meta name="msnbot" content="all,index,follow">
+   <meta name="generator" content="VeXeRe">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta property="og:title" content="{{ .Title }}">
+   <meta property="og:type" content="website">
+   {{ if .Description }}
+   <meta property="og:description" content="{{ .Description }}">
+   {{ else if .Site.Params.defaultDescription }}
+   <meta property="og:description" content="{{ .Site.Params.defaultDescription }}">
+   {{ end }}
+   <meta property="og:site_name" content="{{ .Title }}">
+   <meta property="og:url" content="{{ .Site.BaseURL }}">
+   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.png" />
+   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png" />
+   <link rel="canonical" href="{{ .Site.BaseURL }}">
+   <link rel="alternate" href="{{ .Site.BaseURL }}rss/" title="Nội dung chính" type="application/rss+xml">
+   <link rel="alternate" href="{{ .Site.BaseURL }}/rss/dich-vu/" title="Nội dung chính - Dịch vụ" type="application/rss+xml">
+   <link rel="alternate" href="https{{ .Site.BaseURL }}/rss/Xe-cho-thue/" title="Nội dung chính - Xe cho thuê" type="application/rss+xml">
+   <link rel="alternate" href="{{ .Site.BaseURL }}/rss/Bang-gia/" title="Nội dung chính - Bảng giá" type="application/rss+xml">
+   <link rel="alternate" href="{{ .Site.BaseURL }}/rss/Tin-tuc/" title="Nội dung chính - Tin tức" type="application/rss+xml">
+   <link rel="alternate" href="{{ .Site.BaseURL }}/rss/Tuyen-dung/" title="Nội dung chính - Tuyển dụng" type="application/rss+xml">
+   <link rel="alternate" href="{{ .Site.BaseURL }}/rss/Gioi-thieu/" title="Nội dung chính - Giới thiệu" type="application/rss+xml">
+   <link rel="alternate" href="{{ .Site.BaseURL }}/rss/qui-dinh/" title="Nội dung chính - Qui định" type="application/rss+xml">
+   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
+   <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.1/css/tachyons.min.css"/>
+   <link rel="stylesheet" href="http://npmcdn.com/tachyons-negative-margin@1.0.0/css/tachyons-negative-margin.min.css" />
+   <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/pikaday.css">
+   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/pikaday-theme.css">
+</head>

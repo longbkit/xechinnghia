@@ -1,0 +1,19 @@
+<section class="cf ph3 ph6-l bg-vxr-gray">
+	<p class="f4 f4-l tc blue mt4">{{ .Params.headings.news }}</p>
+	{{ $posts := .Paginate (where .Data.Pages.ByPublishDate.Reverse "Type" "tin-tuc") }}
+	<div class="flex flex-wrap">
+	{{ range $index, $element := first 4 $posts.Pages }}
+	<div class="w-50 w-25-l pa2 h-75 h-100-l">
+			<div class="dark-gray h-100">
+			<a href="{{ .URL }}" class="db link dim tc h-100">
+				<div class="w-100 aspect-ratio aspect-ratio--6x4">
+				<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="aspect-ratio--object cover db black-10"/>
+				</div>
+				<p class="f5 h2 mb4 mb2-l tl ml0 color ">{{ .Title }}</p>
+				<div class="f7 tl vxr-gray">{{ dateFormat "03/01/02" .Date }}</div>
+			</a>
+		</div>
+	</div>
+  {{ end }}
+	</div>
+</section>
