@@ -7,398 +7,320 @@ description: "Công ty TNHH vận tải Bus Hải Phòng được là doanh nghi
 thumbnail: /img/driver.png
 image: /img/driver.png
 ---
-<div class="description">
-                    	   <p style="border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin-top: 0.7em; margin-bottom: 0.7em; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;"><strong><span style="font-size:18px;">CHUYỂN PHÁT VIP</span></strong></p>
 
-<p style="border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin-top: 0.7em; margin-bottom: 0.7em; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;"><em>Nhanh chóng - An toàn - Tiết kiệm</em></p>
+<p class="i">Nhanh chóng - An toàn - Tiết kiệm</p>
 
-<div id="itemListLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-<div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
-<div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
-<div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-<div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">&nbsp;Chuyển phát VIP</span><span style="color: rgb(35, 31, 32); font-family: Arial; font-size: 14px;">&nbsp;</span><span style="color: rgb(0, 137, 207); font-family: Arial; font-size: 14px; font-weight: 700;">là dịch vụ nhận gửi, vận chuyển và phát nhanh chứng từ, hàng hóa, vật phẩm tại văn phòng VIP và theo xe VIP Hải Âu với chất lượng tốt nhất, trong thời gian nhanh nhất.</span></p>
-</div>
-</div>
-</div>
-</div>
+<div class="tc w-100">
+	<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj">
+	<span class="red">Chuyển phát VIP</span> là dịch vụ nhận gửi, vận chuyển và phát nhanh chứng từ, hàng hóa, vật phẩm tại văn phòng VIP và theo xe VIP Hải Âu với chất lượng tốt nhất, trong thời gian nhanh nhất.
+	</p>
 </div>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
+<p class="tc">
+	<img src="/img/HA express.jpg" class="w-100 w-75-l"/>
+</p>
+<p class="tc flex flex-wrap">
+	<img src="/img/HA express 2.jpg" class="dib w-50 h-100"/>
+	<img src="/img/HA express 1.png" class="dib w-50 h-100"/>
+</p>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
+<div class="tc w-100">
+	<img src="/img/đt chuyển phát(2).png" class="dib"/>
+	<img src="/img/facebook(3).png" class="dib"/>
+</div>
 
-<div style="background-color: transparent; text-align: center;"><img alt="" height="375" src="/pictures/picfullsizes/2018/01/04/HA%20express.jpg">&nbsp; &nbsp;&nbsp;<img alt="" height="248" src="/pictures/picfullsizes/2018/01/04/HA%20express%202.jpg"><img alt="" height="221" src="/pictures/picfullsizes/2018/01/04/HA%20express%201.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<p class="bg-blue white ttu pa2 w4 tc b f6">Bảng giá</p>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
-
-<div style="background-color: transparent; text-align: justify;">&nbsp;
-<p><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="52" src="/pictures/picfullsizes/2018/01/04/%C4%91t%20chuy%E1%BB%83n%20ph%C3%A1t(2).png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" height="61" src="/pictures/picfullsizes/2018/01/04/facebook(3).png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p>
-
-<p><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; </span></p>
-
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:20px;"><span style="font-weight: bolder;">BẢNG GIÁ</span></span></span></div>
-
-<p><img alt="" height="50" src="/pictures/picfullsizes/2018/01/06/h%C3%A0nh%20l%C3%BD.png"></p>
-
-<p style="margin-left: 360px; text-align: justify;">&nbsp;</p>
-
-<table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
+<table class="table-slim-border table-padding-cell">
 	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Tên hàng</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Kích cỡ</p>
+		<tr class="bg-blue white b">
+			<th>Tên hàng</th>
+			<th>
+				Kích cỡ	
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Số lượng</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">
-			<p>Giá</p>
+			<th>Số lượng</th>
+			<th>
+				Giá	
 
-			<p>(Nhận tại VP công ty)</p>
+				(Nhận tại VP công ty)	
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Nhận và trả tận nơi</th>
+			<th>Nhận và trả tận nơi</th>
 		</tr>
 		<tr>
-			<td rowspan="4" style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>TÚI,</p>
+			<td rowspan="4">
+				TÚI,	
 
-			<p>CẶP,</p>
+				CẶP,	
 
-			<p>VALI</p>
+				VALI	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>&nbsp;</p>
+			<td>
+				&nbsp;	
 
-			<p>Nặng dưới 20kg</p>
+				Nặng dưới 20kg	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>01</p>
+			<td>
+				01	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Miễn cước</td>
-			<td rowspan="4" style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Hành lý theo người</td>
+			<td>Miễn cước</td>
+			<td rowspan="4">Hành lý theo người</td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 20kg đến 25kg</p>
+			<td>
+				Nặng trên 20kg đến 25kg	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(255, 0, 0);">15.000 đ</span></td>
+			<td>01</td>
+			<td>15.000 đ</span></td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 25kg</p>
+			<td>
+				Nặng trên 25kg	
 
-			<p>(cứ thêm 5kg = 1 cấp)</p>
+				(cứ thêm 5kg = 1 cấp)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color:#FF0000;">15.000 đ + 5.000 đ/cấp</span></td>
+			<td>01</td>
+			<td>15.000 đ + 5.000 đ/cấp</span></td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Nặng trên 75kg đến 100kg và kích cỡ phù hợp với cốp xe.</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color:#FF0000;">100.000 đ</span></td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">&nbsp;</td>
+			<td>Nặng trên 75kg đến 100kg và kích cỡ phù hợp với cốp xe.</td>
+			<td>01</td>
+			<td>100.000 đ</span></td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<img src="/img/hàng hóa.png" />
 
-<p><img alt="" height="54" src="/pictures/picfullsizes/2018/01/06/h%C3%A0ng%20h%C3%B3a.png"></p>
-
-<p style="margin-left: 360px; text-align: justify;">&nbsp;</p>
-
-<table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
+<table class="table-slim-border table-padding-cell"	>
 	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Tên hàng</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Kích cỡ</p>
+		<tr	class="bg-blue white b">
+			<th	>Tên hàng</th>
+			<th	>
+			Kích cỡ	
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Số lượng</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">
-			<p>Giá</p>
+			<th	>Số lượng</th>
+			<th	>
+				Giá	
 
-			<p>(Nhận tại VP công ty)</p>
+				(Nhận tại VP công ty)	
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Nhận và trả tận nơi</th>
+			<th	>Nhận và trả tận nơi</th>
 		</tr>
 		<tr>
-			<td rowspan="4" style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>HỘP,</p>
+			<td rowspan="4"	>
+				HỘP,	
 
-			<p>BAO,</p>
+				BAO,	
 
-			<p>KIỆN</p>
+				KIỆN	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>&nbsp;</p>
+			<td	>
+				&nbsp;	
 
-			<p>Nặng dưới 10kg</p>
+				Nặng dưới 10kg	
 
-			<p>(kích cỡ 20 x 30 x 30 cm)</p>
+				(kích cỡ 20 x 30 x 30 cm)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>01</p>
+			<td	>
+				01	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color:#FF0000;">15.000 đ</span></td>
-			<td rowspan="4" style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Hàng theo người</td>
+			<td	>15.000 đ</span></td>
+			<td rowspan="4"	>Hàng theo người</td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 10kg đến 20kg</p>
+			<td	>
+				Nặng trên 10kg đến 20kg	
 
-			<p>(kích cỡ 30 x 35&nbsp;x 35&nbsp;cm)</p>
+				(kích cỡ 30 x 35&nbsp;x 35&nbsp;cm)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(255, 0, 0);">20.000 đ</span></td>
+			<td	>01</td>
+			<td	>20.000 đ</span></td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 25kg</p>
+			<td	>
+				Nặng trên 25kg	
 
-			<p>(cứ thêm 5kg = 1 cấp)</p>
+				(cứ thêm 5kg = 1 cấp)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color:#FF0000;">35.000 đ</span></td>
+			<td	>01</td>
+			<td	>35.000 đ</span></td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 20kg đến 45kg</p>
+			<td	>
+				Nặng trên 20kg đến 45kg	
 
-			<p>(kích cỡ 30 x 50 x 70 cm)</p>
+				(kích cỡ 30 x 50 x 70 cm)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color:#FF0000;">50.000 đ</span></td>
+			<td	>01</td>
+			<td	>50.000 đ</span></td>
 		</tr>
 		<tr>
-			<td rowspan="6" style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>HỘP,</p>
+			<td rowspan="6"	>
+				HỘP,	
 
-			<p>BAO,</p>
+				BAO,	
 
-			<p>KIỆN</p>
+				KIỆN	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 45kg đến 75kg&nbsp;</p>
+			<td	>
+				Nặng trên 45kg đến 75kg&nbsp;	
 
-			<p>(kích cỡ45 x 50 x 100 cm)</p>
+				(kích cỡ45 x 50 x 100 cm)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="color:#FF0000;">70.000 đ</span></p>
+			<td	>01</td>
+			<td	>
+				<span	>70.000 đ</span>	
 			</td>
-			<td rowspan="6" style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Hàng theo người</td>
+			<td rowspan="6"	>Hàng theo người</td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 75kg đến 100kg</p>
+			<td	>
+				Nặng trên 75kg đến 100kg	
 
-			<p>(kích cỡ phù hợp với cốp xe)</p>
+				(kích cỡ phù hợp với cốp xe)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color:#FF0000;">80.000 đ</span></td>
+			<td	>01</td>
+			<td	>80.000 đ</span></td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Nặng trên 100kg</p>
+			<td	>
+				Nặng trên 100kg	
 
-			<p>(kích cỡ cao quá cốp xe)</p>
+				(kích cỡ cao quá cốp xe)	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">01</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color:#FF0000;">Không nhận vận chuyển</span><br>
+			<td	>01</td>
+			<td	>Không nhận vận chuyển</span><br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-weight: 700;">&nbsp;</span></span></p>
+<p>(Giá trên chưa có thuế VAT)</p>
+<p>(Xe VIP Hải Âu không nhận chuyển hàng hóa - hành lý gửi thông thường (không có người đi kèm) )</p>
+<p class="red b">Xin Quý khách lưu ý: Công ty không nhận vận chuyển những mặt hàng cấm mà Nhà nước quy định</p>
 
-<p><span style="font-size:14px;">(Giá trên chưa có thuế VAT)</span></p>
+<p class="bg-blue white ttu pa2 dib tc b f6">PHẠM VI CUNG CẤP DỊCH VỤ CHUYỂN PHÁT VIP</p>
 
-<p><span style="font-size:14px;">(Xe VIP Hải Âu không nhận chuyển hàng hóa - hành lý gửi thông thường (không có người đi kèm) )</span></p>
+<img class="dib" src="/img/icon1.png" />
+<img class="dib" src="/img/ĐẶT VÉ(3).png" />
 
-<p><span style="color:#FF0000;"><strong style="font-size: 14px;">Xin Quý khách lưu ý: Công ty không nhận vận chuyển những mặt hàng cấm mà Nhà nước quy định</strong></span></p>
+<p class="tc blue b">Hải Phòng</p>
 
-<p style="text-align: justify;"><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
-
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:20px;"><span style="font-weight: bolder;">PHẠM VI CUNG CẤP DỊCH VỤ CHUYỂN PHÁT VIP</span></span></span></div>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;"><img alt="" height="62" src="/pictures/picfullsizes/2018/01/04/icon1.png" ><span style="color:#0089cf;"><span style="font-size:16px;"><strong>&nbsp;<img alt="" height="54" src="/pictures/picfullsizes/2018/01/04/%C4%90%E1%BA%B6T%20V%C3%89(3).png"></strong></span></span></p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify; margin-left: 360px;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">Hải Phòng</span></span></span></p>
-
-<table style="background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
+<table class="table-slim-border table-padding-cell w-100"	>
 	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Văn phòng</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Điện thoại liên lạc</p>
+		<tr	class="bg-blue white b">
+			<th	>Văn phòng</th>
+			<th	>
+			Điện thoại liên lạc	
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Dịch vụ nhận và phát hàng</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Dịch vụ nhận và trả tiền</th>
+			<th	>Dịch vụ nhận và phát hàng</th>
+			<th	>Dịch vụ nhận và trả tiền</th>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Bến xe Cầu Rào</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><strong><span style="color:#FF0000;">02253. 728 422</span></strong></p>
+			<td	>Bến xe Cầu Rào</td>
+			<td	>
+				<strong><span	>02253. 728 422</span></strong>	
 
-			<p>&nbsp;</p>
+				&nbsp;	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><b>Từ 06h00 đến 21h00</b></p>
+			<td	>
+				<b>Từ 06h00 đến 21h00</b>	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: 700; color: rgb(41, 43, 44); font-family: arial; text-align: justify;">Từ 06h00 đến 19h00</span></td>
+			<td	>Từ 06h00 đến 19h00</span></td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Bến xe Niệm Nghĩa</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><strong><span style="color:#FF0000;">02253. 783 783</span></strong></p>
+			<td	>Bến xe Niệm Nghĩa</td>
+			<td	>
+				<strong><span	>02253. 783 783</span></strong>	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700; color: rgb(41, 43, 44); font-family: arial; text-align: justify;">Từ 06h00 đến 21h00</span></p>
+			<td	>
+				<span	>Từ 06h00 đến 21h00</span>	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(41, 43, 44); font-family: arial; font-weight: 700; text-align: justify;">Từ 06h00 đến 19h00</span></td>
+			<td	>Từ 06h00 đến 19h00</span></td>
 		</tr>
 	</tbody>
 </table>
 
-<p><span style="text-indent: -0.25in; background-color: transparent; color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p class="tc blue b">Hà Nội</p>
 
-<div style="background-color: transparent; margin-left: 360px;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp;Hà Nội</span></span></span></div>
-
-<table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
+<table class="table-slim-border table-padding-cell w-100"	>
 	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Văn phòng</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Điện thoại liên lạc</p>
+		<tr	class="bg-blue white b">
+			<th	>Văn phòng</th>
+			<th	>
+			Điện thoại liên lạc	
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Dịch vụ nhận và phát hàng</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Dịch vụ nhận và trả tiền</th>
+			<th	>Dịch vụ nhận và phát hàng</th>
+			<th	>Dịch vụ nhận và trả tiền</th>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Số 30 Ngô Gia Khảm (Gia Lâm)</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><strong><span style="color:#FF0000;">0243. 6500 282</span></strong></p>
+			<td	>Số 30 Ngô Gia Khảm (Gia Lâm)</td>
+			<td	>
+				<strong><span	>0243. 6500 282</span></strong>	
 
-			<p>&nbsp;</p>
+				&nbsp;	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">Từ 06h00đến 21h00</span></p>
+			<td	>
+				<span	>Từ 06h00đến 21h00</span>	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: 700;">Từ 06h00 đến 19h00</span></td>
+			<td	>Từ 06h00 đến 19h00</span></td>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">16 Trần Nhật Duật (Long Biên)</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><strong><span style="color:#FF0000;">02243. 9284 038</span></strong></p>
+			<td	>16 Trần Nhật Duật (Long Biên)</td>
+			<td	>
+				<strong><span	>02243. 9284 038</span></strong>	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">Từ 06h00đến 20h30</span></p>
+			<td	>
+				<span	>Từ 06h00đến 20h30</span>	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: 700;">Từ 06h00 đến 19h00</span></td>
+			<td	>Từ 06h00 đến 19h00</span></td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="text-align: justify;"><span style="text-indent: -0.25in; background-color: transparent; color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<img class="dib" src="/img/icon 2.png" />
+<img class="dib" src="/img/ĐẶT VÉ(1).png" />
 
-<div style="background-color: transparent; text-align: justify;">
-<div style="background-color: transparent;">
-<div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span></div>
-</div>
-</div>
-
-<p style="text-align: justify;"><img alt="" height="76" src="/pictures/picfullsizes/2018/01/04/icon%202.png" ><span style="font-weight: 700; color: rgb(0, 137, 207); font-size: 16px; text-align: justify;">&nbsp;&nbsp;<img alt="" height="54" src="/pictures/picfullsizes/2018/01/04/%C4%90%E1%BA%B6T%20V%C3%89(1).png"></span><span style="background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent; text-indent: -0.25in; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp;</span></p>
-
-<p style="text-align: justify;"><span style="background-color: transparent; text-indent: -0.25in; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span></p>
-
-<div style="text-align: justify; background-color: transparent; margin-left: 360px;"><font color="#0089cf"><span style="font-size: 16px;"><b>Thái Bình</b></span></font></div>
-
-<table style="background-color: rgb(255, 255, 255); text-align: justify; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 100%;">
+<table class="table-slim-border table-padding-cell w-100"	>
 	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Văn phòng</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Điện thoại liên lạc</p>
+		<tr	class="bg-blue white b">
+			<th	>Văn phòng</th>
+			<th	>
+			Điện thoại liên lạc	
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Dịch vụ nhận và phát hàng</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Dịch vụ nhận và trả tiền</th>
+			<th	>Dịch vụ nhận và phát hàng</th>
+			<th	>Dịch vụ nhận và trả tiền</th>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Bến xe Thái Bình</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>&nbsp;</p>
+			<td	>Bến xe Thái Bình</td>
+			<td	>
+				&nbsp;	
 
-			<p><strong><span style="color:#FF0000;">0363. 643 364</span></strong></p>
+				<strong><span	>0363. 643 364</span></strong>	
 
-			<p>&nbsp;</p>
+				&nbsp;	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">Từ 06h00 đến 20h00</span></p>
+			<td	>
+				<span	>Từ 06h00 đến 20h00</span>	
 			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: 700;">Từ 06h00 đến 19h00</span></td>
+			<td	>Từ 06h00 đến 19h00</span></td>
 		</tr>
 	</tbody>
 </table>
 
-<p style="text-align: justify;"><span style="text-indent: -0.25in; background-color: transparent; color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent; font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp;</span></p>
+<p class="tc">
+	<img src="/img/vì sao bạn nên lựa chọn chuyển phát VIP hải âu.png" />
+</p>
 
-<p style="text-align: justify;"><span style="text-indent: -0.25in; background-color: transparent;">&nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</p>
-
-<p style="margin-left: 80px;"><img alt="" height="793" src="/pictures/picfullsizes/2018/01/04/v%C3%AC%20sao%20b%E1%BA%A1n%20n%C3%AAn%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20chuy%E1%BB%83n%20ph%C3%A1t%20VIP%20h%E1%BA%A3i%20%C3%A2u.png" ><span style="background-color: transparent; color: rgb(0, 137, 207); font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="background-color: transparent; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 16px; color: rgb(0, 137, 207); font-weight: 700; background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
-
-<table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255); text-align: justify;">
-	<tbody>
-		<tr>
-			<td height="7">
-			<p style="margin-left: 40px;">&nbsp;</p>
-			</td>
-			<td>
-			<p style="margin-left: 40px;">&nbsp;</p>
-			</td>
-			<td>
-			<p style="margin-left: 200px; text-align: start;">&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-<table align="left" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255); text-align: justify;">
-    <tbody>
-        <tr>
-            <td>
-            <div class="container" style=" position: relative; max-width: 100%; font-family: arial;">
-            <div class="ict detail">
-            <div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;">
-            <div style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(35, 31, 32); background-color: transparent;">
-            <div style="outline: 0px; font-size: 16px; font-family: arial; line-height: 26px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
-            <p style="margin-bottom: 0px; margin-left: 40px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;">​<span style="font-size: 18px;"><span style="font-weight: 700;">XE KHÁCH HẢI ÂU</span></span></p>
-
-            <p style="margin-bottom: 0px; margin-left: 40px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size: 18px;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:</span></span></p>
-
-            <p style="margin-bottom: 0px; margin-left: 40px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-size: 18px;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: 700;">02253. 711&nbsp;711&nbsp;</span></span></span></p>
-
-            <p style="margin-bottom: 0px; margin-left: 40px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="61" src="/pictures/picfullsizes/2018/01/03/facebook.png"></span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
+<div class="w-100 mv4 w-100 tc ba b--dashed b--blue blue b bg-light-gray pa3 tj ">
+	<p class="tc lh-copy">
+		​XE KHÁCH HẢI ÂU
+		<br/>
+		MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:
+		<br/>
+		<span class="b red">02253. 711 711</span>
+		<br/>
+		<img class="dib" src="/img/facebook.png"/>
+	</p>
 </div>
-                    </div>

@@ -1,23 +1,36 @@
 {{ define "main" }}
 
-<main class="cf dark-gray">
+{{ partial "top" . }}
 
+<main class="dark-gray">
 	{{ partial "section_breadcrumbs_single" . }}
-	<div class="mw8-5 center darkblue">
-		<div class="fl mw7-5">
+	<section class="ph3 ph6-l center darkblue">
+		<div class="fl mw7-5 flex flex-wrap dib">
 		{{ range $index, $element := (.Paginate .Data.Pages.ByPublishDate.Reverse).Pages }}
-		{{ if eq $index 0 }}
-			{{ partial "news_first_article" $element }}
+		{{ if eq (mod $index 2) 0}}
+		<div class="w-50 pr3">
 		{{ else }}
-			{{ partial "news_default_article" $element }}
+		<div class="w-50 pl3">
 		{{ end }}
+			<div class="dark-gray">
+				<a href="{{ .URL }}" class="db link dim tc h-100">
+					<div class="w-100 aspect-ratio aspect-ratio--6x4">
+					<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="aspect-ratio--object cover db black-10"/>
+					</div>
+					<p class="f6 h2 mb4 mb2-l tl ml0 color b">{{ .Title }}</p>
+					<div class="f7 tl vxr-gray">{{ dateFormat "03/01/02" .Date }}</div>
+					<p class="f6 color tj">{{ .Description }}</p>
+				</a>
+			</div>
+		</div>
+
 		{{ end }}
 
 		{{ partial "pagination" . }}
 		</div>
 
-		{{ partial "section_right_news" . }}
-	</div>
+		{{ partial "section_right_column" . }}
+	</section>
 </main>
 
 {{ end }}

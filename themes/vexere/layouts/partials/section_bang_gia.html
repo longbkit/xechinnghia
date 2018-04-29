@@ -23,35 +23,14 @@
 			<div class="dn dtc-l ">{{ lang.NumFmt 0 .Params.price "- . ." }}đ</div>
 			<div class="dtc tr">
 				<div class="dn-l db mb1">{{ lang.NumFmt 0 .Params.price "- . ." }}đ</div>
-				<form action="/dat-ve-truc-tuyen" id="fSelectDate{{ (mul 2 $index) }}">
+				<form action="/dat-ve-truc-tuyen" id="fSelectDate{{ $index }}">
 					<input type="hidden" name="from" value="{{ .Params.fromId }}">
 					<input type="hidden" name="to" value="{{ .Params.toId }}">
-					<input type="hidden" name="departDate" id="selectDate{{  (mul 2 $index) }}">
-					<input class="w4 h2 f7 button-reset ph3 tc bn bg-animate btn-bg-color hover-bg-black white pointer br2-ns lh-copy shadow-1" id="btnSelectDate{{  (mul 2 $index) }}" type="submit" value="Chọn ngày" onclick="return false;">
+					<input type="hidden" name="departDate" id="selectDate{{ $index }}">
+					<input class="w4 h2 f7 button-reset ph3 tc bn bg-animate btn-bg-color hover-bg-black white pointer br2-ns lh-copy shadow-1" id="btnSelectDate{{ $index }}" type="submit" value="Chọn ngày" onclick="return false;">
 				</form>
 			</div>
 		</div>
-		<div class="dt dt--fixed color f7 pa3">
-			<div class="dtc-l b mb1 mb0-l">
-				{{ print .Params.to  " - "  $element.Params.from }}
-			</div>
-			<div class="dtc-l mb1 mb0-l">
-				{{ .Params.seatName }}
-			</div>
-			<div class="dtc-l mb1 mb0-l">
-				{{ .Params.schedulesPerDay }} chuyến/ngày
-			</div>
-			<div class="dn dtc-l ">{{ lang.NumFmt 0 .Params.price "- . ." }}đ</div>
-			<div class="dtc tr">
-				<div class="dn-l db mb1">{{ lang.NumFmt 0 .Params.price "- . ." }}đ</div>
-				<form action="/dat-ve-truc-tuyen" id="fSelectDate{{ add 1 (mul 2 $index) }}">
-						<input type="hidden" name="from" value="{{ .Params.toId }}">
-						<input type="hidden" name="to" value="{{ .Params.fromId }}">
-						<input type="hidden" name="departDate" id="selectDate{{ add 1 (mul 2 $index) }}">
-						<input class="w4 h2 f7 button-reset ph3 tc bn bg-animate btn-bg-color hover-bg-black white pointer br2-ns lh-copy shadow-1" id="btnSelectDate{{ add 1 (mul 2 $index) }}" type="submit" value="Chọn ngày" onclick="return false;">
-				</form>
-			</div>
-		</div>		
 		{{ end }}
 		<!--
 		<div class="mw8 tr mv3 ">

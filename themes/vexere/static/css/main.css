@@ -9,6 +9,20 @@ nav li:hover>.sub-menu {
   display:block;
 }
 
+table.table-slim-border, table.table-slim-border th,
+table.table-slim-border tr, table.table-slim-border td {
+  border-collapse: collapse;
+  border: 1px solid rgb(236, 236, 236);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table.table-padding-cell td, table.table-padding-cell th {
+  padding-top: 1em !important;
+  padding-bottom: 1em !important;
+}
+
 @media screen and (min-width: 64em) {
 
   .w6-l {

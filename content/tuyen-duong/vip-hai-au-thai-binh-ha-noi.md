@@ -7,160 +7,127 @@ description: "Công ty TNHH vận tải Bus Hải Phòng được là doanh nghi
 thumbnail: /img/driver.png
 image: /img/driver.png
 ---
-<div class="description">
-                    	   <h3 class="catItemTitle" style="line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><strong>VIP HẢI ÂU&nbsp;THÁI BÌNH&nbsp;- HÀ NỘI</strong></h3>
+<p class="b tc">VIP HẢI ÂU HẢI PHÒNG - HÀ NỘI</p>
+<p class="tc">Xe chạy đường cao tốc - Không đón khách dọc đường - Phục vụ đúng số ghế - Xe xuất bến đúng giờ</p>
 
-<div id="itemListLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-<div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
-<div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
-<div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-<div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-<p style="text-align: center;"><em><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Không đón khách dọc đường - Phục vụ đúng số ghế - Xe xuất bến đúng giờ</span></em></p>
-
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><font color="#ff0000"><span style="font-weight: 700;">VIP Hải Âu&nbsp;Thái Bình - Hà Nội&nbsp;</span></font><span style="color: rgb(0, 137, 207); font-weight: 700;">được thành lập vào tháng 11/2017,&nbsp;sau sự đón nhận và ủng hộ nhiệt tình của các hành khách từ VIP Hải Âu tuyến Hải Phòng – Hà Nội. Xe khách Hải Âu luôn không ngừng nâng cao chất lượng dịch vụ và cam kết thực hiện ba tiêu chí:&nbsp;</span><em style="outline: 0px; line-height: 26px; color: rgb(0, 137, 207); font-weight: 700;">Đúng giờ - Thuận tiện - Nhanh chón</em><span style="color: rgb(0, 137, 207);"><span style="font-weight: 700;"><em>g.</em></span></span></p>
-</div>
-</div>
+<div class="tc w-100">
+	<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj">
+	<span class="red">VIP Hải Âu</span> xuất hiện lần đầu tiên tại Hà Nội và Hải Phòng với chất lượng dịch vụ tiên tiến, văn minh và luôn nâng cao khẩu hiệu: Đúng giờ - Thuận tiện - Nhanh chóng.
+	</p>
 </div>
 
-<p style="text-align:center"><img alt="" height="307" src="/pictures/picfullsizes/2017/12/30/xe%20thai%20binh%2045%20cho.png" ></p>
+<p class="tc"><img src="/img/VIP HP-HN(1).jpg"/></p>
+
+<div class="tc w-100">
+	<img src="/img/đt chuyển phát(2).png" class="dib h3"/>
+	<img src="/img/facebook(1).png" class="dib h3"/>
 </div>
-</div>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
+<p class="dib bg-blue white b ttu pa2">Giờ xe chạy</p>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
+<p class="tc b blue">Thái Bình - Hà Nội</p>
 
-<div style="background-color: transparent; text-align: center; margin-left: 120px;">&nbsp;</div>
+<table class="table-slim-border table-padding-cell w-100">
+  <tbody>
+    <tr class="bg-blue white b">
+      <th class="w4">Bến xe</th>
+      <th>
+      Lộ trình
+      </th>
+      <th>Giờ xe chạy</th>
+      <th class="w4">
+      Tần suất
+      </th>
+    </tr>
+    <tr>
+      <td>Bến xe Thái Bình</td>
+      <td>Bến xe Thái Bình – Đường 10 – Vĩnh Bảo – Cao tốc 5B – Bến xe Gia Lâm</td>
+      <td>
+      <p class="tc">05h15 - 05h45 - 06h15 - 06h45 - 07h15 - 07h45 - 08h15 - 08h45 - 09h15 - 10h15 - 11<span>h15 - 12h15 - 12h45 - 13h15 - 13h45 - 14h15 - 14h45 - 15h15 - 15h45 - 16h15 - 16h45 - 17h15</span></p>
+      </td>
+      <td>
+      <p>22 chuyến/ngày</p>
 
-<p>&nbsp;</p>
+      <p>Liên tục</p>
 
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" height="62" src="/pictures/picfullsizes/2018/01/02/%C4%91i%E1%BB%87n%20tho%E1%BA%A1i(2).png" width="188"></p>
+      <p>30 phút/chuyến</p>
 
-<p>&nbsp;</p>
+      <p class="b">Chuyến sớm nhất: 05h15</p>
 
-<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY&nbsp;&nbsp;</span><span style="font-size: 13px; text-align: start;">​</span></div>
+      <p class="b">Chuyến muộn nhất: 17h15</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Bến xe Vĩnh Bảo</td>
+      <td>Vĩnh Bảo – Cao tốc 5B – Bến xe Gia Lâm</td>
+      <td>
+      <p class="tc">06h00 - 06h30 - 07h00 - 07h30 - 08h00 - 08h30 - 09h00 - 09h30 - 10h00 - 11h00 - 12h00 - 13h00 - 13h30 - 14h00 - <span>14h30 -</span>15h00 - <span">15h30 -&nbsp;</span>16h00 - <span>16h30 -&nbsp;</span>17h00 - 17h30&nbsp;- 18h00</p>
+      </td>
+      <td>
+      <p>22 chuyến/ngày</p>
 
-<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(0, 137, 207); font-size: 16px; font-weight: 700; text-align: center;">Thái Bình&nbsp;- Hà Nội</span></p>
+      <p>Liên tục</p>
 
-<table style="background-color: rgb(255, 255, 255); font-size: 14px; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); text-align: center; ">
-	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Bến xe</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Lộ trình</p>
-			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Giờ xe chạy</th>
-			<th>
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Tần suất</p>
-			</th>
-		</tr>
-		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Bến xe Thái Bình</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Bến xe Thái Bình – Đường 10 – Vĩnh Bảo – Cao tốc 5B – Bến xe Gia Lâm</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p align="center">05h15 - 05h45 - 06h15 - 06h45 - 07h15 - 07h45 - 08h15 - 08h45 - 09h15 - 10h15 - 11<span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">h15 - 12h15 - 12h45 - 13h15 - 13h45 - 14h15 - 14h45 - 15h15 - 15h45 - 16h15 - 16h45 - 17h15</span></p>
+      <p>30 phút/chuyến</p>
 
-			<p align="center">&nbsp;</p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>22 chuyến/ngày</p>
+      <p class="b">Chuyến sớm nhất: 06h00</p>
 
-			<p>Liên tục</p>
-
-			<p>30 phút/chuyến</p>
-
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 05h15</span></p>
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 17h15</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Bến xe Vĩnh Bảo</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Vĩnh Bảo – Cao tốc 5B – Bến xe Gia Lâm</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p align="center">06h00 - 06h30 - 07h00 - 07h30 - 08h00 - 08h30 - 09h00 - 09h30 - 10h00 - 11h00 - 12h00 - 13h00 - 13h30 - 14h00 - <span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">14h30 -</span>15h00 - <span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">15h30 -&nbsp;</span>16h00 - <span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">16h30 -&nbsp;</span>17h00 - 17h30&nbsp;- 18h00</p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p style="text-align: right;">22 chuyến/ngày</p>
-
-			<p>Liên tục</p>
-
-			<p>30 phút/chuyến</p>
-
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 06h00</span></p>
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất</span></p>
-
-			<div><span style="font-weight: 700;">18h00</span></div>
-			</td>
-		</tr>
-	</tbody>
+      <p class="b">Chuyến muộn nhất: 18h00</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<div style="background-color: transparent; font-size: 14px; text-align: center;">&nbsp;</div>
+<p class="tc b blue">Hà Nội - Thái Bình</p>
 
-<div style="background-color: transparent; font-size: 14px; text-align: center;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">Hà Nội&nbsp;- Thái Bình</span></span></span></div>
+<table class="w-100 table-slim-border table-padding-cell">
+  <tbody>
+    <tr class="b bg-blue white">
+      <th>Bến xe</th>
+      <th>
+      Giờ xe chạy
+      </th>
+      <th>Tần suất</th>
+    </tr>
+    <tr>
+      <td>Gia Lâm&nbsp;</td>
+      <td>
+      <p align="center">06h15&nbsp;-&nbsp; <span>06</span><span>h45- 07h15- 07</span><span>h4</span><span>5 - 08</span><span>h15 - 08h45 -&nbsp;09h15 - 09h45 -&nbsp;10h15 - 11h15 - 12h15 - 13h15 -&nbsp;&nbsp;13h45 - 14h15 - 14h45 -&nbsp;15h15 - 15h45 - 16h15 - 16h45 - 17h15 - 17h45 - 18h15</span></p>
+      </td>
+      <td>
+      <p>Liên tục 30 phút/chuyến</p>
 
-<table style="background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); ">
-	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); ">Bến xe</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Giờ xe chạy</p>
-			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Tần suất</th>
-		</tr>
-		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Gia Lâm&nbsp;</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p align="center">06h15&nbsp;-&nbsp; <span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">06</span><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">h45- 07h15- 07</span><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">h4</span><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">5 - 08</span><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: -webkit-center;">h15 - 08h45 -&nbsp;09h15 - 09h45 -&nbsp;10h15 - 11h15 - 12h15 - 13h15 -&nbsp;&nbsp;13h45 - 14h15 - 14h45 -&nbsp;15h15 - 15h45 - 16h15 - 16h45 - 17h15 - 17h45 - 18h15</span></p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p>Liên tục 30 phút/chuyến</p>
+      <p class="b">Chuyến sớm nhất: 6h15</p>
 
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 6h15</span></p>
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 18h15</span></p>
-			</td>
-		</tr>
-	</tbody>
+      <p class="b">Chuyến muộn nhất: 18h15</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<p>&nbsp;</p>
+<p class="dib bg-blue white b ttu pa2">GIÁ VÉ VIP: 90.000 đ/vé/người/lượt</p>
 
-<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIÁ VÉ VIP: 90.000 đ/vé/người/lượt&nbsp;&nbsp;</span><span style="font-size: 13px; text-align: start;">​</span></div>
+<div class="w-100 mv4 w-100 tc ba b--dashed b--blue blue b bg-light-gray pa3 tj ">
+	<p class="tc lh-copy">
+VÌ SAO KHÁCH HÀNG NÊN CHỌN VIP HẢI ÂU?
+</p>
+<ul class="tl">
+	<li class="lh-copy">
+ Xe ô tô (Univer 47 chỗ) rộng rãi, trang thiết bị tiện nghi ngay trên xe.
+</li>
+	<li class="lh-copy">
+ Lái xe được đào tạo tay nghề và ý thức phục vụ chuyên nghiệp.
+</li>
+	<li class="lh-copy">
 
-<div style="background-color: transparent; text-align: justify;">&nbsp;</div>
-
-<div style="background-color: transparent; text-align: justify;">&nbsp;</div>
-
-<div style="background-color: transparent; text-align: justify;">
-<div style="font-size: 13px; text-align: center;">&nbsp;</div>
-
-<div style="font-size: 16px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
-<p><span style="font-weight: 700;">VÌ SAO KHÁCH HÀNG NÊN CHỌN VIP HẢI ÂU?</span></p>
-
-<p style="margin-left: 80px; text-align: left;"><span style="font-weight: 700;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow.png" width="20">&nbsp;Xe khách rộng rãi, hiện đại, trang thiết bị tiện nghi.</span></p>
-
-<p style="margin-left: 80px; text-align: left;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow.png" width="20"><span style="font-weight: 700;">&nbsp;Lái xe được đào tạo tay nghề và ý thức phục vụ chuyên nghiệp.</span></p>
-
-<p style="margin-left: 80px; text-align: left;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow.png" width="20"><span style="font-weight: 700;">Phòng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, máy lạnh, Tivi, toilet,...</span></p>
-
-<p style="margin-left: 80px; text-align: left;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow.png" width="20"><span style="font-weight: 700;">&nbsp;Đạt chuẩn 3 đúng: Chạy đúng giờ - Đến đúng địa điểm – Chấp hành đúng các quy định.</span></p>
-
-<p>&nbsp;</p>
-
-<div class="btnda1tv" style="cursor: pointer;"><span style="font-size:20px;"><strong><span style="color: rgb(0, 137, 207);">Thông tin dịch vụ: 02253. 717 717</span></strong></span></div>
+ Phòng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, máy lạnh, Tivi, toilet,...
+</li>
+	<li class="lh-copy">
+ Đạt chuẩn 3 đúng: Chạy đúng giờ - Đến đúng địa điểm – Chấp hành đúng các quy định.
+</li>
+</ul>
+	<p class="tc lh-copy">
+Thông tin dịch vụ: 02253. 717 717
+</p>
 </div>
-</div>
-
-<div id="itemListPrimary" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-<div class="itemContainer itemContainerLast" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-<div class="catItemView groupPrimary" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
-<div style="font-size: 14px; background-color: transparent; text-align: center;">&nbsp;</div>
-</div>
-</div>
-</div>
-                    </div>

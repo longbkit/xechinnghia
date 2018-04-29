@@ -7,229 +7,145 @@ description: ""
 thumbnail: /img/driver.png
 image: /img/driver.png
 ---
-<div class="description">
-                    	   <div class="itemImageBlock" style="border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 10px 0px 16px; padding: 8px; float: left; ">
-<div class="clr" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+<div class="tc w-100">
+	<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj">
+		<span class="red">Xe cao tốc Hải Phòng - Thái Bình - Nam Định</span> là tuyến xe Hải Phòng (bến xe Cầu Rào) - Nam Định (bến xe khách Nam Định) của "Buýt nhanh Hải Âu" với lộ trình xe chạy đường cao tốc mới - Nhanh chóng, thuận lợi, chất lượng phục vụ tối ưu.
+	</p>
 </div>
 
-<h3 class="catItemTitle" style="line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-weight: 700;">XE CAO TỐC&nbsp;HẢI PHÒNG -&nbsp;THÁI BÌNH&nbsp;- NAM ĐỊNH</span></h3>
+<p class="tc"><img src="/img/PC010029.JPG"/></p>
 
-<div id="itemListLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-<div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
-<div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
-<div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-<div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-<p style="text-align: center;"><em><span style="color: rgb(0, 0, 0);">Đúng giờ - Thuận tiện - Nhanh chóng</span></em></p>
-
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px; line-height: 26px; text-align: justify; color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc Hải Phòng&nbsp;- Thái Bình - Nam Định</span><span style="color: rgb(35, 31, 32); font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;</span><span style="outline: 0px; font-size: 14px; line-height: 26px; text-align: justify; color: rgb(0, 137, 207); font-weight: 700;">là tuyến xe Hải Phòng (bến xe Cầu Rào) - Nam Định (bến xe khách Nam Định) của "Buýt nhanh Hải Âu" với lộ trình xe chạy đường cao tốc mới - Nhanh chóng, thuận lợi, chất lượng phục vụ tối ưu.</span></p>
-</div>
-</div>
+<div class="tc w-100">
+	<img src="/img/đt chuyển phát(2).png" class="dib h3"/>
+	<img src="/img/facebook(1).png" class="dib h3"/>
 </div>
 
-<p style="text-align:center"><img alt="" height="525" src="/pictures/picfullsizes/2018/01/08/PC010029.JPG"></p>
-</div>
-</div>
+<p class="dib bg-blue white b ttu pa2">Giờ xe chạy</p>
 
-<div style="background-color: transparent; text-align: center;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
+<p class="tc b blue">Hải Phòng - Thái Bình - Nam Định </p>
 
-<div style="background-color: transparent; text-align: justify;">
-<p><span style="color: rgb(0, 137, 207); font-size: 16px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="62" src="/pictures/picfullsizes/2018/01/12/%C4%91i%E1%BB%87n%20tho%E1%BA%A1i.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/xekhachviphaiau/">&nbsp; &nbsp;<span contenteditable="false" tabindex="-1"><img alt="" data-widget="image" height="61" src="/pictures/picfullsizes/2018/01/04/facebook(3).png"></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-</div>
-
-<div style="font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY&nbsp;&nbsp;</span></div>
-
-<div style="color: rgb(51, 51, 51); font-weight: 300; background-color: transparent; text-align: center;">
-<div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span style="background-color: transparent; text-align: center; color: rgb(0, 137, 207); font-size: 16px;">&nbsp;&nbsp;</span><span style="background-color: transparent; text-align: justify; color: rgb(0, 137, 207); font-size: 16px; font-weight: 700;">Hải Phòng&nbsp;- Thái Bình -&nbsp;Nam Định&nbsp;&nbsp;</span></div>
-
-<table style="background-color: rgb(255, 255, 255); text-align: start; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
+<table class="w-100 table-slim-border table-padding-cell">
 	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Bến xe</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Lộ trình</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Giờ&nbsp;xe chạy</p>
+		<tr class="b bg-blue white">
+			<th>Bến xe</th>
+			<th>Lộ tr&igrave;nh</th>
+			<th>
+				Giờ&nbsp;xe chạy
 			</th>
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Tần suất</th>
+			<th>Tần suất</th>
 		</tr>
 		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Nam Định - Thái Bình</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">BX Nam Định</span>&nbsp;- Cầu Rào I - đường Phạm Văn Đồng - Cao tốc 5B - nút Cao tốc An Lão - Quý Cao</p>
-
-			<p>- Quốc lộ 10 -<b> BX TP.Thái Bình </b>và ngược lại.</p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p class="MsoNormal" style="text-align: justify;"><span style="font-weight: 700;">BX Cầu Rào:</span></p>
-
-			<p style="text-align: justify;">06h00 – 18h00</p>
-
-			<p>Liên tục 40&nbsp;- 60 phút/chuyến</p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 06h00</span></p>
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 18h00</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Thái Bình - Hải Phòng</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: 700;">BX Thái Bình</span>&nbsp; - thành phố Thái Bình - quốc lộ 10 -<strong> BX Nam Định</strong></td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">BX Thái Bình</span>:</p>
-
-			<p>07h30 – 19h30</p>
-
-			<p>Liên tục 40 - 60 phút/chuyến</p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 07h30</span></p>
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 19h30</span></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p style="text-align: start;">&nbsp;</p>
-
-<p style="text-align: start;">&nbsp;</p>
-</div>
-
-<div style="color: rgb(51, 51, 51); font-weight: 300; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nam Định - Thái Bình&nbsp;- Hải Phòng</span></span></span></div>
-
-<table style="background-color: rgb(255, 255, 255); font-size: 13px; font-weight: 300; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
-	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<th style="border: 1px solid rgb(221, 221, 221); text-align: center;">Bến xe</th>
-			<th style="border: 1px solid rgb(221, 221, 221); text-align: center;">Lộ trình</th>
-			<th style="border: 1px solid rgb(221, 221, 221);">
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Giờ&nbsp;xe chạy</p>
-			</th>
-			<th style="border: 1px solid rgb(221, 221, 221); text-align: center;">Tần suất</th>
-		</tr>
-		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Nam Định - Thái Bình</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>BX Nam Định</strong> - Đệ Tứ - Cầu La - Cầu Phúc Khánh - <strong>BX Thái Bình</strong></td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p class="MsoNormal" style="text-align: justify;"><strong>BX Nam Định:</strong></p>
-
-			<p style="text-align: justify;">05h40 – 18h00</p>
-
-			<p>Liên tục 40&nbsp;- 60 phút/chuyến</p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 05h40</span></p>
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 18h00</span></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Thái Bình - Hải Phòng</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>BX Thái Bình</strong> - Quốc lộ 10 - Quý Cao - nút cao tốc An Lão - cao tốc 5B - đường Phạm Văn Đồng - <strong>BX Cầu Rào</strong>.</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><strong>BX Thái Bình</strong>:</p>
-
-			<p>06h10 – 18h30</p>
-
-			<p>Liên tục 40 - 60 phút/chuyến</p>
-			</td>
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-			<p><strong>Chuyến sớm nhất: 06h10</strong></p>
-
-			<p><strong>Chuyến muộn nhất: 18h30</strong></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p style="color: rgb(51, 51, 51); font-size: 13px; font-weight: 300;">&nbsp;</p>
-
-<p style="color: rgb(51, 51, 51); font-size: 13px; font-weight: 300;">&nbsp;</p>
-
-<div style="font-weight: 300; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">BẢNG GIÁ&nbsp;</span></div>
-
-<div style="color: rgb(51, 51, 51); font-size: 13px; font-weight: 300; background-color: transparent; text-align: justify;">
-<p class="MsoListParagraphCxSpFirst" style="margin-left: 280px; text-indent: -0.25in; line-height: normal; text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp;</p>
-
-<div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span>
-
-<table style="background-color: rgb(255, 255, 255);color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236);">
-	<tbody>
-		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; font-weight: bold; text-transform: uppercase; text-align: center;"><span style="font-size: 16px;">VÉ CHẶNG</span></td>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; font-weight: bold; text-align: center;"><span style="font-size: 16px; line-height: 24px;">GIÁ CƯỚC</span></td>
-		</tr>
-		<tr>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><font color="#000000">Nam Định - Thái Bình</font></td>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;">
-			<p><span style="font-weight: 700; color: rgb(41, 43, 44); text-align: center;"><span style="color: rgb(255, 0, 0);">30.000 đồng</span></span></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;">Hải Phòng - Vĩnh Bảo</td>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><strong><span style="color:#FF0000;">50.000 đồng</span></strong></td>
-		</tr>
-		<tr>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;">Hải Phòng - Thái Bình</td>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><strong><span style="color:#FF0000;">65.000 đồng</span></strong></td>
-		</tr>
-		<tr>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;">Hải Phòng - Nam Định</td>
-			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><strong><span style="color:#FF0000;">80.000 đồng</span></strong></td>
-		</tr>
-	</tbody>
-</table>
-
-<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;">
-<p style="margin-bottom: 1rem; padding: 0px 0px 5px; text-align: justify;">&nbsp;</p>
-</div>
-</div>
-
-<p style="text-align: start;">&nbsp;</p>
-
-<table align="left" cellpadding="0" cellspacing="0">
-	<tbody>
-		<tr>
+			<td>Nam Định - Th&aacute;i B&igrave;nh</td>
 			<td>
-			<div style="background-color: transparent;">
-			<p class="MsoListParagraphCxSpMiddle" style="line-height: normal;">&nbsp;</p>
-
-			<table align="left" cellpadding="0" cellspacing="0">
-				<tbody>
-					<tr>
-						<td height="7">
-						<p style="margin-left: 80px;">&nbsp;</p>
-						</td>
-						<td>
-						<div class="container" style="position: relative; max-width: 100%; ">
-						<div class="ict detail">
-						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;">
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; line-height: 26px; color: rgb(35, 31, 32); text-align: start;">&nbsp;</p>
-
-						<div style="outline: 0px; font-size: 14px; line-height: 26px; color: rgb(35, 31, 32); background-color: transparent;">
-						<div style="outline: 0px; font-size: 16px; line-height: 26px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; line-height: 26px;"><span style="font-size:18px;"><span style="font-weight: 700;">XE KHÁCH HẢI ÂU</span></span></p>
-
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; line-height: 26px;"><span style="font-size:18px;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:</span></span></p>
-
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; line-height: 26px;"><span style="font-size:18px;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: 700;">02253. 717 717&nbsp;</span></span></span></p>
-
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; line-height: 26px;"><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" height="61" src="/pictures/picfullsizes/2018/01/03/facebook.png"></a></p>
-						</div>
-						</div>
-						</div>
-
-						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;"><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></div>
-						</div>
-						</div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</div>
+				<p><strong>BX Nam Định</strong>&nbsp;- Cầu R&agrave;o I - đường Phạm Văn Đồng - Cao tốc 5B - n&uacute;t Cao tốc An L&atilde;o - Qu&yacute; Cao</p>
+				<p>- Quốc lộ 10 -<strong>&nbsp;BX TP.Th&aacute;i B&igrave;nh&nbsp;</strong>v&agrave; ngược lại.</p>
+			</td>
+			<td>
+				<p><strong>BX Cầu R&agrave;o:</strong></p>
+				<p>06h00 &ndash; 18h00</p>
+				<p>Li&ecirc;n tục 40&nbsp;- 60 ph&uacute;t/chuyến</p>
+			</td>
+			<td>
+				<p><strong>Chuyến sớm nhất: 06h00</strong></p>
+				<p><strong>Chuyến muộn nhất: 18h00</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>Th&aacute;i B&igrave;nh - Hải Ph&ograve;ng</td>
+			<td><strong>BX Th&aacute;i B&igrave;nh</strong>&nbsp; - th&agrave;nh phố Th&aacute;i B&igrave;nh - quốc lộ 10 -<strong>&nbsp;BX Nam Định</strong></td>
+			<td>
+				<p><strong>BX Th&aacute;i B&igrave;nh</strong>:</p>
+				<p>07h30 &ndash; 19h30</p>
+				<p>Li&ecirc;n tục 40 - 60 ph&uacute;t/chuyến</p>
+			</td>
+			<td>
+				<p><strong>Chuyến sớm nhất: 07h30</strong></p>
+				<p><strong>Chuyến muộn nhất: 19h30</strong></p>
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+<p class="tc b blue">Nam Định - Thái Bình - Hải Phòng</p>
+
+<table class="w-100 table-slim-border table-padding-cell">
+	<tbody>
+		<tr class="b bg-blue white">
+			<th>Bến xe</th>
+			<th>Lộ tr&igrave;nh</th>
+			<th>
+				Giờ&nbsp;xe chạy
+			</th>
+			<th>Tần suất</th>
+		</tr>
+		<tr>
+			<td>Nam Định - Th&aacute;i B&igrave;nh</td>
+			<td><strong>BX Nam Định</strong>&nbsp;- Đệ Tứ - Cầu La - Cầu Ph&uacute;c Kh&aacute;nh -&nbsp;<strong>BX Th&aacute;i B&igrave;nh</strong></td>
+			<td>
+				<p><strong>BX Nam Định:</strong></p>
+				<p>05h40 &ndash; 18h00</p>
+				<p>Li&ecirc;n tục 40&nbsp;- 60 ph&uacute;t/chuyến</p>
+			</td>
+			<td>
+				<p><strong>Chuyến sớm nhất: 05h40</strong></p>
+				<p><strong>Chuyến muộn nhất: 18h00</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>Th&aacute;i B&igrave;nh - Hải Ph&ograve;ng</td>
+			<td><strong>BX Th&aacute;i B&igrave;nh</strong>&nbsp;- Quốc lộ 10 - Qu&yacute; Cao - n&uacute;t cao tốc An L&atilde;o - cao tốc 5B - đường Phạm Văn Đồng -&nbsp;<strong>BX Cầu R&agrave;o</strong>.</td>
+			<td>
+				<p><strong>BX Th&aacute;i B&igrave;nh</strong>:</p>
+				<p>06h10 &ndash; 18h30</p>
+				<p>Li&ecirc;n tục 40 - 60 ph&uacute;t/chuyến</p>
+			</td>
+			<td>
+				<p><strong>Chuyến sớm nhất: 06h10</strong></p>
+				<p><strong>Chuyến muộn nhất: 18h30</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="dib bg-blue white b ttu pa2">Bảng giá</p>
+
+<table class="w-100 table-slim-border table-padding-cell">
+	<tbody>
+		<tr class="b bg-blue white">
+			<td>V&Eacute; CHẶNG</td>
+			<td>GI&Aacute; CƯỚC</td>
+		</tr>
+		<tr>
+			<td><span style="color: #000000;">Nam Định - Th&aacute;i B&igrave;nh</span></td>
+			<td>
+				<p>30.000 đồng</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Hải Ph&ograve;ng - Vĩnh Bảo</td>
+			<td><strong>50.000 đồng</strong></td>
+		</tr>
+		<tr>
+			<td>Hải Ph&ograve;ng - Th&aacute;i B&igrave;nh</td>
+			<td><strong>65.000 đồng</strong></td>
+		</tr>
+		<tr>
+			<td>Hải Ph&ograve;ng - Nam Định</td>
+			<td><strong>80.000 đồng</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<div class="w-100 mv4 w-100 tc ba b--dashed b--blue blue b bg-light-gray pa3 tj ">
+	<p class="tc lh-copy">
+		​XE KHÁCH HẢI ÂU
+		<br/>
+		MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:
+		<br/>
+		<span class="b red">02253. 711 711</span>
+		<br/>
+		<img class="dib" src="/img/facebook.png"/>
+	</p>
 </div>
-                    </div>
+

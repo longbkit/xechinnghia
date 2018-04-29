@@ -6,7 +6,18 @@
         <a class="link f7 dib mr3 white pl2 dim" href="/">Trang chủ</a>
       </li>
       <li class=" dib">
-        <a class="link f7 dib mr3 white pl2 dim" href="/gioi-thieu-cong-ty/">Giới thiệu</a>
+        <a class="link f7 dib mr3 white pl2 dim" href="#">Giới thiệu</a>
+        <div class="sub-menu pt2 dn absolute top-100 z-max">
+          <ul class="list bg-color tl ph1 br2 b--black-10 shadow-1">
+            {{ range sort (where .Site.Pages ".Type" "gioi-thieu") ".Weight" "asc" }}
+            {{ if .Weight}}
+            <li class=" bb b--white-50">
+              <a class="link f7 dib mr3 tl pa1 white dim" href="{{ .URL }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+          </ul>
+        </div>
       </li>
       <li class=" dib">
         <a class="link f7 dib mr3 white pl2 dim" href="#">Các tuyến xe khách</a>
