@@ -1,0 +1,12 @@
+<div class="w-50 pr4">
+		<div class="dark-gray">
+		<a href="{{ .URL }}" class="db link dim tc h-100">
+			<div class="w-100 aspect-ratio aspect-ratio--6x4">
+			<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="aspect-ratio--object cover db black-10"/>
+			</div>
+			<p class="f6 h2 mb4 mb2-l tl ml0 color b">{{ .Title }}</p>
+			<div class="f7 tl vxr-gray">{{ dateFormat "03/01/02" .Date }}</div>
+			<p class="f6 color tj">{{ .Description }}</p>
+		</a>
+	</div>
+</div>

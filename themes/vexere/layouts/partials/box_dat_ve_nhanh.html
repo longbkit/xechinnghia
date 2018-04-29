@@ -1,0 +1,28 @@
+<div class="bg-white bt b--blue bw1 f5 tc blue mb4 ">
+	<p class="ttu b">Đặt vé nhanh</p>
+	{{ $posts := (where .Site.Pages.ByWeight "Type" "bang-gia") }}
+	{{ range $index, $element := $posts }}
+	{{ if .Params.from }}
+	<div class="dt dt--fixed color f6 pb2 mb2 bb b--light-gray">
+		<div class="b mb1 tl">
+			{{ print .Params.from  " - "  $element.Params.to }}
+		</div>
+		<div class="mb1 tl">
+			{{ .Params.seatName }}
+		</div>
+		<div class="mb1 tl">
+			{{ .Params.schedulesPerDay }} chuyến/ngày
+		</div>
+		<div class="dtc tr">
+			<div class="db mb1">{{ lang.NumFmt 0 .Params.price "- . ." }}đ</div>
+			<form action="/dat-ve-truc-tuyen" id="fSelectDate{{ $index }}">
+				<input type="hidden" name="from" value="{{ .Params.fromId }}">
+				<input type="hidden" name="to" value="{{ .Params.toId }}">
+				<input type="hidden" name="departDate" id="selectDate{{ $index }}">
+				<input class="h2 f6 button-reset ph3 tc bn bg-animate btn-bg-color hover-bg-black white pointer br2-ns lh-copy shadow-1" id="btnSelectDate{{ $index }}" type="submit" value="Chọn ngày" onclick="return false;">
+			</form>
+		</div>
+	</div>
+	{{ end }}
+	{{ end }}
+</div>
