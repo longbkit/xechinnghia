@@ -1,59 +1,67 @@
-<header class="flex justify-between bg-color items-center ph3 ph6-l pv2-l sans-serif">
-  <a class="dib link" href="/"><span class="f2 fw6 white athelas ttu tracked">Hải Âu</span></a>
+<header class="flex justify-between bg-color items-center ph3 ph6-l sans-serif">
+  <a class="dib link" href="/"><img src="/img/logo-haiau.png"/></a>
   <nav class="flex-l items-center dn db-l">
-    <ul class="list" style="margin: auto">
-      <li class=" dib">
-        <a class="link f7 dib mr3 white pl2 dim" href="/">Trang chủ</a>
+    <ul class="list mv0" >
+      <li class=" dib hover-bg-dark-blue">
+        <a class="link b f6 white ph3 dtc v-mid" href="/"><span class="">Trang chủ</span></a>
       </li>
-      <li class=" dib">
-        <a class="link f7 dib mr3 white pl2 dim" href="#">Giới thiệu</a>
-        <div class="sub-menu pt2 dn absolute top-100 z-max">
-          <ul class="list bg-color tl ph1 br2 b--black-10 shadow-1">
+      <li class=" dib hover-bg-dark-blue">
+        <a class="link b f6 dib mr3 white ph3 dim dtc v-mid" href="#"><span>Giới thiệu</span></a>
+        <div class="sub-menu dn absolute top-100 z-max">
+          <ul class="list bg-white tl ph1">
             {{ range sort (where .Site.Pages ".Type" "gioi-thieu") ".Weight" "asc" }}
             {{ if .Weight}}
             <li class=" bb b--white-50">
-              <a class="link f7 dib mr3 tl pa1 white dim" href="{{ .URL }}">{{ .Title }}</a>
+              <a class="link f6 dib mr3 tl pa2 color dim" href="{{ .URL }}">{{ .Title }}</a>
             </li>
             {{ end }}
             {{ end }}
           </ul>
         </div>
       </li>
-      <li class=" dib">
-        <a class="link f7 dib mr3 white pl2 dim" href="#">Các tuyến xe khách</a>
-        <div class="sub-menu pt2 dn absolute top-100 z-max">
-          <ul class="list bg-color tl ph1 br2 b--black-10 shadow-1">
+      <li class=" dib hover-bg-dark-blue">
+        <a class="link b f6 dib mr3 white ph3 dim dtc v-mid" href="#">Các tuyến xe khách</a>
+        <div class="sub-menu dn absolute top-100 z-max">
+          <ul class="list bg-white tl ph1 pt2">
+            {{ .Scratch.Set "prevCat" "empty"}}
+            {{ $rootScratch := .Scratch }}
             {{ range sort (where .Site.Pages ".Type" "tuyen-duong") ".Weight" "asc" }}
-            {{ if .Weight}}
+            {{ if .Weight }}
+            {{ if ne ($rootScratch.Get "prevCat") .Params.category }}
+            <li class="b dark-blue bb b--white-50">
+              {{ .Params.category }}
+            </li>
+            {{ $rootScratch.Set "prevCat" .Params.category}}
+            {{ end }}
             <li class=" bb b--white-50">
-              <a class="link f7 dib mr3 tl pa1 white dim" href="{{ .URL }}">{{ .Title }}</a>
+              <a class="link f6 dib mr3 tl pa2 color dim" href="{{ .URL }}">{{ .Title }}</a>
             </li>
             {{ end }}
             {{ end }}
           </ul>
         </div>
       </li>
-      <li class="dib">
-        <a class="link f7 dib mr3 white pl2 dim" href="#">Dịch vụ chuyển phát</a>
-        <div class="sub-menu pt2 dn  absolute top-100 z-max">
-          <ul class="list bg-color tl ph1 ma0 br2 b--black-10 shadow-1 pt1">
+      <li class="dib hover-bg-dark-blue">
+        <a class="link b f6 dib mr3 white ph3 dim dtc v-mid" href="#">Dịch vụ chuyển phát</a>
+        <div class="sub-menu dn  absolute top-100 z-max">
+          <ul class="list bg-white tl ph1 ">
             <li class=" bb b--white-50">
-              <a class="link f7 dib mr3 white tl pa1 dim" href="/chuyen-phat-nhanh/">Chuyển phát nhanh</a>
+              <a class="link f6 dib mr3 color tl pa2 dim" href="/chuyen-phat-nhanh/">Chuyển phát nhanh</a>
             </li>
             <li class=" bb b--white-50">
-              <a class="link f7 dib mr3 white tl pa1 dim" href="/chuyen-phat-vip">Chuyển phát VIP</a>
+              <a class="link f6 dib mr3 color tl pa2 dim" href="/chuyen-phat-vip">Chuyển phát VIP</a>
             </li>
           </ul>
         </div>
       </li>
-      <li class="dib">
-        <a class="link f7 dib mr3 white tl pa1 dim" href="/tin-tuc/">Tin tức</a>
+      <li class="dib hover-bg-dark-blue">
+        <a class="link b f6 dib mr3 white ph3 dim dtc v-mid" href="/tin-tuc/">Tin tức</a>
       </li>
-      <li class="dib">
-        <a class="link f7 dib mr3 white dim" href="/FAQs/">FAQs</a>
+      <li class="dib hover-bg-dark-blue">
+        <a class="link b f6 dib mr3 white ph3 dim dtc v-mid" href="/FAQs/">FAQs</a>
       </li>
-      <li class="dib">
-        <a class="link f7 dib white dim" href="/lien-he/">Liên hệ</a>
+      <li class="dib hover-bg-dark-blue">
+        <a class="link b f6 dib white dim ph3 dtc v-mid" href="/lien-he/">Liên hệ</a>
       </li>
     </ul>
   </nav>
