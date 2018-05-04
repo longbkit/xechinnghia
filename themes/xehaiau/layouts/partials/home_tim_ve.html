@@ -1,0 +1,33 @@
+<div class="absolute bottom-0 tc ph3 ph6-l w-100">    
+    <div class="pv3 bt br--bottom b--black-10 bg-color ph3 ph5-l">
+        <p class="f4 tl b white ttu">Tìm kiếm chuyến đi</p>
+        <form class="" action="/dat-ve-truc-tuyen">
+            <fieldset class="bn ma0 pa0 ">
+                <div class="cf flex flex-wrap justify-between">
+                    <div class="w-100 w-25-l pr2-l pb2">
+                        <select class="w-100 h3 f4 input-reset bn black-80 bg-white pa2" placeholder="Nơi đi" type="text" name="from" value="" id="from" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đi')" oninput="this.setCustomValidity('')" required>
+                            <option value="">Nơi đi</option>
+                            <option value="24">Hà Nội</option>
+                            <option value="27">Hải Phòng</option>
+                            <option value="54">Thái Bình</option>
+                        </select>
+                    </div>
+                    <div class="w-100 w-25-l pr2-l pb2">
+                        <select class="w-100 h3 f4 input-reset bn black-80 bg-white pa2" placeholder="Nơi đến" type="text" name="to" value="" id="to" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đến')" oninput="this.setCustomValidity('')" required>
+                            <option value="">Nơi đến</option>
+                            <option value="24">Hà Nội</option>
+                            <option value="27">Hải Phòng</option>
+                            <option value="54">Thái Bình</option>
+                        </select>
+                    </div>
+                    <div class="w-100 w-25-l pr2-l pb2">
+                        <input type="text" class="w-100 h3 f4 input-reset bn black-80 bg-white pa2 lh-copy mr2 date-picker" placeholder="Chọn ngày đi" type="text" name="departDate" value="" id="departDate">
+                    </div>
+                    <div class="w-100 w-25-l pr2-l">
+                        <input class="w-100 h3 f4 button-reset ph3 tc bn bg-animate bg-cta dim black pointer shadow-1 ttu" type="submit" value="Tìm kiếm">
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>

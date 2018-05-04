@@ -1,8 +1,9 @@
 ---
-title: "VIP Hải Âu: Hải Phòng - Hà Nội"
-weight:  1
+title: "VIP Thượng Lý - Nước Ngầm"
+weight:  3
+category: "Hải Phòng - Hà Nội"
 date: 2018-03-16T11:47:10+07:00
-url: /vip-hai-au-hai-phong-ha-noi/
+url: /vip-thuong-ly-nuoc-ngam/
 description: ""
 thumbnail: /img/driver.png
 image: /img/driver.png

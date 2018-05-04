@@ -1,0 +1,9 @@
+<div>
+  <div class="db tab-news">
+		{{ with .Site.GetPage "section" "tin-tuc" }}
+    {{ range .Params.right_banners }}
+    <img class="w-100" src="{{ .image }}"/>
+    {{ end }}
+    {{ end}}
+  </div>
+</div>	

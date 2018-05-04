@@ -1,6 +1,7 @@
 ---
-title: "Xe cao tốc Hải Phòng - Thái Bình - Nam Định"
-weight:  4
+title: "Cao tốc Hải Phòng - Nam Định"
+weight:  8
+category: "Hải Phòng - Nam Định"
 date: 2018-03-16T11:47:10+07:00
 url: /xe-cao-toc-hai-phong-thai-binh-nam-dinh/
 description: ""

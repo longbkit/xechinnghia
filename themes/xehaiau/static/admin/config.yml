@@ -8,33 +8,50 @@ public_folder: "/img" # The src attribute for uploaded media will begin with /im
 
 collections:
   - name: "Homepage"
-    label: "Trang chủ"
+    label: "Cấu hình chung"
     files:
       - file: "content/_index.md"
         name: "home"
         label: "Trang chủ"
         fields:
-        - {label: "Tiêu đề", name: title, widget: string}
-        - {label: "Banner", name: image, widget: image}
-        - {label: "Values", name: "values", widget: "object", fields: [
-            {label: "Tiêu đề", name: "heading", widget: string},
-            {label: "Giá trị cốt lõi", name: "data", widget: "list", fields: [
-              {label: "Tên", name: "title", widget: "string"},
-              {label: "Mô tả", name: "description", widget: "text"}]}]}
-        - {label: "Tuyến đường", name: "routes", widget: object, fields: [
-            {label: "Tiêu đề", name: "heading", widget: string}]}
-        - {label: "Tin tức", name: ""}
-      - file: "content/gioi-thieu/gioi-thieu-hai-au.md"
-        name: "gioi-thieu-hai-au"
-        label: "Giới thiệu công ty"
+        - {label: "Tiêu đề", name: "title", widget: string}
+        - {label: "Banner", name: "banners", widget: "list", fields: [
+            {label: "Hình ảnh", name: "image", widget: image}, 
+            {label: "Mô tả", name: "description", widget: text}]}
+        - {label: "Đề mục chính", name: "headings", widget: object, fields: [
+            {label: "Chuyến đi phổ biến", name: route, widget: string},
+            {label: "Giá trị cốt lõi", name: value, widget: string},
+            {label: "Tin tức", name: news, widget: string},
+            {label: "Dịch vụ nổi bật", name: service, widget: string}]}
+        - {label: "Giá trị cốt lõi", name: "values", widget: "object", fields: [
+              {label: "Tên", name: "title", widget: string},
+              {label: "Mô tả", name: description, widget: text},
+              {label: "Hình ảnh", name: image, widget: image}]}
+        - {label: "Tuyến đường phổ biến", name: "popularRoutes", widget: "list", fields: [
+              {label: "Từ", name: "from", widget: string},
+              {label: "Đến", name: "to", widget: string},
+              {label: "Khoảng thời gian", name: "duration", widget: string},
+              {label: "Hình ảnh", name: image, widget: image},
+              {label: "Loại", name: type, widget: string}]}
+        - {label: "Giới thiệu", name: "intro", widget: string}
+        - {label: "Liên hệ", name: "contact", widget: object, fields: [
+            {label: "Tiêu đề", name: title, widget: string},
+            {label: "Địa chỉ", name: address, widget: string},
+            {label: "Email", name: email, widget: string},
+            {label: "Số ĐT", name: phone, widget: string}]}
+        - {label: "Đăng ký nhận tin", name: "subscribe", widget: object, fields: [
+            {label: "Tiêu đề", name: title, widget: string},
+            {label: "Mô tả", name: description, widget: text},
+            {label: "Nút đăng ký", name: button_text, widget: string}]}
+      - file: "tin-tuc/_index.md"
+        name: "tin-tuc"
+        label: "Trang tin tức"
         fields:
         - {label: "Tiêu đề", name: "title", widget: string}
         - {label: "Mô tả", name: "description", widget: text}
-        - {label: "Ngày đăng", name: "date", widget: datetime}
-        - {label: "Hình ảnh", name: "image", widget: image}
-        - {label: "Ảnh thu nhỏ", name: "thumbnail", widget: image}
-        - {label: "Nội dung", name: "body", widget: markdown}
-
+        - {label: "Banner chính", name: "banner", widget: image}
+        - {label: "Banner bên phải", name: "right_banners", widget: list, fields:[
+            {label: "Hình ảnh", name: image, widget: image}]}
   - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
     label: "Tin tức" # Used in the UI
     folder: "content/tin-tuc" # The path to the folder where the documents are stored
@@ -47,17 +64,6 @@ collections:
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Trang riêng"
-    folder: "content/pages"
-    create: true
-    fields:
-      - {label: "Layout", name: "layout", widget: "string", default: "tin-tuc"}
-      - {label: "Link", name: "url", widget: "string", default: "tin-tuc"}
-      - {label: "Tiêu đề", name: "title", widget: "string"}
-      - {label: "Mô tả", name: "description", widget: "string"}
-      - {label: "Ngày đăng", name: "date", widget: "datetime"}
-      - {label: "Nội dung", name: "body", widget: "markdown"}
   - name: "routes"
     label: "Tuyến đường"
     folder: "content/tuyen-duong"
@@ -66,6 +72,28 @@ collections:
       - {label: "Tiêu đề", name: "title", widget: "string"}
       - {label: "Thứ tự", name: "weight", widget: "string"}
       - {label: "Link", name: "url", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "gioi-thieu"
+    label: "Giới thiệu"
+    folder: "content/gioi-thieu"
+    create: true
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Thứ tự", name: "weight", widget: "string"}
+      - {label: "Link", name: "url", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Trang riêng"
+    folder: "content/pages"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "string", default: "tin-tuc"}
+      - {label: "Link", name: "url", widget: "string", default: "tin-tuc"}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Nội dung", name: "body", widget: "markdown"}

@@ -1,8 +1,9 @@
 ---
-title: "Xe đường 5A: Hải Phòng - Hải Dương - Hà Nội"
+title: "5A Cầu Rào - Gia Lâm"
 weight:  5
+category: "Hải Phòng - Hà Nội"
 date: 2018-03-16T11:47:10+07:00
-url: /xe-duong-5a-hai-phong-hai-duong-ha-noi/
+url: /5a-cau-rao-gia-lam/
 description: ""
 thumbnail: /img/driver.png
 image: /img/driver.png

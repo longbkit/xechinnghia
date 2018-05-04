@@ -1,5 +1,13 @@
+nav > ul, nav > ul > li > a {
+  height: 66px;
+}
+
+.home-banner {
+  height: 795px;
+}
+
 .main-background {
-	background-image: url(/img/banner-haiau.jpg);
+	background-image: url(/img/banner-haiau.png);
     background-repeat: no-repeat;
     background-size: 100%;
     margin-bottom: -4px;
@@ -9,7 +17,21 @@ nav li:hover>.sub-menu {
   display:block;
 }
 
-@media (--breakpoint-large) {
+table.table-slim-border, table.table-slim-border th,
+table.table-slim-border tr, table.table-slim-border td {
+  border-collapse: collapse;
+  border: 1px solid rgb(236, 236, 236);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table.table-padding-cell td, table.table-padding-cell th {
+  padding-top: 1em !important;
+  padding-bottom: 1em !important;
+}
+
+@media screen and (min-width: 64em) {
 
   .w6-l {
     width: 20rem;
@@ -21,12 +43,65 @@ nav li:hover>.sub-menu {
 
 }
 
-.bg-color {
-	background-color: #0071b7;
+.h4-5 {
+  height: 12rem
+}
+
+.w6 {
+  width: 32rem;
 }
 
 .color {
-	color: #d5ffff;
+	color: #333333;
+}
+
+.vxr-blue {
+  color: #0088CF;
+}
+
+.bg-color {
+  background-color: #0071b7;
+}
+
+.bg-color-2 {
+  background-color: #f2f6ff;
+}
+
+.bg-cta {
+  background-color: #f0c11d;
+}
+
+.h1-color {
+  color: #00000;
+}
+
+.h2-color {
+  color: #00000;
+}
+
+.h3-color {
+  color: #00000;
+}
+
+.desc-color {
+  color: #0171b9;
+}
+
+.minor-desc-color {
+  color: #6d54548c;
+}
+
+
+.bg-vxr-gray {
+  background-color:#EAEBF0;
+}
+/* old gray #F0F5F7*/
+.vxr-gray {
+  color: #B3B3B3;
+}
+
+.btn-bg-color {
+  background-color: #E03B28;
 }
 
 .popupCloseBtn:before, .popupCloseBtn:after {
@@ -223,4 +298,10 @@ Header - navigation
 
 .h7 {
   height: 48rem;
+}
+
+.owl-pagination {
+  position: absolute;
+  right: 0;
+  bottom: 0px;
 }

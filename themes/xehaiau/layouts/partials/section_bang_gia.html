@@ -1,0 +1,48 @@
+<section class="ph2 ph6-l">
+		<div class="cf tr bg-vxr-gray color pa3 mt4">
+			<div class="fl-l tc ttu pa2">Bảng giá vé xe khách Hải Âu 2018</div>
+			<select class="dn fr tc w-100 w5-l mt3 mt0-l pa2">
+				<option>Chọn nơi đi</option>
+				<option>Hà Nội</option>
+				<option>Hải Phòng</option>
+				<option>Thái Bình</option>
+			</select>
+		</div>
+		{{ $posts := (where .Data.Pages.ByWeight "Type" "bang-gia") }}
+		{{ range $index, $element := $posts }}
+		<div class="dt dt--fixed color f7 pa3">
+			<div class="dtc-l b mb1 mb0-l">
+				{{ print .Params.from  " - "  $element.Params.to }}
+			</div>
+			<div class="dtc-l mb1 mb0-l">
+				{{ .Params.seatName }}
+			</div>
+			<div class="dtc-l mb1 mb0-l">
+				{{ .Params.schedulesPerDay }} chuyến/ngày
+			</div>
+			<div class="dn dtc-l ">{{ lang.NumFmt 0 .Params.price "- . ." }}đ</div>
+			<div class="dtc tr">
+				<div class="dn-l db mb1">{{ lang.NumFmt 0 .Params.price "- . ." }}đ</div>
+				<form action="/dat-ve-truc-tuyen" id="fSelectDate{{ $index }}">
+					<input type="hidden" name="from" value="{{ .Params.fromId }}">
+					<input type="hidden" name="to" value="{{ .Params.toId }}">
+					<input type="hidden" name="departDate" id="selectDate{{ $index }}">
+					<input class="w4 h2 f7 button-reset ph3 tc bn bg-animate btn-bg-color hover-bg-black white pointer br2-ns lh-copy shadow-1" id="btnSelectDate{{ $index }}" type="submit" value="Chọn ngày" onclick="return false;">
+				</form>
+			</div>
+		</div>
+		{{ end }}
+		<!--
+		<div class="mw8 tr mv3 ">
+		  <div class="dib overflow-hidden ba br2 b--light-silver">
+		    <nav class="cf" data-name="pagination-numbers-bordered">
+		      <a class="fl dib link dim vxr-gray f7 b pa2 br b--light-silver" href="" title="Previous">← Trước</a>
+		      <a class="fr dib link dim vxr-gray f7 b pa2" href="" title="Next">Sau →</a>
+		      <div class="overflow-hidden center dt tc">
+		        <a class="dtc link dim vxr-gray selected f7 b pa2 br b--light-silver" href="" title="">1</a>
+		      </div>
+		    </nav>
+		  </div>
+		</div>
+		-->
+</section>

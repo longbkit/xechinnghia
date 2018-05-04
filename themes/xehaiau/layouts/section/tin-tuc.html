@@ -1,23 +1,47 @@
 {{ define "main" }}
 
-<main class="cf dark-gray">
+{{ partial "carousel_other_page" . }}
 
-	{{ partial "section_breadcrumbs_single" . }}
-	<div class="mw8-5 center darkblue">
-		<div class="fl mw7-5">
+<main class="dark-gray">
+	<section class="ph3 ph6-l">
+		<div class=" ">
+			<p class="color tj">{{ .Content }}</p>
+		</div>
+	</section>
+	<section class="ph3 ph6-l center darkblue">
+		<div class="">
 		{{ range $index, $element := (.Paginate .Data.Pages.ByPublishDate.Reverse).Pages }}
-		{{ if eq $index 0 }}
-			{{ partial "news_first_article" $element }}
-		{{ else }}
-			{{ partial "news_default_article" $element }}
-		{{ end }}
+		<div class="w-100 mt2 pb3 bt b--blue">
+			<a href="{{ .URL }}" class="db link dim tc flex flex-wrap">
+				<div class="w-25">
+					<div class="aspect-ratio aspect-ratio--6x4 mt3">
+						<img src="{{ .Params.Thumbnail }}" alt="{{ .Title }}" class="aspect-ratio--object cover db black-10"/>
+					</div>
+				</div>
+				<div class="w-75 pl3">
+					<p class="f6 tl ml0 color b">{{ .Title }}</p>
+					<div class="f7 tl vxr-gray">{{ dateFormat "03/01/02" .Date }}</div>
+					<p class="f6 color tj">{{ .Description }}</p>
+				</div>
+			</a>
+		</div>
+
 		{{ end }}
 
 		{{ partial "pagination" . }}
 		</div>
+		<div class="mb3 lh-copy">
+			<h2 class="f5 ttu desc-color">Tin tức liên quan</h2>
+			<div class="pl3">
+			{{ if .Paginator.HasNext }}
+			{{ range $index, $element := .Paginator.Next.Pages }}
+			<a href="{{ .URL }}" class="db link dim">{{ .Title }}</a>
+			{{ end}}
+			{{ end}}
+			</div>
+		</div>
 
-		{{ partial "section_right_news" . }}
-	</div>
+	</section>
 </main>
 
 {{ end }}

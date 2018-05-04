@@ -1,6 +1,7 @@
 ---
 title: "Xe buýt nội đô"
-weight:  7
+weight:  10
+category: "Các tuyến khác"
 date: 2018-03-16T11:47:10+07:00
 url: /xe-buyt-noi-do/
 description: ""

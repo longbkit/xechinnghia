@@ -1,5 +1,29 @@
 {{ template "_internal/google_analytics.html" . }}
 
-<script src="{{ .Site.BaseURL }}js//jquery.min.js.download"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="{{ .Site.BaseURL }}js//owl.carousel.min.js"></script>
 <script>var nv_base_siteurl="/",nv_lang_data="vi",nv_lang_interface="vi",nv_name_variable="nv",nv_fc_variable="op",nv_lang_variable="language",nv_module_name="news",nv_func_name="main",nv_is_user=0, nv_my_ofs=7,nv_my_abbr="ICT",nv_cookie_prefix="nv4c_x721L",nv_check_pass_mstime=1738000,nv_area_admin=0,nv_safemode=0,theme_responsive=1;</script>
 
+<script type="text/javascript">
+	$(function(){
+		$('.owl-carousel').owlCarousel({
+			navigation: false, // Show next and prev buttons
+			navigationText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+			slideSpeed: 2000,
+			paginationSpeed: 1000,
+			autoPlay: true,
+			stopOnHover: true,
+			singleItem: true,
+			lazyLoad: false,
+			addClassActive: true,
+			afterInit: function () {
+			  // animationsSlider()
+			},
+			afterMove: function () {
+			  // animationsSlider()
+			}
+		});
+
+		
+	})
+</script>

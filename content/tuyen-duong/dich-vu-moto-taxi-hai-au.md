@@ -1,6 +1,7 @@
 ---
 title: "Dịch vụ MOTO TAXI Hải Âu"
-weight:  7
+weight:  9
+category: "Các tuyến khác"
 date: 2018-03-16T11:47:10+07:00
 url: /dich-vu-moto-taxi-hai-au/
 description: ""

@@ -1,43 +1,44 @@
-
-<section class="flex main-background items-center-l">
-    <div class="dib center left-l br1 bn ba-l b--black-10 mv5-l ml4-l w-100 w-25-l h-100">
-        <h1 class="f4 bg-near-white br1 br--top blue-60 mv0 pv2 ph3 ttu flex items-center">
-            <img src="img/ticket.png" class="w2 h2 mr2"></img>
-            <span>Tìm vé xe rẻ</span>
-        </h1>
-        <div class="pa3 bt br1 br--bottom b--black-10 bg-near-white">
+<section class="tc center relative bg-vxr-gray">
+    <div class="tr h-100-l h4-5 ">
+        <img src="/img/banner-haiau.png" class="h-100"/>
+    </div>
+    <div class="absolute w-100 tc top-0 ph2 ph6-l">
+        <p class="dib db-l t0 l0 w-80 w-40-l w-6-l tc tl-l vxr-blue db mt4 mt5-l">
+            <span class="f3 f2-l db">Xe khách Hải Âu</span>
+            <span class="f3 f2-l vxr-blue db mt2 tc tj-l">An toàn chất lượng, mọi lúc mọi nơi</span>
+            <span class="f6 dn db-l mt2 tj color">Xe khách Hải Âu an toàn chất lượng hàng đầu, mọi lúc mọi nơi, an toàn chất lượng hàng đầu an toàn chất lượng hàng đầu, hàng đầu chất lượng an toàn.</span>
+        </p>
+    </div>
+    <div class="bg-color tc ph3 ph6-l">
+        <div class="pv3 bt br1 br--bottom b--black-10">
             <form class="" action="/dat-ve-truc-tuyen">
-                <fieldset class="cf bn ma0 pa0">
-                    <div class="cf flex flex-column">
-                        <select class="f5 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid br2-ns" placeholder="Nhập nơi bạn đi" type="text" name="from" value="" id="from" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đi')" oninput="this.setCustomValidity('')" required>
-                            <option value="">Nhập nơi bạn đi</option>
-                            <option value="24">Hà Nội</option>
-                            <option value="27">Hải Phòng</option>
-                            <option value="54">Thái Bình</option>
-                        </select>
-                        <select class="f5 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid br2-ns mt2" placeholder="Nhập nơi bạn đến" type="text" name="to" value="" id="to" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đến')" oninput="this.setCustomValidity('')" required>
-                            <option value="">Nhập nơi bạn đến</option>
-                            <option value="24">Hà Nội</option>
-                            <option value="27">Hải Phòng</option>
-                            <option value="54">Thái Bình</option>
-                        </select>
-                        <input type="text" class="f5 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid br2-ns mt2 date-picker" placeholder="Chọn ngày đi" type="text" name="departDate" value="" id="departDate">
-                        <input class="f4 f4-l button-reset fl pv3 tc bn bg-animate bg-black-70 hover-bg-black white pointer br2-ns mt2" type="submit" value="Tìm Vé Xe Rẻ">
+                <fieldset class="bn ma0 pa0 ">
+                    <div class="cf flex flex-wrap justify-between">
+                        <div class="w-100 w-25-l pr2-l pb2">
+                            <select class="w-100 h2 f7 input-reset bn black-80 bg-white pa2 lh-copy br2-ns" placeholder="Nhập nơi bạn đi" type="text" name="from" value="" id="from" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đi')" oninput="this.setCustomValidity('')" required>
+                                <option value="">Nhập nơi bạn đi</option>
+                                <option value="24">Hà Nội</option>
+                                <option value="27">Hải Phòng</option>
+                                <option value="54">Thái Bình</option>
+                            </select>
+                        </div>
+                        <div class="w-100 w-25-l pr2-l pb2">
+                            <select class="w-100 h2 f7 input-reset bn black-80 bg-white pa2 lh-copy br2-ns" placeholder="Nhập nơi bạn đến" type="text" name="to" value="" id="to" oninvalid="this.setCustomValidity('Vui Lòng chọn nơi đến')" oninput="this.setCustomValidity('')" required>
+                                <option value="">Nhập nơi bạn đến</option>
+                                <option value="24">Hà Nội</option>
+                                <option value="27">Hải Phòng</option>
+                                <option value="54">Thái Bình</option>
+                            </select>
+                        </div>
+                        <div class="w-100 w-25-l pr2-l pb2">
+                            <input type="text" class="w-100 h2 f7 input-reset bn black-80 bg-white pa2 lh-copy br2-ns mr2 date-picker" placeholder="Chọn ngày đi" type="text" name="departDate" value="" id="departDate">
+                        </div>
+                        <div class="w-100 w-25-l pr2-l">
+                            <input class="w-100 h2 f7 button-reset ph3 tc bn bg-animate btn-bg-color hover-bg-black white pointer br2-ns lh-copy shadow-1" type="submit" value="Tìm Vé Xe Rẻ">
+                        </div>
                     </div>
                 </fieldset>
             </form>
         </div>
     </div>
-
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.min.js"
-      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-      crossorigin="anonymous"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.4/js/standalone/selectize.min.js"></script>
-    <script>
-
-    </script>
-
-
-
 </section>

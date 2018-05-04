@@ -1,0 +1,17 @@
+<section class="cf ph3 ph6-l mb4">
+	{{ with .Site.GetPage "/content/_index.md" }}
+	<p class="f4 f4-l tc blue mt4">{{ .Title }}</p>
+	{{ end }}
+	<div class="cf">
+  {{ range .Params.values }}
+	<div class="dtc-l fl w-50 w-25-l pa2">
+		<div class="dark-gray tc">
+				<img class="w3 h3 " src="{{ .image }}" alt="{{ .title }}" class="w-100 h5 db black-10"/>
+				<p class="f4 b tc ml0 h3-color truncate">{{ .title }}</p>
+				<p class="f5 tc minor-desc-color ph3 ">{{ .description }}</p>
+		</div>
+	</div>
+  {{ end }}
+	</div>
+
+</section>

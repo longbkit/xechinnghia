@@ -1,19 +1,22 @@
-<section class="cf ph2 ph6-l">
-	<h1 class="f3 f2-l tc blue mt4">{{ .Params.headings.news }}</h1>
-	<div class="cf">
+<section class="cf ph3 ph6-l bg-vxr-gray">
+	<p class="f2 f2-l b tc mt4 ttu h1-color">{{ .Params.headings.news }}</p>
 	{{ $posts := .Paginate (where .Data.Pages.ByPublishDate.Reverse "Type" "tin-tuc") }}
-  {{ range first 4 $posts.Pages }}
-	<div class="fl w-100 w-25-l pa2">
-		<a href="{{ .URL }}" class="db link dim tc">
-			<div class="absolute pa2 white">{{ dateFormat "02-01-2006" .PublishDate }}</div>
-			<img src="{{ .Params.Thumbnail }}" alt="The Life of Pablo - Album Cover" class="w-100 db black-10" style="min-height: 12rem;"/>
-			<dl class="mt2 f6 lh-copy">
-				<dt class="clip">Title</dt>
-				<dd class="f5 tj ml0 dark-gray">{{ .Title }}</dd>
-			</dl>
-		</a>
+	<div class="flex flex-wrap">
+	{{ range $index, $element := first 4 $posts.Pages }}
+	<div class="w-50 pa2 h-75 h-100-l">
+			<div class="dark-gray h-100">
+			<a href="{{ .URL }}" class="relative db link dim tc h-100">
+				<div class="w-100 aspect-ratio aspect-ratio--16x9">
+					<img src="{{ .Params.Thumbnail }}" alt="{{ .Title }}" class="aspect-ratio--object cover db black-10"/>
+				</div>
+				<p class="absolute bottom-0 left-1 f5 b h2 tl ml0 white truncate z-999">{{ .Title }}</p>
+				<div class="absolute bottom-0 mb2 left-1 f7 tl yellow z-999">{{ dateFormat "03/01/02" .Date }}</div>
+			</a>
+		</div>
 	</div>
   {{ end }}
-</div>
-
+  <p class="w-100 tc pb2">
+  	<a href="/tin-tuc/" class="f6 ba br3 link pa2 b desc-color dim">Xem tất cả tin tức</a>
+	</p>
+	</div>
 </section>

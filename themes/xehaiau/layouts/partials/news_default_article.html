@@ -1,4 +1,4 @@
-<article class="pv4 bb b--black-10 ph3 ph0-l">
+<article class="pv4-l bb b--black-10 ph3 ph0-l">
   <div class="flex flex-column flex-row-ns">
     <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
       <h1 class="f5 sans-serif mt0 lh-title"><a class="link dim blue lh-title" href="{{ .URL }}">{{ .Title }}</a></h1>
@@ -11,7 +11,6 @@
         <div class="relative">
             <img src="{{ .Params.thumbnail }}" class="db" alt="{{ .Params.alt }}">
             <span class="news-date-h db f6 ph2 pt2 bg-black white absolute right-0 bottom-0 tc lh-copy">{{ dateFormat "Tháng 01" .Date }}<strong class="f2 db lh-copy">{{ dateFormat "02" .Date }}</strong>"}}</span>
-
         </div>
       </a>
     </div>

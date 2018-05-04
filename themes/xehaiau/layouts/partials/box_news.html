@@ -1,0 +1,22 @@
+<div>
+  <div class="flex ">
+    <div id="tab-most-reads" class="w-100 tab-news-header dib bt b--blue blue f5 b ttu pa2 bw1 tc">Bài mới</div>
+  </div>
+  <div id="divMostReads" class="db tab-news">
+    {{ range first 4 (where .Site.Pages.ByPublishDate.Reverse "Type" "tin-tuc") }}
+    {{ if .Description }}
+    <article class="pv2 bt bb b--black-10 ph3 ph0-l">
+      <div class="flex flex-column flex-row-ns">
+        <div class="w-100 w-60-ns pr3-ns order-2 order-2-ns">
+          <h1 class="f6 sans-serif mt0 lh-title"><a class="link dim dark-gray" href="{{ .URL }}">{{ .Title }}</a></h1>
+        </div>
+        <div class="pr3-ns order-1 order-1-ns mw4 mb4 mb0-ns w-100 w-70-ns">
+          <a href="{{ .URL }}"><img src="{{ .Params.thumbnail }}" class="db" alt="{{ .Params.alt }}"></a>
+        </div>
+      </div>
+      <time class="f6 db gray">{{ dateFormat "02-01-2006" .Date }}</time>
+    </article>
+    {{ end }}
+    {{ end }}
+  </div>
+</div>	

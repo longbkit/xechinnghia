@@ -1,8 +1,9 @@
 ---
-title: "Xe đường 5A: Thái Bình - Hải Dương - Hà Nội"
-weight:  6
+title: "5A Thái Bình - Hà Nội"
+weight:  7
+category: "Thái Bình - Hà Nội"
 date: 2018-03-16T11:47:10+07:00
-url: /xe-duong-5a-thai-binh-hai-duong-ha-noi/
+url: /5a-thai-binh-ha-noi/
 description: ""
 thumbnail: /img/driver.png
 image: /img/driver.png

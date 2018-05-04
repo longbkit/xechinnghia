@@ -1,6 +1,7 @@
 ---
 title: Xe trung chuyển miễn phí
-weight: 8
+weight: 11
+category: "Các tuyến khác"
 url: /xe-trung-chuyen-mien-phi/
 description: Xe trung chuyển miễn phí
 date: 2018-03-16T04:47:10.000Z

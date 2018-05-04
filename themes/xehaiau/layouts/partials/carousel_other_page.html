@@ -1,0 +1,12 @@
+<section>
+    <div class="relative">
+        <div class="dark-mask"></div>
+        <div class="h5 overflow-hidden">
+        <img class="db mw-100 w-100" src="{{ .Params.banner }}" alt="">
+        </div>
+        <div class="absolute w-100 tc top-0 ph2 ph6-l">
+            <h1 class="f3 b ttu tl yellow">{{ .Title }}</h1>
+            <p class="white tl lh-copy">{{ .Description | markdownify }}</p>
+        </div>
+    </div>
+</section>

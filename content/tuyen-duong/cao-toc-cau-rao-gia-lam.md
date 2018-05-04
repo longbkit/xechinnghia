@@ -1,8 +1,9 @@
 ---
-title: "Xe cao tốc Hải Phòng - Hà Nội"
-weight:  3
+title: "Cao tốc Cầu Rào - Gia Lâm"
+weight:  4
+category: "Hải Phòng - Hà Nội"
 date: 2018-03-16T11:47:10+07:00
-url: /xe-cao-toc-hai-phong-ha-noi/
+url: /xe-cao-toc-cau-rao-gia-lam/
 description: ""
 thumbnail: /img/driver.png
 image: /img/driver.png
