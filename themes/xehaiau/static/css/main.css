@@ -2,8 +2,26 @@ nav > ul, nav > ul > li > a {
   height: 66px;
 }
 
-.home-banner {
-  height: 795px;
+html, body {height:100%;overflow:auto}
+
+header {
+  height: 66px;
+}
+
+main {
+    padding-top: 66px;
+}
+
+.owl-carousel {
+  margin-top: -66px;
+}
+
+.owl-item > div {
+  padding-top: 66px;
+}
+
+.owl-controls {
+  display: none;
 }
 
 .main-background {
@@ -15,6 +33,14 @@ nav > ul, nav > ul > li > a {
 
 nav li:hover>.sub-menu {
   display:block;
+}
+
+.top-25 {
+  top: 25%;
+}
+
+.top-10 {
+  top: 10%;
 }
 
 table.table-slim-border, table.table-slim-border th,
@@ -68,7 +94,11 @@ table.table-padding-cell td, table.table-padding-cell th {
 }
 
 .bg-cta {
-  background-color: #f0c11d;
+  background-color: #fcdb00;
+}
+
+.color-cta {
+  color: #f0c11d;
 }
 
 .h1-color {
@@ -98,6 +128,10 @@ table.table-padding-cell td, table.table-padding-cell th {
 /* old gray #F0F5F7*/
 .vxr-gray {
   color: #B3B3B3;
+}
+
+.haiau-gray {
+  color: #555;
 }
 
 .btn-bg-color {
@@ -134,11 +168,17 @@ table.table-padding-cell td, table.table-padding-cell th {
   cursor: pointer;
 }
 
+.bg-menu-color {
+  background-color: #f4f4f4;
+}
+
+.bb--dotted { border-bottom-style: dotted; border-bottom-width: 1px; }
+
 .popup {
   position: absolute;
-  left: 10px;
-  top: 10px;
-  right: 10px;
+  left: 20px;
+  top: 0px;
+  right: 0px;
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
@@ -182,49 +222,6 @@ table.table-padding-cell td, table.table-padding-cell th {
   pointer-events: auto;
 }
 
-.hamburger {
-  cursor: pointer;
-  width: 50px;
-  height: 50px;
-  position: relative;
-  height: 50px;
-  white-space: nowrap;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  font-size: 17px;
-  line-height: 50px;
-  font-weight: 400;
-  padding: 0 10px;
-}
-
-.hamburger h2 {
-  font-size: 0;
-  left: 27px;
-  top: 25px;
-}
-
-.hamburger h2, .hamburger h2:before, .hamburger h2:after {
-  position: absolute;
-  width: 24px;
-  height: 3px;
-  border-radius: 3px;
-  background: currentColor;
-}
-
-.hamburger h2:before, .hamburger h2:after {
-  content: '';
-  left: 0;
-}
-
-.hamburger h2:before {
-  top: -9px;
-}
-
-.hamburger h2:after {
-  top: 9px;
-}
 
 #btnControl {
     display: none;

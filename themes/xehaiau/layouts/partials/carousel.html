@@ -1,15 +1,15 @@
 {{ if isset .Site.Params "carousel" }}
 {{ if .Site.Params.carousel.enable }}
 {{ if gt (len .Site.Data.carousel) 0 }}
-<section>
-    <div class="vh-100 home-carousel">
+<section class="relative">
+    <div class="home-carousel">
         <div class="dark-mask"></div>
         <div class="container">
             <div class="homepage owl-carousel owl-theme">
                 {{ range .Params.banners }}
-                <div class="relative item vh-100">
+                <div class="relative vh-100-l">       
                     <img class="db mw-100 home-banner" src="{{ .image }}" alt="">
-                    <div class="absolute w-100 tc top-0 ph2 ph6-l">
+                    <div class="absolute w-100 tc top-0 mt5 ph2 ph6-l">
                         {{ .description | markdownify }}
                     </div>
                 </div>

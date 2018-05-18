@@ -5,6 +5,8 @@ category: "Các tuyến khác"
 url: /xe-trung-chuyen-mien-phi/
 description: Xe trung chuyển miễn phí
 date: 2018-03-16T04:47:10.000Z
+thumbnail: /img/driver.png
+image: /img/driver.png
 ---
 <p class="b tc">DỊCH VỤ XE TRUNG CHUYỂN</p>
 <p class="i tc">Dịch vụ miễn phí dành cho khách hàng của Hải Âu</p>

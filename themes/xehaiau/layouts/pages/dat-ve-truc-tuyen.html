@@ -4,24 +4,23 @@
     <div class="mw8-5 center darkblue">
     </div>
 </main>
-
-<script type="text/javascript" src="/js/vxr-widget.js"></script>
 <script>
-    var url = new URL(window.location.href);
-    var c = url.searchParams.get("c");
-    var params = {};
-    params.companyName = "Hải Âu";
-    params.companyId = 12766;
-    params.startPointId = url.searchParams.get("from");
-    params.stopPointId = url.searchParams.get("to");
-    params.departDate = url.searchParams.get("departDate");
-    params.fromList = [[24, 1], [27, 1], [54, 1]];
-    params.toList = [[24, 1], [27, 1], [54, 1]];
-    VEXERE_API.init(params);
+    function initWidget() {
+        var url = new URL(window.location.href);
+        var c = url.searchParams.get("c");
+        var params = {};
+        params.companyName = "Hải Âu";
+        params.companyId = 12766;
+        params.startPointId = url.searchParams.get("from");
+        params.stopPointId = url.searchParams.get("to");
+        params.departDate = url.searchParams.get("departDate");
+        params.fromList = [[24, 1], [27, 1], [54, 1]];
+        params.toList = [[24, 1], [27, 1], [54, 1]];
+        VEXERE_API.init(params);
 
-
-    document.getElementsByClassName("vxr-widget-submit-btn")[0].click();
-
+        document.getElementsByClassName("vxr-widget-submit-btn")[0].click();
+    }
 </script>
+<script type="text/javascript" src="/js/vxr-widget.js"></script>
 
 {{ end }}

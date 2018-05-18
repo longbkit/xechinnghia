@@ -2,14 +2,15 @@
 
 <main class="dark-gray">
 	{{ partial "carousel_other_page" . }}
-	<section class="ph3 ph6-l">
+	<section class="ph3 ph6-l ">
 		<div class=" ">
 			<p class="color tj">{{ .Content }}</p>
 		</div>
 	</section>
 	<section class="ph3 ph6-l center darkblue">
 		<div class="">
-		{{ range $index, $element := (.Paginate .Data.Pages.ByPublishDate.Reverse).Pages }}
+		{{ if eq (len .Data.Pages) 0 }}
+		{{ range $index, $element := (.Site.GetPage "section" "tuyen-duong").Sections }}
 		<div class="w-100 mt2 pb3 bt b--blue">
 			<a href="{{ .URL }}" class="db link dim tc flex flex-wrap">
 				<div class="w-25">
@@ -26,20 +27,29 @@
 		</div>
 
 		{{ end }}
-
-		{{ partial "pagination" . }}
+		{{ else }} 
+				{{ range $index, $element := .Data.Pages.ByPublishDate.Reverse }}
+		<div class="w-100 mt2 pb3 bt b--blue">
+			<a href="{{ .URL }}" class="db link dim tc flex flex-wrap">
+				<div class="w-25">
+					<div class="aspect-ratio aspect-ratio--6x4 mt3">
+						<img src="{{ .Params.Thumbnail }}" alt="{{ .Title }}" class="aspect-ratio--object cover db black-10"/>
+					</div>
+				</div>
+				<div class="w-75 pl3">
+					<p class="f6 tl ml0 color b">{{ .Title }}</p>
+					<div class="f7 tl vxr-gray">{{ dateFormat "03/01/02" .Date }}</div>
+					<p class="f6 color tj">{{ .Description }}</p>
+				</div>
+			</a>
 		</div>
-		<div class="mb3 lh-copy">
-			<h2 class="f5 ttu desc-color">Tin tức liên quan</h2>
-			<div class="pl3">
-			{{ if .Paginator.HasNext }}
-			{{ range $index, $element := .Paginator.Next.Pages }}
-			<a href="{{ .URL }}" class="db link dim">{{ .Title }}</a>
-			{{ end}}
-			{{ end}}
-			</div>
-		</div>
 
+		{{ end }}
+		{{ end }}
+
+		
+
+		</div>
 	</section>
 </main>
 
