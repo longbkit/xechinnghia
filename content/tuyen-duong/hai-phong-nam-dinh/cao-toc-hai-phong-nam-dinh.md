@@ -69,7 +69,7 @@ image: /img/driver.png
 
 <p class="tc b blue">Nam Định - Thái Bình - Hải Phòng</p>
 
-<table class="w-100 table-slim-border table-padding-cell">
+<table class="w-100 table-slim-border table-padding-cell">
 	<tbody>
 		<tr class="b bg-blue white">
 			<th>Bến xe</th>
@@ -112,7 +112,7 @@ image: /img/driver.png
 
 <table class="w-100 table-slim-border table-padding-cell">
 	<tbody>
-		<tr class="b bg-blue white">
+		<tr class="b bg-blue white">
 			<td>V&Eacute; CHẶNG</td>
 			<td>GI&Aacute; CƯỚC</td>
 		</tr>
