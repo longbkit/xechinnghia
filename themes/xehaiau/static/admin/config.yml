@@ -33,7 +33,7 @@ collections:
               {label: "Khoảng thời gian", name: "duration", widget: string},
               {label: "Hình ảnh", name: image, widget: image},
               {label: "Loại", name: type, widget: string}]}
-        - {label: "Giới thiệu", name: "intro", widget: string}
+        - {label: "Giới thiệu", name: "intro", widget: text}
         - {label: "Liên hệ", name: "contact", widget: object, fields: [
             {label: "Tiêu đề", name: title, widget: string},
             {label: "Địa chỉ", name: address, widget: string},
