@@ -9,10 +9,10 @@ banners:
   - image: /img/vip_hai_au_2iwc1514016150.JPG
     description: <p class="dn db-l t0 l0 w-80 w-30-l w-6-l tc tl-l vxr-blue mt4 mt5-l bg-blue o-90 ba br2 pa3 pointer"><a href="/vip-hai-au-hai-phong-ha-noi/" class="link color-cta"><span class="f3 f3-l db ">Xe khách Hải Âu</span><span class="f3 f3-l  db mt2 tc tj-l">An toàn chất lượng, mọi lúc mọi nơi</span><span class="db w4 bg-cta black pa2 br2 mt3 tc o-100">Xem ngay</span></a></p>
 headings:
-    route: "Những chuyến đi phổ biến"
-    value: "Vì sao khách hàng chọn chúng tôi?"
-    news: "Tin tức & Sự kiện"
-    service: "Chuyển phát nhanh Hải Âu"
+  route: "Những chuyến đi phổ biến"
+  value: "Vì sao khách hàng chọn chúng tôi?"
+  news: "Tin tức & Sự kiện"
+  service: "Chuyển phát nhanh Hải Âu"
 values:
   - title: Wifi miễn phí
     description: Cung cấp Wifi miễn phí tại các phòng chờ & xe Vip
