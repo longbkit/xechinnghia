@@ -26,7 +26,7 @@ banners:
       ngay</span></a></p>
     image: /img/vip_hai_au_2iwc1514016150.JPG
 headings:
-  news: Tin tức & Sự kiện nổi bật
+  news: Tin tức & Sự kiện
   route: Những chuyến đi phổ biến
   service: Chuyển phát nhanh Hải Âu
   value: Vì sao khách hàng chọn chúng tôi?
