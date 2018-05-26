@@ -98,9 +98,9 @@ thumbnail: /img/driver.png
   </tbody>
 </table>
 
-<p class="dib bg-blue white b ttu pa2">GIÁ VÉ VIP: 95.000 đ/vé/người/lượt</p>
+<p class="dib bg-blue white b ttu pa2">GIÁ VÉ VIP: 100.000 đ/vé/người/lượt</p>
 
-<p class="tl b red f5"><i class="fas fa-exclamation-circle mr2"></i>Miễn vé áp dụng cho trẻ em dưới 6 tuổi đi cùng người lớn</p>
+<p class="tl b red f5"><i class="fas fa-exclamation-circle mr2"></i>Trẻ em từ 1m2 trở lên tính giá vé như người lớn</p>
 
 <p class="dib bg-blue white b ttu pa2">Dịch vụ miễn phí</p>
 
