@@ -64,17 +64,6 @@ collections:
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "gioi-thieu"
-    label: "Giới thiệu"
-    folder: "content/gioi-thieu"
-    create: true
-    fields:
-      - {label: "Tiêu đề", name: "title", widget: "string"}
-      - {label: "Thứ tự", name: "weight", widget: "string"}
-      - {label: "Link", name: "url", widget: "string"}
-      - {label: "Mô tả", name: "description", widget: "string"}
-      - {label: "Ngày đăng", name: "date", widget: "datetime"}
-      - {label: "Nội dung", name: "body", widget: "markdown"}
   - name: "routes"
     label: "Tuyến đường"
     folder: "content/tuyen-duong"
@@ -136,4 +125,15 @@ collections:
       - {label: "Link", name: "url", widget: "string"}
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "gioi-thieu"
+    label: "Giới thiệu"
+    folder: "content/gioi-thieu"
+    create: true
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Thứ tự", name: "weight", widget: "string"}
+      - {label: "Link", name: "url", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
