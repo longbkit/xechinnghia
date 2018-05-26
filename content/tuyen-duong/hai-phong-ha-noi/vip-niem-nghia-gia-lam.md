@@ -41,25 +41,10 @@ thumbnail: /img/driver.png
       </th>
     </tr>
     <tr>
-      <td>Cầu Rào</td>
-      <td>BX Cầu Rào – cầu Rào 1 – đường Phạm Văn Đồng – Đường cao tốc 5B – bến xe Gia Lâm</td>
-      <td>
-      <p>5h35 - 6h35 - 7h35 - 8h35 -9h35 - 10h35 - 11h35 - 12h35 - 13h35 - 14h35 - 15h35 - 16h35 - 17h35 - 18h35</p>
-      </td>
-      <td>
-      <p>14&nbsp;chuyến/ngày</p>
+     
 
 ```
-  <p>Liên tục</p>
-
-  <p>60 phút/chuyến</p>
-
-  <p><strong>Chuyến sớm nhất: 5h35</strong></p>
-
-  <p><strong>Chuyến muộn nhất: 18h35</strong></p>
-  </td>
-</tr>
-<tr>
+  
   <td>Niệm Nghĩa</td>
   <td>BX Niệm Nghĩa – Cầu Rào II – đường Phạm Văn Đồng – Đường cao tốc 5B – bến xe Gia Lâm</td>
   <td>
@@ -96,20 +81,7 @@ thumbnail: /img/driver.png
       <th>Tần suất</th>
     </tr>
     <tr>
-      <td>Gia Lâm -&nbsp; Cầu Rào</td>
-      <td>
-      <p>6h30 - 19h00</p>
-      </td>
-      <td>
-      <p>Liên tục 30 phút/chuyến</p>
-
-```
-  <p class="b">Chuyến sớm nhất: 6h35</p>
-
-  <p class="b">Chuyến muộn nhất: 19h00</p>
-  </td>
-</tr>
-<tr>
+   
   <td>Gia Lâm -&nbsp; Niệm Nghĩa</td>
   <td>
   <p>6h30 - 19h00</p>
@@ -122,7 +94,6 @@ thumbnail: /img/driver.png
   <p>Chuyến muộn nhất: 19h00</p>
   </td>
 </tr>
-```
 
   </tbody>
 </table>
@@ -135,7 +106,7 @@ thumbnail: /img/driver.png
 
 <ul>
 	<li>Phục vụ khăn ướt, nước lọc và các tiện nghi khác trên xe.</li>
-	<li>Có xe mô tô taxi Hải Âu đón quý khách từ nhà ra bến xe Cầu Rào và đưa quý khách từ bến xe Cầu Rào về tận nhà miễn phí tại một số khu vực nội thành Hải Phòng.</li>
+
 	<li>Đặt vé trước thông qua phần mềm bán vé tiện ích.</li>
 </ul>
 
