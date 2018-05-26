@@ -78,7 +78,7 @@ collections:
           {label: "Hình ảnh", name: "image", widget: "image"}]}
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "routes"
+  - name: "route-hai-phong-ha-noi"
     label: "- Tuyến Hải Phòng - Hà Nội "
     folder: "content/tuyen-duong/hai-phong-ha-noi"
     create: true
@@ -90,7 +90,7 @@ collections:
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "routes"
+  - name: "route-hai-phong-nam-dinh"
     label: "- Tuyến Hải Phòng - Nam Định "
     folder: "content/tuyen-duong/hai-phong-nam-dinh"
     create: true
@@ -102,7 +102,7 @@ collections:
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "routes"
+  - name: "route-thai-binh-ha-noi"
     label: "- Tuyến Thái Bình - Hà Nội "
     folder: "content/tuyen-duong/thai-binh-ha-noi"
     create: true
@@ -114,7 +114,7 @@ collections:
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
-  - name: "routes"
+  - name: "route-khac"
     label: "- Các tuyến khác "
     folder: "content/tuyen-duong/cac-tuyen-khac"
     create: true
