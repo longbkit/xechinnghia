@@ -15,8 +15,7 @@ thumbnail: /img/driver.png
 <p class="tc"><img src="/img/HP-HN(4).jpg"/></p>
 
 <div class="tc w-100">
-	<img src="/img/đt chuyển phát(2).png" class="dib h3"/>
-	<img src="/img/facebook(1).png" class="dib h3"/>
+	
 </div>
 
 <p class="dib bg-blue white b ttu pa2">Giờ xe chạy</p>
