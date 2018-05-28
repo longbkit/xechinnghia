@@ -9,7 +9,7 @@ description: >-
 thumbnail: /img/driver.png
 ---
 <p class="b tc">VIP HẢI ÂU HẢI PHÒNG - HÀ NỘI</p>
-<p class="tc">Xe chạy đường cao tốc - Không đón khách dọc đường - Phục vụ đúng số ghế - Xe xuất bến đúng giờ.</p>
+<p class="tc">Xe chạy đường cao tốc - Không đón khách dọc đường - Phục vụ đúng số ghế - Xe xuất bến đúng giờ</p>
 
 <div class="tc w-100">
 	<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj">
