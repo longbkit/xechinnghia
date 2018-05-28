@@ -50,7 +50,7 @@ thumbnail: /img/driver.png
 		<br/>
 		MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:
 		<br/>
-		<span class="b red">02253. 711 711</span>
+		<span class="b red">02253. 717 717</span>
 		<br/>
 		<img class="dib" src="/img/facebook.png"/>
 	</p>
