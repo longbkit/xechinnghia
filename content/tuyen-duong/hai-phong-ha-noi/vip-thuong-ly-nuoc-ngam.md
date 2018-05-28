@@ -8,14 +8,6 @@ description: >-
   xuất bến đúng giờ
 thumbnail: /img/driver.png
 ---
-
-
-
-
-
-
-
-
 <p style="text-align: center;"><font color="#000000"><b>BẾN XE THƯỢNG L&Yacute; - BẾN XE NƯỚC NGẦM</b></font></p>
 
 
@@ -27,6 +19,8 @@ thumbnail: /img/driver.png
 
 
 <p style="outline: none; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; font-family: Arial; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><font color="#ff0000" style="outline: none; line-height: 26px; max-width: 100%;"><b style="outline: none; line-height: 26px; max-width: 100%;">VIP Hải &Acirc;u Thượng L&yacute; - Nước Ngầm</b></font><span style="outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><b style="outline: none; line-height: 26px; max-width: 100%;">&nbsp;được khai trương v&agrave;o ng&agrave;y 23/4/2018 nhằm đ&aacute;p ứng nhu cầu đi lại thuận tiện hơn cho Qu&yacute; Kh&aacute;ch h&agrave;ng với&nbsp;chất lượng phục vụ đạt chuẩn, trang bị cơ sở hạ tầng v&agrave; phương tiện hiện đại c&ugrave;ng đội ngũ nh&acirc;n vi&ecirc;n năng động, nhiệt t&igrave;nh, chuy&ecirc;n nghiệp.</b></span></p>
+
+
 
 <div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center; margin-left: 120px;">&nbsp;</div>
 
@@ -52,7 +46,7 @@ thumbnail: /img/driver.png
 
 			<th style="outline: none; text-align: center; font-weight: normal; line-height: 26px; max-width: 100%; border: 1px solid rgb(221, 221, 221); width: 100px;">Bến xe</th>
 
-			<th style="outline: none; text-align: center; font-weight: normal; line-height: 26px; max-width: 90%; border: 1px solid rgb(221, 221, 221);">Giờ xe chạy</th>
+			<th style="outline: none; text-align: center; font-weight: normal; line-height: 26px; max-width: 100%; border: 1px solid rgb(221, 221, 221);">Giờ xe chạy</th>
 
 			<th style="outline: none; font-weight: normal; line-height: 26px; max-width: 100%;">
 
@@ -68,11 +62,19 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h30 - 6h00 - 6h30 - 7h00 - 7h30 - 8h00 - 8h30 - 9h00 - 9h30 - 10h00 - 10h30 - 11h30 - 12h30 - 13h30</p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h30 - 6h00 - 6h30 - 7h00 -7h30 - 8h00</p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">14h00 - 14<span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">h30 - 15h00 - 15h30 - 16h00 - 16h30 - 17h00 - 17h30 - 18h00 - 19h00</span></p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h30 - 9h00 - 9h30 -&nbsp;10h00 - 10h30 - 11h30&nbsp;</p>
+
+
+
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h30 - 13h30 -14h00 - 14<span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">h30 -15h00 -&nbsp;15h30 </span></p>
+
+
+
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;"><span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">16h00 - 16h30 - 17h00 - 17h30 - 18h00 - 19h00</span></p>
 
 			</td>
 
@@ -106,11 +108,19 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h40 - 6h10 - 6h40 - 7h10 - 7h40 - 8h00 - 8h40 - 9h10 - 9h40 - 10h10 - 10h40 - 11h40 - 12h40 - 13h40</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h40 - 6h10 - 6h40 - 7h10 - 7h40 - 8h00 &nbsp;</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">14h10 - 14h40 - 15h10 - 15h40 - 16h10 - 16h40 - 17h10 - 17h40 - 18h10 - 19h10</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h40 - 9h10 - 9h40 - 10h10 - 10h40 - 11h40&nbsp;</p>
+
+
+
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h40 - 13h40 - 14h10 - 14h40 - 15h10 - 15h40&nbsp;</p>
+
+
+
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">16h10 - 16h40 - 17h10 - 17h40 - 18h10 - 19h10</p>
 
 			</td>
 
@@ -144,11 +154,19 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h50 - 6h20 - 6h50 - 7h20 - 7h50 - 8h20 - 8h50 - 9h20 - 9h50 - 10h20 - 10h50 - 11h50 - 12h50 - 13h50</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h50 - 6h20 - 6h50 - 7h20 - 7h50 - 8h20</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">14h20 - 14h50 - 15h20 - 15h50 - 16h20 - 16h50 - 17h20 - 17h50 - 18h20 - 19h20</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h50 - 9h20 - 9h50 - 10h20 - 10h50 - 11h50</p>
+
+
+
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h50 - 13h50 14h20 - 14h50 - 15h20 - 15h50</p>
+
+
+
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">16h20 - 16h50 - 17h20 - 17h50 - 18h20 - 19h20</p>
 
 			</td>
 
@@ -220,11 +238,19 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">6h00 - 6h30 - 7h00 - 7h30 - 8h00 - 8h30 - 9h00 - 9h30 - 10h00 - 10h30 - 11h30 - 12h30 - 13h30</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">6h00 - 6h30 - 7h00 - 7h30 - 8h00 - 8h3</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">14h00 - 14h30 - 15h00 - 15h30 - 16h00 - 16h30 - 17h00 - 17h30 - 18h00 - 19h00 - 19h30</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">9h00 - 9h30 - 10h00 - 10h30 - 11h30 - 12h30</p>
+
+
+
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">13h30 -14h00 - 14h30 - 15h00 - 15h30 - 16h00&nbsp;</p>
+
+
+
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">16h30 - 17h00 - 17h30 - 18h00 - 19h00 - 19h30</p>
 
 			</td>
 
