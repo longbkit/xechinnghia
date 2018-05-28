@@ -18,18 +18,6 @@ thumbnail: /img/driver.png
 
 <p style="outline: none; margin-bottom: 0px; padding: 0px; font-family: Arial; line-height: 26px; max-width: 100%; text-align: center;"><em style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></em></p>
 
-
-
-px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); background-color: transparent; text-align: justify;">
-
-<p style="outline: none; margin-bottom: 0px; margin-left: 40px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: arial, helvetica, sans-serif; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); text-align: center;"><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(255, 145, 71); line-height: 26px; max-width: 100%;">&nbsp;&nbsp;</a><img alt="" height="45" src="/pictures/picfullsizes/2018/05/04/t%E1%BB%95ng%20%C4%91%C3%A0i.png" width="157" /><a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(255, 145, 71); line-height: 26px; max-width: 100%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<img alt="" height="45" src="/pictures/picfullsizes/2018/05/04/FACEBOOK(1).png" width="161" />​&nbsp;</a>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(51, 51, 51); line-height: 26px; max-width: 100%;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</a></span></span></span></p>
-
-</div>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
-
-
-
 <div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center; margin-left: 120px;">&nbsp;</div>
 
 
