@@ -1,12 +1,10 @@
 ---
-title: "VIP Cầu rào - Gia Lâm"
-weight:  2
-category: "Hải Phòng - Hà Nội"
-date: 2018-03-16T11:47:10+07:00
+title: VIP Cầu rào - Gia Lâm
+weight: 2
+category: Hải Phòng - Hà Nội
 url: /vip-cau-rao-gia-lam/
-description: ""
+description: mt
 thumbnail: /img/driver.png
-image: /img/driver.png
 ---
 <p class="b tc">VIP HẢI ÂU HẢI PHÒNG - HÀ NỘI</p>
 <p class="tc">Xe chạy đường cao tốc - Không đón khách dọc đường - Phục vụ đúng số ghế - Xe xuất bến đúng giờ</p>
@@ -49,35 +47,20 @@ image: /img/driver.png
       <td>
       <p>14&nbsp;chuyến/ngày</p>
 
-      <p>Liên tục</p>
+```
+  <p>Liên tục</p>
 
-      <p>60 phút/chuyến</p>
+  <p>60 phút/chuyến</p>
 
-      <p><strong>Chuyến sớm nhất: 5h35</strong></p>
+  <p><strong>Chuyến sớm nhất: 5h35</strong></p>
 
-      <p><strong>Chuyến muộn nhất: 18h35</strong></p>
-      </td>
-    </tr>
-    <tr>
-      <td>Niệm Nghĩa</td>
-      <td>BX Niệm Nghĩa – Cầu Rào II – đường Phạm Văn Đồng – Đường cao tốc 5B – bến xe Gia Lâm</td>
-      <td>
-      <p>6h00 - 7h00 - 8h00 - 9h00 - 10h00 - 11h00&nbsp;- 13h00 -14h00 - 15h00 - 16h00 - 17h00 - 18h00</p>
-      </td>
-      <td>
-      <p>12&nbsp;chuyến/ngày</p>
+  <p><strong>Chuyến muộn nhất: 18h35</strong></p>
+  </td>
+</tr>
+<tr>
+  
+```
 
-      <p><span>Liên tục </span></p>
-
-      <p><span>60 phút/chuyến</span></p>
-
-      <p><strong>Chuyến sớm nhất: 6h00</strong></p>
-
-      <p><strong>Chuyến muộn nhất:</strong></p>
-
-      <div><strong>18h00</strong></div>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -100,30 +83,22 @@ image: /img/driver.png
       <td>
       <p>Liên tục 30 phút/chuyến</p>
 
-      <p class="b">Chuyến sớm nhất: 6h35</p>
+```
+  <p class="b">Chuyến sớm nhất: 6h35</p>
 
-      <p class="b">Chuyến muộn nhất: 19h00</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Gia Lâm -&nbsp; Niệm Nghĩa</td>
-      <td>
-      <p>6h30 - 19h00</p>
-      </td>
-      <td>
-      <p>Liên tục 30 phút/chuyến</p>
+  <p class="b">Chuyến muộn nhất: 19h00</p>
+  </td>
+</tr>
+<tr>
+  
+```
 
-      <p>Chuyến sớm nhất: 6h35</p>
-
-      <p>Chuyến muộn nhất: 19h00</p>
-      </td>
-    </tr>
   </tbody>
 </table>
 
-<p class="dib bg-blue white b ttu pa2">GIÁ VÉ VIP: 95.000 đ/vé/người/lượt</p>
+<p class="dib bg-blue white b ttu pa2">GIÁ VÉ VIP: 100.000 đ/vé/người/lượt</p>
 
-<p class="tl b red f5"><i class="fas fa-exclamation-circle mr2"></i>Miễn vé áp dụng cho trẻ em dưới 6 tuổi đi cùng người lớn</p>
+<p class="tl b red f5"><i class="fas fa-exclamation-circle mr2"></i>Đối với trẻ em từ 1m2 trở lên tính giá vé như người lớn</p>
 
 <p class="dib bg-blue white b ttu pa2">Dịch vụ miễn phí</p>
 
@@ -147,6 +122,7 @@ VÌ SAO KHÁCH HÀNG NÊN CHỌN VIP HẢI ÂU?
 	<li class="lh-copy">
 
  Phòng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, máy lạnh, Tivi, toilet,...
+
 </li>
 	<li class="lh-copy">
  Đạt chuẩn 3 đúng: Chạy đúng giờ - Đến đúng địa điểm – Chấp hành đúng các quy định.
