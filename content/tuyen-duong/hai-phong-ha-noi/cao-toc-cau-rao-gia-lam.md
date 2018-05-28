@@ -29,46 +29,40 @@ thumbnail: /img/driver.png
 
 <div>
 
+<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
+
+
+
+<div>&nbsp;</div>
+
 <div style="background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hải Ph&ograve;ng - H&agrave; Nội</span></span></span></div>
 
-<style type="text/css">
+![cao tốc Hải Phòng - Hà Nội](/img/cao-tốc-hp-hn1.png)
 
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
+![cao tốc Hải Phòng - Hà Nội](/img/cao-tốc-hp-hn.png)
 
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: bolder;">BẢNG GI&Aacute;&nbsp;</span></span></span></div>
 
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
 
-.tg .tg-us36{border-color:inherit;vertical-align:top}
 
-.tg .tg-1jnt{background-color:#0089cf;border-color:inherit;vertical-align:top}
+<div style="background-color: transparent; text-align: justify;">
 
-</style>
+<p class="MsoListParagraphCxSpFirst" style="text-indent: -0.25in; line-height: normal; text-align: left; margin-left: 40px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp;<img alt="" height="415" src="/pictures/picfullsizes/2018/05/15/cung%20gi%C3%A1%20v%C3%A9.png" width="632" /></span></span></p>
 
-<table class="tg">
 
-  <tr>
 
-\    <th class="tg-1jnt"></th>
+<table align="left" cellpadding="0" cellspacing="0">
 
-\    <th class="tg-1jnt"></th>
+![cao tốc Hải Phòng - Hà Nội](/img/cung-cước-ct-hp-hn.png)
 
-\    <th class="tg-1jnt"></th>
-
-\    <th class="tg-1jnt"></th>
-
-  </tr>
-
-  <tr>
-
-\    <td class="tg-us36"></td>
-
-\    <td class="tg-us36"></td>
-
-\    <td class="tg-us36"></td>
-
-\    <td class="tg-us36"></td>
-
-  </tr>
-
-</table>
+<div class="w-100 mv4 w-100 tc ba b--dashed b--blue blue b bg-light-gray pa3 tj ">
+	<p class="tc lh-copy">
+		​XE KHÁCH HẢI ÂU
+		<br/>
+		MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:
+		<br/>
+		<span class="b red">02253. 711 711</span>
+		<br/>
+	[	<img class="dib" src="/img/facebook.png"/>](https://www.facebook.com/xekhachviphaiau/)
+	</p>
+</div>
