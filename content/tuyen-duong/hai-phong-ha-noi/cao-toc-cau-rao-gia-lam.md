@@ -1,17 +1,15 @@
 ---
-title: "Cao tốc Cầu Rào - Gia Lâm"
-weight:  4
-category: "Hải Phòng - Hà Nội"
-date: 2018-03-16T11:47:10+07:00
+title: Cao tốc Cầu Rào - Gia Lâm
+weight: 4
+category: Hải Phòng - Hà Nội
 url: /xe-cao-toc-cau-rao-gia-lam/
-description: ""
+description: >-
+  Xe cao tốc Hải Phòng - Hà Nội là xe chạy cao tốc từ Thành phố Hải Phòng (bến
+  xe Cầu Rào, bến xe Niệm Nghĩa, bến xe Thượng Lý) đến Thủ đô Hà Nội ( bến xe
+  Gia Lâm).
 thumbnail: /img/driver.png
-image: /img/driver.png
 ---
-<div class="tc w-100">
-	<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj">
-		<span class="red">Xe cao tốc Hải Phòng - Hà Nội</span> là xe chạy cao tốc từ Thành phố Hải Phòng (bến xe Cầu Rào, bến xe Niệm Nghĩa, bến xe Thượng Lý) đến Thủ đô Hà Nội ( bến xe Gia Lâm).
-	</p>
+	
 </div>
 
 <p class="tc"><img src="/img/HP-HN(4).jpg"/></p>
@@ -51,34 +49,7 @@ image: /img/driver.png
 			</td>
 		</tr>
 		<tr>
-			<td>Bến xe Niệm Nghĩa</td>
-			<td>
-				<p>Khách gần khu vực Bến Niệm Nghĩa c&oacute; thể ra Văn ph&ograve;ng gầm cầu&nbsp;Niệm<strong>&nbsp;</strong>số 706 Nguyễn</p>
-				<p>Văn Linh&nbsp; để đ&oacute;n xe chạy đường cao tốc từ Bến Cầu Rào (cách bến Niệm Nghĩa khoảng</p>
-				<p>800m)</p>
-			</td>
-			<td>
-				<p>05h15&nbsp;&ndash; 20h15</p>
-				<p>Li&ecirc;n tục 30 - 40 ph&uacute;t/chuyến</p>
-			</td>
-			<td>
-				<p><strong>Chuyến sớm nhất: 05h15</strong></p>
-				<p><strong>Chuyến muộn nhất: 20h15</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td>Bến xe Thượng L&yacute;</td>
-			<td><strong>Bx. Thượng L&yacute;</strong>&nbsp;- Sở Dầu - Quán Toan - Đường 10 - N&uacute;t cao tốc An L&atilde;o -&nbsp;<strong>Bx. Gia L&acirc;m</strong>.</td>
-			<td>
-				<p>05h30&nbsp;&ndash; 20h30</p>
-				<p>Li&ecirc;n tục 30 - 40 ph&uacute;t/chuyến</p>
-			</td>
-			<td>
-				<p><strong>Chuyến sớm nhất: 05h30</strong></p>
-				<p><strong>Chuyến muộn nhất: 20h30</strong></p>
-			</td>
-		</tr>
-	</tbody>
+			
 </table>
 
 <p class="tc b blue">Hà Nội - Hải Phòng</p>
@@ -93,7 +64,7 @@ image: /img/driver.png
 			<th>Tần suất</th>
 		</tr>
 		<tr>
-			<td>Gia L&acirc;m - Thượng L&yacute;, Niệm Nghĩa, Cầu R&agrave;o</td>
+			<td>Gia L&acirc;m - Cầu R&agrave;o</td>
 			<td>
 				<p>6h00 &ndash; 20h00</p>
 				<p>Li&ecirc;n tục 30 ph&uacute;t /chuyến</p>
@@ -123,4 +94,3 @@ image: /img/driver.png
 		<img class="dib" src="/img/facebook.png"/>
 	</p>
 </div>
-
