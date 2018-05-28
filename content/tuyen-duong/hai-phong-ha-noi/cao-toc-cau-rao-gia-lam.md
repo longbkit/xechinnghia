@@ -55,6 +55,8 @@ thumbnail: /img/driver.png
 
 ![cao tốc Hải Phòng - Hà Nội](/img/cung-cước-ct-hp-hn.png)
 
+
+
 </td>
 </tr>
 </tbody>
@@ -68,7 +70,4 @@ thumbnail: /img/driver.png
 		<br/>
 		<span class="b red">02253. 711 711</span>
 
-Facebook: <https://www.facebook.com/xekhachviphaiau/>
-
-
-		<br/>
+\    Facebook: <https://www.facebook.com/xekhachviphaiau/>
