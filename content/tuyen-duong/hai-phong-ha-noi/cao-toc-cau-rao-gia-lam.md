@@ -54,3 +54,21 @@ thumbnail: /img/driver.png
 <table align="left" cellpadding="0" cellspacing="0">
 
 ![cao tốc Hải Phòng - Hà Nội](/img/cung-cước-ct-hp-hn.png)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<div class="w-100 mv4 w-100 tc ba b--dashed b--blue blue b bg-light-gray pa3 tj ">
+	<p class="tc lh-copy">
+		​XE KHÁCH HẢI ÂU
+		<br/>
+		MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:
+		<br/>
+		<span class="b red">02253. 711 711</span>
+
+Facebook: <https://www.facebook.com/xekhachviphaiau/>
+
+
+		<br/>
