@@ -8,6 +8,14 @@ thumbnail: /img/driver.png
 ---
 
 
+<!doctype html>
+
+<html>
+
+<head>
+
+	<title>HTML Editor - Full Version</title>
+
 </head>
 
 <body>
@@ -102,15 +110,23 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Cầu R&agrave;o</span><span style="box-sizing: border-box; text-align: justify;">&nbsp;- Cầu vượt Lạch Tray - Đường Nguyễn Văn Linh - Cầu An Đồng -</span></span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx.Thượng L&yacute;&nbsp;</span><span style="box-sizing: border-box; text-align: justify;">- Sở Dầu - Qu&aacute;n Toan - Quốc lộ 5A -&nbsp;</span><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Gia L&acirc;m.</span></span></span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Cầu R&agrave;o</span><span style="box-sizing: border-box; text-align: justify;">&nbsp;- Cầu vượt Lạch Tray - Đường Nguyễn Văn Linh </span></span></span></p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">Kh&aacute;ch gần khu vực Bến Niệm Nghĩa&nbsp;ra Văn ph&ograve;ng gầm cầu Niệm số 706 Nguyễn Văn Linh&nbsp;</span></span></span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">- Cầu An Đồng -&nbsp;</span><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx.Thượng L&yacute;&nbsp;</span><span style="box-sizing: border-box; text-align: justify;">- Sở Dầu - Qu&aacute;n Toan </span></span></span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);">- Quốc lộ 5A -</span></p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">để đ&oacute;n xe&nbsp;chạy đường Cao tốc từ bến Cầu R&agrave;o (c&aacute;ch bến Niệm Nghĩa khoảng 800m)</span></span></span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">&nbsp;</span><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Gia L&acirc;m.</span></span></span></p>
+
+
+
+			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><em><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">Kh&aacute;ch gần khu vực Bến Niệm Nghĩa&nbsp;ra Văn ph&ograve;ng gầm cầu Niệm số 706 Nguyễn Văn Linh&nbsp;</span></span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">để đ&oacute;n xe&nbsp;chạy đường cao tốc từ BX Cầu R&agrave;o</span></span></span></em></p>
+
+
+
+			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><em><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">(c&aacute;ch bến Niệm Nghĩa khoảng 800m)</span></span></span></em></p>
 
 			</td>
 
@@ -324,7 +340,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;">
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px 160px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 40</span></span><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">.000 đồng/1 v&eacute;/1 lượt</span></span>&nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px 160px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40</span></span><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">.000 đồng/1 v&eacute;/1 lượt</span></span>&nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
 
 			</td>
 
