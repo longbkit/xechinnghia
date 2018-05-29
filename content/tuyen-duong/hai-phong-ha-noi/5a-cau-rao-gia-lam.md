@@ -6,13 +6,7 @@ url: /5a-cau-rao-gia-lam/
 description: Đúng giờ - Thuận tiện - Nhanh chóng
 thumbnail: /img/driver.png
 ---
-<!doctype html>
 
-<html>
-
-<head>
-
-	<title>HTML Editor - Full Version</title>
 
 </head>
 
