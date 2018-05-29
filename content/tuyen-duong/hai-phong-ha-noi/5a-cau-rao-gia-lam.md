@@ -28,21 +28,17 @@ thumbnail: /img/driver.png
 
 <div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">
 
-<h3 class="catItemTitle" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; margin-top: 0px; margin-bottom: 0px; font-size: 16px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;">XE ĐƯỜNG 5A:&nbsp;HẢI PH&Ograve;NG - HẢI DƯƠNG&nbsp;- H&Agrave; NỘI</h3>
+<h3 class="catItemTitle" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; margin-top: 0px; margin-bottom: 0px; font-size: 16px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">XE ĐƯỜNG 5A:&nbsp;HẢI PH&Ograve;NG - HẢI DƯƠNG&nbsp;- H&Agrave; NỘI</span></span></h3>
 
 </div>
 
 
 
-<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">&nbsp;</div>
+<div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: center;"><em><span style="font-size:14px;">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></em></div>
 
 
 
 <div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">
-
-<p class="tc" style="box-sizing: border-box; text-align: center; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px;">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</p>
-
-
 
 <div class="tc w-100" style="box-sizing: border-box; width: 816.891px; text-align: center; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px;">&nbsp;
 
@@ -86,7 +82,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="box-sizing: border-box; border-spacing: 0px; border-collapse: collapse; background-color: rgb(255, 255, 255); font-size: 13px; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;font-size:13px;width:900px;">
 
 	<tbody style="box-sizing: border-box;">
 
@@ -112,11 +108,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Cầu R&agrave;o</span><span style="box-sizing: border-box; text-align: justify;">&nbsp;- Cầu vượt Lạch Tray - Đường Nguyễn Văn Linh - Cầu An Đồng&nbsp; </span></span></span></p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; text-align: justify;">-&nbsp;</span><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Thượng L&yacute;&nbsp;</span><span style="box-sizing: border-box; text-align: justify;">- Sở Dầu - Qu&aacute;n Toan- Quốc lộ 5A -&nbsp;</span><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Gia L&acirc;m.</span></span></span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Cầu R&agrave;o</span><span style="box-sizing: border-box; text-align: justify;">&nbsp;- Cầu vượt Lạch Tray - Đường Nguyễn Văn Linh - Cầu An Đồng -</span></span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx.Thượng L&yacute;&nbsp;</span><span style="box-sizing: border-box; text-align: justify;">- Sở Dầu - Qu&aacute;n Toan - Quốc lộ 5A -&nbsp;</span><span style="box-sizing: border-box; font-weight: 700; text-align: justify;">Bx. Gia L&acirc;m.</span></span></span></p>
 
 
 
@@ -172,7 +164,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;font-size:13px;width:1000px;">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;font-size:13px;width:900px;">
 
 	<tbody style="box-sizing: border-box;">
 
@@ -252,7 +244,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;width:1000px;">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;width:900px;">
 
 	<tbody style="box-sizing: border-box;">
 
@@ -266,11 +258,11 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#000000" style="box-sizing: border-box;">Hải Ph&ograve;ng - Ng&atilde; tư Phố Nối</font></span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#000000" style="box-sizing: border-box;">Hải Ph&ograve;ng - Ng&atilde; tư Phố Nối</font></span></span></td>
 
 			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;">
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">65.000 đồng/1 v&eacute;/1 lượt</span></span></span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">65.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></p>
 
 			</td>
 
@@ -278,67 +270,67 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">H&agrave; Nội - Ga Ph&uacute; Th&aacute;i</span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">H&agrave; Nội - Ga Ph&uacute; Th&aacute;i</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">65.000 đồng/1 v&eacute;/1 lượt</span></span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - Bưu điện Lai C&aacute;ch</span></td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">65.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></td>
 
 		</tr>
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">Ga Ph&uacute; Th&aacute;i - Ng&atilde; 4 Phố Nối</span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - Bưu điện Lai C&aacute;ch</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">H&agrave; Nội - Ga Lai Kh&ecirc;</span></td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></td>
 
 		</tr>
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - Ga Lai Kh&ecirc;</span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ga Ph&uacute; Th&aacute;i - Ng&atilde; 4 Phố Nối</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">40.000 đồng/1 v&eacute;/1 lượt</span></span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">Ga Ph&uacute; Th&aacute;i - Bưu điện Lai C&aacute;ch</span></td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">40.000 đồng/1 v&eacute;/1 lượt</span></span></span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></td>
 
 		</tr>
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">Ga Lai Kh&ecirc; - Ng&atilde; 4 Phố Nối</span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">H&agrave; Nội - Ga Lai Kh&ecirc;</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);"><span style="box-sizing: border-box; font-weight: 700;">40.000 đồng/1 v&eacute;/1 lượt</span></span></span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></td>
 
 		</tr>
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">H&agrave; Nội - Bưu điện Lai C&aacute;ch</span></td>
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - Ga Lai Kh&ecirc;</span></span></td>
+
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">40.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></td>
+
+		</tr>
+
+		<tr style="box-sizing: border-box;">
+
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ga Ph&uacute; Th&aacute;i - Bưu điện Lai C&aacute;ch</span></span></td>
+
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">40.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></td>
+
+		</tr>
+
+		<tr style="box-sizing: border-box;">
+
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ga Lai Kh&ecirc; - Ng&atilde; 4 Phố Nối</span></span></td>
+
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);"><span style="box-sizing: border-box; font-weight: 700;">40.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></td>
+
+		</tr>
+
+		<tr style="box-sizing: border-box;">
+
+			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">H&agrave; Nội - Bưu điện Lai C&aacute;ch</span></span></td>
 
 			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;">
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px 160px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40</span></span><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">.000 đồng/1 v&eacute;/1 lượt</span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px 160px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 40</span></span><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">.000 đồng/1 v&eacute;/1 lượt</span></span>&nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
 
 			</td>
 
@@ -390,7 +382,7 @@ thumbnail: /img/driver.png
 
 <div class="tc w-100" style="color: rgb(51, 51, 51); box-sizing: border-box; width: 816.891px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px;">
 
-<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj" style="box-sizing: border-box; border-style: dashed; border-width: 1px; border-color: rgb(53, 126, 221); display: inline-block; font-weight: 700; color: rgb(53, 126, 221); background-color: rgb(238, 238, 238); padding: 1rem;"><span style="font-size:18px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="background-color:#eeeeee;">XE KH&Aacute;CH HẢI &Acirc;U&nbsp;</span><br />
+<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj" style="box-sizing: border-box; border-style: dashed; border-width: 1px; border-color: rgb(53, 126, 221); display: inline-block; font-weight: 700; color: rgb(53, 126, 221); background-color: rgb(238, 238, 238); padding: 1rem;"><span style="font-size:14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="background-color:#eeeeee;">XE KH&Aacute;CH HẢI &Acirc;U&nbsp;</span><br />
 
 MỌI CHI TIẾT VỀ DỊCH&nbsp; VỤ XIN VUI L&Ograve;NG LI&Ecirc;N HỆ: <span style="color:#FF0000;">02253.717 717</span><br />
 
