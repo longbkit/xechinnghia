@@ -6,82 +6,174 @@ url: /5a-cau-rao-gia-lam/
 description: Đúng giờ - Thuận tiện - Nhanh chóng
 thumbnail: /img/driver.png
 ---
-<h3 class="catItemTitle" style="font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-weight: 700;">XE ĐƯỜNG 5A:&nbsp;HẢI PH&Ograve;NG - HẢI DƯƠNG&nbsp;- H&Agrave; NỘI</span></h3>
+XE ĐƯỜNG 5A: HẢI PHÒNG - HẢI DƯƠNG - HÀ NỘI
 
 
 
-<div id="itemListLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
-
-<div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-
-<div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="text-align: center;"><em><span style="color: rgb(0, 0, 0);">Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</span></em></p>
+Xe chạy đường cao tốc - Không đón khách dọc đường - Phục vụ đúng số ghế - Xe xuất bến đúng giờ
 
 
 
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">Xe đường 5A: Hải Ph&ograve;ng&nbsp;- Hải Dương&nbsp;- H&agrave; Nội</span><span style="color: rgb(35, 31, 32); font-family: Arial; font-size: 14px;">&nbsp;</span><span style="color: rgb(0, 137, 207); font-family: Arial; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">l&agrave; tuyến xe chạy&nbsp;tr&ecirc;n đường&nbsp;5 cũ từ Hải Ph&ograve;ng (bến xe Cầu R&agrave;o, Niệm Nghĩa, Thượng L&yacute;, Kiến Thụy) đến H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) của xe kh&aacute;ch Hải &Acirc;u với tần suất 15 - 20 ph&uacute;t/chuyến.</span></p>
 
-</div>
 
-</div>
+Xe đường 5A: Hải Phòng - Hải Dương - Hà Nội là xe chạy trên quốc lộ 5A từ BX Cầu Rào (Hải Phòng) đến BX Gia Lâm (Hà Nội) của xe khách Hải Âu với tần suất 15-20 phút/chuyến.
 
-</div>
-
-</div>
-
-</div>
-
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></div>
+ 
 
 
 
-<div style="background-color: transparent; text-align: center;">&nbsp;</div>
 
 
 
-<div style="background-color: transparent; text-align: center;">
 
-<div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hải Ph&ograve;ng&nbsp;- Hải Dương- H&agrave; Nội</span></span></span></div>
-
-
-
-<table style="background-color: rgb(255, 255, 255); text-align: start; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 1200px;">
-
-![5A Hải Phòng - Hà Nội](/img/5a-hp-hn.png)
-
-<p class="tc b blue">Hà Nội - Hải Dương- Hải Phòng</p>
-
-![5A Hải Phòng - Hà Nội](/img/5a-hp-hn-1.png)
-
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">BẢNG GI&Aacute;&nbsp;</span></div>
+GIỜ XE CHẠY
 
 
 
-<div style="background-color: transparent; text-align: justify;">
+\    Hải Phòng - Hải Dương- Hà Nội
 
-<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px 15px 320px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GI&Aacute; V&Eacute; SUỐT: 80.000 đồng/1 v&eacute;/1 lượt</span></div>
+Bến xe	
 
-![giá vé chăng 5A Hải Phòng - Hà Nội](/img/giá-vé-chặng-5a-hp-hn.png)
+Giờ xe chạy
 
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 
-<div class="w-100 mv4 w-100 tc ba b--dashed b--blue blue b bg-light-gray pa3 tj ">
-	<p class="tc lh-copy">
-		​XE KHÁCH HẢI ÂU
-		<br/>
-		MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI LÒNG LIÊN HỆ:
-		<br/>
-		<span class="b red">02253. 717 717</span>
-		<br/>
-		<img class="dib" src="/img/facebook.png"/>
-	</p>
-</div>
+
+Giờ xe chạy	Tần suất
+
+ Cầu Rào	
+
+Bx. Cầu Rào - Cầu vượt Lạch Tray - Đường Nguyễn Văn Linh - Cầu An Đồng 
+
+
+
+\- Bx. Thượng Lý - Sở Dầu - Quán Toan- Quốc lộ 5A - Bx. Gia Lâm.
+
+
+
+Khách gần khu vực Bến Niệm Nghĩa ra Văn phòng gầm cầu Niệm số 706 Nguyễn Văn Linh 
+
+
+
+để đón xe chạy đường Cao tốc từ bến Cầu Rào (cách bến Niệm Nghĩa khoảng 800m)
+
+
+
+05h00 – 20h30
+
+
+
+Liên tục 15-20 phút/chuyến
+
+
+
+Chuyến sớm nhất: 05h00
+
+
+
+Chuyến muộn nhất: 20h30
+
+
+
+\    
+
+
+
+\    
+
+
+
+
+
+\    Hà Nội - Hải Dương- Hải Phòng
+
+Bến xe	
+
+Giờ xe chạy
+
+
+
+Tần suất
+
+Gia Lâm - Cầu Rào	
+
+5h00 – 21h00
+
+
+
+Liên tục 15 -20 phút /chuyến
+
+
+
+
+
+
+
+Chuyến sớm nhất: 05h00
+
+
+
+Chuyến muộn nhất: 21h00
+
+
+
+\    
+
+
+
+\    
+
+
+
+BẢNG GIÁ 
+
+GIÁ VÉ SUỐT: 80.000 đồng/1 vé/1 lượt
+
+
+
+ VÉ CHẶNG	GIÁ CƯỚC
+
+Hải Phòng - Ngã tư Phố Nối	
+
+65.000 đồng/1 vé/1 lượt
+
+
+
+Hà Nội - Ga Phú Thái	65.000 đồng/1 vé/1 lượt
+
+Hải Phòng - Bưu điện Lai Cách	55.000 đồng/1 vé/1 lượt
+
+Ga Phú Thái - Ngã 4 Phố Nối	55.000 đồng/1 vé/1 lượt
+
+Hà Nội - Ga Lai Khê	55.000 đồng/1 vé/1 lượt
+
+Hải Phòng - Ga Lai Khê	40.000 đồng/1 vé/1 lượt
+
+Ga Phú Thái - Bưu điện Lai Cách	40.000 đồng/1 vé/1 lượt
+
+Ga Lai Khê - Ngã 4 Phố Nối	40.000 đồng/1 vé/1 lượt
+
+Hà Nội - Bưu điện Lai Cách	
+
+\    40.000 đồng/1 vé/1 lượt                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XE KHÁCH HẢI ÂU 
+
+MỌI CHI TIẾT VỀ DỊCH  VỤ XIN VUI LÒNG LIÊN HỆ: 02253.717 717
+
+EMAIL: cskh@haiaubus.vn
+
+FACEBOOK: XE KHÁCH HẢI ÂU
