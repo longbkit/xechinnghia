@@ -6,20 +6,6 @@ url: /5a-cau-rao-gia-lam/
 description: Đúng giờ - Thuận tiện - Nhanh chóng
 thumbnail: /img/driver.png
 ---
-
-
-<!doctype html>
-
-<html>
-
-<head>
-
-	<title>HTML Editor - Full Version</title>
-
-</head>
-
-<body>
-
 <div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">&nbsp;</div>
 
 
@@ -46,7 +32,7 @@ thumbnail: /img/driver.png
 
 <div class="tc w-100" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); box-sizing: border-box; width: 816.891px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px;">
 
-<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj" style="box-sizing: border-box; border-style: dashed; border-width: 1px; border-color: rgb(53, 126, 221); display: inline-block; font-weight: 700; color: rgb(53, 126, 221); background-color: rgb(238, 238, 238); padding: 1rem; text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); background-color: rgb(240, 250, 248);">Xe đường 5A: Hải Ph&ograve;ng&nbsp;- Hải Dương&nbsp;- H&agrave; Nội</span>&nbsp;l&agrave; xe chạy tr&ecirc;n quốc lộ 5A từ BX Cầu R&agrave;o (Hải Ph&ograve;ng) đến BX Gia L&acirc;m (H&agrave; Nội) của xe kh&aacute;ch Hải &Acirc;u&nbsp;với tần suất 15-20 ph&uacute;t/chuyến.</span></p>
+<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj" style="box-sizing: border-box; border-style: dashed; border-width: 1px; border-color: rgb(53, 126, 221); display: inline-block; font-weight: 700; color: rgb(53, 126, 221); background-color: rgb(238, 238, 238); padding: 1rem; text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0);"><span style="background-color:#eeeeee;">Xe đường 5A: Hải Ph&ograve;ng&nbsp;- Hải Dương&nbsp;- H&agrave; Nội</span></span>&nbsp;l&agrave; xe chạy tr&ecirc;n quốc lộ 5A từ BX Cầu R&agrave;o (Hải Ph&ograve;ng) đến BX Gia L&acirc;m (H&agrave; Nội) của xe kh&aacute;ch Hải &Acirc;u&nbsp;với tần suất 15-20 ph&uacute;t/chuyến.</span></p>
 
 </div>
 
@@ -55,8 +41,6 @@ thumbnail: /img/driver.png
 <p style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;</span></p>
 
 </div>
-
-
 
 <p>&nbsp;</p>
 
