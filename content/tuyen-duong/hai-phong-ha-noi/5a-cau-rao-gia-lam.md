@@ -42,6 +42,8 @@ thumbnail: /img/driver.png
 
 </div>
 
+
+
 <p>&nbsp;</p>
 
 </div>
@@ -324,7 +326,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); text-align: center;">
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px 160px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40</span></span><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">.000 đồng/1 v&eacute;/1 lượt</span></span>&nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px 160px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp;40</span></span><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);">.000 đồng/1 v&eacute;/1 lượt</span></span>&nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
 
 			</td>
 
