@@ -34,8 +34,6 @@ thumbnail: /img/driver.png
 
 
 
-![](/img/img_1469-1-1-.jpg)
-
 </div>
 
 </div>
