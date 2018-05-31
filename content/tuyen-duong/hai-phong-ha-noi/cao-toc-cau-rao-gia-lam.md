@@ -43,11 +43,11 @@ thumbnail: /img/driver.png
 
 <p style="text-align: justify;"><br />
 
-<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
 
 
 
-<p style="text-align: justify; margin-left: 240px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207); text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</a> &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ​&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+<p style="text-align: justify; margin-left: 240px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207); text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"> &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</a> &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ​&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
 
 
 
@@ -65,7 +65,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;width:800px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;width:850px;">
 
 	<tbody>
 
@@ -91,43 +91,39 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p><span style="font-weight: 700; font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify;"><span style="line-height: 16.1px; color: black;">BX. Cầu R&agrave;o</span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; line-height: 16.1px; color: black;">&nbsp;-&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: black; text-align: center;">đường Lạch Tray - Nguyễn Văn Linh - cầu An Đồng -&nbsp;</span></p>
+			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="font-weight: 700; text-align: justify;"><span style="line-height: 16.1px; color: black;">BX. Cầu R&agrave;o</span></span><span style="text-align: justify; line-height: 16.1px; color: black;">&nbsp;-&nbsp;</span><span style="color: black; text-align: center;">đường Lạch Tray - Nguyễn Văn Linh </span></span></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color: black; text-align: center;">-&nbsp;</span>cầu An Đồng&nbsp;</span></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">-&nbsp;</span></span></p>
 
 
 
-			<p>&nbsp;<span style="font-weight: 700; color: black; font-family: Calibri, sans-serif; font-size: 12pt; text-align: center;">BX. Thượng L&yacute;&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: black; text-align: center;">- Sở Dầu -&nbsp;Qu&aacute;n Toan - Đường 10 - N&uacute;t cao tốc An L&atilde;o -&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; color: black; text-align: center;"><strong>BX.Gia L&acirc;m</strong></span></p>
+			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="font-weight: 700; color: black; text-align: center;">BX. Thượng L&yacute;&nbsp;</span><span style="color: black; text-align: center;">- Sở Dầu </span></span></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color: black; text-align: center;">-&nbsp;Qu&aacute;n Toan - Đường 10</span></span></span><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color: black; text-align: center;"> - N&uacute;t cao tốc An L&atilde;o </span></span><span style="font-size:14px;"><span style="color: black; text-align: center;">- <strong>Bx.Gia L&acirc;m.</strong></span></span></span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif; text-align: justify;">Kh&aacute;ch gần khu vực Bến Niệm Nghĩa c&oacute; thể ra Văn ph&ograve;ng gầm cầu</span>&nbsp;Niệm<span style="font-weight: 700;">&nbsp;</span>số 706 Nguyễn Văn Linh&nbsp; để đ&oacute;n xe chạy đường cao tốc từ Bến Cầu R&agrave;o (c&aacute;ch bến Niệm Nghĩa khoảng 800m)</span></p>
-
-			</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p class="MsoNormal" style="text-align: center;">05h00 - 20h00</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="text-align: justify;">Kh&aacute;ch gần khu vực Bến Niệm Nghĩa c&oacute; thể ra Văn ph&ograve;ng gầm cầu</span>&nbsp;Niệm</span></span></p>
 
 
 
-			<p style="text-align: center;">Li&ecirc;n tục</p>
-
-
-
-			<p style="text-align: center;">30ph&uacute;t/chuyến</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="font-weight: 700;">&nbsp;</span>số 706 Nguyễn Văn Linh&nbsp; để đ&oacute;n xe chạy đường cao tốc từ Bến Cầu R&agrave;o (c&aacute;ch bến Niệm Nghĩa khoảng 800m)</span></span></p>
 
 			</td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p><span style="font-weight: 700;">Chuyến sớm nhất:</span></p>
+			<p class="MsoNormal" style="text-align: justify;"><span style="font-size:14px;">5h00 &ndash; 20h00</span></p>
 
 
 
-			<p><span style="font-weight: 700;">5h00</span></p>
+			<p style="text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center;">Li&ecirc;n tục 30 ph&uacute;t /chuyến</span></p>
+
+			</td>
+
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+
+			<p><span style="font-size:14px;"><span style="font-weight: 700;">Chuyến sớm nhất: 05h00</span></span></p>
 
 
 
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 20h00</span></p>
+			<p><span style="font-size:14px;"><span style="font-weight: 700;">Chuyến muộn nhất: 20h00</span></span></p>
 
 			</td>
 
@@ -171,7 +167,7 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Gia L&acirc;m - Thượng L&yacute;, Niệm Nghĩa, Cầu R&agrave;o</span></span></td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Gia L&acirc;m -&nbsp; Cầu R&agrave;o</span></span></td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
