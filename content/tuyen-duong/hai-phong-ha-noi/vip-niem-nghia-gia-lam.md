@@ -94,7 +94,7 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Niệm Nghĩa</td>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">BX Niệm Nghĩa &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; bến xe Gia L&acirc;m</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">**BX Niệm Nghĩa** &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; **bến xe Gia L&acirc;m**</td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
