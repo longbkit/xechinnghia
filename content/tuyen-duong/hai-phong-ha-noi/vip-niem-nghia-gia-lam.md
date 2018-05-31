@@ -8,157 +8,133 @@ description: >-
   xuất bến đúng giờ
 thumbnail: /img/driver.png
 ---
-<p class="b tc">VIP HẢI ÂU HẢI PHÒNG - HÀ NỘI</p>
-<p class="tc">Xe chạy đường cao tốc - Không đón khách dọc đường - Phục vụ đúng số ghế - Xe xuất bến đúng giờ</p>
+<div class="itemList" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
-<div class="tc w-100">
-	<p class="dib ba b--dashed b--blue blue b bg-light-gray pa3 tj">
-	<span class="red">VIP Hải Âu</span> xuất hiện lần đầu tiên tại Hà Nội và Hải Phòng với chất lượng dịch vụ tiên tiến, văn minh và luôn nâng cao khẩu hiệu: Đúng giờ - Thuận tiện - Nhanh chóng.
-	</p>
+<div id="itemListLeading" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
+
+<div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
+
+<h3 class="catItemTitle" style="border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: transparent; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 10px 0px 4px; line-height: 17.6px; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="font-size:16px;"><strong><span style="color:#000000;">VIP HẢI &Acirc;U&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></strong></span></h3>
+
+
+
+<div class="itemHeader" style="border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
+
+<p style="text-align: center;"><em><span style="color:#000000;"><span style="font-size:14px;">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></span></em></p>
+
+
+
+<p style="padding: 5px 20px; border: 1px dashed #0089cf; margin: 16px 0px 20px; background: none 0px 0px repeat scroll #f0faf8; font-size: 14px !important; text-align: justify;"><font color="#ff0000"><b>VIP Hải &Acirc;u </b></font><span style="color:#0089cf;"><b>xuất hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao khẩu hiệu: <em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng.</em></b></span></p>
+
 </div>
 
-<p class="tc"><img src="/img/VIP HP-HN(1).jpg"/></p>
-
-<div class="tc w-100">
-	<img src="/img/đt chuyển phát(2).png" class="dib h3"/>
-	<img src="/img/facebook(1).png" class="dib h3"/>
 </div>
 
-<p class="dib bg-blue white b ttu pa2">Giờ xe chạy</p>
+</div>
 
-<p class="tc b blue">Hải Phòng - Hà Nội</p>
+</div>
+
+</div>
 
 
 
+<div id="itemListPrimary" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left; ">
+
+<div class="catItemView groupPrimary" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;"><img alt="" height="317" src="/pictures/picfullsizes/2017/12/27/VIP%20HP-HN(1).jpg" width="448" /></div>
 
 
-<table style="color: rgb(41, 43, 44); font-family: arial; outline: none; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); text-align: center;">
 
-	<tbody style="outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp;</div>
 
-		<tr style="outline: none; line-height: 26px; max-width: 100%; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-			<th style="outline: none; text-align: center; font-weight: normal; line-height: 26px; max-width: 100%; border: 1px solid rgb(221, 221, 221); width: 100px;">Bến xe</th>
 
-			<th style="outline: none; text-align: center; font-weight: normal; line-height: 26px; max-width: 100%; border: 1px solid rgb(221, 221, 221);">Giờ xe chạy</th>
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" height="46" src="/pictures/picfullsizes/2018/05/05/t%E1%BB%95ng%20%C4%91%C3%A0i(1).png" width="157" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" height="46" src="/pictures/picfullsizes/2018/05/05/FACEBOOK(1).png" width="161" /></a> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
 
-			<th style="outline: none; font-weight: normal; line-height: 26px; max-width: 100%;">
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">Tần suất</p>
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center; margin-left: 120px;">&nbsp;</div>
+
+
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center; margin-left: 80px;">&nbsp;</div>
+
+
+
+<div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></div>
+
+
+
+<p style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;"><span style="color:#0089cf;"><strong><span style="font-size:16px;">Hải Ph&ograve;ng - H&agrave; Nội</span></strong></span></p>
+
+
+
+<table style="font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); text-align: center; width: 1000px;">
+
+	<tbody>
+
+		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
+
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">Bến xe</th>
+
+			<th style="border: 1px solid rgb(221, 221, 221);">
+
+			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Lộ tr&igrave;nh</p>
+
+			</th>
+
+			<th style="border: 1px solid rgb(221, 221, 221); text-align: center;">Giờ xe chạy</th>
+
+			<th>
+
+			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Tần suất</p>
 
 			</th>
 
 		</tr>
 
-		<tr style="outline: none; line-height: 26px; max-width: 100%;">
-
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Thượng L&yacute;</td>
-
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h30 - 6h00 - 6h30 - 7h00 - 7h30 - 8h00 - 8h30 - 9h00 - 9h30 - 10h00 - 10h30 - 11h30 - 12h30 - 13h30</p>
-
-
-
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">14h00 - 14<span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">h30 - 15h00 - 15h30 - 16h00 - 16h30 - 17h00 - 17h30 - 18h00 - 19h00</span></p>
-
-			</td>
-
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
-
-
-
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
-
-
-
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
-
-
-
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;"><strong style="outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h30</strong></p>
-
-
-
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;"><strong style="outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h00</strong></p>
-
-			</td>
-
-		</tr>
-
-		<tr style="outline: none; line-height: 26px; max-width: 100%;">
-
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">VP Qu&aacute;n Toan</td>
-
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h40 - 6h10 - 6h40 - 7h10 - 7h40 - 8h00 - 8h40 - 9h10 - 9h40 - 10h10 - 10h40 - 11h40 - 12h40 - 13h40</p>
-
-
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">14h10 - 14h40 - 15h10 - 15h40 - 16h10 - 16h40 - 17h10 - 17h40 - 18h10 - 19h10</p>
-
-			</td>
-
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
-
-
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
-
-
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
-
-
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h40</span></p>
-
-
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h10</span></p>
-
-			</td>
-
-		</tr>
-
 		<tr>
 
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">VP An L&atilde;o</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Niệm Nghĩa</td>
 
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">BX Niệm Nghĩa &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; bến xe Gia L&acirc;m</td>
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h50 - 6h20 - 6h50 - 7h20 - 7h50 - 8h20 - 8h50 - 9h20 - 9h50 - 10h20 - 10h50 - 11h50 - 12h50 - 13h50</p>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">14h20 - 14h50 - 15h20 - 15h50 - 16h20 - 16h50 - 17h20 - 17h50 - 18h20 - 19h20</p>
+			<p>6h00 - 7h00 - 8h00 - 9h00 - 10h00 - 11h00&nbsp;- 13h00 -14h00 - 15h00 - 16h00 - 17h00 - 18h00</p>
 
 			</td>
 
-			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
-
-
-
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
+			<p style="text-align: right;">12&nbsp;chuyến/ng&agrave;y</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
+			<p><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center;">Li&ecirc;n tục </span></p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h50</span></p>
+			<p><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center;">60 ph&uacute;t/chuyến</span></p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h20</span></p>
+			<p><strong>Chuyến sớm nhất: 6h00</strong></p>
+
+
+
+			<p><strong>Chuyến muộn nhất:</strong></p>
+
+
+
+			<div><strong>18h00</strong></div>
 
 			</td>
 
@@ -170,112 +146,180 @@ thumbnail: /img/driver.png
 
 
 
-<table class="w-100 table-slim-border table-padding-cell">
-  <tbody>
-    <tr class="b bg-blue white">
-      <th class="w4">Bến xe</th>
-      <th>
-      <p>Lộ trình</p>
-      </th>
-      <th>Giờ xe chạy</th>
-      <th>
-      <p>Tần suất</p>
-      </th>
-    </tr>
-    <tr>
-     
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp;</div>
 
-```
-  
-  <td>Niệm Nghĩa</td>
-  <td>BX Niệm Nghĩa – Cầu Rào II – đường Phạm Văn Đồng – Đường cao tốc 5B – bến xe Gia Lâm</td>
-  <td>
-  <p>6h00 - 7h00 - 8h00 - 9h00 - 10h00 - 11h00&nbsp;- 13h00 -14h00 - 15h00 - 16h00 - 17h00 - 18h00</p>
-  </td>
-  <td>
-  <p>12&nbsp;chuyến/ngày</p>
 
-  <p><span>Liên tục </span></p>
 
-  <p><span>60 phút/chuyến</span></p>
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;"><strong><span style="font-weight: 700; color: rgb(0, 137, 207); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-size: 16px;">H&agrave; Nội&nbsp;- Hải Ph&ograve;ng</span></span></strong></div>
 
-  <p><strong>Chuyến sớm nhất: 6h00</strong></p>
 
-  <p><strong>Chuyến muộn nhất:</strong></p>
 
-  <div><strong>18h00</strong></div>
-  </td>
-</tr>
-```
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp;</div>
 
-  </tbody>
+
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">
+
+<table style="background-color: rgb(255, 255, 255); font-size: 14px; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 1000px;">
+
+	<tbody>
+
+		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
+
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 170px;">Bến xe</th>
+
+			<th style="border: 1px solid rgb(221, 221, 221);">
+
+			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Giờ xe chạy</p>
+
+			</th>
+
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">Tần suất</th>
+
+		</tr>
+
+		<tr>
+
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center;">Gia L&acirc;m -&nbsp; Niệm Nghĩa</span></td>
+
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px;">6h30 - 19h00</p>
+
+			</td>
+
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px;">Li&ecirc;n tục 30 ph&uacute;t/chuyến</p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px;"><span style="font-weight: 700;">Chuyến sớm nhất: 6h35</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px;"><span style="font-weight: 700;">Chuyến muộn nhất: 19h00</span></p>
+
+			</td>
+
+		</tr>
+
+	</tbody>
+
 </table>
 
-<p class="tc b blue">Hà Nội - Hải Phòng</p>
+</div>
 
-<table class="w-100 table-slim-border table-padding-cell">
-  <tbody>
-    <tr class="b bg-blue white">
-      <th>Bến xe</th>
-      <th>
-      Giờ xe chạy
-      </th>
-      <th>Tần suất</th>
-    </tr>
-    <tr>
-   
-  <td>Gia Lâm -&nbsp; Niệm Nghĩa</td>
-  <td>
-  <p>6h30 - 19h00</p>
-  </td>
-  <td>
-  <p>Liên tục 30 phút/chuyến</p>
 
-  <p>Chuyến sớm nhất: 6h35</p>
 
-  <p>Chuyến muộn nhất: 19h00</p>
-  </td>
-</tr>
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp;</div>
 
-  </tbody>
-</table>
 
-<p class="dib bg-blue white b ttu pa2">GIÁ VÉ VIP: 100.000 đ/vé/người/lượt</p>
 
-<p class="tl b red f5"><i class="fas fa-exclamation-circle mr2"></i>Trẻ em từ 1m2 trở lên tính giá vé như người lớn</p>
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vexere.com/"><img alt="" height="47" src="/pictures/picfullsizes/2018/05/05/vexere.png" width="218" /></a>&nbsp; &nbsp;&nbsp;</div>
 
-<p class="dib bg-blue white b ttu pa2">Dịch vụ miễn phí</p>
 
-<ul>
-	<li>Phục vụ khăn ướt, nước lọc và các tiện nghi khác trên xe.</li>
 
-```
-<li>Đặt vé trước thông qua phần mềm bán vé tiện ích.</li>
-```
+<div style="margin-left: 0px;">
 
-</ul>
+<div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="font-weight: bolder;"><font color="#ffffff">GI&Aacute; V&Eacute; VIP: 100.000 đ/v&eacute;/người/lượt&nbsp;&nbsp;</font></span></div>
 
-<div class="w-100 mv4 w-100 tc ba b--dashed b--blue blue b bg-light-gray pa3 tj ">
-	<p class="tc lh-copy">
-VÌ SAO KHÁCH HÀNG NÊN CHỌN VIP HẢI ÂU?
-</p>
-<ul class="tl">
-	<li class="lh-copy">
- Xe ô tô (Univer 47 chỗ) rộng rãi, trang thiết bị tiện nghi ngay trên xe.
-</li>
-	<li class="lh-copy">
- Lái xe được đào tạo tay nghề và ý thức phục vụ chuyên nghiệp.
-</li>
-	<li class="lh-copy">
 
- Phòng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, máy lạnh, Tivi, toilet,...
 
-</li>
-	<li class="lh-copy">
- Đạt chuẩn 3 đúng: Chạy đúng giờ - Đến đúng địa điểm – Chấp hành đúng các quy định.
-</li>
-</ul>
-	<p class="tc lh-copy">
-Thông tin dịch vụ: 02253. 717 717
-</p>
+<div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="color:#FF0000;">Đối với trẻ em &gt; 1m2 t&iacute;nh gi&aacute; v&eacute; như người lớn</span></div>
+
+
+
+<div style="text-align: center;">&nbsp;</div>
+
+</div>
+
+&nbsp;
+
+
+
+<div style="text-align: center;">
+
+<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></div>
+
+</div>
+
+
+
+<p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;<img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right.png" width="20" />&nbsp;Phục vụ khăn ướt, nước lọc v&agrave; c&aacute;c tiện nghi kh&aacute;c tr&ecirc;n xe.</span></p>
+
+
+
+<p style="margin-left: 80px;">&nbsp;<span style="font-size:14px;"><img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(1).png" width="20" /> C&oacute; xe m&ocirc; t&ocirc; taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Cầu R&agrave;o v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Cầu R&agrave;o về tận nh&agrave; miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;ng.&nbsp;</span></p>
+
+
+
+<p style="margin-left: 80px;"><span style="font-size:14px;"><img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(2).png" width="20" /></span>&nbsp;Đặt v&eacute; trước th&ocirc;ng qua phần mềm b&aacute;n v&eacute; tiện &iacute;ch.</p>
+
+
+
+<p style="margin-left: 80px;">&nbsp;</p>
+
+
+
+<h3 class="catItemTitle" style="font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;">&nbsp;</h3>
+
+
+
+<div style="font-family: arial; font-size: 16px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
+
+<p><strong>V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></p>
+
+
+
+<p style="text-align: left; margin-left: 80px;"><strong><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</strong></p>
+
+
+
+<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</strong></p>
+
+
+
+<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</strong></p>
+
+
+
+<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</strong></p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<div class="btnda1tv" style="cursor: pointer;"><span style="font-size:18px;"><span style="color:#0089cf;">Th&ocirc;ng tin dịch vụ: 02253. 717 717</span></span></div>
+
+</div>
+
+
+
+<div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+
+
+<div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+
+
+<div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+</div>
+
+</div>
+
+
+
+<div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+
+
+<div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+</div>
+
 </div>
