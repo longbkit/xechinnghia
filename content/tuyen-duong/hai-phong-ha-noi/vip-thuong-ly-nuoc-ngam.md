@@ -30,7 +30,9 @@ thumbnail: /img/driver.png
 
 
 
-<p style="outline: none; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; font-family: Arial; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><font color="#ff0000" style="outline: none; line-height: 26px; max-width: 100%;"><b style="outline: none; line-height: 26px; max-width: 100%;">VIP Hải &Acirc;u Thượng L&yacute; - Nước Ngầm</b></font><span style="outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><b style="outline: none; line-height: 26px; max-width: 100%;">&nbsp;được khai trương v&agrave;o ng&agrave;y 23/4/2018 nhằm đ&aacute;p ứng nhu cầu đi lại thuận tiện hơn cho Qu&yacute; Kh&aacute;ch h&agrave;ng với&nbsp;chất lượng phục vụ đạt chuẩn, trang bị cơ sở hạ tầng v&agrave; phương tiện hiện đại c&ugrave;ng đội ngũ nh&acirc;n vi&ecirc;n năng động, nhiệt t&igrave;nh, chuy&ecirc;n nghiệp.</b></span></p>
+<p style="outline: none; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; font-family: Arial; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><font color="#ff0000" style="outline: none; line-height: 26px; max-width: 100%;"><b style="outline: none; line-height: 26px; max-width: 100%;">VIP Hải &Acirc;u Thượng L&yacute; - Nước Ngầm</b></font><span style="outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><b style="outline: none; line-height: 26px; max-width: 100%;">&nbsp;được khai trương v&agrave;o ng&agrave;y 23/4/2018 nhằm đ&aacute;p ứng nhu cầu đi lại thuận tiện hơn cho Qu&yacute; Kh&aacute;ch h&agrave;ng với&nbsp;chất lượng phục vụ đạt chuẩn, trang bị cơ sở hạ tầng v&agrave; phương tiện hiện đại c&ugrave;ng đội ngũ nh&acirc;n vi&ecirc;n năng động, nhiệt t&igrave;nh, chuy&ecirc;n nghiệp.
+
+![VIP Thượng Lý - Nước Ngầm](/img/img_1469-1-1-.jpg)
 
 </div>
 
@@ -50,31 +52,7 @@ thumbnail: /img/driver.png
 
 <div class="catItemView groupPrimary" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
 
-<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;"><img alt="" height="534" src="/pictures/picfullsizes/2018/05/04/IMG_1469%5B1%5D(1).JPG" width="800" /></div>
-
-
-
-<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;"><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: arial, helvetica, sans-serif; line-height: 26px; max-width: 100%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></div>
-
-
-
-<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;">
-
-<div style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); background-color: transparent; text-align: justify;">
-
-<p style="outline: none; margin-bottom: 0px; margin-left: 40px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: arial, helvetica, sans-serif; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); text-align: center;"><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(255, 145, 71); line-height: 26px; max-width: 100%;">&nbsp;&nbsp;</a><a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(255, 145, 71); line-height: 26px; max-width: 100%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;​&nbsp;</a>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(51, 51, 51); line-height: 26px; max-width: 100%;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</a></span></span></span></p>
-
-</div>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
-
-
-
-<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center; margin-left: 120px;">&nbsp;</div>
-
-
-
-<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center; margin-left: 80px;">&nbsp;</div>
+<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;">&nbsp;</div>
 
 
 
