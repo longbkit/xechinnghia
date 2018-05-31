@@ -1,6 +1,6 @@
 ---
 title: "Mục tiêu - Tầm nhìn - Sứ mệnh"
-weight:  1
+weight:  3
 date: 2018-03-16T11:47:10+07:00
 description: ""
 thumbnail: /img/driver.png

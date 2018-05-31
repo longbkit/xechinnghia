@@ -12,6 +12,10 @@ main {
     padding-top: 66px;
 }
 
+.vw-100 {
+  width: 100vw;
+}
+
 .owl-carousel {
   margin-top: -66px;
 }
