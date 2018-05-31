@@ -48,16 +48,6 @@ thumbnail: /img/driver.png
 
 <div class="catItemView groupPrimary" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
 
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;"><img alt="" height="317" src="/pictures/picfullsizes/2017/12/27/VIP%20HP-HN(1).jpg" width="448" /></div>
-
-
-
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp;</div>
-
-
-
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt="" height="46" src="/pictures/picfullsizes/2018/05/05/t%E1%BB%95ng%20%C4%91%C3%A0i(1).png" width="157" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" height="46" src="/pictures/picfullsizes/2018/05/05/FACEBOOK(1).png" width="161" /></a> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
-
 
 
 <div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center; margin-left: 120px;">&nbsp;</div>
@@ -76,7 +66,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); text-align: center; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;font-size:14px;text-align:center;width:800px;">
 
 	<tbody>
 
@@ -160,7 +150,7 @@ thumbnail: /img/driver.png
 
 <div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">
 
-<table style="background-color: rgb(255, 255, 255); font-size: 14px; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;font-size:14px;text-align:center;width:800px;">
 
 	<tbody>
 
