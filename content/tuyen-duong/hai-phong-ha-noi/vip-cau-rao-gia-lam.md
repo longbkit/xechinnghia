@@ -62,7 +62,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); text-align: center; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;font-size:14px;text-align:center;width:800px;">
 
 	<tbody>
 
@@ -142,7 +142,7 @@ thumbnail: /img/driver.png
 
 <div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">
 
-<table style="background-color: rgb(255, 255, 255); font-size: 14px; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;font-size:14px;text-align:center;width:800px;">
 
 	<tbody>
 
