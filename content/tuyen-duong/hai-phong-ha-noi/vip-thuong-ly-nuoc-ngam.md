@@ -32,7 +32,9 @@ thumbnail: /img/driver.png
 
 <p style="outline: none; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; font-family: Arial; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><font color="#ff0000" style="outline: none; line-height: 26px; max-width: 100%;"><b style="outline: none; line-height: 26px; max-width: 100%;">VIP Hải &Acirc;u Thượng L&yacute; - Nước Ngầm</b></font><span style="outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><b style="outline: none; line-height: 26px; max-width: 100%;">&nbsp;được khai trương v&agrave;o ng&agrave;y 23/4/2018 nhằm đ&aacute;p ứng nhu cầu đi lại thuận tiện hơn cho Qu&yacute; Kh&aacute;ch h&agrave;ng với&nbsp;chất lượng phục vụ đạt chuẩn, trang bị cơ sở hạ tầng v&agrave; phương tiện hiện đại c&ugrave;ng đội ngũ nh&acirc;n vi&ecirc;n năng động, nhiệt t&igrave;nh, chuy&ecirc;n nghiệp.
 
-![VIP Thượng Lý - Nước Ngầm](/img/img_1469-1-1-.jpg)
+
+
+![](/img/img_1469-1-1-.jpg)
 
 </div>
 
