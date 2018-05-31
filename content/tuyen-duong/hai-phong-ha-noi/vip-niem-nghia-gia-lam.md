@@ -18,53 +18,17 @@ thumbnail: /img/driver.png
 
 <div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
 
-<h3 class="catItemTitle" style="border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: transparent; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 10px 0px 4px; line-height: 17.6px; font-family: Arial, Helvetica, sans-serif; text-align: center;">&nbsp;</h3>
-
-
-
-<h3 class="catItemTitle" style="color: rgb(51, 51, 51); border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: transparent; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 10px 0px 4px; line-height: 17.6px; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="font-weight: bolder;"><span style="color: rgb(0, 0, 0);">VIP HẢI &Acirc;U HẢI PH&Ograve;NG - H&Agrave; NỘI</span></span></h3>
-
-
-
-<p style="text-align: center;"><em style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center;"><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></em></p>
+<h3 class="catItemTitle" style="border: 0px; outline: 0px; font-size: 16px; vertical-align: baseline; background: transparent; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 10px 0px 4px; line-height: 17.6px; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="font-size:16px;"><strong><span style="color:#000000;">VIP HẢI &Acirc;U&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></strong></span></h3>
 
 
 
 <div class="itemHeader" style="border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
 
-<div class="f6 ph3 ph6-l center darkblue" style="padding-left: 8rem; padding-right: 8rem; font-size: 0.875rem; margin-left: auto; margin-right: auto; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
+<p style="text-align: center;"><em><span style="color:#000000;"><span style="font-size:14px;">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></span></em></p>
 
-<div class="fl w-100 w-70-l tj ph0 ph0-l" style="float: left; width: 816.891px; padding-left: 0px; padding-right: 0px; text-align: justify;">
 
-<div class="itemList" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
-<div id="itemListLeading" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
-
-<div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
-
-<div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); margin-top: 16px; margin-bottom: 20px; background: none 0px 0px repeat scroll rgb(240, 250, 248);"><font color="#ff0000"><span style="font-weight: bolder;"><strong>VIP Hải &Acirc;u</strong>&nbsp;</span></font><span style="font-weight: 700; color: rgb(0, 137, 207); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248);">xuất hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao khẩu hiệu:&nbsp;<em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</em></span></p>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+<p style="padding: 5px 20px; border: 1px dashed #0089cf; margin: 16px 0px 20px; background: none 0px 0px repeat scroll #f0faf8; font-size: 14px !important; text-align: justify;"><font color="#ff0000"><b>VIP Hải &Acirc;u </b></font><span style="color:#0089cf;"><b>xuất hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao khẩu hiệu: <em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng.</em></b></span></p>
 
 </div>
 
@@ -85,6 +49,10 @@ thumbnail: /img/driver.png
 <div class="catItemView groupPrimary" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
 
 <div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp;</div>
+
+
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
 
 
 
@@ -124,7 +92,7 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Niệm Nghĩa</td>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">BX Niệm Nghĩa &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; bến xe Gia L&acirc;m</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>BX. Niệm Nghĩa</strong> &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; <strong>BX. Gia L&acirc;m</strong></td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
@@ -232,11 +200,7 @@ thumbnail: /img/driver.png
 
 
 
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp;</div>
-
-
-
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</div>
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</div>
 
 
 
