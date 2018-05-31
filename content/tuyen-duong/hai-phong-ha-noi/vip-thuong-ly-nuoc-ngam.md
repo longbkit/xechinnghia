@@ -8,6 +8,18 @@ description: >-
   xuất bến đúng giờ
 thumbnail: /img/driver.png
 ---
+<div id="itemListLeading" style="outline: 0px; font-size: 14px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 26px; max-width: 100%; background: transparent; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="outline: 0px; font-family: Arial; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupLeading" style="outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
+
+<div class="catItemHeader" style="outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
+
+<h3 class="catItemTitle" style="color: rgb(35, 31, 32); outline: 0px; margin: 0px; padding: 10px 0px 4px; font-size: 16px; font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; max-width: 100%; border: 0px; vertical-align: baseline; background: transparent; text-align: center;"><span style="outline: none; font-family: Arial; line-height: 26px; max-width: 100%;"><strong style="outline: none; font-size: 14px; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 0, 0);">VIP HẢI &Acirc;U&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></strong></span></h3>
+
+
+
 <p style="text-align: center;"><font color="#000000"><b>BẾN XE THƯỢNG L&Yacute; - BẾN XE NƯỚC NGẦM</b></font></p>
 
 
@@ -19,6 +31,42 @@ thumbnail: /img/driver.png
 
 
 <p style="outline: none; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; font-family: Arial; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><font color="#ff0000" style="outline: none; line-height: 26px; max-width: 100%;"><b style="outline: none; line-height: 26px; max-width: 100%;">VIP Hải &Acirc;u Thượng L&yacute; - Nước Ngầm</b></font><span style="outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><b style="outline: none; line-height: 26px; max-width: 100%;">&nbsp;được khai trương v&agrave;o ng&agrave;y 23/4/2018 nhằm đ&aacute;p ứng nhu cầu đi lại thuận tiện hơn cho Qu&yacute; Kh&aacute;ch h&agrave;ng với&nbsp;chất lượng phục vụ đạt chuẩn, trang bị cơ sở hạ tầng v&agrave; phương tiện hiện đại c&ugrave;ng đội ngũ nh&acirc;n vi&ecirc;n năng động, nhiệt t&igrave;nh, chuy&ecirc;n nghiệp.</b></span></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div id="itemListPrimary" style="outline: 0px; font-size: 14px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupPrimary" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
+
+<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;"><img alt="" height="534" src="/pictures/picfullsizes/2018/05/04/IMG_1469%5B1%5D(1).JPG" width="800" /></div>
+
+
+
+<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;"><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: arial, helvetica, sans-serif; line-height: 26px; max-width: 100%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></div>
+
+
+
+<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;">
+
+<div style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); background-color: transparent; text-align: justify;">
+
+<p style="outline: none; margin-bottom: 0px; margin-left: 40px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: arial, helvetica, sans-serif; line-height: 26px; max-width: 100%;"><span style="outline: none; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); text-align: center;"><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</span><span style="background-color: transparent;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(255, 145, 71); line-height: 26px; max-width: 100%;">&nbsp;&nbsp;</a><a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(255, 145, 71); line-height: 26px; max-width: 100%;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;​&nbsp;</a>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/xekhachviphaiau/" style="outline: none; margin: 0px; padding: 0px; color: rgb(51, 51, 51); line-height: 26px; max-width: 100%;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</a></span></span></span></p>
+
+</div>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
 
 
 
@@ -38,7 +86,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="color: rgb(41, 43, 44); font-family: arial; outline: none; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); text-align: center;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;text-align:center;width:800px;">
 
 	<tbody style="outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
@@ -62,41 +110,41 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h30 - 6h00 - 6h30 - 7h00 -7h30 - 8h00</p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">5h30 - 6h00 - 6h30 - 7h00 - 7h30 - 8h00&nbsp;</p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h30 - 9h00 - 9h30 -&nbsp;10h00 - 10h30 - 11h30&nbsp;</p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">8h30 - 9h00 - 9h30 - 10h00 - 10h30 - 11h30&nbsp;</p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h30 - 13h30 -14h00 - 14<span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">h30 -15h00 -&nbsp;15h30 </span></p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">12h30 - 13h30 - 14h00 - 14<span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">h30 - 15h00 - 15h30 &nbsp;</span></p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;"><span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">16h00 - 16h30 - 17h00 - 17h30 - 18h00 - 19h00</span></p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify;">16h00 - 16h30 - 17h00 - 17h30 - 18h00 - 19h00</span></p>
 
 			</td>
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">24&nbsp;chuyến/ng&agrave;y</p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">Li&ecirc;n tục</p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">30 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;"><strong style="outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h30</strong></p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><strong style="outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h30</strong></p>
 
 
 
-			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%;"><strong style="outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h00</strong></p>
+			<p style="outline: none; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><strong style="outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h00</strong></p>
 
 			</td>
 
@@ -108,41 +156,41 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h40 - 6h10 - 6h40 - 7h10 - 7h40 - 8h00 &nbsp;</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">5h40 - 6h10 - 6h40 - 7h10 - 7h40 - 8h00&nbsp;</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h40 - 9h10 - 9h40 - 10h10 - 10h40 - 11h40&nbsp;</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">8h40 - 9h10 - 9h40 - 10h10 - 10h40 - 11h40&nbsp;</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h40 - 13h40 - 14h10 - 14h40 - 15h10 - 15h40&nbsp;</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">12h40 - 13h40 - 14h10 - 14h40 - 15h10 - 15h40 -</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">16h10 - 16h40 - 17h10 - 17h40 - 18h10 - 19h10</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">16h10 - 16h40 - 17h10 - 17h40 - 18h10 - 19h10</p>
 
 			</td>
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">24&nbsp;chuyến/ng&agrave;y</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">Li&ecirc;n tục</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">30 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h40</span></p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h40</span></p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h10</span></p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h10</span></p>
 
 			</td>
 
@@ -154,41 +202,41 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h50 - 6h20 - 6h50 - 7h20 - 7h50 - 8h20</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">5h50 - 6h20 - 6h50 - 7h20 - 7h50 - 8h20</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h50 - 9h20 - 9h50 - 10h20 - 10h50 - 11h50</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">8h50 - 9h20 - 9h50 - 10h20 - 10h50 - 11h50&nbsp;</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h50 - 13h50 14h20 - 14h50 - 15h20 - 15h50</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">12h50 - 13h50 - 14h20 - 14h50 - 15h20 - 15h50&nbsp;</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">16h20 - 16h50 - 17h20 - 17h50 - 18h20 - 19h20</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">16h20 - 16h50 - 17h20 - 17h50 - 18h20 - 19h20</p>
 
 			</td>
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">24&nbsp;chuyến/ng&agrave;y</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">Li&ecirc;n tục</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">30 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h50</span></p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h50</span></p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h20</span></p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h20</span></p>
 
 			</td>
 
@@ -214,7 +262,7 @@ thumbnail: /img/driver.png
 
 <div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-align: center;">
 
-<table style="outline: none; font-family: arial; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;width:800px;">
 
 	<tbody style="outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
@@ -238,41 +286,41 @@ thumbnail: /img/driver.png
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">6h00 - 6h30 - 7h00 - 7h30 - 8h00 - 8h3</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">6h00 - 6h30 - 7h00 - 7h30 - 8h00 - 8h30</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">9h00 - 9h30 - 10h00 - 10h30 - 11h30 - 12h30</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">9h00 - 9h30 - 10h00 - 10h30 - 11h30 - 12h30</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">13h30 -14h00 - 14h30 - 15h00 - 15h30 - 16h00&nbsp;</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">13h30 - 14h00 - 14h30 - 15h00 - 15h30 - 16h00</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">16h30 - 17h00 - 17h30 - 18h00 - 19h00 - 19h30</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">16h30 - 17h00 - 17h30 - 18h00 - 19h00 - 19h30</p>
 
 			</td>
 
 			<td style="outline: none; text-align: left; line-height: 26px; max-width: 100%; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">24&nbsp;chuyến/ng&agrave;y</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">Li&ecirc;n tục</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;">30 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h50</span></p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h50</span></p>
 
 
 
-			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h20</span></p>
+			<p style="margin-bottom: 0px; color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><span style="font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h20</span></p>
 
 			</td>
 
@@ -286,15 +334,11 @@ thumbnail: /img/driver.png
 
 
 
-<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp;</div>
-
-
-
-<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; margin-left: 120px; text-align: right;"><a href="http://vexere.com/"><img alt="" height="47" src="/pictures/picfullsizes/2018/05/04/vexere(3).png" width="218" /></a></div>
-
-
-
 <div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp; &nbsp;&nbsp;</div>
+
+
+
+<div style="color: rgb(35, 31, 32); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp;</div>
 
 
 
@@ -340,7 +384,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="43" src="/pictures/picfullsizes/2018/05/04/moto%20taxi(2).png" width="240" />​&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" height="43" src="/pictures/picfullsizes/2018/05/04/EVtaxi(1).png" width="239" /></span></p>
+<p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;​&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 
 
 
