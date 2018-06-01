@@ -295,12 +295,120 @@ thumbnail: /img/driver.png
 
 <table align="left" cellpadding="0" cellspacing="0" style="box-sizing: border-box; border-spacing: 0px; border-collapse: collapse; background-color: rgb(255, 255, 255); color: rgb(35, 31, 32); font-size: 14px; outline: none; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 26px; max-width: 100%; width: 1000px; font-weight: bold; text-align: justify;">
 
-	<tbody style="box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
+<h3 class="catItemTitle" style="box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; font-weight: normal; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;">&nbsp;</h3>
 
-		<tr style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
 
-			<td style="box-sizing: border-box; padding: 0px; outline: none; text-align: left; font-weight: normal; line-height: 26px; max-width: 100%;" width="79">
 
-			<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: transparent;">
+<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; font-size: 14px; background-color: rgb(255, 255, 255); outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
 
-			<table align="left" cellpadding="0" cellspacing="0" style="box-sizing: border-box; border-spacing: 0px; border-collapse: collapse; background-color: transparent; outline: none; line-height: 26px; max-width: 100%; width: 996px;">
+<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; font-size: 14px; background-color: rgb(255, 255, 255); outline: none; line-height: 26px; max-width: 100%;">
+
+<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
+
+<div class="catItemHeader">
+
+<p style="box-sizing: border-box; margin: 16px 0px 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;XE KH&Aacute;CH HẢI &Acirc;U</span></span></span><br />
+
+<span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span><br />
+
+<span style="color:#FF0000;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);"><span style="font-size:16px;">02253. 717 717&nbsp;</span></span></span><br />
+
+<span style="color:#0089CF;">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span><br />
+
+<span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;"><br style="box-sizing: border-box;" />
+
+<span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+
+
+
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+&nbsp;
+
+
+
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;"><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+
+
+<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
+
+<div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; margin-left: 240px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
