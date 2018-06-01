@@ -9,35 +9,13 @@ description: >-
   Gia Lâm).
 thumbnail: /img/driver.png
 ---
-
-
-</head>
-
-<body>
-
-<div>
-
 <p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>XE CAO TỐC HẢI PH&Ograve;NG - H&Agrave; NỘI</strong></span></span></p>
 
-<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng
-
-<div class="fl w-100 w-70-l tj ph0 ph0-l" style="box-sizing: border-box; float: left; width: 816.891px; padding-left: 0px; padding-right: 0px; text-align: justify;">
-
-<div id="itemListLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
 
 
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
+<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</em></span></span></p>
 
 
-
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
 
@@ -59,20 +37,6 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
-
-
-
 <div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">
 
 <div style="box-sizing: border-box; font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
@@ -81,23 +45,7 @@ thumbnail: /img/driver.png
 
 <div style="box-sizing: border-box;">
 
-<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp;</span></span></p>
-
-
-
-<div style="box-sizing: border-box;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; margin-left: 40px; text-align: center;">&nbsp;</div>
+<p>&nbsp;</p>
 
 
 
@@ -251,7 +199,7 @@ thumbnail: /img/driver.png
 
 
 
-<div style="box-sizing: border-box; font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: bolder;">BẢNG GI&Aacute;&nbsp;</span></span></span></div>
+<div style="box-sizing: border-box; font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: bolder;">BẢNG GI&Aacute;</span></span></span></div>
 
 </div>
 
@@ -262,26 +210,6 @@ thumbnail: /img/driver.png
 </div>
 
 </div>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
 
 
 
@@ -441,8 +369,4 @@ thumbnail: /img/driver.png
 
 
 
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; font-size: 14px; background-color: rgb(255, 255, 255); outline: none; line-height: 26px; max-width: 100%; text-align: center;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</div>
-
-</body>
-
-</html>
+<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; font-size: 14px; background-color: rgb(255, 255, 255); outline: none; line-height: 26px; max-width: 100%; text-align: center;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;
