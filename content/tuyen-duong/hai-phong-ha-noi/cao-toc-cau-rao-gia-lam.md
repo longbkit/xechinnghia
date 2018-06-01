@@ -333,7 +333,7 @@ thumbnail: /img/driver.png
 
 
 
-						<p style="box-sizing: border-box; margin: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700;"><a href="https://www.facebook.com/xekhachviphaiau/" style="box-sizing: border-box; background-color: transparent; color: rgb(7, 130, 193); text-decoration-line: none;"><span style="box-sizing: border-box; color: rgb(0, 137, 207);">Facebook: XE KH&Aacute;CH HẢI &Acirc;U</span></a></span></p>
+						<p style="box-sizing: border-box; margin: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700;"><a href="https://www.facebook.com/xekhachviphaiau/" style="box-sizing: border-box; background-color: transparent; color: rgb(7, 130, 193); text-decoration-line: none;"><span style="box-sizing: border-box; color: rgb(0, 137, 207);">[Facebook: XE KH&Aacute;CH HẢI &Acirc;U](https://www.facebook.com/xekhachviphaiau/)</span></a></span></p>
 
 						</div>
 
@@ -344,29 +344,3 @@ thumbnail: /img/driver.png
 
 
 						<div class="chidinh" style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; color: rgb(41, 43, 44);"><span style="box-sizing: border-box; outline: none; font-size: 14px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp;</span></div>
-
-						</div>
-
-						</div>
-
-						</td>
-
-					</tr>
-
-				</tbody>
-
-			</table>
-
-			</div>
-
-			</td>
-
-		</tr>
-
-	</tbody>
-
-</table>
-
-
-
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; font-size: 14px; background-color: rgb(255, 255, 255); outline: none; line-height: 26px; max-width: 100%; text-align: center;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;
