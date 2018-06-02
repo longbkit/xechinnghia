@@ -24,7 +24,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">Xe đường 5A: Hải Ph&ograve;ng&nbsp;- Hải Dương&nbsp;- H&agrave; Nội</span><span style="color: rgb(35, 31, 32); font-family: Arial; font-size: 14px;">&nbsp;</span><span style="color: rgb(0, 137, 207); font-family: Arial; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">l&agrave; tuyến xe chạy&nbsp;tr&ecirc;n đường&nbsp;5 cũ từ Hải Ph&ograve;ng (bến xe Cầu R&agrave;o, Niệm Nghĩa, Thượng L&yacute;, Kiến Thụy) đến H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) của xe kh&aacute;ch Hải &Acirc;u với tần suất 15 - 20 ph&uacute;t/chuyến.</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/xekhachviphaiau/">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></p>
+<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; color: rgb(255, 0, 0); font-weight: 700;">Xe đường 5A: Hải Ph&ograve;ng&nbsp;- Hải Dương&nbsp;- H&agrave; Nội</span><span style="color: rgb(35, 31, 32); font-family: Arial; font-size: 14px;">&nbsp;</span><span style="color: rgb(0, 137, 207); font-family: Arial; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">l&agrave; tuyến xe chạy&nbsp;tr&ecirc;n đường&nbsp;5 cũ từ Hải Ph&ograve;ng (bến xe Cầu R&agrave;o, Niệm Nghĩa, Thượng L&yacute;, Kiến Thụy) đến H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) của xe kh&aacute;ch Hải &Acirc;u với tần suất 15 - 20 ph&uacute;t.</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 </div>
 
@@ -35,10 +35,6 @@ thumbnail: /img/driver.png
 </div>
 
 </div>
-
-
-
-<p style="margin-left: 240px; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 
 
@@ -54,11 +50,11 @@ thumbnail: /img/driver.png
 
 <div style="background-color: transparent; text-align: center;">
 
-<div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hải Ph&ograve;ng&nbsp;- Hải Dương- H&agrave; Nội</span></span></span></div>
+<div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - H&agrave; Nội</span></span></span></span></div>
 
 
 
-<table style="background-color: rgb(255, 255, 255); text-align: start; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 1200px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;text-align:start;width:800px;">
 
 	<tbody>
 
@@ -84,15 +80,19 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Cầu R&agrave;o</span><span style="font-size: 14px; text-align: justify;">&nbsp;- Cầu vượt Lạch Tray - Đường Nguyễn Văn Linh - Cầu An Đồng&nbsp; -&nbsp;</span><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Thượng L&yacute;&nbsp;</span></p>
+			<p><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Cầu R&agrave;o</span><span style="font-size: 14px; text-align: justify;">&nbsp;- Cầu vượt Lạch Tray - Đường Nguyễn Văn Linh - Cầu An Đồng&nbsp; -&nbsp;</span><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Thượng L&yacute;&nbsp;</span><span style="font-size: 14px; text-align: justify;">- Sở Dầu - Qu&aacute;n Toan - </span></p>
 
 
 
-			<p><span style="font-size: 14px; text-align: justify;">- Sở Dầu - Qu&aacute;n Toan- Quốc lộ 5A -&nbsp;</span><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Gia L&acirc;m</span></p>
+			<p><span style="font-size: 14px; text-align: justify;">Quốc lộ 5A -&nbsp;</span><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Gia L&acirc;m</span></p>
 
 
 
-			<p>&nbsp;</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial;"><em><span style="font-size: 14px; text-align: justify;">(Kh&aacute;ch gần khu vực Bến Niệm Nghĩa&nbsp;ra Văn ph&ograve;ng gầm cầu Niệm số 706 Nguyễn Văn Linh để đ&oacute;n xe chạy đường Cao tốc </span></em></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial;"><em><span style="font-size: 14px; text-align: justify;">từ bến Cầu R&agrave;o (c&aacute;ch bến Niệm Nghĩa khoảng 800m))</span></em></p>
 
 			</td>
 
@@ -118,94 +118,6 @@ thumbnail: /img/driver.png
 
 		</tr>
 
-		<tr>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Niệm Nghĩa</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-size: 14px; text-align: justify;">Kh&aacute;ch gần khu vực Bến Niệm Nghĩa&nbsp;ra Văn ph&ograve;ng gầm cầu Niệm số 706 Nguyễn Văn Linh để đ&oacute;n xe </span></p>
-
-
-
-			<p><span style="font-size: 14px; text-align: justify;">chạy đường Cao tốc từ bến Cầu R&agrave;o (c&aacute;ch bến Niệm Nghĩa khoảng 800m)</span></p>
-
-			</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-size: 14px;">05h15 &ndash; 20h45</span></p>
-
-
-
-			<p><span style="font-size: 14px;">Li&ecirc;n tục 15-20 ph&uacute;t/ chuyến</span></p>
-
-			</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 05h15</span></p>
-
-
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 20h45</span></p>
-
-			</td>
-
-		</tr>
-
-		<tr>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">&nbsp;Thượng L&yacute;</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Thượng L&yacute;</span><span style="font-size: 14px; text-align: justify;">&nbsp;- Sở Dầu - Qu&aacute;n Toan - Quốc lộ 5A -&nbsp;</span><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Gia L&acirc;m</span></p>
-
-			</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-size: 14px;">05h30 &ndash; 21h00</span></p>
-
-
-
-			<p><span style="font-size: 14px;">Li&ecirc;n tục 15-20 ph&uacute;t/ chuyến</span></p>
-
-			</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 05h30</span></p>
-
-
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 21h00</span></p>
-
-			</td>
-
-		</tr>
-
-		<tr>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">&nbsp;Kiến Thụy</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Kiến Thụy</span><span style="font-size: 14px; text-align: justify;">&nbsp;&ndash; đường Lạch Tray &ndash; Nguyễn Văn Linh &ndash; cầu An Đồng -&nbsp;</span><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx Thượng L&yacute;</span><span style="font-size: 14px; text-align: justify;">&nbsp;- Quốc lộ 5A &ndash;&nbsp;</span><span style="font-weight: 700; font-size: 14px; text-align: justify;">Bx. Gia L&acirc;m</span></p>
-
-			</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">1 chuyến:&nbsp;<span style="text-align: center; font-size: 14px;">6h00</span></td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-weight: 700;">1 chuyến 6h00</span></p>
-
-			</td>
-
-		</tr>
-
 	</tbody>
 
 </table>
@@ -222,39 +134,39 @@ thumbnail: /img/driver.png
 
 
 
-<div style="background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; H&agrave; Nội&nbsp;- Hải Dương- Hải Ph&ograve;ng</span></span></span></div>
+<div style="background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; H&agrave; Nội&nbsp;- Hải Ph&ograve;ng</span></span></span></div>
 
 
 
-<table style="background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 1200px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;width:800px;">
 
 	<tbody>
 
 		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">Bến xe</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 150px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Bến xe</span></span></th>
 
 			<th style="border: 1px solid rgb(221, 221, 221);">
 
-			<p style="margin-bottom: 0px; padding: 0px; text-align: center;">Giờ&nbsp;xe chạy</p>
+			<p style="margin-bottom: 0px; padding: 0px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Giờ&nbsp;xe chạy</span></span></p>
 
 			</th>
 
-			<th style="border: 1px solid rgb(221, 221, 221); text-align: center;">Tần suất</th>
+			<th style="border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Tần suất</span></span></th>
 
 		</tr>
 
 		<tr>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Gia L&acirc;m - Cầu R&agrave;o</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Gia L&acirc;m - Cầu R&agrave;o</span></span></td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p>5h00 &ndash; 21h00</p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">5h00 &ndash; 21h00</span></span></p>
 
 
 
-			<p>Li&ecirc;n tục 15 -20 ph&uacute;t /chuyến</p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Li&ecirc;n tục 15 -20 ph&uacute;t /chuyến</span></span></p>
 
 
 
@@ -264,73 +176,11 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 05h00</span></p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến sớm nhất: 05h00</span></span></span></p>
 
 
 
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 21h00</span></p>
-
-			</td>
-
-		</tr>
-
-		<tr>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Gia L&acirc;m - Niệm Nghĩa</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p>5h00 &ndash; 21h00</p>
-
-
-
-			<p>Li&ecirc;n tục 15 -20 ph&uacute;t /chuyến</p>
-
-			</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 05h00</span></p>
-
-
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 21h00</span></p>
-
-			</td>
-
-		</tr>
-
-		<tr>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Gia L&acirc;m - Thượng L&yacute;</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p>5h00 &ndash; 21h00</p>
-
-			Li&ecirc;n tục 15 -20 ph&uacute;t /chuyến</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><span style="font-weight: 700;">Chuyến sớm nhất: 05h00</span></p>
-
-
-
-			<p><span style="font-weight: 700;">Chuyến muộn nhất: 21h00</span></p>
-
-			</td>
-
-		</tr>
-
-		<tr>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Gia L&acirc;m - Kiến Thụy</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">16h30</td>
-
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p><b>1 chuyến 16h30</b></p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến muộn nhất: 21h00</span></span></span></p>
 
 			</td>
 
@@ -366,7 +216,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="background-color: rgb(255, 255, 255); width: 1110px; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;width:800px;">
 
 	<tbody>
 
@@ -518,11 +368,11 @@ thumbnail: /img/driver.png
 
 						<div style="outline: 0px; font-size: 16px; font-family: arial; line-height: 26px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
 
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-weight: 700;">XE KH&Aacute;CH HẢI &Acirc;U</span></p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="color:#0089cf;"><span style="font-weight: 700;">XE KH&Aacute;CH HẢI &Acirc;U</span></span></p>
 
 
 
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI L&Ograve;NG LI&Ecirc;N HỆ:</span></p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><span style="color:#0089cf;"><span style="font-weight: 700;">MỌI CHI TIẾT VỀ DỊCH VỤ XIN VUI L&Ograve;NG LI&Ecirc;N HỆ:</span></span></p>
 
 
 
@@ -530,7 +380,7 @@ thumbnail: /img/driver.png
 
 
 
-						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><a href="https://www.facebook.com/xekhachviphaiau/">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</a></p>
+						<p style="margin-bottom: 0px; outline: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px;"><strong><span style="color:#0089cf;">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></strong></p>
 
 
 
