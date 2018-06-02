@@ -26,7 +26,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="padding: 5px 20px; border: 1px dashed #0089cf; margin: 16px 0px 20px; background: none 0px 0px repeat scroll #f0faf8; font-size: 14px !important; text-align: justify;"><font color="#ff0000"><b>VIP Hải &Acirc;u </b></font><span style="color:#0089cf;"><b>xuất hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao khẩu hiệu: <em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng.</em></b></span>&nbsp;&nbsp;</p>
+<p style="padding: 5px 20px; border: 1px dashed #0089cf; margin: 16px 0px 20px; background: none 0px 0px repeat scroll #f0faf8; font-size: 14px !important; text-align: justify;"><font color="#ff0000"><b>VIP Hải &Acirc;u </b></font><span style="color:#0089cf;"><b>xuất hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao khẩu hiệu: <em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng.</em></b></span></p>
 
 </div>
 
@@ -78,39 +78,35 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Niệm Nghĩa</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Cầu R&agrave;o</td>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>Bx. Niệm Nghĩa</strong> &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; <strong>Bx. Gia L&acirc;m</strong></td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">BX Cầu R&agrave;o &ndash; cầu R&agrave;o 1 &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; bến xe Gia L&acirc;m</td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p>6h00 - 7h00 - 8h00 - 9h00 - 10h00 - 11h00&nbsp;- 13h00 -14h00 - 15h00 - 16h00 - 17h00 - 18h00</p>
+			<p style="text-align: justify;">5h35 - 6h35 - 7h35 - 8h35 -9h35 - 10h35 - 11h35 - 12h35 - 13h35 - 14h35 - 15h35 - 16h35 - 17h35 - 18h35</p>
 
 			</td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="text-align: right;">12&nbsp;chuyến/ng&agrave;y</p>
+			<p>14&nbsp;chuyến/ng&agrave;y</p>
 
 
 
-			<p><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center;">Li&ecirc;n tục </span></p>
+			<p>Li&ecirc;n tục</p>
 
 
 
-			<p><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center;">60 ph&uacute;t/chuyến</span></p>
+			<p>60 ph&uacute;t/chuyến</p>
 
 
 
-			<p><strong>Chuyến sớm nhất: 6h00</strong></p>
+			<p><strong>Chuyến sớm nhất: 5h35</strong></p>
 
 
 
-			<p><strong>Chuyến muộn nhất:</strong></p>
-
-
-
-			<div><strong>18h00</strong></div>
+			<p><strong>Chuyến muộn nhất: 18h35</strong></p>
 
 			</td>
 
@@ -156,11 +152,11 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center;">Gia L&acirc;m -&nbsp; Niệm Nghĩa</span></td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Gia L&acirc;m -&nbsp; Cầu R&agrave;o</td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px;">6h30 - 19h00</p>
+			<p>6h30 - 19h00</p>
 
 			</td>
 
@@ -242,37 +238,33 @@ thumbnail: /img/driver.png
 
 
 
-<div style="font-family: arial; font-size: 16px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
+<div style="font-family: arial; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
 
-<p><span style="color:#0089cf;"><strong>V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></span></p>
-
-
-
-<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><strong><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /></strong>&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></p>
+<p style="font-size: 16px;"><span style="color:#0089cf;"><strong>V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></span></p>
 
 
 
-<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</span></p>
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></p>
 
 
 
-<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</span></p>
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</span></p>
 
 
 
-<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</span></p>
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</span></p>
 
 
 
-<p>&nbsp;</p>
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</span></p>
 
 
 
-<div class="btnda1tv" style="cursor: pointer;"><span style="color:#0089cf;"><span style="font-size:18px;">Th&ocirc;ng tin dịch vụ: </span></span><strong><span style="color:#FF0000;"><span style="font-size:18px;">02253. 717 717</span></span></strong></div>
+<div class="btnda1tv" style="font-size: 16px; cursor: pointer;"><span style="color:#0089cf;"><span style="font-size:18px;">Th&ocirc;ng tin dịch vụ: </span></span><span style="color:#FF0000;"><span style="font-size:18px;">02253. 717 717</span></span></div>
 
 
 
-<div class="btnda1tv" style="cursor: pointer;"><span style="color:#0089cf;"><strong><span style="font-size:18px;">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></strong></span></div>
+<div class="btnda1tv" style="cursor: pointer;"><strong><font color="#0089cf"><span style="font-size: 18px;">Facebook: XE KH&Aacute;CH HẢI &Acirc;U</span></font></strong></div>
 
 </div>
 
