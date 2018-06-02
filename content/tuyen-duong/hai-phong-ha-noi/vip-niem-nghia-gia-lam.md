@@ -28,7 +28,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="padding: 5px 20px; border: 1px dashed #0089cf; margin: 16px 0px 20px; background: none 0px 0px repeat scroll #f0faf8; font-size: 14px !important; text-align: justify;"><font color="#ff0000"><b>VIP Hải &Acirc;u </b></font><span style="color:#0089cf;"><b>xuất hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao khẩu hiệu: <em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng.</em></b></span></p>
+<p style="padding: 5px 20px; border: 1px dashed #0089cf; margin: 16px 0px 20px; background: none 0px 0px repeat scroll #f0faf8; font-size: 14px !important; text-align: justify;"><font color="#ff0000"><b>VIP Hải &Acirc;u </b></font><span style="color:#0089cf;"><b>xuất hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao khẩu hiệu: <em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng.</em></b></span>&nbsp;&nbsp;</p>
 
 </div>
 
@@ -43,16 +43,6 @@ thumbnail: /img/driver.png
 
 
 <div id="itemListPrimary" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left; ">
-
-<div class="catItemView groupPrimary" style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
-
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp;</div>
-
-
-
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
 
 
 
@@ -92,7 +82,7 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Niệm Nghĩa</td>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>BX. Niệm Nghĩa</strong> &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; <strong>BX. Gia L&acirc;m</strong></td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>Bx. Niệm Nghĩa</strong> &ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; <strong>Bx. Gia L&acirc;m</strong></td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
@@ -200,7 +190,11 @@ thumbnail: /img/driver.png
 
 
 
-<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</div>
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp;</div>
+
+
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</div>
 
 
 
@@ -252,23 +246,23 @@ thumbnail: /img/driver.png
 
 <div style="font-family: arial; font-size: 16px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
 
-<p><strong>V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></p>
+<p><span style="color:#0089cf;"><strong>V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></span></p>
 
 
 
-<p style="text-align: left; margin-left: 80px;"><strong><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</strong></p>
+<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><strong><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /></strong>&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></p>
 
 
 
-<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</strong></p>
+<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</span></p>
 
 
 
-<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</strong></p>
+<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</span></p>
 
 
 
-<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</strong></p>
+<p style="text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</span></p>
 
 
 
@@ -276,7 +270,11 @@ thumbnail: /img/driver.png
 
 
 
-<div class="btnda1tv" style="cursor: pointer;"><span style="font-size:18px;"><span style="color:#0089cf;">Th&ocirc;ng tin dịch vụ: 02253. 717 717</span></span></div>
+<div class="btnda1tv" style="cursor: pointer;"><span style="color:#0089cf;"><span style="font-size:18px;">Th&ocirc;ng tin dịch vụ: </span></span><strong><span style="color:#FF0000;"><span style="font-size:18px;">02253. 717 717</span></span></strong></div>
+
+
+
+<div class="btnda1tv" style="cursor: pointer;"><span style="color:#0089cf;"><strong><span style="font-size:18px;">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></strong></span></div>
 
 </div>
 
