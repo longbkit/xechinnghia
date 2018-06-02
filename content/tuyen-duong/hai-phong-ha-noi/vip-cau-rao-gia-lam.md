@@ -228,37 +228,11 @@ miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;
 
 
 
-<div style="text-align: justify;">&nbsp;</div>
-
-</div>
 
 
 
-<p style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; margin-left: 80px;"><br />
-
-<br />
-
-&nbsp;</p>
 
 
-
-<div class="itemHeader" style="color: rgb(51, 51, 51); background: rgb(255, 255, 255); box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<div class="btnda1tv" style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: arial; text-align: center; font-size: 16px; cursor: pointer;">&nbsp;</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</body>
-
-</html>
 
 <p style="margin-left: 80px;">&nbsp;</p>
 
