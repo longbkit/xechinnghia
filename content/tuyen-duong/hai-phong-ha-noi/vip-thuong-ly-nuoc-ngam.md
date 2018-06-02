@@ -332,7 +332,7 @@ thumbnail: /img/driver.png
 
 
 
-
+<div style="color: rgb(35, 31, 32); font-family: arial; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
 
 <p style="outline: none; margin-bottom: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%;"><span style="color:#0089cf;"><strong style="outline: none; line-height: 26px; max-width: 100%;">V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></span></p>
 
@@ -354,11 +354,15 @@ thumbnail: /img/driver.png
 
 
 
+<p style="outline: none; margin-bottom: 0px; padding: 0px; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%;">&nbsp;</p>
+
+
+
 <div class="btnda1tv" style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; cursor: pointer;"><span style="font-size:18px;"><span style="color:#0089cf;"><strong><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%;">Th&ocirc;ng tin dịch vụ: </span></span></strong></span><span style="color:#FF0000;"><strong><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%;">02253. 717 717</span></span></strong></span></span></div>
 
 
 
-<div class="btnda1tv" style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; cursor: pointer;"><span style="font-size:18px;"><span style="color:#0089cf;"><strong><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%;">[Facebook: XE KH&Aacute;CH HẢI &Acirc;U](https://www.facebook.com/xekhachviphaiau/)</span></span></strong></span></span></div>
+<div class="btnda1tv" style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; cursor: pointer;"><span style="font-size:18px;"><span style="color:#0089cf;"><strong><span style="outline: none; line-height: 26px; max-width: 100%;"><span style="outline: none; line-height: 26px; max-width: 100%;">Facebook: XE KH&Aacute;CH HẢI &Acirc;U</span></span></strong></span></span></div>
 
 </div>
 
