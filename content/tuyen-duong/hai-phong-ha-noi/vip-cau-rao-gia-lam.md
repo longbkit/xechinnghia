@@ -132,11 +132,7 @@ thumbnail: /img/driver.png
 
 			<p style="box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 18h35</span></p>
 
-			</td>
-
-		</tr>
-
-	</tbody>
+		
 
 </table>
 
@@ -210,11 +206,7 @@ thumbnail: /img/driver.png
 
 			<div>&nbsp;</div>
 
-			</td>
-
-		</tr>
-
-	</tbody>
+			
 
 </table>
 
@@ -237,18 +229,6 @@ thumbnail: /img/driver.png
 <div style="font-family: arial; font-size: 16px; box-sizing: border-box; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;</span></span><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(1).png" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); border-style: none; max-width: 100%;" width="20" /><span style="color:#FFFFFF;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;C&oacute; xe m&ocirc; t&ocirc; taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Cầu R&agrave;o v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Cầu R&agrave;o về tận nh&agrave;<br />
 
 miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;ng. </span></span></span><span style="color:#FF0000;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">(<strong>02553. 548 548)</strong></span></span></span></div>
-
-
-
-<div style="text-align: justify; box-sizing: border-box; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><font face="-apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif"><span style="font-size: 14px;">Đặt v&eacute; trước th&ocirc;ng qua phần mềm b&aacute;n v&eacute;: </span><span style="font-size:16px;"><strong>vexere.com</strong></span></font></div>
-
-
-
-<p style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; box-sizing: border-box; color: rgb(51, 51, 51); margin-left: 80px;"><br />
-
-
-
-<div class="btnda1tv" style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: arial; text-align: center; font-size: 16px; cursor: pointer;">&nbsp;</div>
 
 
 
