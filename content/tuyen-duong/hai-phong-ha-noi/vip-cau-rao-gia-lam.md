@@ -182,17 +182,91 @@ thumbnail: /img/driver.png
 
 </table>
 
-<p style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp;</p>
 
-<div style="box-sizing: border-box; color: rgb(51, 51, 51); text-align: center;">
 
-<div style="font-family: arial; font-size: 16px; box-sizing: border-box; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;"><span style="background-color:#0089CF;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></span></div>
+<p style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);">&nbsp;</p>
 
-<div style="font-family: arial; font-size: 16px; box-sizing: border-box; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right.png" style="border-style: none; max-width: 100%;" width="20" /><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="background-color:#0089CF;">&nbsp;Phục vụ khăn ướt, nước lọc v&agrave; c&aacute;c tiện nghi kh&aacute;c tr&ecirc;n xe.</span></span></span></div>
 
-<div style="font-family: arial; font-size: 16px; box-sizing: border-box; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;</span></span><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(1).png" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); border-style: none; max-width: 100%;" width="20" /><span style="color:#FFFFFF;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;C&oacute; xe m&ocirc; t&ocirc; taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Cầu R&agrave;o v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Cầu R&agrave;o về tận nh&agrave;<br />
 
-miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;ng. </span></span></span><span style="color:#FF0000;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">(<strong>02553. 548 548)</strong></span></span></span></div>
+<p style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">&nbsp;</p>
+
+
+
+<div style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; text-align: justify;">
+
+<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">DỊCH VỤ MIỄN PH&Iacute;</span></span></span></div>
+
+</div>
+
+
+
+<div style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">
+
+<div style="color: rgb(255, 255, 255); background: rgb(0, 137, 207); box-sizing: border-box; font-family: arial; font-size: 16px; padding: 5px 15px; margin: 15px 0px; display: table;"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right.png" style="border-style: none; max-width: 100%;" width="20" /><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="background-color:#0089CF;">&nbsp;Phục vụ khăn ướt, nước lọc v&agrave; c&aacute;c tiện nghi kh&aacute;c tr&ecirc;n xe.</span></span></span></div>
+
+
+
+<div style="color: rgb(255, 255, 255); background: rgb(0, 137, 207); box-sizing: border-box; font-family: arial; font-size: 16px; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;</span></span><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(1).png" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); border-style: none; max-width: 100%;" width="20" /><span style="color:#FFFFFF;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;</span></span><span style="font-size:14px;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; text-align: justify;"><span style="background-color:#0089CF;">C&oacute; xe m&ocirc; t&ocirc; taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Cầu R&agrave;o v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Cầu R&agrave;o về tận nh&agrave;<br />
+
+miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;n</span></span></span><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">g </span></span></span><strong><span style="color:#FF0000;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">(li&ecirc;n hệ: 02253. 717 717)</span></span></span></strong></div>
+
+
+
+<div style="background: rgb(0, 137, 207); box-sizing: border-box; font-family: arial; font-size: 16px; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="color:#FFFFFF;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Đặt v&eacute; trước th&ocirc;ng qua phần mềm b&aacute;n v&eacute; tiện &iacute;ch<b>: vexere.com</b><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(2).png" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); border-style: none; max-width: 100%;" width="20" /></span></span></span></div>
+
+
+
+
+
+
+
+<p style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; margin-left: 80px;"><br />
+
+<br />
+
+&nbsp;</p>
+
+
+
+<div class="itemHeader" style="color: rgb(51, 51, 51); background: rgb(255, 255, 255); box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<div class="btnda1tv" style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: arial; text-align: center; font-size: 16px; cursor: pointer;">&nbsp;</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; margin-left: 80px;"><br />
+
+<br />
+
+&nbsp;</p>
+
+
+
+<div class="itemHeader" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<div class="btnda1tv" style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: arial; text-align: center; font-size: 16px; cursor: pointer;">&nbsp;</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 <p style="margin-left: 80px;">&nbsp;</p>
 
