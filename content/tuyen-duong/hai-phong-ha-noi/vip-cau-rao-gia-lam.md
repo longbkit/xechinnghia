@@ -40,8 +40,6 @@ thumbnail: /img/driver.png
 
 
 
-<div id="itemListPrimary" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
 
 
 <div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></div>
@@ -80,7 +78,7 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Cầu R&agrave;o</td>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">**Bx. Cầu R&agrave;o** &ndash; cầu R&agrave;o 1 &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; **Bx. Gia L&acirc;m**</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>Bx.Cầu R&agrave;o</strong> &ndash; cầu R&agrave;o 1 &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; <strong>Bx.Gia L&acirc;m</strong></td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
