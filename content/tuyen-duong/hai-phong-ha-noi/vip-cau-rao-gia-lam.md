@@ -198,31 +198,157 @@ thumbnail: /img/driver.png
 
 <p style="margin-left: 80px;"><span style="font-size:14px;"><img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(2).png" width="20" /></span>&nbsp;Đặt v&eacute; trước th&ocirc;ng qua phần mềm b&aacute;n v&eacute; tiện &iacute;ch.</p>
 
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp;</div>
+
+
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vexere.com/"><img alt="" height="47" src="/pictures/picfullsizes/2018/05/05/vexere.png" width="218" /></a>&nbsp; &nbsp;&nbsp;</div>
+
+
+
+<div style="margin-left: 0px;">
+
+<div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="font-weight: bolder;"><font color="#ffffff">GI&Aacute; V&Eacute; VIP: 100.000 đ/v&eacute;/người/lượt&nbsp;&nbsp;</font></span></div>
+
+
+
+<div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="color:#FF0000;">Đối với trẻ em &gt; 1m2 t&iacute;nh gi&aacute; v&eacute; như người lớn</span></div>
+
+
+
+<div style="text-align: center;">&nbsp;</div>
+
+</div>
+
+&nbsp;
+
+
+
+<div style="text-align: center;">
+
+<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></div>
+
+</div>
+
+
+
+<p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;<img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right.png" width="20" />&nbsp;Phục vụ khăn ướt, nước lọc v&agrave; c&aacute;c tiện nghi kh&aacute;c tr&ecirc;n xe.</span></p>
+
+
+
+<p style="margin-left: 80px;">&nbsp;<span style="font-size:14px;"><img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(1).png" width="20" /> C&oacute; xe m&ocirc; t&ocirc; taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Cầu R&agrave;o v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Cầu R&agrave;o về tận nh&agrave; miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;ng.&nbsp;</span></p>
+
+
+
+	</td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+</div>
+
+
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: right;">&nbsp;</div>
+
+
+
+<div style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: transparent; margin-left: 120px; text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vexere.com/"><img alt="" height="47" src="/pictures/picfullsizes/2018/05/05/vexere.png" width="218" /></a>&nbsp; &nbsp;&nbsp;</div>
+
+
+
+<div style="margin-left: 0px;">
+
+<div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="font-weight: bolder;"><font color="#ffffff">GI&Aacute; V&Eacute; VIP: 100.000 đ/v&eacute;/người/lượt&nbsp;&nbsp;</font></span></div>
+
+
+
+<div style="font-family: arial; font-size: 16px; background: rgb(0, 137, 207); text-align: center; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="color:#FF0000;">Đối với trẻ em &gt; 1m2 t&iacute;nh gi&aacute; v&eacute; như người lớn</span></div>
+
+
+
+<div style="text-align: center;">&nbsp;</div>
+
+</div>
+
+&nbsp;
+
+
+
+<div style="text-align: center;">
+
+<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></div>
+
+</div>
+
+
+
+<p style="margin-left: 80px;"><span style="font-size:14px;">&nbsp;<img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right.png" width="20" />&nbsp;Phục vụ khăn ướt, nước lọc v&agrave; c&aacute;c tiện nghi kh&aacute;c tr&ecirc;n xe.</span></p>
+
+
+
+<p style="margin-left: 80px;">&nbsp;<span style="font-size:14px;"><img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(1).png" width="20" /> C&oacute; xe m&ocirc; t&ocirc; taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Cầu R&agrave;o v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Cầu R&agrave;o về tận nh&agrave; miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;ng.&nbsp;</span></p>
+
+
+
+<p style="margin-left: 80px;"><span style="font-size:14px;"><img alt="" height="20" src="/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(2).png" width="20" /></span>&nbsp;Đặt v&eacute; trước th&ocirc;ng qua phần mềm b&aacute;n v&eacute; tiện &iacute;ch.</p>
+
+
+
 <p style="margin-left: 80px;">&nbsp;</p>
+
+
 
 <h3 class="catItemTitle" style="font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;">&nbsp;</h3>
 
-<div style="font-family: arial; font-size: 16px; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
 
-<p><strong>V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></p>
 
-<p style="text-align: left; margin-left: 80px;"><strong><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</strong></p>
+<div style="font-family: arial; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; text-align: center; background: rgb(240, 250, 248);">
 
-<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</strong></p>
+<p style="font-size: 16px;"><span style="color:#0089cf;"><strong>V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</strong></span></p>
 
-<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</strong></p>
 
-<p style="text-align: left; margin-left: 80px;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</strong></p>
 
-<p>&nbsp;</p>
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" /><strong>&nbsp;</strong>Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></p>
 
-<div class="btnda1tv" style="cursor: pointer;"><span style="font-size:18px;"><span style="color:#0089cf;">Th&ocirc;ng tin dịch vụ: 02253. 717 717</span></span></div>
+
+
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</span></p>
+
+
+
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</span></p>
+
+
+
+<p style="font-size: 16px; text-align: left; margin-left: 80px;"><span style="color:#0089cf;"><img alt="" height="20" src="/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" width="20" />&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</span></p>
+
+
+
+<p style="font-size: 16px;">&nbsp;</p>
+
+
+
+<div class="btnda1tv" style="font-size: 16px; cursor: pointer;"><strong><span style="font-size:18px;"><span style="color:#0089cf;">Th&ocirc;ng tin dịch vụ: </span><span style="color:#FF0000;">02253. 717 717</span></span></strong></div>
+
+
+
+<div class="btnda1tv" style="cursor: pointer;"><span style="color:#0089cf;"><span style="font-size: 18px;"><b>FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</b></span></span></div>
 
 </div>
 
-<div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
 
 <div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+
+
+<div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+
 
 <div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
 
@@ -230,7 +356,11 @@ thumbnail: /img/driver.png
 
 </div>
 
+
+
 <div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
+
+
 
 <div class="clr" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
 
