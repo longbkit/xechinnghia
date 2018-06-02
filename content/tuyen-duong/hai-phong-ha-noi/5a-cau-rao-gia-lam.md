@@ -395,33 +395,3 @@ thumbnail: /img/driver.png
 
 
 						<div class="chidinh" style="color: rgb(41, 43, 44); font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span></div>
-
-						</div>
-
-						</div>
-
-						</td>
-
-					</tr>
-
-				</tbody>
-
-			</table>
-
-			</div>
-
-			</td>
-
-		</tr>
-
-	</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
