@@ -80,7 +80,7 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Cầu R&agrave;o</td>
 
-			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">BX Cầu R&agrave;o &ndash; cầu R&agrave;o 1 &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; bến xe Gia L&acirc;m</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">**Bx. Cầu R&agrave;o** &ndash; cầu R&agrave;o 1 &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash; **Bx. Gia L&acirc;m**</td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
