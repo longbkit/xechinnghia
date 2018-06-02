@@ -242,31 +242,13 @@ miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;
 
 <div style="text-align: justify; box-sizing: border-box; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><font face="-apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif"><span style="font-size: 14px;">Đặt v&eacute; trước th&ocirc;ng qua phần mềm b&aacute;n v&eacute;: </span><span style="font-size:16px;"><strong>vexere.com</strong></span></font></div>
 
-</div>
-
 
 
 <p style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; box-sizing: border-box; color: rgb(51, 51, 51); margin-left: 80px;"><br />
 
-<br />
 
-&nbsp;</p>
-
-
-
-<div class="itemHeader" style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; box-sizing: border-box; color: rgb(51, 51, 51); text-align: justify; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
 <div class="btnda1tv" style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: arial; text-align: center; font-size: 16px; cursor: pointer;">&nbsp;</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
 
 
 
