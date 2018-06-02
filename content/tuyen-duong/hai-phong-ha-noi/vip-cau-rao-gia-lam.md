@@ -6,12 +6,6 @@ url: /vip-cau-rao-gia-lam/
 description: mt
 thumbnail: /img/driver.png
 ---
-
-
-
-
-
-
 <p style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-size:16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE VIP&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></span></span></p>
 
 
@@ -216,7 +210,7 @@ thumbnail: /img/driver.png
 
 <div style="color: rgb(255, 255, 255); background: rgb(0, 137, 207); box-sizing: border-box; font-family: arial; font-size: 16px; padding: 5px 15px; margin: 15px 0px; display: table;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;</span></span><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2017/12/29/007404-blue-jelly-icon-arrows-double-arrowhead-right(1).png" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); border-style: none; max-width: 100%;" width="20" /><span style="color:#FFFFFF;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">&nbsp;</span></span><span style="font-size:14px;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; text-align: justify;"><span style="background-color:#0089CF;">C&oacute; xe m&ocirc; t&ocirc; taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Cầu R&agrave;o v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Cầu R&agrave;o về tận nh&agrave;<br />
 
-miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;n</span></span></span><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">g </span></span></span><strong><span style="color:#FF0000;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">(li&ecirc;n hệ: 02253. 717 717)</span></span></span></strong></div>
+miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;n</span></span></span><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">g </span></span></span><strong><span style="color:#FF0000;"><span style="font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;"><span style="background-color:#0089CF;">(li&ecirc;n hệ: 02253. 548 548)</span></span></span></strong></div>
 
 
 
