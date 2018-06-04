@@ -200,16 +200,6 @@ thumbnail: /img/driver.png
 
 			<div style="box-sizing: border-box;">&nbsp;</div>
 
-
-
-			<p style="box-sizing: border-box;">&nbsp;</p>
-
-			</td>
-
-		</tr>
-
-	</tbody>
-
 </table>
 
 
@@ -393,20 +383,6 @@ thumbnail: /img/driver.png
 						<td style="box-sizing: border-box; outline: none; text-align: left; line-height: 26px; max-width: 100%;" width="79">
 
 						<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</div>
-
-						</td>
-
-					</tr>
-
-				</tbody>
-
-			</table>
-
-			</td>
-
-		</tr>
-
-	</tbody>
 
 </table>
 
