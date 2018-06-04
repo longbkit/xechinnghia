@@ -24,9 +24,7 @@ thumbnail: /img/driver.png
 
 <div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe đường cao tốc&nbsp;Hải Ph&ograve;ng - Nam Định</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">l&agrave; tuyến xe chạy từ&nbsp;Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) đến Nam Định&nbsp;(bến xe Nam Định) với lộ tr&igrave;nh xe chạy đường cao tốc mới:<br />
-
-&nbsp;Nhanh ch&oacute;ng - Thuận lợi - Chất lượng phục vụ tối ưu</span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe đường cao tốc&nbsp;Hải Ph&ograve;ng - Nam Định</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">l&agrave; tuyến xe chạy từ&nbsp;Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) đến Nam Định&nbsp;(bến xe Nam Định) với lộ tr&igrave;nh xe chạy đường cao tốc mới: Nhanh ch&oacute;ng - Thuận lợi - Chất lượng phục vụ tối ưu</span></p>
 
 </div>
 
@@ -82,7 +80,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 13px; background-color: rgb(255, 255, 255); margin: 0px 0px 10px; text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;</span></span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);">&ndash;</span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"> Ba Đợi &ndash; Cầu Nguyễn </span></span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);">&ndash; Đống Năm&ndash; Gia Lễ</span></p>
+			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 13px; background-color: rgb(255, 255, 255); margin: 0px 0px 10px; text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;</span></span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);">&ndash;</span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"> Ba Đợi &ndash; Cầu Nguyễn </span></span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);">&ndash; Đống Năm &ndash; Gia Lễ</span></p>
 
 
 
@@ -122,13 +120,7 @@ thumbnail: /img/driver.png
 
 
 
-			<div style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">18h00</span></div>
-
-			</td>
-
-		</tr>
-
-	</tbody>
+			<div style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">18h00</span></div>		
 
 </table>
 
