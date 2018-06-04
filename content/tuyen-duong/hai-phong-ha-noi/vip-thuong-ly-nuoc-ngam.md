@@ -420,10 +420,6 @@ thumbnail: /img/driver.png
 
 <div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><span style="font-weight: bolder;"><font color="#0089cf"><span style="font-size: 18px;">Facebook: XE KH&Aacute;CH HẢI &Acirc;U</span></font></span></div>
 
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
 </div>
 
 
@@ -498,10 +494,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-</div>
-
-</div>
-
 
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
@@ -526,25 +518,21 @@ thumbnail: /img/driver.png
 
 </div>
 
-</body>
 
-<div style="color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: center;">
 
-<div style="outline: none; font-size: 16px; font-family: arial; line-height: 26px; max-width: 100%; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; font-weight: bolder;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></div>
+<div id="itemListPrimary" style="outline: 0px; font-size: 14px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
 
-</div>
+<div class="itemContainer itemContainerLast" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
-<p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp;Taxi &Eacute;n v&agrave;ng, M&ocirc; t&ocirc; taxi đưa đ&oacute;n tận nh&agrave;.</span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;" />
+<div class="catItemView groupPrimary" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
 
-<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp;Xe trung chuyển Thượng L&yacute; - Thủy Nguy&ecirc;n.</span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;" />
+<div style="color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: center;">&nbsp;</div>
 
-<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp;Bus Nội đ&ocirc; Thượng L&yacute; - Bưu điện Vạn Mỹ.</span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;" />
 
-<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px;"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp;Xe trung chuyển Thượng L&yacute; - Ng&atilde; tư An Dương</span></p>
-
-<p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
 
 <p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;​&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+
 
 <p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
 
