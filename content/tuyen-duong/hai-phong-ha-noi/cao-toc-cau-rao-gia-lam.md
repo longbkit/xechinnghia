@@ -23,7 +23,7 @@ thumbnail: /img/driver.png
 
 <div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc&nbsp;Hải &Acirc;u</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">l&agrave; xe chạy cao tốc từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o,;) đến Thủ đ&ocirc; H&agrave; Nội ( bến xe Gia L&acirc;m).</span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc&nbsp;Hải &Acirc;u</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">l&agrave; xe chạy đường quốc lộ 5B từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) đến Thủ đ&ocirc; H&agrave; Nội ( bến xe Gia L&acirc;m) với tần suất 30 - 40 ph&uacute;t/chuyến.</span></p>
 
 </div>
 
@@ -127,13 +127,7 @@ thumbnail: /img/driver.png
 
 
 
-			<div style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">20h00</span></div>
-
-			</td>
-
-		</tr>
-
-	</tbody>
+			<div style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">20h00</span></div>		
 
 </table>
 
@@ -214,48 +208,6 @@ thumbnail: /img/driver.png
 	</tbody>
 
 </table>
-
-
-
-<div class="f6 ph3 ph6-l center darkblue" style="box-sizing: border-box; padding-left: 8rem; padding-right: 8rem; font-size: 0.875rem; margin-left: auto; margin-right: auto; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
-
-<div class="fl w-100 w-70-l tj ph0 ph0-l" style="box-sizing: border-box; float: left; width: 816.891px; padding-left: 0px; padding-right: 0px; text-align: justify;">
-
-<div style="box-sizing: border-box;">
-
-<div style="box-sizing: border-box;">
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; margin-left: 40px; text-align: center;">
-
-<p style="box-sizing: border-box; margin: 0px 0px 10px; font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: start;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; margin: 0px 0px 10px; font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: start;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; margin: 0px 0px 10px; font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: start;"><br />
-
-&nbsp;</p>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 16px;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 16px; text-align: justify;">&nbsp;</p>
 
 
 
