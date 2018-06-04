@@ -6,8 +6,6 @@ url: /5a-thai-binh-ha-noi/
 description: 5A Thái Bình - Hà Nội
 thumbnail: /img/driver.png
 ---
-</head>
-
 <body>
 
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-size: 16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE 5A TH&Aacute;I B&Igrave;NH&nbsp;- H&Agrave; NỘI</span></span></span></p>
@@ -116,7 +114,13 @@ thumbnail: /img/driver.png
 
 
 
-			<span style="font-weight: bolder;">Chuyến muộn nhất: 18h30</span></p>		
+			<p style="box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 18h30</span></p>
+
+			</td>
+
+		</tr>
+
+	</tbody>
 
 </table>
 
@@ -212,7 +216,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box; text-align: justify;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+<p style="box-sizing: border-box; text-align: justify;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
 
 
 
@@ -441,10 +445,6 @@ thumbnail: /img/driver.png
 <p style="box-sizing: border-box;">&nbsp;</p>
 
 </div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
 
 
 
