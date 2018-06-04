@@ -332,32 +332,6 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
 
 
