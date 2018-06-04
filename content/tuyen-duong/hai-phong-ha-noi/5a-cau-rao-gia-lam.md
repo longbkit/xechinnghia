@@ -6,7 +6,7 @@ url: /5a-cau-rao-gia-lam/
 description: Đúng giờ - Thuận tiện - Nhanh chóng
 thumbnail: /img/driver.png
 ---
-<p style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-size:16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE CAO TỐC&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></span></span></p>
+<p style="color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;"><span style="font-size:16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE 5A&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></span></span></p>
 
 
 
