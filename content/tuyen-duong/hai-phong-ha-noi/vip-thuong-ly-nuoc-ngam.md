@@ -8,6 +8,8 @@ description: >-
   xuất bến đúng giờ
 thumbnail: /img/driver.png
 ---
+<body>
+
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-size: 16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE VIP&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></span></span></p>
 
 
@@ -308,13 +310,65 @@ thumbnail: /img/driver.png
 
 </table>
 
-</div>
+
+
+<p>&nbsp;</p>
 
 </div>
 
+</div>
 
+
+
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
+
+
+
+<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-size: 14px; text-align: justify; outline: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; outline: 0px; font-family: Arial; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupLeading" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
+
+<div class="catItemHeader" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<h3 class="catItemTitle" style="box-sizing: border-box; color: rgb(35, 31, 32); outline: 0px; margin: 0px; padding: 10px 0px 4px; font-size: 16px; font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-align: center;">&nbsp;</h3>
 
 </div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
+
+
+
+<div id="itemListPrimary" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
 
 <div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: center;">
 
@@ -339,10 +393,6 @@ thumbnail: /img/driver.png
 <div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
 
 <div style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
-
-<h3 class="catItemTitle" style="box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px;">&nbsp;</h3>
-
-
 
 <div style="box-sizing: border-box; font-family: arial; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; background: rgb(240, 250, 248);">
 
