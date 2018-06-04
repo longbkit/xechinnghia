@@ -148,7 +148,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box; font-size: 16px; text-align: left; margin-left: 80px;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />MỌI TH&Ocirc;NG TIN DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE: </span><span style="color:#FF0000;">02253. 717 717</span></strong></span></span></p>
+<p style="box-sizing: border-box; font-size: 16px; text-align: left; margin-left: 80px;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />MỌI TH&Ocirc;NG TIN VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE: </span><span style="color:#FF0000;">02253. 717 717</span></strong></span></span></p>
 
 
 
