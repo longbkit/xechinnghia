@@ -6,37 +6,43 @@ url: /xe-cao-toc-hai-phong-thai-binh-nam-dinh/
 description: cao tốc Hải Phòng - Nam Định
 thumbnail: /img/driver.png
 ---
-<body>
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-size: 16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE CAO TỐC&nbsp;HẢI PH&Ograve;NG - NAM ĐỊNH</span></span></span></p>
+<h3 class="catItemTitle" style="box-sizing: border-box; outline: 0px; margin: 0px; padding: 10px 0px 4px; font-size: 16px; font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(51, 51, 51); border: 0px; vertical-align: baseline; text-align: center;"><span style="box-sizing: border-box; outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%;">XE CAO TỐC&nbsp;HẢI PH&Ograve;NG -&nbsp;TH&Aacute;I B&Igrave;NH&nbsp;- NAM ĐỊNH</span></h3>
 
 
 
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><em style="font-family: arial, helvetica, sans-serif;">Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</em></p>
+<div id="itemListLeading" style="box-sizing: border-box; outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupLeading" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
+
+<div class="catItemHeader" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<div class="itemHeader" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<p style="box-sizing: border-box; outline: none; margin: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: center;"><em style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 0, 0);">Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</span></em></p>
+
+
+
+<p style="box-sizing: border-box; outline: none; margin: 16px 0px 20px; padding: 5px 20px; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc Hải Ph&ograve;ng&nbsp;- Th&aacute;i B&igrave;nh - Nam Định</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">&nbsp;</span><span style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: 700;">l&agrave; tuyến xe Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) - Nam Định (bến xe kh&aacute;ch Nam Định) của &quot;Bu&yacute;t nhanh Hải &Acirc;u&quot; với lộ tr&igrave;nh xe chạy đường cao tốc mới - Nhanh ch&oacute;ng, thuận lợi, chất lượng phục vụ tối ưu.</span></p>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div style="box-sizing: border-box; text-align: justify; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
+
+</div>
+
+</div>
 
 
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
-
-<div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="box-sizing: border-box; outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; text-align: justify; color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc Hải Ph&ograve;ng - Nam Định</span><span style="box-sizing: border-box; outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;</span><span style="box-sizing: border-box; outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; text-align: justify; color: rgb(0, 137, 207); font-weight: 700;">l&agrave; tuyến xe Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) - Nam Định (bến xe Nam Định) của Hải &Acirc;u&nbsp;với lộ tr&igrave;nh xe chạy đường cao tốc mới - Nhanh ch&oacute;ng, thuận lợi, chất lượng phục vụ tối ưu.</span></p>
-
-</div>
-
-
-
-<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
 
 <table style="box-sizing: border-box; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 850px;">
 
@@ -219,10 +225,6 @@ thumbnail: /img/driver.png
 <div class="catItemView groupLeading" style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; text-align: justify; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
 
 <div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">BẢNG GI&Aacute;</span></span></span></div>
-
-
-
-<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 16px; color: rgb(0, 137, 207); font-weight: 700; background-color: transparent; font-family: Arial; text-align: start;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div>
 
 </div>
 
