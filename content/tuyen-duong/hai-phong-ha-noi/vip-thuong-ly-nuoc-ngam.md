@@ -318,24 +318,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
-
 <div style="box-sizing: border-box; outline: none; font-size: 16px; font-family: arial; line-height: 26px; max-width: 100%; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; font-weight: bolder;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></div>
 
 </div>
