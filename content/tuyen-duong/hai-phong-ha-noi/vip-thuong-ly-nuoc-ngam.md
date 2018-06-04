@@ -528,14 +528,6 @@ thumbnail: /img/driver.png
 
 </body>
 
-</html>
-
-<div id="itemListPrimary" style="outline: 0px; font-size: 14px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupPrimary" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
-
 <div style="color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: center;">
 
 <div style="outline: none; font-size: 16px; font-family: arial; line-height: 26px; max-width: 100%; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; font-weight: bolder;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></div>
