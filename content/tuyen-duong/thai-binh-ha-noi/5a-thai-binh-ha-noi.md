@@ -350,73 +350,19 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; outline: none; text-align: center; line-height: 26px; max-width: 100%; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><strong style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp;85.000 đồng/1 v&eacute;/1 lượt</span>&nbsp; &nbsp;&nbsp;</strong></td>
 
-		</tr>
+		<body>
 
-	</tbody>
+<div>
 
-</table>
+<div>
 
-</div>
+<div>
 
-
-
-<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-<table align="left" cellpadding="0" cellspacing="0" style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; line-height: 26px; max-width: 100%; width: 1024px;">
-
-	<tbody style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-		<tr style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-			<td height="7" style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;" width="46">
-
-			<table align="left" cellpadding="0" cellspacing="0" style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; line-height: 26px; max-width: 100%; width: 830px; text-align: justify;">
-
-				<tbody style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-					<tr style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-						<td style="box-sizing: border-box; outline: none; text-align: left; line-height: 26px; max-width: 100%;" width="13">
-
-						<p style="box-sizing: border-box; outline: none; margin: 0px 0px 0px 40px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
-
-						</td>
-
-						<td style="box-sizing: border-box; outline: none; text-align: left; line-height: 26px; max-width: 100%;" width="79">
-
-						<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</div>
-
-						</td>
-
-					</tr>
-
-				</tbody>
-
-			</table>
-
-			</td>
-
-		</tr>
-
-	</tbody>
-
-</table>
-
-</div>
-
-</div>
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</p>
 
 
 
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">&nbsp;</p>
-
-
-
-<div style="box-sizing: border-box; font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
+<div style="box-sizing: border-box; font-size: 14px; color: rgb(35, 31, 32); font-family: Arial; background-color: rgb(255, 255, 255); outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
 
 <div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
 
@@ -434,7 +380,15 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box;">&nbsp;</p>
 
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
 </div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
 
 
 
@@ -454,29 +408,69 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box;">&nbsp;</p>
 
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</p>
+
+
+
+<div style="box-sizing: border-box; font-size: 14px; color: rgb(35, 31, 32); font-family: Arial; background-color: rgb(255, 255, 255); outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
+
+<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
+
+<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
 </div>
 
 </div>
 
 </div>
 
-
-
-<p style="box-sizing: border-box; outline: none; margin: 0px 0px 0px 240px; padding: 0px; font-family: Arial; line-height: 26px; max-width: 100%;"><span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
 
 
 
-<div style="color: rgb(51, 51, 51); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<p style="margin-left:240px;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
 
 </body>
 
