@@ -296,21 +296,15 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h50</span></p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 6h00</span></p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h20</span></p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h30</span></p>
 
 
 
 			<div style="box-sizing: border-box;">&nbsp;</div>
-
-			</td>
-
-		</tr>
-
-	</tbody>
 
 </table>
 
