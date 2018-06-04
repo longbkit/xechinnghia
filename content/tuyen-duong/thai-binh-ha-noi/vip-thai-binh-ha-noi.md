@@ -17,6 +17,8 @@ description: >-
   thiện nhằm đem đến trải nghiệm thoải mái nhất cho khách hàng.
 thumbnail: /img/driver.png
 ---
+</head>
+
 <body>
 
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-size: 16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE VIP&nbsp;TH&Aacute;I B&Igrave;NH&nbsp;- H&Agrave; NỘI</span></span></span></p>
@@ -99,7 +101,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; font-size: 14px; font-family: arial; line-height: 26px; max-width: 100%; color: rgb(41, 43, 44); text-align: -webkit-center; background-color: rgb(255, 255, 255);">12h45 - 13h15 - 13h45 - 14h15 - 14h45 - 15h15 - 15h45 - 16h15 - 16h45 - 17h15</span></p>
+			<p style="box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; font-size: 14px; font-family: arial; line-height: 26px; max-width: 100%; color: rgb(41, 43, 44); text-align: -webkit-center; background-color: rgb(255, 255, 255);">12h45 - 13h15 - 13h45 - 14h15 - 14h45 - 15h15&nbsp; 15h45 - 16h15 - 16h45 - 17h15</span></p>
 
 			</td>
 
@@ -263,7 +265,13 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box;">&nbsp;</p>	
+			<p style="box-sizing: border-box;">&nbsp;</p>
+
+			</td>
+
+		</tr>
+
+	</tbody>
 
 </table>
 
