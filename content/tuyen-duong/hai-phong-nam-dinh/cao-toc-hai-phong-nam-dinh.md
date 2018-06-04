@@ -130,12 +130,6 @@ thumbnail: /img/driver.png
 
 			<div style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</div>
 
-			</td>
-
-		</tr>
-
-	</tbody>
-
 </table>
 
 
@@ -208,12 +202,6 @@ thumbnail: /img/driver.png
 
 			<div style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; box-sizing: border-box; background-color: rgb(255, 255, 255);">&nbsp;</div>
 
-			</td>
-
-		</tr>
-
-	</tbody>
-
 </table>
 
 
@@ -234,7 +222,7 @@ thumbnail: /img/driver.png
 
 <div style="box-sizing: border-box; outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; text-align: start; background-color: transparent;">
 
-<table style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; font-family: arial; line-height: 26px; max-width: 100%; width: 1110px; color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236);">
+<table style="border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;width:850px;">
 
 	<tbody style="box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
