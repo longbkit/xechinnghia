@@ -69,11 +69,7 @@ thumbnail: /img/driver.png
 
 		<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color:#FF0000;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>5h00 - 20h00 h&agrave;ng ng&agrave;y</strong></span></span></span></p>
 
-		</td>
-
-	</tr>
-
-</tbody>
+		
 ```
 
 </table>
@@ -135,8 +131,6 @@ thumbnail: /img/driver.png
 </div>
 
 </div>
-
-
 
 ![xe buýt nội đô](/img/xe-buýt.png)
 
