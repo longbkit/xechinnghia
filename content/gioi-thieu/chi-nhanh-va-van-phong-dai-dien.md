@@ -45,7 +45,7 @@ date: 2018-03-16T04:47:10.000Z
 
 
 
-<table style="background-color: rgb(255, 255, 255); font-family: arial; font-size: 14px; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); text-align: center; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;font-size:14px;text-align:center;width:800px;">
 
 	<tbody>
 
@@ -135,7 +135,7 @@ date: 2018-03-16T04:47:10.000Z
 
 
 
-<table style="background-color: rgb(255, 255, 255); font-family: arial; font-size: 14px; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); text-align: center; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;font-size:14px;text-align:center;width:800px;">
 
 	<tbody>
 
