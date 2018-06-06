@@ -34,6 +34,8 @@ thumbnail: /img/driver.png
 
 
 
+![cao tốc Cầu Rào - Nam Định](/img/cầu-rào-nam-định.jpg)
+
 <div style="box-sizing: border-box; text-align: justify; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
 
 </div>
