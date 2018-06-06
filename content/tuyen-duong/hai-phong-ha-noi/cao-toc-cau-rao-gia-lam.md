@@ -41,14 +41,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
 </div>
 
 
