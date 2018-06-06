@@ -23,8 +23,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-![cao tốc Cầu Rào - Gia Lâm](/img/cao-tốc-cầu-rào-gia-lâm.jpg)
-
 <div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;"><span style="background-color:#0089CF;">GIỜ XE CHẠY</span></span></span></span></div>
 
 </div>
