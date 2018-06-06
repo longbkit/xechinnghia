@@ -27,7 +27,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box; outline: none; margin: 16px 0px 20px; padding: 5px 20px; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="color: rgb(51, 51, 51); font-size: 14px; text-align: justify; font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc&nbsp;Hải &Acirc;u</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700;">l&agrave; xe chạy đường quốc lộ 5B từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o)</span><span style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; đến thủ đ&ocirc; H&agrave; Nội (bến xe Gia L&acirc;m) với tần suất 30- 40 ph&uacute;t/chuyến</span></p>
+<p style="box-sizing: border-box; outline: none; margin: 16px 0px 20px; padding: 5px 20px; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="color: rgb(51, 51, 51); font-size: 14px; text-align: justify; font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc&nbsp;Hải &Acirc;u</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700;">l&agrave; xe chạy đường quốc lộ 5B từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o)</span><span style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; đến thủ đ&ocirc; H&agrave; Nội (bến xe Gia L&acirc;m) với tần suất 30-40 ph&uacute;t/chuyến</span></p>
 
 </div>
 
@@ -41,9 +41,25 @@ thumbnail: /img/driver.png
 
 </div>
 
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
 </div>
 
 
+
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
+
+
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
+
+<table style="box-sizing: border-box; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 850px;">
 
 	<tbody>
 
@@ -136,6 +152,26 @@ thumbnail: /img/driver.png
 			</td>
 
 		</tr>
+
+	</tbody>
+
+</table>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
+
+</div>
+
+</body>
+
+</html>
+
+
 
 	</tbody>
 
