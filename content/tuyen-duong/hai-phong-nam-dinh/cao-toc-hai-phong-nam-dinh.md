@@ -22,12 +22,6 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box; outline: none; margin: 16px 0px 20px; padding: 5px 20px; line-height: 26px; max-width: 100%; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc Hải Ph&ograve;ng&nbsp;- Th&aacute;i B&igrave;nh - Nam Định</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">&nbsp;</span><span style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: 700;">l&agrave; tuyến xe Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) - Nam Định (bến xe kh&aacute;ch Nam Định) của &quot;Bu&yacute;t nhanh Hải &Acirc;u&quot; với lộ tr&igrave;nh xe chạy đường cao tốc mới - Nhanh ch&oacute;ng, thuận lợi, chất lượng phục vụ tối ưu.</span></p>
 
-</div>
-
-</div>
-
-</div>
-
 <div style="box-sizing: border-box; text-align: justify; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
 
 </div>
