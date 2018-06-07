@@ -52,7 +52,11 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 120px;">BẾN XE</th>
+			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 120px;">
+
+			<p>BẾN XE</p>
+
+			</th>
 
 			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">LỘ TR&Igrave;NH</th>
 
@@ -74,14 +78,6 @@ thumbnail: /img/driver.png
 
 			<p style="text-align: justify;"><span style="box-sizing: border-box; outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">&nbsp;</span><span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);">Qu&yacute; Cao &ndash; Tứ Kỳ -&nbsp;</span><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: justify; box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%; background-color: rgb(255, 255, 255);">Hải Dương&nbsp;</span><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: rgb(255, 255, 255); text-align: center;">&ndash;</span><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: justify; box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%; background-color: rgb(255, 255, 255);">&nbsp;Quốc lộ 5&nbsp;</span><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&ndash;&nbsp;</span><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: justify; box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%; background-color: rgb(255, 255, 255);"><strong style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">&nbsp;Bx.Gia L&acirc;m</strong>&nbsp;</span></p>
 
-
-
-			<p style="text-align: justify;">&nbsp;</p>
-
-
-
-			<p style="text-align: justify;">&nbsp;</p>
-
 			</td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
@@ -95,10 +91,6 @@ thumbnail: /img/driver.png
 			</td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">&nbsp;</p>
-
-
 
 			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">Li&ecirc;n tục</p>
 
@@ -158,7 +150,11 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 170px;">BẾN XE</th>
+			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 170px;">
+
+			<p>BẾN XE</p>
+
+			</th>
 
 			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">GIỜ XE CHẠY</th>
 
@@ -182,10 +178,6 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
 			<p style="box-sizing: border-box;">Li&ecirc;n tục 30 ph&uacute;t/chuyến</p>
 
 
@@ -196,9 +188,11 @@ thumbnail: /img/driver.png
 
 			<p style="box-sizing: border-box;"><span style="font-weight: 700;">Chuyến muộn nhất: 18h30</span></p>
 
+			</td>
 
+		</tr>
 
-			<div style="box-sizing: border-box;">&nbsp;</div>
+	</tbody>
 
 </table>
 
@@ -368,21 +362,67 @@ thumbnail: /img/driver.png
 
 			<td height="7" style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;" width="46">
 
-			<table align="left" cellpadding="0" cellspacing="0" style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; line-height: 26px; max-width: 100%; width: 830px; text-align: justify;">
+			<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">&nbsp;</p>
 
-				<tbody style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
 
-					<tr style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
 
-						<td style="box-sizing: border-box; outline: none; text-align: left; line-height: 26px; max-width: 100%;" width="13">
+			<div style="box-sizing: border-box; font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
 
-						<p style="box-sizing: border-box; outline: none; margin: 0px 0px 0px 40px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
+			<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
 
-						</td>
+			<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
-						<td style="box-sizing: border-box; outline: none; text-align: left; line-height: 26px; max-width: 100%;" width="79">
+			<div class="itemContainer itemContainerLast" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
 
-						<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; background-color: transparent; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</div>
+			<div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
+
+			<p style="box-sizing: border-box;">&nbsp;</p>
+
+			</div>
+
+
+
+			<p style="box-sizing: border-box;">&nbsp;</p>
+
+			</div>
+
+
+
+			<div class="catItemHeader" style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+			<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;<span style="font-size: 16px;">XE KH&Aacute;CH HẢI &Acirc;U</span></span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+
+			<span style="font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+
+			<span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">02253. 717 717&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+
+			<a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><strong><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></strong></span></a></p>
+
+			</div>
+
+
+
+			<p style="box-sizing: border-box;">&nbsp;</p>
+
+			</div>
+
+			</div>
+
+			</div>
+
+
+
+			<p style="box-sizing: border-box; outline: none; margin: 0px 0px 0px 240px; padding: 0px; font-family: Arial; line-height: 26px; max-width: 100%;"><span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+
+
+			<div style="color: rgb(51, 51, 51); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+
+			</td>
+
+		</tr>
+
+	</tbody>
 
 </table>
 
@@ -390,64 +430,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">&nbsp;</p>
-
-
-
-<div style="box-sizing: border-box; font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
-
-<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<div class="catItemHeader" style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;<span style="font-size: 16px;">XE KH&Aacute;CH HẢI &Acirc;U</span></span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
-
-<span style="font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
-
-<span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">02253. 717 717&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
-
-<span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; color: rgb(0, 137, 207);">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-</div>
-
-</div>
-
-
-
-<p style="box-sizing: border-box; outline: none; margin: 0px 0px 0px 240px; padding: 0px; font-family: Arial; line-height: 26px; max-width: 100%;"><span style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-
 </div>
 
 </div>
@@ -457,10 +439,6 @@ thumbnail: /img/driver.png
 </div>
 
 </div>
-
-
-
-<div style="color: rgb(51, 51, 51); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 
 </body>
 
