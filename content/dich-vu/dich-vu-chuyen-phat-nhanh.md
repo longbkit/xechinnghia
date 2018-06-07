@@ -39,6 +39,8 @@ thumbnail: /img/driver.png
 
 </div>
 
+![Chuyển phát nhanh](/img/cpn-1-.jpg)
+
 
 
 <div style="background-color: transparent; text-align: justify;">
@@ -911,9 +913,9 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;<span style="font-size: 16px;">XE KH&Aacute;CH HẢI &Acirc;U</span></span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
 
-<span style="font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+<span style="font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ CHUYỂN PHÁT VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
 
-<span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">02253. 717 717&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+<span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">02253. 711 711&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
 
 <span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; color: rgb(0, 137, 207);">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></p>
 
