@@ -53,7 +53,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="box-sizing: border-box; border-spacing: 0px; border-collapse: collapse; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 1000px;">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;width:800px;">
 
 	<tbody style="box-sizing: border-box;">
 
@@ -79,7 +79,7 @@ thumbnail: /img/driver.png
 
 			</th>
 
-			<th style="box-sizing: border-box; padding: 0px; text-align: center; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nhận v&agrave; trả tận nơi</span></span></th>
+			<th style="box-sizing: border-box; padding: 0px; text-align: center; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ghi ch&uacute;</span></span></th>
 
 		</tr>
 
