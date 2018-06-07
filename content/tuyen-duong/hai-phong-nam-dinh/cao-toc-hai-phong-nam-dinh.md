@@ -34,6 +34,8 @@ thumbnail: /img/driver.png
 
 
 
+![cao tốc Hải Phòng - Nam Định](/img/PC010029.JPG)
+
 <div style="box-sizing: border-box; text-align: justify; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
 
 </div>
@@ -130,11 +132,7 @@ thumbnail: /img/driver.png
 
 			<div style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</div>
 
-			</td>
-
-		</tr>
-
-	</tbody>
+			
 
 </table>
 
@@ -208,11 +206,7 @@ thumbnail: /img/driver.png
 
 			<div style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; box-sizing: border-box; background-color: rgb(255, 255, 255);">&nbsp;</div>
 
-			</td>
-
-		</tr>
-
-	</tbody>
+			
 
 </table>
 
