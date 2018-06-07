@@ -354,9 +354,17 @@ thumbnail: /img/driver.png
 
 <span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border-style: none; max-width: 100%; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;">&nbsp;Xe trung chuyển Thượng L&yacute; - Ng&atilde; tư An Dương</span></p>
 
-<p style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
+<div class="f6 ph3 ph6-l center darkblue" style="box-sizing: border-box; padding-left: 8rem; padding-right: 8rem; margin-left: auto; margin-right: auto; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
 
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
+<div class="fl w-100 w-70-l tj ph0 ph0-l" style="box-sizing: border-box; float: left; width: 816.891px; padding-left: 0px; padding-right: 0px; text-align: justify;">
+
+<div id="itemListPrimary" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
+
+
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
 <div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
 
@@ -364,105 +372,67 @@ thumbnail: /img/driver.png
 
 <div style="box-sizing: border-box; font-family: arial; border: 1px dashed rgb(0, 137, 207); padding: 10px 15px; margin-bottom: 20px; background: rgb(240, 250, 248);">
 
-<p style="box-sizing: border-box; font-size: 16px;"><span style="color: rgb(0, 137, 207);"><span style="font-weight: bolder;">V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</span></span></p>
+<p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><span style="font-weight: bolder;">V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</span></span></span></span></p>
 
-<p style="box-sizing: border-box; font-size: 16px; text-align: left; margin-left: 80px;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></p>
 
-<p style="box-sizing: border-box; font-size: 16px; text-align: left; margin-left: 80px;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</span></p>
 
-<p style="box-sizing: border-box; font-size: 16px; text-align: left; margin-left: 80px;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</span></p>
+<p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></span></span></p>
 
-<p style="box-sizing: border-box; font-size: 16px; text-align: left; margin-left: 80px;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</span></p>
 
-<div class="btnda1tv" style="box-sizing: border-box; font-size: 16px; cursor: pointer;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 18px;">Th&ocirc;ng tin dịch vụ:&nbsp;</span></span><span style="color: rgb(255, 0, 0);"><span style="font-size: 18px;">02253. 717 717</span></span></div>
 
-<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><span style="font-weight: bolder;"><font color="#0089cf"><span style="font-size: 18px;">[Facebook: XE KH&Aacute;CH HẢI &Acirc;U](https://www.facebook.com/xekhachviphaiau/)</span></font></span></div>
+<p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</span></span></span></p>
 
-</div>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</span></span></span></p>
 
-</div>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</span></span></span></p>
 
-</div>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<div class="btnda1tv" style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; cursor: pointer;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);">Th&ocirc;ng tin dịch vụ:&nbsp;</span><span style="color: rgb(255, 0, 0);">02253. 717 717</span></span></span></div>
+
+
+
+<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.facebook.com/xekhachviphaiau/"><font color="#0089cf"><b>FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</b></font></a></span></span></div>
+
+
+
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
 </div>
 
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
 
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
 
-<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
 
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
 
-</div>
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
 </div>
 
-</div>
 
-</div>
 
-</div>
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
-<p style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;​&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 
-<p style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
 
-</div>
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
-
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
-
-<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
 </div>
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="itemListPrimary" style="outline: 0px; font-size: 14px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupPrimary" style="outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 4px;">
-
-<div style="color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: center;">&nbsp;</div>
-
-<p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;​&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-
-<p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
 
 </div>
 
