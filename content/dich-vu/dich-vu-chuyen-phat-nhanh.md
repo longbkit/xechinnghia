@@ -35,8 +35,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-![](/img/cpn-1-.jpg)
-
 <div style="background-color: transparent; text-align: justify;">
 
 <div style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; text-align: justify;">
