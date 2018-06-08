@@ -6,131 +6,133 @@ url: /xe-cao-toc-hai-phong-thai-binh-nam-dinh/
 description: cao tốc Hải Phòng - Nam Định
 thumbnail: /img/driver.png
 ---
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-size: 16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE 5A&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></span></span></p>
+<div class="itemImageBlock" style="border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 10px 0px 16px; padding: 8px; float: left; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
 
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><em style="font-family: arial, helvetica, sans-serif;">Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</em></p>
-
-
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
-
-<div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe đường 5A&nbsp;Hải &Acirc;u</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">l&agrave; tuyến xe chạy&nbsp;tr&ecirc;n đường&nbsp;5 cũ từ th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) đến thủ đ&ocirc; H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) của xe kh&aacute;ch Hải &Acirc;u với tần suất 15 - 20 ph&uacute;t.</span>&nbsp;</p>
+<div class="clr" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
 
 </div>
 
 
 
-![5A Cầu Rào - Gia Lâm](/img/HP-HN(4).jpg)
+<h3 class="catItemTitle" style="font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; color: rgb(51, 51, 51); margin-top: 0px; margin-bottom: 0px; font-size: 16px; background: transparent; border: 0px; outline: 0px; vertical-align: baseline; margin-right: 0px; padding: 10px 0px 4px; text-align: center;"><span style="font-weight: 700;">XE CAO TỐC&nbsp;HẢI PH&Ograve;NG - NAM ĐỊNH</span></h3>
 
-<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
+
+
+<div id="itemListLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
+
+<div class="itemContainer itemContainerLast" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; float: left;">
+
+<div class="catItemView groupLeading" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 4px;">
+
+<div class="catItemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px;">
+
+<div class="itemHeader" style="border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
+
+<p style="text-align: center;"><em><span style="color: rgb(0, 0, 0);">Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</span></em></p>
+
+
+
+<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; text-align: justify; color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc Hải Ph&ograve;ng&nbsp;- Th&aacute;i B&igrave;nh - Nam Định</span><span style="color: rgb(35, 31, 32); font-family: Arial; font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;</span><span style="outline: 0px; font-size: 14px; font-family: Arial; line-height: 26px; text-align: justify; color: rgb(0, 137, 207); font-weight: 700;">l&agrave; tuyến xe Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) - Nam Định (bến xe kh&aacute;ch Nam Định) của &quot;Bu&yacute;t nhanh Hải &Acirc;u&quot; với lộ tr&igrave;nh xe chạy đường cao tốc mới - Nhanh ch&oacute;ng, thuận lợi, chất lượng phục vụ tối ưu.</span><span style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
 
 
-<table style="box-sizing: border-box; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 850px;">
+<div style="font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">GIỜ XE CHẠY&nbsp;&nbsp;</span></div>
+
+
+
+<div style="color: rgb(51, 51, 51); font-weight: 300; background-color: transparent; text-align: center;">
+
+<div style="text-align: start; background-color: transparent;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span style="background-color: transparent; text-align: center; color: rgb(0, 137, 207); font-size: 16px;">&nbsp;&nbsp;</span><span style="background-color: transparent; text-align: justify; color: rgb(0, 137, 207); font-size: 16px; font-weight: 700;">&nbsp;</span></div>
+
+
+
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;text-align:start;width:800px;">
 
 	<tbody>
 
-		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
+		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-			<th colspan="4" style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">
+			<th colspan="4" style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 150px;">
 
-			<p style="box-sizing: border-box; margin-bottom: 0px; padding: 0px;">HẢI PH&Ograve;NG -&nbsp;H&Agrave; NỘI</p>
-
-
-
-			<p style="box-sizing: border-box;"><span style="color: rgb(255, 215, 0);">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">HẢI PH&Ograve;NG - NAM ĐỊNH</span></span></p>
 
 			</th>
 
 		</tr>
 
-		<tr style="box-sizing: border-box;">
+		<tr>
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 100px;">BẾN XE</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">
-
-			<p>LỘ TR&Igrave;NH</p>
+			<p>BẾN XE</p>
 
 			</th>
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">GIỜ XE CHẠY</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">LỘ TR&Igrave;NH</th>
 
-			<th style="box-sizing: border-box;">TẦN SUẤT</th>
+			<th style="border: 1px solid rgb(221, 221, 221);">GIỜ XE CHẠY</th>
+
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">TẦN SUẤT</th>
 
 		</tr>
 
-		<tr style="box-sizing: border-box;">
+		<tr>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Cầu R&agrave;o</td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Cầu R&agrave;o</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box; font-weight: 700;"><span style="box-sizing: border-box; line-height: 16.1px; color: black;">Bx.Cầu R&agrave;o</span></span><span style="box-sizing: border-box; line-height: 16.1px; color: black;">&nbsp;-&nbsp;</span><span style="box-sizing: border-box; color: black; text-align: center;">đường Lạch Tray - Nguyễn Văn Linh -&nbsp;</span></span></span></span></span></p>
-
-
-
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">cầu An Đồng&nbsp;</span></span></span></span><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">-&nbsp;<span style="box-sizing: border-box; font-weight: 700; color: black; text-align: center;">Bx. Thượng L&yacute;&nbsp;</span><span style="box-sizing: border-box; color: black; text-align: center;">- Sở Dầu -&nbsp;Qu&aacute;n Toan</span></span></span></span></span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"><strong>Bx. Cầu R&agrave;o</strong> - <strong>VP 692 Phạm Văn Đồng</strong> - </span></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box; color: black; text-align: center;">- Đường quốc lộ 5A</span></span></span></span></span><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box; color: black; text-align: center;">&nbsp;-&nbsp;</span></span></span></span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center;">Bx.Gia L&acirc;m.</span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">cao tốc An L&atilde;o - </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. </strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Vĩnh Bảo</strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Qu&aacute;n Ch&aacute;y - </span></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">(Kh&aacute;ch gần khu vực Bến Niệm Nghĩa c&oacute; thể ra</span></span></em></span></span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Ng&atilde; 3 Đường Mới - Vũ Hạ - Cầu Vật - Ba Đợi -</span></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">Văn ph&ograve;ng gầm&nbsp;</span></span></em></span></span><em style="font-family: arial, helvetica, sans-serif; font-size: 14px; box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">cầu</span>&nbsp;Niệm<span style="box-sizing: border-box; font-weight: 700;">&nbsp;</span>số 706 Nguyễn&nbsp;</span><span style="box-sizing: border-box;">Văn Linh</span></em></p>
+			<p>-<span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> Cầu Nguyễn - Đống Năm - </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Gia Lễ - </span></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">&nbsp;để đ&oacute;n xe&nbsp;chạy đường</span></em></span></span>&nbsp;<span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">cao tốc&nbsp;</span></em></span></span><em style="font-family: arial, helvetica, sans-serif; font-size: 14px; box-sizing: border-box;"><span style="box-sizing: border-box;">từ Bx.Cầu R&agrave;o</span></em></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">Chợ đầu mối - </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. Th&aacute;i B&igrave;nh - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Cầu Thẫm -</span></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">(c&aacute;ch bến Niệm Nghĩa khoảng&nbsp;</span><span style="box-sizing: border-box;">800m)</span></em></span></span></p>
+			<p><strong style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);"><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">Bx. Nam Định.</span></strong></p>
 
 			</td>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box;">05h00 &ndash; 20h30</p>
-
-
-
-			<p style="box-sizing: border-box;">&nbsp;</p>
+			<p class="MsoNormal" style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">06h00 &ndash; 18h00</span></span></p>
 
 			</td>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; text-align: right;">&nbsp;</p>
-
-
-
-			<p style="box-sizing: border-box;">Li&ecirc;n tục 15 - 20 ph&uacute;t/chuyến</p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">Li&ecirc;n tục 40&nbsp;- 60 ph&uacute;t/chuyến</span></span></span></p>
 
 
 
-			<p style="box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 5h00</span></p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến sớm nhất: 06h00</span></span></span></p>
 
 
 
-			<p style="box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất:&nbsp;</span><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">20h30</span></p>
-
-
-
-			<div style="box-sizing: border-box;">&nbsp;</div>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến muộn nhất: 18h00</span></span></span></p>
 
 			</td>
 
@@ -142,73 +144,57 @@ thumbnail: /img/driver.png
 
 
 
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
+<p style="text-align: start;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></span></p>
+
+</div>
 
 
 
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
-
-
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
-
-
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
-
-<table style="box-sizing: border-box; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 850px;">
+<table style="background-color:rgb(255, 255, 255);border:4px solid rgb(236, 236, 236);color:rgb(41, 43, 44);font-family:arial;font-size:13px;font-weight:300;width:800px;">
 
 	<tbody>
 
-		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
+		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-			<th colspan="3" style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 170px;">
+			<th colspan="3" style="border: 1px solid rgb(221, 221, 221); width: 150px; text-align: center;">
 
-			<p style="box-sizing: border-box; margin-bottom: 0px; padding: 0px;">H&Agrave; NỘI - HẢI PH&Ograve;NG</p>
-
-
-
-			<p style="box-sizing: border-box;"><span style="color: rgb(255, 215, 0);">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></p>
+			<p><span style="font-family:arial,helvetica,sans-serif;"><strong>NAM ĐỊNH - HẢI PH&Ograve;NG</strong></span></p>
 
 			</th>
 
 		</tr>
 
-		<tr style="box-sizing: border-box;">
+		<tr>
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 170px;">BẾN XE</th>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221); text-align: center;"><strong>BẾN XE</strong></td>
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221); text-align: center;"><strong>GIỜ XE CHẠY</strong></td>
 
-			<p>GIỜ XE CHẠY</p>
-
-			</th>
-
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">TẦN SUẤT</th>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>TẦN SUẤT</strong></td>
 
 		</tr>
 
-		<tr style="box-sizing: border-box;">
+		<tr>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-family: arial, helvetica, sans-serif;">Gia L&acirc;m - Cầu R&agrave;o</span></td>
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nam Định&nbsp;</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box;"><span style="font-family: arial, helvetica, sans-serif;">5h00 &ndash; 21h00</span></p>
+			<p class="MsoNormal" style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">05h40 &ndash; 18h00</span></span></p>
 
 			</td>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px;"><span style="font-size: 14px;">Li&ecirc;n tục 15 - 20 ph&uacute;t /chuyến</span></p>
-
-
-
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box; font-weight: 700;">Chuyến sớm nhất: 5h00</span></span></span></span></span></p>
+			<p style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">Li&ecirc;n tục 40&nbsp;- 60 ph&uacute;t/chuyến</span></span></span></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box; font-weight: 700;">Chuyến muộn nhất: 21h00</span></span></span></span></span></p>
+			<p style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="font-weight: 700;">Chuyến sớm nhất: 05h40</span></span></span></p>
+
+
+
+			<p style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="font-weight: 700;">Chuyến muộn nhất: 18h00</span></span></span></p>
 
 			</td>
 
@@ -220,107 +206,45 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; font-weight: 300;">&nbsp;</p>
 
 
 
-<div class="catItemView groupLeading" style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; text-align: justify; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
-
-<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">BẢNG GI&Aacute;</span></span></span></div>
-
-</div>
+<p style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; font-weight: 300;">&nbsp;</p>
 
 
 
-<div style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
+<div style="font-weight: 300; font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-weight: bolder;">BẢNG GI&Aacute;&nbsp;</span></div>
 
-<table style="box-sizing: border-box; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; width: 800px;">
+
+
+<div style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; font-weight: 300; background-color: transparent; text-align: justify;">
+
+<p class="MsoListParagraphCxSpFirst" style="margin-left: 280px; text-indent: -0.25in; line-height: normal; text-align: left;">&nbsp; &nbsp; &nbsp; <span style="font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+
+
+
+<div style="text-align: start; background-color: transparent;">
+
+<table style="background-color: rgb(255, 255, 255); width: 1110px; color: rgb(41, 43, 44); font-family: arial; border: 4px solid rgb(236, 236, 236);">
 
 	<tbody>
 
-		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
+		<tr style="background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold; text-transform: uppercase;"><span style="font-size: 16px;">&nbsp;<span style="font-size: 14px;">V&Eacute; CHẶNG</span></span></td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; font-weight: bold; text-transform: uppercase; text-align: center;"><span style="font-size: 16px;">V&Eacute; CHẶNG</span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221); font-weight: bold;"><span style="line-height: 24px;">GI&Aacute; CƯỚC</span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="font-family: arial, helvetica, sans-serif;"><font color="#000000">Hải Ph&ograve;ng - Ng&atilde; tư Phố Nối</font></span></td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="box-sizing: border-box;"><span style="font-weight: 700;"><span style="color: rgb(255, 0, 0);">65.000 đồng/1 v&eacute;/1 lượt</span></span></p>
-
-			</td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; font-weight: bold; text-align: center;"><span style="font-size: 16px; line-height: 24px;">GI&Aacute; CƯỚC</span></td>
 
 		</tr>
 
-		<tr style="box-sizing: border-box;">
+		<tr>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">H&agrave; Nội - Ga Ph&uacute; Th&aacute;i</td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><font color="#000000">Nam Định - Th&aacute;i B&igrave;nh</font></span></span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);">65.000 đồng/1 v&eacute;/1 lượt</span></span></td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;">
 
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">Hải Ph&ograve;ng - Bưu điện Lai C&aacute;ch</td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: 700;"><span style="color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">Ga Ph&uacute; Th&aacute;i - Ng&atilde; 4 Phố Nối</td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">H&agrave; Nội - Ga Lai Kh&ecirc;</td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);">55.000 đồng/1 v&eacute;/1 lượt</span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">Hải Ph&ograve;ng - Ga Lai Kh&ecirc;</td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);">40.000 đồng/1 v&eacute;/1 lượt</span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">Ga Ph&uacute; Th&aacute;i - Bưu điện Lai C&aacute;ch</td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);">40.000 đồng/1 v&eacute;/1 lượt</span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">Ga Lai Kh&ecirc; - Ng&atilde; 4 Phố Nối</td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(255, 0, 0);"><span style="font-weight: bolder;">40.000 đồng/1 v&eacute;/1 lượt</span></span></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">H&agrave; Nội - Bưu điện Lai C&aacute;ch</td>
-
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="box-sizing: border-box; margin-left: 160px;"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);">&nbsp; &nbsp; &nbsp;40</span></span><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);">.000 đồng/1 v&eacute;/1 lượt</span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700; color: rgb(41, 43, 44); text-align: center;"><span style="color: rgb(255, 0, 0);">35.000 đồng/1 v&eacute;/1 lượt</span></span></span></span></p>
 
 			</td>
 
@@ -328,17 +252,41 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">Hải Ph&ograve;ng - Ga Ph&uacute; Th&aacute;i</td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Vĩnh Bảo - Th&aacute;i B&igrave;nh</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(255, 0, 0); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">35.000 đồng/1 v&eacute;/1 lượt</span></td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">35.000 đồng</span></span></span><span style="color: rgb(255, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">/1 v&eacute;/1 lượt</span></td>
 
 		</tr>
 
 		<tr>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);">H&agrave; Nội - Ng&atilde; 4 Phố Nối</td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - Vĩnh Bảo</span></span></td>
 
-			<td style="box-sizing: border-box; padding: 4px 6px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(255, 0, 0); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">35.000 đồng/1 v&eacute;/1 lượt</span></td>
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><span style="color:#FF0000;">50.000 đồng</span></strong></span></span><span style="color: rgb(255, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">/1 v&eacute;/1 lượt</span></td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Vĩnh Bảo - Nam Định</span></span></td>
+
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 13px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);">50.000 đồng</span></strong></span></span><span style="color: rgb(255, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">/1 v&eacute;/1 lượt</span></td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - Th&aacute;i B&igrave;nh</span></span></td>
+
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><span style="color:#FF0000;">65.000 đồng</span></strong></span></span><span style="color: rgb(255, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">/1 v&eacute;/1 lượt</span></td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hải Ph&ograve;ng - Nam Định</span></span></td>
+
+			<td style="border: 1px solid rgb(221, 221, 221); padding: 4px 6px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><span style="color:#FF0000;">80.000 đồng</span></strong></span></span><span style="color: rgb(255, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">/1 v&eacute;/1 lượt</span></td>
 
 		</tr>
 
@@ -348,47 +296,29 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<div class="chidinh" style="color: rgb(41, 43, 44); font-family: arial; font-size: 16px;">
+
+<p style="margin-bottom: 1rem; padding: 0px 0px 5px; text-align: justify;">&nbsp;</p>
+
+</div>
+
+</div>
 
 </div>
 
 
 
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
+<div style="box-sizing: border-box; outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); text-align: justify;">
 
-<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
+<div id="itemListLeading" style="box-sizing: border-box; background: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
 
 <div class="catItemHeader" style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;<span style="font-size: 16px;">XE KH&Aacute;CH HẢI &Acirc;U</span></span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="background-color: transparent; box-sizing: border-box; font-weight: bolder;"><span style="font-size: 16px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(0, 137, 207);">XE KH&Aacute;CH HẢI &Acirc;U</span></span></span><br />
 
-<span style="font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+<strong><span style="color:#0089cf;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">MỌI TH&Ocirc;NG TIN VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ QUA HOTLINE: 02253. 717 717</span></span></span></strong><br />
 
-<span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">02253. 717 717&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
-
-<a href="https://www.facebook.com/xekhachviphaiau/"><strong><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; color: rgb(0, 137, 207);">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></strong></a></p>
+<a href="https://www.facebook.com/xekhachviphaiau/"><strong>FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</strong></a></p>
 
 </div>
 
@@ -408,75 +338,19 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<p style="box-sizing: border-box; background-color: rgb(255, 255, 255);">&nbsp;</p>
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
+<p style="box-sizing: border-box; outline: none; margin: 0px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; text-indent: -0.25in; color: rgb(0, 137, 207); text-align: center;"><span style="background-color: rgb(255, 255, 255); color: rgb(35, 31, 32); font-size: 14px; text-align: justify;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; text-indent: -0.25in;">&nbsp; &nbsp; &nbsp; &nbsp;</span><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; text-indent: -0.25in; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; text-indent: -0.25in;">&nbsp; &nbsp;</span></p>
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<p style="box-sizing: border-box; outline: none; margin: 0px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%; text-indent: -0.25in;">&nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;</p>
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
-
-<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br style="box-sizing: border-box;" />
-
-<span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">&nbsp;</p>
-
-</div>
+<p style="box-sizing: border-box; outline: none; margin: 0px 0px 0px 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">&nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp;<span style="box-sizing: border-box; outline: none; font-size: 16px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
 
 </div>
 
