@@ -51,7 +51,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; font-family: arial; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;width:800px;">
 
 	<tbody style="box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
@@ -189,7 +189,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; font-family: arial; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;width:800px;">
 
 	<tbody style="box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
@@ -431,7 +431,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; font-family: arial; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;width:800px;">
 
 	<tbody style="box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
@@ -519,7 +519,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; font-family: arial; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;width:800px;">
 
 	<tbody style="box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
@@ -607,7 +607,7 @@ thumbnail: /img/driver.png
 
 
 
-<table style="box-sizing: border-box; outline: none; border-collapse: collapse; border-spacing: 0px; font-family: arial; line-height: 26px; max-width: 100%; width: 1000px; background-color: rgb(255, 255, 255); border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44);">
+<table style="background-color:rgb(255, 255, 255);border-collapse:collapse;border-spacing:0px;border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;line-height:26px;max-width:100%;outline:none;width:800px;">
 
 	<tbody style="box-sizing: border-box; outline: none; font-family: Arial; line-height: 26px; max-width: 100%;">
 
