@@ -32,7 +32,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="outline: 0px; font-size: 14px; line-height: 26px; text-align: justify; color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc Hải Ph&ograve;ng&nbsp;- Nam Định</span><span style="color: rgb(35, 31, 32); font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;</span><span style="outline: 0px; font-size: 14px; line-height: 26px; text-align: justify; color: rgb(0, 137, 207); font-weight: 700;">l&agrave; tuyến xe Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) - Nam Định (bến xe kh&aacute;ch Nam Định) của &quot;Bu&yacute;t nhanh Hải &Acirc;u&quot; với lộ tr&igrave;nh xe chạy đường cao tốc mới - Nhanh ch&oacute;ng, thuận lợi, chất lượng phục vụ tối ưu.</span></span><span style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp; &nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;​&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+<p style="margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="outline: 0px; font-size: 14px; line-height: 26px; text-align: justify; color: rgb(255, 0, 0); font-weight: 700;">Xe cao tốc Hải Ph&ograve;ng&nbsp;- Nam Định</span><span style="color: rgb(35, 31, 32); font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248);">&nbsp;</span><span style="outline: 0px; font-size: 14px; line-height: 26px; text-align: justify; color: rgb(0, 137, 207); font-weight: 700;">l&agrave; tuyến xe Hải Ph&ograve;ng (bến xe Cầu R&agrave;o) - Nam Định (bến xe kh&aacute;ch Nam Định) của &quot;Bu&yacute;t nhanh Hải &Acirc;u&quot; với lộ tr&igrave;nh xe chạy đường cao tốc mới - Nhanh ch&oacute;ng, thuận lợi, chất lượng phục vụ tối ưu.</span></span><span style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp; &nbsp; &nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></p>
 
 </div>
 
@@ -174,7 +174,7 @@ thumbnail: /img/driver.png
 
 			<th colspan="3" style="border: 1px solid rgb(221, 221, 221); width: 150px; text-align: center;">
 
-			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>NAM ĐỊNH - HẢI PH&Ograve;NG</strong></span></span></p>
+			<p><span style="color: rgb(255, 255, 255); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">&nbsp;NAM ĐỊNH - HẢI PH&Ograve;NG</span></p>
 
 			</th>
 
@@ -196,23 +196,27 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p class="MsoNormal" style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">05h40 &ndash; 6h40 - 7h20</span></span></p>
+			<p class="MsoNormal" style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">05h40 &ndash; 6h40 - 7h20</span></span></p>
 
 
 
-			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">8h00 - 8h40 - 9h20</span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">8h00 - 8h40 - 9h20</span></span></p>
 
 
 
-			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">10h00 - 11h00 - 13h00</span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">10h00 - 11h00 - 13h00</span></span></p>
 
 
 
-			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">13h40 - 14h20 - 15h00</span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">13h40 - 14h20 - 15h00</span></span></p>
 
 
 
-			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">15h40 - 16h20 - 17h00 18h00</span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">15h40 - 16h20 - 17h00&nbsp;</span></span></p>
+
+
+
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">18h00</span></span></p>
 
 			</td>
 
