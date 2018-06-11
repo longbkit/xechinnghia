@@ -130,11 +130,11 @@ Image
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h40 - 9h10 - 9h40 - 10h10 - 10h40 - 11h40</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h40 - 9h10 - 9h40 &nbsp;- 10h40 - 11h40</p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h40 - 13h40 - 14h10 - 14h40 - 15h10 - 15h40 - 16h10 - 16h40 - 17h10 - 17h40 - 18h10 - 19h10</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h40 - 13h40 - 14h10 - 14h40 - 15h10 - 15h40 - 16h10 - 16h40 - 17h10&nbsp;- 18h10 - 19h10</p>
 
 			</td>
 
@@ -178,11 +178,11 @@ Image
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h50 - 6h20 - 6h50 - 7h20 - 7h50 - 8h20 - 8h50 - 9h20 - 9h50 - 10h20 - 10h50 - 11h50 -</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">5h50 - 6h20 - 6h50 - 7h20 - 7h50 - 8h20 - 8h50 - 9h20 - 9h50&nbsp;- 10h50 - 11h50 -</p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h50 - 13h50 - 14h20 - 14h50 - 15h20 - 15h50 - 16h20 - 16h50 - 17h20 - 17h50 -</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">12h50 - 13h50 - 14h20 - 14h50 - 15h20 - 15h50 - 16h20 - 16h50 - 17h20 -</p>
 
 
 
