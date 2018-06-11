@@ -39,7 +39,7 @@ thumbnail: /img/driver.png
 
 
 
-		<p style="box-sizing: border-box;"><span style="color: rgb(255, 215, 0);">GI&Aacute; V&Eacute;: 100K/NGƯỜI/LƯỢT</span></p>
+		<p style="box-sizing: border-box;"><span style="color: rgb(255, 215, 0);">GI&Aacute; V&Eacute;: 100.000Đ/NGƯỜI/LƯỢT</span></p>
 
 		</th>
 
@@ -119,7 +119,7 @@ thumbnail: /img/driver.png
 
 
 
-		<p style="box-sizing: border-box;"><span style="color: rgb(255, 215, 0);">GI&Aacute; V&Eacute;: 100K/NGƯỜI/LƯỢT</span></p>
+		<p style="box-sizing: border-box;"><span style="color: rgb(255, 215, 0);">GI&Aacute; V&Eacute;: 100.000Đ/NGƯỜI/LƯỢT</span></p>
 
 		</th>
 
