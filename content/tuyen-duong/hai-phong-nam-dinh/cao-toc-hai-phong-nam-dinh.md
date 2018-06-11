@@ -96,11 +96,11 @@ thumbnail: /img/driver.png
 
 
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">cao tốc An L&atilde;o - </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. </strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Vĩnh Bảo</strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Qu&aacute;n Ch&aacute;y - </span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">cao tốc An L&atilde;o - </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. </strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Vĩnh Bảo</strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Qu&aacute;n Ch&aacute;y</span></p>
 
 
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Ng&atilde; 3 Đường Mới - Vũ Hạ - Cầu Vật - Ba Đợi -</span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">- Ng&atilde; 3 Đường Mới - Vũ Hạ - Cầu Vật - Ba Đợi -</span></p>
 
 
 
@@ -118,21 +118,37 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p class="MsoNormal" style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">06h00 &ndash; 18h00</span></span></p>
+			<p class="MsoNormal" style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); white-space: pre-wrap; background-color: rgb(255, 255, 255);">6h00 - 6h40 - 7h20 </span></span></span></p>
+
+
+
+			<p class="MsoNormal" style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); white-space: pre-wrap; background-color: rgb(255, 255, 255);">8h00 - 8h40 </span></span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); white-space: pre-wrap; background-color: rgb(255, 255, 255);">- 9h20 </span></span></span></p>
+
+
+
+			<p class="MsoNormal" style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); white-space: pre-wrap; background-color: rgb(255, 255, 255);">10h00 - 11h00 - 13h00</span></span></span></p>
+
+
+
+			<p class="MsoNormal" style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); white-space: pre-wrap; background-color: rgb(255, 255, 255);">13h40</span></span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - 14h20 - 15h00 </span></span></span></p>
+
+
+
+			<p class="MsoNormal" style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); white-space: pre-wrap; background-color: rgb(255, 255, 255);">15h40 - 16h20 - 17h00 18h00</span></span></span></p>
 
 			</td>
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">Li&ecirc;n tục 40&nbsp;- 60 ph&uacute;t/chuyến</span></span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">Li&ecirc;n tục 40&nbsp;- 60 ph&uacute;t/chuyến</span></span></span></p>
 
 
 
-			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến sớm nhất: 06h00</span></span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến sớm nhất: 06h00</span></span></span></p>
 
 
 
-			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến muộn nhất: 18h00</span></span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: 700;">Chuyến muộn nhất: 18h00</span></span></span></p>
 
 			</td>
 
@@ -180,7 +196,23 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p class="MsoNormal" style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">05h40 &ndash; 18h00</span></span></p>
+			<p class="MsoNormal" style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">05h40 &ndash; 6h40 - 7h20</span></span></p>
+
+
+
+			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">8h00 - 8h40 - 9h20</span></span></p>
+
+
+
+			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">10h00 - 11h00 - 13h00</span></span></p>
+
+
+
+			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">13h40 - 14h20 - 15h00</span></span></p>
+
+
+
+			<p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">15h40 - 16h20 - 17h00 18h00</span></span></p>
 
 			</td>
 
