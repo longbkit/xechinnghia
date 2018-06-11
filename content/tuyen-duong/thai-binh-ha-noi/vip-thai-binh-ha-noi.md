@@ -118,7 +118,7 @@ thumbnail: /img/driver.png
 
 
 
-		<p style="box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 5h15</span></p>
+		<p style="box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 05h15</span></p>
 
 
 
