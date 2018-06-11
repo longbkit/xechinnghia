@@ -12,7 +12,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><em style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ.</span></em></span></p>
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><em style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></em></span></p>
 
 
 
@@ -443,10 +443,6 @@ thumbnail: /img/driver.png
 
 
 <div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.facebook.com/xekhachviphaiau/"><font color="#0089cf"><b>FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</b></font></a></span></span></div>
-
-
-
-<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
 </div>
 
