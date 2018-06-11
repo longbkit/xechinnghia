@@ -65,7 +65,7 @@ thumbnail: /img/driver.png
 
 		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-		<p style="box-sizing: border-box;"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">6h00 - 7h00 - 8h00 - 9h00 - 10h00 - 11h00&nbsp;- 13h00 -14h00 - 15h00 - 16h00 - 17h00 - 18h00</span></p>
+		<p style="box-sizing: border-box;"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">6h00 - 7h00 - 8h00 - 9h00 - 10h00 - 11h00&nbsp;- 12h20 - 13h00 -14h00 - 15h00 - 16h00 - 17h00 - 18h00</span></p>
 
 		</td>
 
@@ -190,8 +190,6 @@ miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;
 
 <p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
 
-
-
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
 <div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
@@ -202,59 +200,33 @@ miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;
 
 <p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><span style="font-weight: bolder;">V&Igrave; SAO KH&Aacute;CH H&Agrave;NG N&Ecirc;N CHỌN VIP HẢI &Acirc;U?</span></span></span></span></p>
 
-
-
 <p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></span></span></p>
-
-
 
 <p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;L&aacute;i xe được đ&agrave;o tạo tay nghề v&agrave; &yacute; thức phục vụ chuy&ecirc;n nghiệp.</span></span></span></p>
 
-
-
 <p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Ph&ograve;ng chờ được trang bị lịch sự, sạch sẽ: ghế ngồi, nước uống, m&aacute;y lạnh, Tivi, toilet,...</span></span></span></p>
-
-
 
 <p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Đạt chuẩn 3 đ&uacute;ng: Chạy đ&uacute;ng giờ - Đến đ&uacute;ng địa điểm &ndash; Chấp h&agrave;nh đ&uacute;ng c&aacute;c quy định.</span></span></span></p>
 
-
-
 <div class="btnda1tv" style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; cursor: pointer;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);">Th&ocirc;ng tin dịch vụ:&nbsp;</span><span style="color: rgb(255, 0, 0);">02253. 717 717</span></span></span></div>
-
-
 
 <div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.facebook.com/xekhachviphaiau/"><font color="#0089cf"><b>FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</b></font></a></span></span></div>
 
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
+</div>
+
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
+
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
+
+<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
 <p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
 </div>
 
-
-
 <p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
-
-
 
 <p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
 
