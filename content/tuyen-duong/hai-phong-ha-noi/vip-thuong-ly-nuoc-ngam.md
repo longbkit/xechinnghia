@@ -26,8 +26,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-Image
-
 
 
 <div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
@@ -56,7 +54,11 @@ Image
 
 		<tr style="box-sizing: border-box;">
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 100px;">BẾN XE</th>
+			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 100px;">
+
+			<p>BẾN XE</p>
+
+			</th>
 
 			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">LỘ TR&Igrave;NH</th>
 
@@ -96,7 +98,7 @@ Image
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
 
 
 
@@ -140,7 +142,7 @@ Image
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
 
 
 
@@ -192,7 +194,7 @@ Image
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
 
 
 
@@ -254,7 +256,11 @@ Image
 
 		<tr style="box-sizing: border-box;">
 
-			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 170px;">BẾN XE</th>
+			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221); width: 170px;">
+
+			<p>BẾN XE</p>
+
+			</th>
 
 			<th style="box-sizing: border-box; border: 1px solid rgb(221, 221, 221);">GIỜ XE CHẠY</th>
 
@@ -286,7 +292,7 @@ Image
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">24&nbsp;chuyến/ng&agrave;y</p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
 
 
 
