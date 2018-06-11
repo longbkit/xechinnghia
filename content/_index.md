@@ -47,6 +47,7 @@ popularRoutes:
   - duration: 02 giờ 45 phút
     from: BX Cầu Rào
     image: /img/nia1513916676.jpg
+    link: /vip-cau-rao-gia-lam/
     to: BX Gia Lâm A
     type: VIP
   - duration: 02 giờ 45 phút
