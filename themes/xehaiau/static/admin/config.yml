@@ -30,6 +30,7 @@ collections:
         - {label: "Tuyến đường phổ biến", name: "popularRoutes", widget: "list", fields: [
               {label: "Từ", name: "from", widget: string},
               {label: "Đến", name: "to", widget: string},
+              {label: "Liên kết", name: "link", widget: string},
               {label: "Khoảng thời gian", name: "duration", widget: string},
               {label: "Hình ảnh", name: image, widget: image},
               {label: "Loại", name: type, widget: string}]}

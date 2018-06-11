@@ -1,19 +1,25 @@
 <section class="cf ph3 ph6-l bg-color-2">
 	<p class="f2 f2-l b tc h1-color mt4 ttu">{{ .Params.headings.route }}</p>
-	<div class="cf flex flex-wrap">
-  {{ range .Params.popularRoutes }}
-	<div class=" w-100 w-50-ns w-33-l pa2">
-		<div class="w-100 ba b--light-blue">
+	
+	<div class="cf flex flex-wrap">
+		{{ range .Params.popularRoutes }}
+		<a href="{{ .link }}" class=" w-100 w-50-ns w-33-l pa2">
+			<div class="w-100 ba b--light-blue">
 				<div class="aspect-ratio aspect-ratio--6x4">
-						<img class="aspect-ratio--object cover db black-10" src="{{ .image }}" alt="{{ .title }}"/>
+					<img class="aspect-ratio--object cover db black-10" src="{{ .image }}" alt="{{ .title }}" />
 				</div>
-				<p class="f6 tc ml0 desc-color"><span class="ttu red b f6 mr2">{{ .type }}</span><span>{{ .from }}</span><i class="fas fa-arrow-circle-right ph2"></i><span>{{ .to }}</span></p>
+				<p class="f6 tc ml0 desc-color">
+					<span class="ttu red b f6 mr2">{{ .type }}</span>
+					<span>{{ .from }}</span>
+					<i class="fas fa-arrow-circle-right ph2"></i>
+					<span>{{ .to }}</span>
+				</p>
 				<p class="f7 tc minor-desc-color ph3 ">{{ .duration }}</p>
-		</div>
+			</div>
+		</a>
+		{{ end }}
 	</div>
-  {{ end }}
-  </div>
-  <p class="tc pb2">
-  	<a href="/" class="f6 ba br3 link pa2 b desc-color dim">Xem tất cả chuyến đi</a>
+	<p class="tc pb2">
+		<a href="/" class="f6 ba br3 link pa2 b desc-color dim">Xem tất cả chuyến đi</a>
 	</p>
 </section>
