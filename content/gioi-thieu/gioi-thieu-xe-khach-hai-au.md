@@ -1,8 +1,7 @@
 ---
 title: Giới thiệu xe khách Hải Âu
 weight: 1
-url: >-
-  https://xehaiau.netlify.com/admin/#/collections/gioi-thieu/entries/gioi-thieu-xe-khach-hai-au
+url: /gioi-thieu-xe-khach-hai-au
 description: >-
   Công ty TNHH vận tải Bus Hải Phòng được là doanh nghiệp hoạt động trong lĩnh
   vực vận tải hành khách đường bộ và chuyển phát hàng hóa với thương hiệu Xe
