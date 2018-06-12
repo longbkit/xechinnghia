@@ -71,3 +71,5 @@ thumbnail: /img/driver.png
 	</tbody>
 
 </table>
+
+![vì sao lựa chọn xe buýt?](/img/xe-buýt.png)
