@@ -182,7 +182,11 @@ thumbnail: /img/driver.png
 
 			<div style="box-sizing: border-box;">&nbsp;</div>
 
+			</td>
 
+		</tr>
+
+	</tbody>
 
 </table>
 
