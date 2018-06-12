@@ -120,7 +120,7 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box;">&nbsp;</p>
 
-![xe buýt nội đô](/img/xe-buýt.png)
+![](/img/vì-sao-bạn-nên-lựa-chọn-chuyển-phát-vip-hải-âu.png)
 
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); text-align: center;">&nbsp;</p>
 
