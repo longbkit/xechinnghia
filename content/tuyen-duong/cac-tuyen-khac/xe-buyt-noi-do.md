@@ -74,8 +74,6 @@ thumbnail: /img/driver.png
 
 
 
-![vì sao lựa chọn xe buýt?](/img/xe-buýt.png)
-
 
 
 <div style="box-sizing: border-box; color: rgb(51, 51, 51); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
