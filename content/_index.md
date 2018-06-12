@@ -79,7 +79,7 @@ popularRoutes:
     image: /img/ise1513916758.jpg
     link: xe-cao-toc-hai-phong-thai-binh-nam-dinh
     to: BX Nam Định
-    type: VIP
+    type: CAO TỐC
 intro: >-
   Được thành lập từ tháng 12/2002, xe khách Hải Âu được biết đến như là một
   thương hiệu uy tín trong lĩnh vực vận tải hành khách chất lượng cao và dịch vụ
