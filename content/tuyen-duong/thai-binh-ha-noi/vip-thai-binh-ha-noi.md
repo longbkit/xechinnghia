@@ -35,8 +35,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-![VIP Thái Bình - Hà Nội](/img/HA express 1.png)
-
 <div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY</span></span></span></div>
 
 </div>
@@ -175,6 +173,8 @@ thumbnail: /img/driver.png
 </tbody>
 ```
 
+**Lưu ý: Bảng thông tin phía trên là giờ xe chạy của ngày cuối tuần, các ngày trong tuần xe chạy với tần suất 60 phút/chuyến**
+
 </table>
 
 <div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
@@ -262,6 +262,8 @@ thumbnail: /img/driver.png
 
 		
 ```
+
+**Lưu ý: Bảng thông tin phía trên là giờ xe chạy của ngày cuối tuần, các ngày trong tuần xe chạy với tần suất 60 phút/chuyến**
 
 </table>
 
