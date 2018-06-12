@@ -236,11 +236,11 @@ date: 2018-03-16T04:47:10.000Z
 
 
 
+			<p><img alt="" src="https://www.facebook.com/xekhachviphaiau/photos/a.460388540790381.1073741826.460386260790609/966850036810893/?type=3&amp;theater" /><img alt="" src="https://scontent.fhph1-1.fna.fbcdn.net/v/t1.0-9/31429951_966850040144226_5512314542702460928_n.jpg?_nc_cat=0&amp;oh=131182fb5808a5597647265d0995e104&amp;oe=5B77EFA5" style="width: 300px; height: 148px;" /></p>
+
+
+
 			<p>&nbsp;</p>
-
-
-
-			<p><img alt="" src="https://xehaiau.netlify.com/img/image(11).png" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; border-style: none; max-width: 100%;" /></p>
 
 
 
