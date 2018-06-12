@@ -44,36 +44,41 @@ values:
     image: /img/icon-e-ticket.png
     title: Dễ dàng mua vé
 popularRoutes:
-  - duration: 02 giờ 45 phút
+  - duration: 01 giờ 30 phút
     from: BX Cầu Rào
     image: /img/nia1513916676.jpg
     link: /vip-cau-rao-gia-lam/
-    to: BX Gia Lâm A
-    type: VIP
-  - duration: 02 giờ 45 phút
-    from: BX Thượng Lý
-    image: /img/cho1513916695.jpg
-    to: BX Gia Lâm A
-    type: VIP
-  - duration: 02 giờ 00 phút
-    from: BX Cầu Rào
-    image: /img/qoh1513916711.jpg
-    to: BX Gia Lâm B
-    type: VIP
-  - duration: 01 giờ 30 phút
-    from: BX Cầu Rào
-    image: /img/smk1513916726.jpg
-    to: BX Gia Lâm V
+    to: 'BX Gia Lâm '
     type: VIP
   - duration: 01 giờ 30 phút
     from: BX Niệm Nghĩa
-    image: /img/tbv1513916751.jpg
-    to: BX Gia Lâm V
+    image: /img/cho1513916695.jpg
+    link: /vip-niem-nghia-gia-lam/
+    to: 'BX Gia Lâm '
     type: VIP
-  - duration: 03 giờ 20 phút
-    from: BX Gia Lâm A
+  - duration: 01 giờ 30 phút
+    from: BX Thượng Lý
+    image: /img/qoh1513916711.jpg
+    link: /vip-thuong-ly-nuoc-ngam/
+    to: BX Nước Ngầm
+    type: VIP
+  - duration: 02 giờ 30 phút
+    from: BX Thái Bình
+    image: /img/smk1513916726.jpg
+    link: vip-thai-binh-ha-noi/
+    to: 'BX Gia Lâm '
+    type: VIP
+  - duration: 01 giờ 30 phút
+    from: BX Cầu Rào
+    image: /img/tbv1513916751.jpg
+    link: /xe-cao-toc-cau-rao-gia-lam/
+    to: 'BX Gia Lâm '
+    type: Cao tốc
+  - duration: 02 giờ 00 phút
+    from: BX Cầu Rào
     image: /img/ise1513916758.jpg
-    to: BX Thái Bình
+    link: xe-cao-toc-hai-phong-thai-binh-nam-dinh
+    to: BX Nam Định
     type: VIP
 intro: >-
   Được thành lập từ tháng 12/2002, xe khách Hải Âu được biết đến như là một
