@@ -22,7 +22,7 @@ thumbnail: /img/driver.png
 
 <div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><font color="#ff0000" style="font-family: Arial; outline: none; line-height: 26px; max-width: 100%;"><span style="font-weight: bolder; outline: none; line-height: 26px; max-width: 100%;">VIP Hải &Acirc;u Thượng L&yacute; - Nước Ngầm</span></font><span style="font-family: Arial; outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><span style="font-weight: bolder; outline: none; line-height: 26px; max-width: 100%;">&nbsp;được khai trương v&agrave;o ng&agrave;y 23/4/2018 nhằm đ&aacute;p ứng nhu cầu đi lại thuận tiện hơn cho Qu&yacute; Kh&aacute;ch h&agrave;ng với&nbsp;chất lượng phục vụ đạt chuẩn, trang bị cơ sở hạ tầng v&agrave; phương tiện hiện đại c&ugrave;ng đội ngũ nh&acirc;n vi&ecirc;n năng động, nhiệt t&igrave;nh, chuy&ecirc;n nghiệp.</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(255, 0, 0); font-weight: 700;">Xe VIP&nbsp;Hải &Acirc;u</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-weight: 700;">&nbsp;xuất&nbsp;hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng&nbsp;</span><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n&nbsp;</span><span style="font-family: Arial; outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><span style="font-weight: bolder; outline: none; line-height: 26px; max-width: 100%;">n&acirc;ng cao khẩu hiệu:&nbsp;<em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</em></span></span></p>
 
 </div>
 
@@ -32,7 +32,11 @@ thumbnail: /img/driver.png
 
 </div>
 
+</div>
 
+
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
 <table style="box-sizing: border-box; color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236); font-family: arial; text-align: center; width: 800px;">
 
@@ -70,139 +74,35 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Thượng L&yacute;</td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Niệm Nghĩa</td>
+
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); font-weight: bolder;">Bx. Niệm Nghĩa</span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;&ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash;&nbsp;</span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); font-weight: bolder;">Bx. Gia L&acirc;m</span></td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-			<p style="box-sizing: border-box;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">BX.Thượng L&yacute;</span>&nbsp;- VP Qu&aacute;n Toan - VP An L&atilde;o - Cao tốc An L&atilde;o -&nbsp;<span style="font-weight: bolder;">Bx. Nước Ngầm</span></span></p>
+			<p style="box-sizing: border-box;"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">6h00 - 7h00 - 8h00 - 9h00 - 10h00 - 11h00&nbsp;- 12h20 - 13h00 -14h00 - 15h00 - 16h00 - 17h00 - 18h00</span></p>
 
 			</td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">05h30 - 06h00 - 06h30 - 07h00 - 07h30 - 08h00&nbsp;</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box; text-align: right;">12&nbsp;chuyến/ng&agrave;y</p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">08h30 - 09h00 - 09h30&nbsp; - 10h30 - 11h30 - 12h30 13h30 - 14h00 - 14<span style="box-sizing: border-box;">h30 - 15h00 - 15h30 - 16h00 16h30 - 17h00 -&nbsp; 18h00 - 19h00</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">Li&ecirc;n tục</p>
 
-			</td>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">60 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 6h00</span></p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 05h30</span></p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h00</span></p>
-
-			</td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">VP Qu&aacute;n Toan</td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-family: arial, helvetica, sans-serif;">VP Qu&aacute;n Toan - VP An L&atilde;o - Cao tốc An L&atilde;o -&nbsp;</span><span style="font-weight: bolder; font-family: arial, helvetica, sans-serif;">Bx. Nước Ngầm</span></td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">05h40 - 06h10 - 06h40 - 07h10 - 07h40 - 08h00</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">8h40 - 9h10 - 9h40 &nbsp;- 10h40 - 11h40 - 12h40</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">13h40 - 14h10 - 14h40 - 15h10 - 15h40 - 16h10 16h40 - 17h10&nbsp;- 18h10 - 19h10</p>
-
-			</td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 5h40</span></p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h10</span></p>
-
-			</td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">VP An L&atilde;o</td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="box-sizing: border-box;"><span style="font-family: arial, helvetica, sans-serif;">VP An L&atilde;o - Cao tốc An L&atilde;o -&nbsp;</span></p>
-
-
-
-			<p style="box-sizing: border-box;"><span style="font-weight: bolder; font-family: arial, helvetica, sans-serif;">Bx. Nước Ngầm</span></p>
-
-			</td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">05h50 - 06h20 - 06h50 - 07h20 - 07h50 - 08h20&nbsp; 08h50 - 09h20 - 09h50&nbsp;- 10h50 - 11h50 - 12h50</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">13h50 - 14h20 - 14h50 - 15h20 - 15h50 - 16h20&nbsp; 16h50 - 17h20 - 08h20 - 19h20</p>
-
-			</td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 05h50</span></p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h20</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 18h00</span></p>
 
 			</td>
 
@@ -262,93 +162,55 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Nước Ngầm&nbsp;</td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">Gia L&acirc;m -&nbsp; Niệm Nghĩa</td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">6h00 - 6h30 - 7h00 - 7h30 - 8h00 - 8h30</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">9h00 - 9h30&nbsp;- 10h30 - 11h30 - 12h30</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">13h30 - 14h00 - 14h30 - 15h00 - 15h30 - 16h00</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">16h30 - 17h00 - 17h30&nbsp; - 18h30 - 19h30</p>
+			<p style="box-sizing: border-box;"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">6h30 - 19h00</span></p>
 
 			</td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">22&nbsp;chuyến/ng&agrave;y</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">Li&ecirc;n tục 30 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">Li&ecirc;n tục</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: 700;">Chuyến sớm nhất: 6h30</span></p>
 
 
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;">30 ph&uacute;t/chuyến</p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến sớm nhất: 6h00</span></p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="box-sizing: border-box; font-weight: 700; outline: none; line-height: 26px; max-width: 100%;">Chuyến muộn nhất: 19h30</span></p>
-
-
-
-			<div style="box-sizing: border-box;">&nbsp;</div>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: 700;">Chuyến muộn nhất: 19h00</span></p>
 
 </table>
 
 
 
-<p>&nbsp;</p>
+<div style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; text-align: justify;">
 
-</div>
-
-</div>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
-
-
-
-</div>
-
-</div>
-
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: center;">
-
-<div style="box-sizing: border-box; outline: none; font-size: 16px; font-family: arial; line-height: 26px; max-width: 100%; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="outline: none; font-size: 14px; font-family: Arial; line-height: 26px; max-width: 100%; font-weight: bolder;">DỊCH VỤ MIỄN&nbsp;PH&Iacute;</span></div>
+<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">DỊCH VỤ MIỄN PH&Iacute;</span></span></span></div>
 
 </div>
 
 
 
-<p style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border-style: none; max-width: 100%; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;">&nbsp;Taxi &Eacute;n v&agrave;ng, M&ocirc; t&ocirc; taxi đưa đ&oacute;n tận nh&agrave;.</span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;" />
-
-<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border-style: none; max-width: 100%; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;">&nbsp;Xe trung chuyển Thượng L&yacute; - Thủy Nguy&ecirc;n.</span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;" />
-
-<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border-style: none; max-width: 100%; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;">&nbsp;Bus Nội đ&ocirc; Thượng L&yacute; - Bưu điện Vạn Mỹ.</span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;" />
-
-<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border-style: none; max-width: 100%; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;">&nbsp;Xe trung chuyển Thượng L&yacute; - Ng&atilde; tư An Dương</span></p>
-
-
+<div style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
 
 <div class="f6 ph3 ph6-l center darkblue" style="box-sizing: border-box; padding-left: 8rem; padding-right: 8rem; margin-left: auto; margin-right: auto; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
 
 <div class="fl w-100 w-70-l tj ph0 ph0-l" style="box-sizing: border-box; float: left; width: 816.891px; padding-left: 0px; padding-right: 0px; text-align: justify;">
 
 <div id="itemListPrimary" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;"><span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px; background-color: rgb(255, 255, 255);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border: 0px; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">&nbsp;Phục vụ khăn ướt, nước lọc v&agrave; wifi tốc độ cao.</span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);" />
+
+<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px; background-color: rgb(255, 255, 255);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border: 0px; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">&nbsp;C&oacute; xe moto taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Niệm Nghĩa v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Niệm Nghĩa về tận nh&agrave; miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;ng</span><span style="font-size:16px;"><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif;"> </span><span style="color: rgb(255, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-weight: 700; text-align: justify;">(li&ecirc;n hệ: 02253. 548 548)</span></span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);" />
+
+<span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: rgb(29, 33, 41); font-size: 14px; background-color: rgb(255, 255, 255);"><img alt="" class="img" height="16" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8d/1/16/2611.png" style="border: 0px; vertical-align: -3px;" width="16" /><span class="_7oe" style="display: inline-block; font-size: 0px; width: 0px; font-family: inherit;">☑️</span></span><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">&nbsp;Mua v&eacute; trước th&ocirc;ng qua website: </span><span style="font-size:16px;"><span style="font-family: Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);"><strong><a href="https://vexere.com/"><span style="color:#0089cf;">vexere.com</span></a></strong></span></span><br style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);" />
+
+&nbsp;</p>
+
+
 
 <p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
 
@@ -366,7 +228,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Space 29 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></span></span></p>
+<p style="color: rgb(51, 51, 51); font-size: 16px; box-sizing: border-box; text-align: left; margin-left: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" height="20" src="https://xehaiau.netlify.com/pictures/picfullsizes/2018/01/02/blue%20arrow(1).png" style="border-style: none; max-width: 100%;" width="20" />&nbsp;Xe &ocirc; t&ocirc; (Univer 47 chỗ) rộng r&atilde;i, trang thiết bị tiện nghi ngay tr&ecirc;n xe.</span></span></span></p>
 
 
 
@@ -415,6 +277,10 @@ thumbnail: /img/driver.png
 
 
 <p style="color: rgb(51, 51, 51); font-size: 0.875rem; box-sizing: border-box;">&nbsp;</p>
+
+</div>
+
+</div>
 
 </div>
 
