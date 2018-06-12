@@ -322,16 +322,6 @@ thumbnail: /img/driver.png
 
 
 
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-size: 14px; text-align: justify; outline: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; outline: 0px; font-family: Arial; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
-
-<div class="catItemView groupLeading" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
-
-<div class="catItemHeader" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<h3 class="catItemTitle" style="box-sizing: border-box; color: rgb(35, 31, 32); outline: 0px; margin: 0px; padding: 10px 0px 4px; font-size: 16px; font-family: Arial, Helvetica, sans-serif; line-height: 17.6px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-align: center;">&nbsp;</h3>
-
 </div>
 
 </div>
