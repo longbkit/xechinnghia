@@ -120,18 +120,6 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box;">&nbsp;</p>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 ![xe buýt nội đô](/img/xe-buýt.png)
 
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); text-align: center;">&nbsp;</p>
