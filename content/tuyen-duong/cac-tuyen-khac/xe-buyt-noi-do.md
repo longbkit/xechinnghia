@@ -22,11 +22,7 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: 700;"><font color="#ff0000">Xe bu&yacute;t nội đ&ocirc;</font></span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">được khai trương v&agrave;o th&aacute;ng 11/2015 nhằm phục vụ nhu cầu đi lại cũng như g&oacute;p phần n&acirc;ng cao &yacute; thức giao th&ocirc;ng trong th&agrave;nh phố, giảm t&igrave;nh trạng tắc nghẽn giao th&ocirc;ng trong giờ cao điểm.</span></p>
 
-</div>
 
-</div>
-
-</div>
 
 
 
@@ -77,70 +73,6 @@ thumbnail: /img/driver.png
 
 
 <div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
-
-
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
-
-</div>
-
-
-
-<div id="itemListPrimary" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
-
-<div style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify;">&nbsp;</p>
-
-
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
-
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">
-
-<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
-
-<div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
-
-<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-&nbsp;
 
 
 
