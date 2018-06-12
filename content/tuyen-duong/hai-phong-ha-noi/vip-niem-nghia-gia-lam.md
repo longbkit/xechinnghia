@@ -12,7 +12,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><em style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></em></span></p>
+<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-family: arial, helvetica, sans-serif;"><em style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ.</span></em></span></p>
 
 
 
@@ -22,9 +22,9 @@ thumbnail: /img/driver.png
 
 <div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: 700;">Xe VIP&nbsp;Hải &Acirc;u</span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;xuất&nbsp;hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n n&acirc;ng cao<br />
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(255, 0, 0); font-weight: 700;">Xe VIP&nbsp;Hải &Acirc;u</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-weight: 700;">&nbsp;xuất&nbsp;hiện lần đầu ti&ecirc;n tại H&agrave; Nội v&agrave; Hải Ph&ograve;ng&nbsp;</span><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: justify; background-color: rgb(240, 250, 248);">với chất lượng dịch vụ ti&ecirc;n tiến, văn minh v&agrave; lu&ocirc;n&nbsp;</span><span style="font-family: Arial; outline: none; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207);"><span style="font-weight: bolder; outline: none; line-height: 26px; max-width: 100%;">n&acirc;ng cao khẩu hiệu:<br />
 
-khẩu hiệu:&nbsp;<em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng.</em></span></span></p>
+<em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng</em></span></span></p>
 
 </div>
 
@@ -34,7 +34,11 @@ khẩu hiệu:&nbsp;<em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng
 
 </div>
 
+</div>
 
+
+
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
 <table style="box-sizing: border-box; color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236); font-family: arial; text-align: center; width: 800px;">
 
@@ -101,6 +105,12 @@ khẩu hiệu:&nbsp;<em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng
 
 
 			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 18h00</span></p>
+
+			</td>
+
+		</tr>
+
+	</tbody>
 
 </table>
 
@@ -173,12 +183,6 @@ khẩu hiệu:&nbsp;<em>Đ&uacute;ng giờ - Thuận tiện - Nhanh ch&oacute;ng
 
 
 			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: 700;">Chuyến muộn nhất: 19h00</span></p>
-
-			</td>
-
-		</tr>
-
-	</tbody>
 
 </table>
 
