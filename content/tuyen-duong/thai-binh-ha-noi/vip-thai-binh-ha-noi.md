@@ -173,8 +173,6 @@ thumbnail: /img/driver.png
 </tbody>
 ```
 
-**Lưu ý: Bảng thông tin phía trên là giờ xe chạy của ngày cuối tuần, các ngày trong tuần xe chạy với tần suất 60 phút/chuyến**
-
 </table>
 
 <div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
@@ -262,8 +260,6 @@ thumbnail: /img/driver.png
 
 		
 ```
-
-**Lưu ý: Bảng thông tin phía trên là giờ xe chạy của ngày cuối tuần, các ngày trong tuần xe chạy với tần suất 60 phút/chuyến**
 
 </table>
 
