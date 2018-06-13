@@ -42,7 +42,7 @@ thumbnail: /img/driver.png
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
-<table style="box-sizing: border-box; border: 4px solid rgb(236, 236, 236); color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 850px;">
+<table style="border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;text-align:center;width:800px;">
 
 	<tbody>
 
@@ -140,7 +140,7 @@ thumbnail: /img/driver.png
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
-<table style="border-width: 4px; border-style: solid; border-color: rgb(236, 236, 236); box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 850px;">
+<table style="border-color:rgb(236, 236, 236);border-style:solid;border-width:4px;box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;text-align:center;width:800px;">
 
 	<tbody>
 
@@ -351,10 +351,6 @@ thumbnail: /img/driver.png
 	</tbody>
 
 </table>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</p>
 
 </div>
 
