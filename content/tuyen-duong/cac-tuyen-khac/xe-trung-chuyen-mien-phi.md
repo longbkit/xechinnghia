@@ -388,7 +388,7 @@ thumbnail: /img/driver.png
 
 <span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">02253. 717 717&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
 
-<span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; color: rgb(0, 137, 207);">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></p>
+<strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; color: rgb(0, 137, 207);">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></a></strong></p>
 
 </div>
 
