@@ -191,7 +191,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid #dddddd;">
 
-			<p style="box-sizing: border-box;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Li&ecirc;n tục 40 - 60 ph&uacute;t/chuyến</span></span></p>
+			<p style="box-sizing: border-box;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Li&ecirc;n tục 30 - 40 ph&uacute;t/chuyến</span></span></p>
 
 
 
@@ -200,12 +200,6 @@ thumbnail: /img/driver.png
 
 
 			<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #292b2c; font-family: arial; font-size: 13px; background-color: #ffffff;"><span style="box-sizing: border-box; font-weight: bold;">Chuyến muộn nhất: 20h00</span></p>
-
-			</td>
-
-		</tr>
-
-	</tbody>
 
 </table>
 
@@ -289,55 +283,77 @@ thumbnail: /img/driver.png
 
 			<p style="box-sizing: border-box;"><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: #000000;">Bx. Gia&nbsp;L&acirc;m</span></span></span></strong></p>
 
-
-
-			<div>&nbsp;</div>
-
-			</td>
-
-		</tr>
-
-	</tbody>
-
 </table>
-
-
-
-<p>&nbsp;</p>
 
 
 
 <div class="f6 ph3 ph6-l center darkblue" style="box-sizing: border-box; padding-left: 8rem; padding-right: 8rem; font-size: 0.875rem; margin-left: auto; margin-right: auto;">
 
-<div style="box-sizing: border-box; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center;">
+<p style="box-sizing: border-box;">&nbsp;</p>
 
-<div style="box-sizing: border-box; color: #231f20; font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="catItemHeader" style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); background: none 0px 0px repeat scroll rgb(240, 250, 248); text-align: center;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: rgb(0, 137, 207); font-weight: 700;">&nbsp;<span style="font-size: 16px;">XE KH&Aacute;CH HẢI &Acirc;U</span></span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+
+<span style="font-size: 16px;"><span style="color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+
+<span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 700; text-align: justify;">02253. 717 717&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;" />
+
+<a href="https://www.facebook.com/xekhachviphaiau/"><strong><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; color: rgb(0, 137, 207);">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></strong></a></p>
+
+</div>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<p style="box-sizing: border-box;">&nbsp;</p>
+
+
+
+<div style="box-sizing: border-box; color: rgb(35, 31, 32); font-family: Arial; outline: none; line-height: 26px; max-width: 100%; text-align: justify;">
 
 <div style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">
 
-<div id="itemListLeading" style="box-sizing: border-box; color: #333333; font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
-
-<div class="catItemHeader" style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; font-size: 14px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed #0089cf; background: none 0px 0px repeat scroll #f0faf8; text-align: center;"><span style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; box-sizing: border-box;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box; color: #0089cf; font-weight: bold;">&nbsp;<span style="font-size: 16px;">XE KH&Aacute;CH HẢI &Acirc;U</span></span></span></span><br style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;" />
-
-<span style="font-size: 16px;"><span style="color: #0089cf; font-family: arial, helvetica, sans-serif; font-weight: bold; text-align: justify;">&nbsp;MỌI TH&Ocirc;NG TIN CHI TIẾT VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ HOTLINE:</span></span><br style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;" />
-
-<span style="font-size: 18px;"><span style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; color: #ff0000;"><span style="font-family: arial, helvetica, sans-serif; font-weight: bold; text-align: justify;">02253. 717 717&nbsp;</span></span></span><br style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px;" />
-
-<a href="https://www.facebook.com/xekhachviphaiau/"><strong><span style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; font-size: 13px; color: #0089cf;">FACEBOOK: XE KH&Aacute;CH HẢI &Acirc;U</span></strong></a></p>
-
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-
+<div id="itemListLeading" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;">
 
 <p style="box-sizing: border-box;">&nbsp;</p>
 
@@ -349,13 +365,9 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px;"><br style="box-sizing: border-box;" />
 
-</div>
-
-
-
-<p style="box-sizing: border-box;">&nbsp;</p>
+<span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="box-sizing: border-box; font-size: 14px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
 
 
 
@@ -379,25 +391,7 @@ thumbnail: /img/driver.png
 
 
 
-<p style="box-sizing: border-box;">&nbsp;</p>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
+<p style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">&nbsp;</p>
 
 </body>
 
