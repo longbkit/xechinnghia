@@ -105,7 +105,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px; font-size: 13px; text-align: justify;"><em style="color: rgb(41, 43, 44); font-family: arial; font-size: 13px; text-align: justify; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;">đường cao tốc từ Bx. Cầu R&agrave;o</span></span></span></em></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px; font-size: 13px; text-align: justify;"><em style="color: rgb(41, 43, 44); font-family: arial; font-size: 13px; text-align: justify; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;">đường cao tốc từ Bx. Cầu R&agrave;o)</span></span></span></em></p>
 
 			</td>
 
@@ -345,7 +345,7 @@ thumbnail: /img/driver.png
 
 
 
-<div class="btnda1tv" style="color: rgb(51, 51, 51); font-family: arial; box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /></a></strong><strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a></strong><span style="color:#0089cf;">/xekhachviphaiau/</span></div>
+<div class="btnda1tv" style="color: rgb(51, 51, 51); font-family: arial; box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a><span style="color:#0089cf;">/xekhachviphaiau/</span></strong></div>
 
 
 
