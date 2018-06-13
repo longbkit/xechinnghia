@@ -296,10 +296,6 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box; text-align: start;"><span style="font-weight: 700;"><span style="color: rgb(0, 137, 207);"><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></span><span style="font-size: 16px; color: rgb(0, 137, 207); font-weight: 700;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
 
-</div>
-
-</div>
-
 <p>&nbsp;
 
 <div style="font-size: 14px; text-align: justify; box-sizing: border-box;">
