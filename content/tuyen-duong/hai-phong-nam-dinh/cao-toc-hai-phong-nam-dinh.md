@@ -92,15 +92,15 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"><strong>Bx. Cầu R&agrave;o</strong> - <strong>VP 692 Phạm Văn Đồng</strong> - </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">cao tốc An L&atilde;o </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"><strong>**Bx. Cầu R&agrave;o**</strong> - <strong>VP 692 Phạm Văn Đồng</strong> - </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">cao tốc An L&atilde;o </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span></p>
 
 
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">- </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. </strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Vĩnh Bảo</strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Qu&aacute;n Ch&aacute;y- Ng&atilde; 3 Đường Mới - Vũ Hạ - Cầu Vật - Ba Đợi ​</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">-</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> Cầu Nguyễn</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">&nbsp;-&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Đống Năm -</span><span style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Gia Lễ </span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">- </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">**Bx. </strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Vĩnh Bảo**</strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Qu&aacute;n Ch&aacute;y- Ng&atilde; 3 Đường Mới - Vũ Hạ - Cầu Vật - Ba Đợi ​</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">-</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> Cầu Nguyễn</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">&nbsp;-&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Đống Năm -</span><span style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Gia Lễ </span></p>
 
 
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">- Chợ đầu mối </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> - </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. Th&aacute;i B&igrave;nh - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Cầu Thẫm - </span><strong style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);"><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">Bx. Nam Định.</span></strong></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">- Chợ đầu mối </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> - </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">**Bx. Th&aacute;i B&igrave;nh **- </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Cầu Thẫm - </span><strong style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);"><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">**Bx. Nam Định**.</span></strong></p>
 
 			</td>
 
@@ -264,7 +264,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;">Nam Định - Th&aacute;i B&igrave;nh</td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong><span style="color:#FF0000;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">35.000 đồng/1 v&eacute;/1 lượt</span></span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong><span style="color:#FF0000;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">**35.000 đồng/1 v&eacute;/1 lượt**</span></span></span></strong></td>
 
 		</tr>
 
@@ -272,7 +272,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Vĩnh Bảo - Th&aacute;i B&igrave;nh</span></td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">35.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">**35.000 đồng/1 v&eacute;/1 lượt**</span></span></strong></td>
 
 		</tr>
 
@@ -280,7 +280,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Hải Ph&ograve;ng - Vĩnh Bảo</span></td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">50.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">**50.000 đồng/1 v&eacute;/1 lượt**</span></span></strong></td>
 
 		</tr>
 
@@ -288,7 +288,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Vĩnh Bảo - Nam Định</span></td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">50.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">**50.000 đồng/1 v&eacute;/1 lượt**</span></span></strong></td>
 
 		</tr>
 
@@ -296,7 +296,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Hải Ph&ograve;ng - Th&aacute;i B&igrave;nh</span></td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">65.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">**65.000 đồng/1 v&eacute;/1 lượt**</span></span></strong></td>
 
 		</tr>
 
@@ -304,7 +304,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Hải Ph&ograve;ng - Nam Định</span></td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">80.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">**80.000 đồng/1 v&eacute;/1 lượt**</span></span></strong></td>
 
 		</tr>
 
