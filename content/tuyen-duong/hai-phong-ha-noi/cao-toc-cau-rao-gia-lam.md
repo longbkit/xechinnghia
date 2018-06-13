@@ -21,7 +21,7 @@ thumbnail: /img/driver.png
 
 <div class="catItemView groupLeading" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed #0089cf; width: 800px; background: none 0px 0px repeat scroll #f0faf8;"><span style="font-size: 14px; text-align: justify; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: bold;">CHỮAXe cao tốc&nbsp;Hải Ph&ograve;ng - H&agrave; Nội</span><span style="color: rgb(0, 137, 207); font-weight: bold;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: bold;">l&agrave; xe chạy đường quốc lộ 5B từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o)</span><span style="font-family: Arial; font-size: 14px; text-align: justify; box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: bold;">&nbsp;đến thủ đ&ocirc; H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) với tần suất 30 - 40 ph&uacute;t/chuyến.</span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed #0089cf; width: 800px; background: none 0px 0px repeat scroll #f0faf8;"><span style="font-size: 14px; text-align: justify; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: bold;">Xe cao tốc&nbsp;Hải Ph&ograve;ng - H&agrave; Nội</span><span style="color: rgb(0, 137, 207); font-weight: bold;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: bold;">l&agrave; xe chạy đường quốc lộ 5B từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o)</span><span style="font-family: Arial; font-size: 14px; text-align: justify; box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: bold;">&nbsp;đến thủ đ&ocirc; H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) với tần suất 30 - 40 ph&uacute;t/chuyến.</span></p>
 
 
 
@@ -106,10 +106,6 @@ thumbnail: /img/driver.png
 
 
 			<p style="box-sizing: border-box; margin: 0px 0px 10px; font-size: 13px; text-align: justify;"><em style="color: rgb(41, 43, 44); font-family: arial; font-size: 13px; text-align: justify; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;">đường cao tốc từ Bx. Cầu R&agrave;o</span></span></span></em></p>
-
-
-
-			<p style="box-sizing: border-box; margin: 0px 0px 10px; font-size: 13px; text-align: justify;">&nbsp;</p>
 
 			</td>
 
