@@ -102,7 +102,7 @@ thumbnail: /img/driver.png
 
 <img alt="" src="http://www.freepngimg.com/download/phone/8-2-phone-picture.png" style="width: 30px; height: 30px;" /><strong>&nbsp;<span style="color:#FF0000;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">02253.717 717&nbsp;</span></span></span></strong><br />
 
-<img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 30px; height: 30px;" /><strong><span style="color: rgb(0, 137, 207); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(240, 250, 248);">/xekhachviphaiau/</span></strong></p>
+<img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 30px; height: 30px;" /><a href="https://www.facebook.com/xekhachviphaiau/"><strong><span style="color: rgb(0, 137, 207); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(240, 250, 248);">/xekhachviphaiau/</span></strong></a></p>
 
 </div>
 
