@@ -311,10 +311,6 @@ thumbnail: /img/driver.png
 
 
 
-<p style="color: rgb(35, 31, 32); font-family: Arial; font-size: 0.875rem; box-sizing: border-box; outline: none; margin-left: 10px; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">&nbsp;</p>
-
-
-
 <div style="font-size: 14px; text-align: center; box-sizing: border-box; border: 1px dashed rgb(0, 137, 207); background: rgb(240, 250, 248);">
 
 <p style="font-size: 16px; box-sizing: border-box;"><font color="#0089cf" face="arial, helvetica, sans-serif"><b>C&Ocirc;NG TY XE KH&Aacute;CH HẢI &Acirc;U</b></font></p>
