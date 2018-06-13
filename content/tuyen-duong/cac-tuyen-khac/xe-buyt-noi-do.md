@@ -8,11 +8,7 @@ thumbnail: /img/driver.png
 ---
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); text-align: center;"><font face="arial, helvetica, sans-serif"><b>XE BU&Yacute;T NỘI Đ&Ocirc;</b></font></p>
 
-
-
 <p style="box-sizing: border-box; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><font face="Helvetica Neue, Helvetica, Arial, sans-serif"><i>Thuận tiện - An to&agrave;n - Tiết kiệm</i></font></p>
-
-
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
@@ -28,9 +24,7 @@ thumbnail: /img/driver.png
 
 </div>
 
-
-
-![](/img/xe-buýt-nội-đô.jpg)
+![null](/img/xe-buýt-nội-đô.jpg)
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
@@ -54,7 +48,7 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ng&atilde; 5 C&aacute;t Bi - Đường Đ&agrave; Nẵng - Đường Điện B&ecirc;n Phủ - Cầu Lạc Long&nbsp;- Đường Bạch Đằng&nbsp;- Cầu Thượng L&yacute;&nbsp;</span></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Kh&aacute;ch sạn dầu kh&iacute; - Đường Đ&agrave; Nẵng - Đường Điện B&ecirc;n Phủ - Cầu Lạc Long&nbsp;- Đường Bạch Đằng&nbsp;- Cầu Thượng L&yacute;&nbsp;</span></td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
@@ -64,7 +58,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color:#FF0000;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>5h00 - 20h00 h&agrave;ng ng&agrave;y</strong></span></span></span></p>
+			<p style="box-sizing: border-box; margin: 0px; font-family: Arial; outline: none; padding: 0px; line-height: 26px; max-width: 100%;"><span style="color:#FF0000;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>5h00 - 19h30 h&agrave;ng ng&agrave;y</strong></span></span></span></p>
 
 			</td>
 
@@ -281,6 +275,8 @@ thumbnail: /img/driver.png
 
 
 <p style="color: rgb(35, 31, 32); font-family: Arial; outline: none; margin-bottom: 0px; margin-left: 80px; padding: 0px; line-height: 26px; max-width: 100%;">&nbsp;</p>
+
+</div>
 
 </div>
 
