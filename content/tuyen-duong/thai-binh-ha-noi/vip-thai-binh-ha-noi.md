@@ -17,19 +17,7 @@ description: >-
   thiện nhằm đem đến trải nghiệm thoải mái nhất cho khách hàng.
 thumbnail: /img/driver.png
 ---
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p>&nbsp;</p>
-
-
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: justify;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>VIP TH&Aacute;I B&Igrave;NH - H&Agrave; NỘI</strong></span></span></p>
 
 
 
@@ -37,11 +25,7 @@ thumbnail: /img/driver.png
 
 <div class="catItemView groupLeading" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
 
-<div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; text-align: center;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>VIP TH&Aacute;I B&Igrave;NH - H&Agrave; NỘI</strong></span></span></div>
-
-
-
-<div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px;"><em style="color: rgb(51, 51, 51); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></em></div>
+<div class="catItemHeader" style="box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; text-align: center;"><em style="color: rgb(51, 51, 51); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"><span style="color: rgb(0, 0, 0);">Xe chạy đường cao tốc - Kh&ocirc;ng đ&oacute;n kh&aacute;ch dọc đường - Phục vụ đ&uacute;ng số ghế - Xe xuất bến đ&uacute;ng giờ</span></em></div>
 
 
 
@@ -121,19 +105,27 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid #dddddd; height: 235px; width: 323px;">
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-family: Arial;">05h15&nbsp;- 06h15&nbsp; - 07h15&nbsp;</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-family: Arial;">05h15&nbsp;- 06h15&nbsp;</span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-family: Arial;">08h15&nbsp;- 09h15 - 10h15&nbsp;</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-family: Arial;">07h15 - 08h15</span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-family: Arial;">11</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">h15 - 12h15&nbsp;- 13h15 </span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-family: Arial;">09h15 - 10h15&nbsp;</span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">14h15 -14h45 - 15h15</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-family: Arial;">11</span><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">h15 - 12h15</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">&nbsp;13h15 14h15&nbsp;</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">14h45 - 15h15</span></p>
 
 
 
