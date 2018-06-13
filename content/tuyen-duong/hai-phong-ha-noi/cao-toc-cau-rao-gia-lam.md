@@ -21,7 +21,7 @@ thumbnail: /img/driver.png
 
 <div class="catItemView groupLeading" style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; box-sizing: border-box; border: 0px; outline: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 4px;">
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed #0089cf; width: 800px; background: none 0px 0px repeat scroll #f0faf8;"><span style="font-size: 14px; text-align: justify; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: bold;">Xe cao tốc&nbsp;Hải Ph&ograve;ng - H&agrave; Nội</span><span style="color: rgb(0, 137, 207); font-weight: bold;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: bold;">l&agrave; xe chạy đường quốc lộ 5B từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o)</span><span style="font-family: Arial; font-size: 14px; text-align: justify; box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: bold;">&nbsp;đến thủ đ&ocirc; H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) với tần suất 30 - 40 ph&uacute;t/chuyến.</span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed #0089cf; width: 850px; background: none 0px 0px repeat scroll #f0faf8;"><span style="font-size: 14px; text-align: justify; color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif;"><span style="color: rgb(255, 0, 0); font-weight: bold;">Xe cao tốc&nbsp;Hải Ph&ograve;ng - H&agrave; Nội</span><span style="color: rgb(0, 137, 207); font-weight: bold;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; background-color: rgb(240, 250, 248); color: rgb(0, 137, 207); font-family: arial, helvetica, sans-serif; font-weight: bold;">l&agrave; xe chạy đường quốc lộ 5B từ Th&agrave;nh phố Hải Ph&ograve;ng (bến xe Cầu R&agrave;o)</span><span style="font-family: Arial; font-size: 14px; text-align: justify; box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; color: rgb(0, 137, 207); font-weight: bold;">&nbsp;đến thủ đ&ocirc; H&agrave; Nội&nbsp;(bến xe Gia L&acirc;m) với tần suất 30 - 40 ph&uacute;t/chuyến.</span></p>
 
 
 
@@ -37,7 +37,7 @@ thumbnail: /img/driver.png
 
 <div style="color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; box-sizing: border-box;">
 
-<table style="border-width: 4px; border-style: solid; border-color: rgb(236, 236, 236); font-size: medium; box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 850px;">
+<table style="border-color:rgb(236, 236, 236);border-style:solid;border-width:4px;box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;font-size:medium;text-align:center;width:850px;">
 
 	<tbody>
 
@@ -293,6 +293,10 @@ thumbnail: /img/driver.png
 
 <div class="f6 ph3 ph6-l center darkblue" style="box-sizing: border-box; padding-left: 8rem; padding-right: 8rem; font-size: 0.875rem; margin-left: auto; margin-right: auto;">&nbsp;</div>
 
+
+
+<div class="f6 ph3 ph6-l center darkblue" style="box-sizing: border-box; padding-left: 8rem; padding-right: 8rem; font-size: 0.875rem; margin-left: auto; margin-right: auto;">&nbsp;</div>
+
 </div>
 
 </div>
@@ -307,17 +311,13 @@ thumbnail: /img/driver.png
 
 <div style="box-sizing: border-box; text-align: center;">
 
-<p style="color: rgb(35, 31, 32); font-family: Arial; font-size: 0.875rem; box-sizing: border-box; outline: none; margin-left: 10px; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">&nbsp;</p>
-
-
-
 <div style="font-size: 14px; text-align: center; box-sizing: border-box; border: 1px dashed rgb(0, 137, 207); background: rgb(240, 250, 248);">
 
-<p style="font-size: 16px; box-sizing: border-box;"><font color="#0089cf" face="arial, helvetica, sans-serif"><b>C&Ocirc;NG TY XE KH&Aacute;CH HẢI &Acirc;U</b></font></p>
+<p style="font-size: 16px; box-sizing: border-box;"><font color="#0089cf" face="arial, helvetica, sans-serif"><b>&nbsp;XE KH&Aacute;CH HẢI &Acirc;U</b></font></p>
 
 
 
-<p style="font-size: 16px; box-sizing: border-box;"><strong><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(0, 137, 207);">&nbsp;MỌI TH&Ocirc;NG TIN VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ:</span></span></span></strong></p>
+<p style="font-size: 16px; box-sizing: border-box;"><span style="font-size:16px;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(0, 137, 207);">&nbsp;MỌI TH&Ocirc;NG TIN VỀ DỊCH VỤ VUI L&Ograve;NG LI&Ecirc;N HỆ:</span></span></strong></span></p>
 
 
 
