@@ -469,7 +469,11 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">16h45 - 17h15 - 17h45 18h15</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">16h45 - 17h15 - 17h45 </span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="box-sizing: border-box; outline: none; line-height: 26px; max-width: 100%;">18h15</span></p>
 
 			</td>
 
@@ -575,7 +579,7 @@ thumbnail: /img/driver.png
 
 
 
-<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /></a></strong><strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a></strong><span style="color:#0089cf;">/xekhachviphaiau/</span></div>
+<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /></a></strong><strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a><span style="color:#0089cf;">/xekhachviphaiau/</span></strong></div>
 
 
 
