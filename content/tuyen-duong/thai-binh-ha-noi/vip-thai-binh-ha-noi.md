@@ -85,11 +85,7 @@ thumbnail: /img/driver.png
 
 			<td rowspan="1" style="box-sizing: border-box; padding: 5px 10px; border: 1px solid #dddddd; height: 235px; width: 215px;">
 
-			<p style="text-align: justify;"><span style="color: #292b2c; font-family: Arial; font-size: 14px; background-color: #ffffff;"><strong>Bx.Th&aacute;i B&igrave;nh</strong> &ndash; Đường 10 &ndash; Vĩnh Bảo &ndash; Cao tốc 5B</span></p>
-
-
-
-			<p style="text-align: justify;"><span style="color: #292b2c; font-family: Arial; font-size: 14px; background-color: #ffffff;">&ndash;<strong> Bx.Gia L&acirc;m</strong></span></p>
+			<p style="text-align: justify;"><span style="color: #292b2c; font-family: Arial; font-size: 14px; background-color: #ffffff;"><strong>Bx.Th&aacute;i B&igrave;nh</strong> &ndash; Đường 10 &ndash; Vĩnh Bảo &ndash; Cao tốc 5B &ndash;<strong> Bx.Gia L&acirc;m</strong></span></p>
 
 			</td>
 
