@@ -105,7 +105,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box; margin: 0px 0px 10px; font-size: 13px; text-align: justify;"><em style="color: rgb(41, 43, 44); font-family: arial; font-size: 13px; text-align: justify; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;">đường cao tốc từ Bx. Cầu R&agrave;o)</span></span></span></em></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px; font-size: 13px; text-align: justify;"><em style="color: rgb(41, 43, 44); font-family: arial; font-size: 13px; text-align: justify; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;">từ Bx. Cầu R&agrave;o)</span></span></span></em></p>
 
 			</td>
 
@@ -193,7 +193,7 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Gia L&acirc;m - Cầu R&agrave;o</span></strong></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Gia L&acirc;m</span></strong></td>
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
@@ -293,7 +293,7 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px; height: 84px; width: 397px;">
 
-			<p><span style="text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">&nbsp;Cầu&nbsp;Trạm&nbsp;Bạc, chợ K&ecirc;nh, n&uacute;t cao&nbsp;tốc&nbsp;An L&atilde;o.</span></strong></span></p>
+			<p><span style="text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">&nbsp;</span></strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">Cầu&nbsp;Trạm&nbsp;Bạc</span><strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">, chợ K&ecirc;nh, n&uacute;t cao&nbsp;tốc&nbsp;An L&atilde;o.</span></strong></span></p>
 
 			</td>
 
