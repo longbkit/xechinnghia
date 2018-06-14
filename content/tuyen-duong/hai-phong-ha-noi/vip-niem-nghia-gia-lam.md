@@ -72,7 +72,7 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Niệm Nghĩa</td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Niệm Nghĩa</strong></td>
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); font-weight: bolder;">Bx. Niệm Nghĩa</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">&nbsp;&ndash; Cầu R&agrave;o II &ndash; đường Phạm Văn Đồng &ndash; Đường cao tốc 5B &ndash;&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); font-weight: bolder;">Bx. Gia L&acirc;m</span></td>
 
@@ -84,7 +84,7 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-			<p style="font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box; text-align: right;">12&nbsp;chuyến/ng&agrave;y</p>
+			<p style="font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box; text-align: right;">13&nbsp;chuyến/ng&agrave;y</p>
 
 
 
@@ -160,7 +160,7 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Gia L&acirc;m -&nbsp; Niệm Nghĩa</td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Gia L&acirc;m&nbsp;</strong></td>
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
@@ -244,9 +244,9 @@ thumbnail: /img/driver.png
 
 
 
-<p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-left: 10px; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);"><img alt="" src="http://monroecountyda.com/newsite/wp-content/uploads/2018/03/arrow.png" style="width: 20px; height: 20px;" />&nbsp;</span></span><span style="font-size: 14px; text-align: justify; color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);">C&oacute; xe moto taxi Hải &Acirc;u đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Niệm Nghĩa v&agrave; đưa qu&yacute; kh&aacute;ch từ bến xe Niệm Nghĩa về tận nh&agrave;<br />
+<p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-left: 10px; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 33, 41); font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);"><img alt="" src="http://monroecountyda.com/newsite/wp-content/uploads/2018/03/arrow.png" style="width: 20px; height: 20px;" />&nbsp;</span></span><span style="font-size: 14px; text-align: justify; color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);">C&oacute; xe moto taxi Hải &Acirc;u đưa v&agrave; đ&oacute;n qu&yacute; kh&aacute;ch từ nh&agrave; ra bến xe Niệm Nghĩa tại một số khu vực ở nội th&agrave;nh Hải Ph&ograve;ng.<br />
 
-miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;ng.&nbsp;<img alt="" src="https://banner2.kisspng.com/20180325/jte/kisspng-telephone-call-mobile-phones-clip-art-call-us-cliparts-5ab7b44809abc3.8425880515219886800396.jpg" style="width: 40px; height: 27px;" /></span><span style="color: rgb(35, 31, 32); font-family: Arial; text-align: justify; background-color: rgb(255, 255, 255); font-size: 16px;"><span style="color: rgb(255, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-weight: 700;">: 02253. 548 548</span></span></p>
+Chi tiết xin vui l&ograve;ng li&ecirc;n hệ&nbsp;<img alt="" src="https://banner2.kisspng.com/20180325/jte/kisspng-telephone-call-mobile-phones-clip-art-call-us-cliparts-5ab7b44809abc3.8425880515219886800396.jpg" style="width: 40px; height: 27px;" /></span><span style="color: rgb(35, 31, 32); font-family: Arial; text-align: justify; background-color: rgb(255, 255, 255); font-size: 16px;"><span style="color: rgb(255, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-weight: 700;">02253. 548 548</span></span></p>
 
 
 
@@ -284,7 +284,7 @@ miễn ph&iacute; tại một số khu vực nội th&agrave;nh Hải Ph&ograve;
 
 
 
-<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /></a></strong><strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a></strong><span style="color:#0089cf;">/xekhachviphaiau/</span></div>
+<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /></a></strong><strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a><span style="color:#0089cf;">/xekhachviphaiau/</span></strong></div>
 
 
 
