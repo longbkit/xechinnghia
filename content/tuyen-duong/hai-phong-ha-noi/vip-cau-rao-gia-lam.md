@@ -184,12 +184,6 @@ thumbnail: /img/driver.png
 
 			<div>&nbsp;</div>
 
-			</td>
-
-		</tr>
-
-	</tbody>
-
 </table>
 
 </div>
