@@ -112,6 +112,16 @@ thumbnail: /img/driver.png
 
 		</tr>
 
+		<tr>
+
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>16 T&ocirc;n Đức Thắng - Sở Dầu</strong></td>
+
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">30 ph&uacute;t/ 1 chuyến</span></td>
+
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">06h00 - 18h00</td>
+
+		</tr>
+
 	</tbody>
 
 </table>
@@ -168,7 +178,7 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-			<p style="box-sizing: border-box;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ng&atilde; 5 Bạch Đằng</span></p>
+			<p style="box-sizing: border-box;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ng&atilde; 3&nbsp;Xi Măng</span></p>
 
 			</td>
 
@@ -345,6 +355,26 @@ thumbnail: /img/driver.png
 		<tr>
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Qu&aacute;n Toan</td>
+
+		</tr>
+
+		<tr>
+
+			<td colspan="1" rowspan="3" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>16 T&Ocirc;N ĐỨC THẮNG - SỞ DẦU</strong></td>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Ng&atilde; tư An Dương</td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Cầu Quay</td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Ng&atilde; 3 Xi Măng</td>
 
 		</tr>
 
