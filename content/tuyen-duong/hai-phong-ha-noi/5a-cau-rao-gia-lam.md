@@ -100,15 +100,19 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">Văn ph&ograve;ng gầm&nbsp;</span></span></em></span></span><em style="font-family: arial, helvetica, sans-serif; font-size: 14px; box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">cầu</span>&nbsp;Niệm<span style="box-sizing: border-box; font-weight: 700;">&nbsp;</span>số 706 Nguyễn&nbsp;</span><span style="box-sizing: border-box;">Văn Linh</span></em></p>
+			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">Văn ph&ograve;ng</span></span></em></span></span><em style="font-family: arial, helvetica, sans-serif; font-size: 14px; box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box; font-weight: 700;">&nbsp;</span>số 706 Nguyễn&nbsp;</span><span style="box-sizing: border-box;">Văn Linh&nbsp;</span></em><span style="color: rgb(41, 43, 44); font-family: arial; text-align: justify; background-color: rgb(255, 255, 255); font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">gầm&nbsp;</span></span></em></span></span><em style="color: rgb(41, 43, 44); text-align: justify; background-color: rgb(255, 255, 255); font-family: arial, helvetica, sans-serif; font-size: 14px; box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;">cầu</span>&nbsp;Niệm</span></em></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">&nbsp;để đ&oacute;n xe&nbsp;chạy đường</span></em></span></span>&nbsp;<span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">cao tốc&nbsp;</span></em></span></span><em style="font-family: arial, helvetica, sans-serif; font-size: 14px; box-sizing: border-box;"><span style="box-sizing: border-box;">từ Bx.Cầu R&agrave;o</span></em></p>
+			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">&nbsp;-&nbsp;</span></em></span></span><em style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="box-sizing: border-box;">c&aacute;ch bến Niệm Nghĩa khoảng&nbsp;</span><span style="box-sizing: border-box;">800m</span></em></p>
 
 
 
-			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">(c&aacute;ch bến Niệm Nghĩa khoảng&nbsp;</span><span style="box-sizing: border-box;">800m)</span></em></span></span></p>
+			<p style="box-sizing: border-box; margin: 0px 0px 10px; text-align: justify;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;"><i style="font-family: arial, helvetica, sans-serif; font-size: 14px;">để đ&oacute;n xe&nbsp;chạy đường</i><span style="font-size: 13px;">&nbsp;5 cũ</span></span></span><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">&nbsp;đi Hải Dương - Hưng Y&ecirc;n</span></em></span></span></p>
+
+
+
+			<p style="box-sizing: border-box; margin: 0px 0px 10px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box;">- H&agrave; Nội)</span></em></span></span></p>
 
 			</td>
 
@@ -141,6 +145,12 @@ thumbnail: /img/driver.png
 
 
 			<div style="box-sizing: border-box;">&nbsp;</div>
+
+			</td>
+
+		</tr>
+
+	</tbody>
 
 </table>
 
@@ -194,7 +204,7 @@ thumbnail: /img/driver.png
 
 		<tr style="box-sizing: border-box;">
 
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Gia L&acirc;m - Cầu R&agrave;o</span></strong></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Gia L&acirc;m&nbsp;</span></strong></td>
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
@@ -358,13 +368,9 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 170px;"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">H&agrave; Nội - Ng&atilde; 4 Phố Nối</span></th>
+			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 170px;"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">H&agrave; Nội - Ng&atilde; 4 Phố Nối</span></th>
 
-			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 170px;">
-
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(255, 0, 0); font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">35.000 đồng/1 v&eacute;/1 lượt</span></span></p>
-
-			</th>
+			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 170px;"><span style="color: rgb(255, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">35.000 đồng/1 v&eacute;/1 lượt</span></th>
 
 		</tr>
 
@@ -394,7 +400,7 @@ thumbnail: /img/driver.png
 
 <img alt="" src="http://www.freepngimg.com/download/phone/8-2-phone-picture.png" style="width: 30px; height: 30px;" /><strong>&nbsp;<span style="color:#FF0000;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">02253.717 717&nbsp;</span></span></span></strong><br />
 
-<img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 30px; height: 30px;" /><strong><span style="color: rgb(0, 137, 207); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(240, 250, 248);">/xekhachviphaiau/</span></strong></p>
+<img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 30px; height: 30px;" /><a href="https://www.facebook.com/xekhachviphaiau/"><strong><span style="color: rgb(0, 137, 207); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(240, 250, 248);">/xekhachviphaiau/</span></strong></a></p>
 
 </div>
 
