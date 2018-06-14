@@ -62,7 +62,7 @@ popularRoutes:
     link: /vip-thuong-ly-nuoc-ngam/
     to: BX Nước Ngầm
     type: VIP
-  - duration: 02 giờ 30 phút
+  - duration: 02 giờ 10 phút
     from: BX Thái Bình
     image: /img/smk1513916726.jpg
     link: vip-thai-binh-ha-noi/
