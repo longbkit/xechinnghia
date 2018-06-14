@@ -108,7 +108,7 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-			<p style="font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box; text-align: right;">22 chuyến/ng&agrave;y</p>
+			<p style="font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;">22 chuyến/ng&agrave;y</p>
 
 
 
@@ -172,23 +172,23 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box; text-align: right;">22 chuyến/ng&agrave;y</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;">22 chuyến/ng&agrave;y</p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">Li&ecirc;n tục</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;">Li&ecirc;n tục</p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">30 ph&uacute;t/chuyến</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;">30 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 5h40</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 5h40</span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 19h10</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 19h10</span></p>
 
 			</td>
 
@@ -198,7 +198,15 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="color: rgb(41, 43, 44); font-family: Arial; font-size: 14px; background-color: rgb(255, 255, 255);">VP An L&atilde;o</span></strong></td>
 
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(29, 33, 41); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; white-space: pre-wrap; background-color: rgb(255, 255, 255);"><strong>VP An L&atilde;o</strong> - Cao tốc An L&atilde;o - Lĩnh Nam - </span><strong style="color: rgb(29, 33, 41); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; white-space: pre-wrap;">Bx. Nước Ngầm</strong></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
+
+			<p><span style="color: rgb(29, 33, 41); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; white-space: pre-wrap; background-color: rgb(255, 255, 255);"><strong>VP An L&atilde;o</strong> - Cao tốc An L&atilde;o - Lĩnh Nam - </span></p>
+
+
+
+			<p><strong style="color: rgb(29, 33, 41); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; white-space: pre-wrap;">Bx. Nước Ngầm</strong></p>
+
+			</td>
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
@@ -232,23 +240,23 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box; text-align: right;">22 chuyến/ng&agrave;y</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;">22 chuyến/ng&agrave;y</p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">Li&ecirc;n tục</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;">Li&ecirc;n tục</p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;">30 ph&uacute;t/chuyến</p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;">30 ph&uacute;t/chuyến</p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 5h50</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến sớm nhất: 5h50</span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 19h20</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; background-color: rgb(255, 255, 255); box-sizing: border-box;"><span style="font-weight: bolder;">Chuyến muộn nhất: 19h20</span></p>
 
 			</td>
 
@@ -402,14 +410,6 @@ thumbnail: /img/driver.png
 
 </div>
 
-
-
-<div id="itemListPrimary" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; outline: 0px; line-height: 26px; max-width: 100%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
-
-<div class="f6 ph3 ph6-l center darkblue" style="box-sizing: border-box; padding-left: 8rem; padding-right: 8rem; margin-left: auto; margin-right: auto;">&nbsp;</div>
-
-</div>
-
 </div>
 
 
@@ -449,10 +449,6 @@ thumbnail: /img/driver.png
 
 
 <p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-left: 10px; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;"><span style="color: rgb(29, 33, 41); font-family: Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);"><img alt="" src="http://monroecountyda.com/newsite/wp-content/uploads/2018/03/arrow.png" style="width: 20px; height: 20px;" />Mua v&eacute; trước qua website:&nbsp;</span><span style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);"><a href="https://vexere.com/"><span style="color:#0089cf;"><span style="font-size:16px;"><strong>vexere.com</strong></span></span></a></span></p>
-
-
-
-<p style="color: rgb(35, 31, 32); font-size: 0.875rem; box-sizing: border-box; font-family: Arial; outline: none; margin-left: 10px; margin-bottom: 0px; padding: 0px; line-height: 26px; max-width: 100%; text-align: justify;">&nbsp;</p>
 
 
 
