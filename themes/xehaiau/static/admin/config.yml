@@ -53,17 +53,17 @@ collections:
         - {label: "Banner chính", name: "banner", widget: image}
         - {label: "Banner bên phải", name: "right_banners", widget: list, fields:[
             {label: "Hình ảnh", name: image, widget: image}]}
-        - name: "lien-he"
-          label: "Liên hệ"
-          file: "content/pages/lien-he.md"
-          fields:
-            - {label: "Tiêu đề", name: "title", widget: "string"}
-            - {label: "Thứ tự", name: "weight", widget: "string"}
-            - {label: "Link", name: "url", widget: "string"}
-            - {label: "Layout", name: "layout", widget: "string"}
-            - {label: "Địa chỉ", name: "address", widget: "string"}
-            - {label: "Số điện thoại", name: "phone", widget: "string"}
-            - {label: "Google map", name: "googleMap", widget: "string"}
+      - file: "content/pages/lien-he.md"
+        name: "lien-he"
+        label: "Liên hệ"
+        fields:
+          - {label: "Tiêu đề", name: "title", widget: "string"}
+          - {label: "Thứ tự", name: "weight", widget: "string"}
+          - {label: "Link", name: "url", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "string"}
+          - {label: "Địa chỉ", name: "address", widget: "string"}
+          - {label: "Số điện thoại", name: "phone", widget: "string"}
+          - {label: "Google map", name: "googleMap", widget: "string"}
   - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
     label: "Tin tức" # Used in the UI
     folder: "content/tin-tuc" # The path to the folder where the documents are stored
