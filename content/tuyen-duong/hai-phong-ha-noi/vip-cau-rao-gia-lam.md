@@ -218,7 +218,7 @@ thumbnail: /img/driver.png
 
 <div class="btnda1tv" style="font-size: 16px; box-sizing: border-box; cursor: pointer;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(0, 137, 207);"><img alt="" src="http://www.freepngimg.com/download/phone/8-2-phone-picture.png" style="width: 38px; height: 38px;" />&nbsp;</span><strong><span style="font-size:16px;"><span style="color: rgb(255, 0, 0);">02253. 717 717</span></span></strong></span></span></div>
 
-<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /></a></strong><strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a></strong><span style="color:#0089cf;">**/xekhachviphaiau/**</span></div>
+<div class="btnda1tv" style="box-sizing: border-box; cursor: pointer;"><strong><a href="https://www.facebook.com/xekhachviphaiau/"><img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 40px; height: 40px;" /></a></strong><strong><a href="https://www.facebook.com/xekhachviphaiau/"><span style="color:#0089cf;"><img alt="" src="https://prairiemagicdesign.com/power-of-facebook/facebook-vector-icon/" /></span></a></strong><span style="color:#0089cf;">/**xekhachviphaiau**/</span></div>
 
 <div>&nbsp;</div>
 
