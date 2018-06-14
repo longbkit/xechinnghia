@@ -150,3 +150,13 @@ collections:
       - {label: "Ngày đăng", name: "date", widget: "datetime"}
       - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
       - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "lien-he"
+    label: "Liên hệ"
+    file: "content/pages/lien-he.md"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Thứ tự", name: "weight", widget: "string"}
+      - {label: "Link", name: "url", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "string"}
+      - {label: "Địa chỉ", name: "address", widget: "string"}
+      - {label: "Số điện thoại", name: "phone", widget: "datetime"}
