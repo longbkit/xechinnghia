@@ -224,11 +224,7 @@ thumbnail: /img/driver.png
 
 			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box;"><span style="box-sizing: border-box; font-weight: 700;">Chuyến muộn nhất: 21h00</span></span></span></span></span></p>
 
-			</td>
-
-		</tr>
-
-	</tbody>
+	
 
 </table>
 
