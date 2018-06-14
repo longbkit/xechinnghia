@@ -70,15 +70,15 @@ thumbnail: /img/driver.png
 
 			<th style="text-align: center; border: 1px solid rgb(221, 221, 221); width: 90px;">
 
-			<p>BẾN XE</p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">BẾN XE</span></span></p>
 
 			</th>
 
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">LỘ TR&Igrave;NH</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">LỘ TR&Igrave;NH</span></span></th>
 
-			<th style="border: 1px solid rgb(221, 221, 221);">GIỜ XE CHẠY</th>
+			<th style="border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">GIỜ XE CHẠY</span></span></th>
 
-			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);">TẦN SUẤT</th>
+			<th style="text-align: center; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">TẦN SUẤT</span></span></th>
 
 		</tr>
 
@@ -88,15 +88,15 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"><strong>Bx. Cầu R&agrave;o</strong> - <strong>VP 692 Phạm Văn Đồng</strong> - </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">cao tốc An L&atilde;o </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"><strong>Bx. Cầu R&agrave;o</strong> - Đường Phạm Văn Đồng - <strong>VP 692 </strong>- </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">cao tốc An L&atilde;o </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span></p>
 
 
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">- </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. </strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Vĩnh Bảo</strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Qu&aacute;n Ch&aacute;y- Ng&atilde; 3 Đường Mới - Vũ Hạ - Cầu Vật - Ba Đợi ​</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">-</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> Cầu Nguyễn</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">&nbsp;-&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Đống Năm -</span><span style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Gia Lễ </span></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">- </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. </strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Vĩnh Bảo</strong><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Qu&aacute;n Ch&aacute;y- Ng&atilde; 3 Đường Mới - Vũ Hạ - Cầu Vật - Ba Đợi ​</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">-</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);"> Cầu Nguyễn</span><span style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);">&nbsp;-&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Đống Năm -<span style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> </span>Gia Lễ - Chợ đầu mối </span></p>
 
 
 
-			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">- Chợ đầu mối </span><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;"> - </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. Th&aacute;i B&igrave;nh - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Cầu Thẫm - </span><strong style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);"><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">Bx. Nam Định.</span></strong></p>
+			<p><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">- </span><strong style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Bx. Th&aacute;i B&igrave;nh - </strong><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Cầu Thẫm - </span><strong style="color: rgb(41, 43, 44); font-family: arial; background-color: rgb(255, 255, 255);"><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; white-space: pre-wrap;">Bx. Nam Định.</span></strong></p>
 
 			</td>
 
@@ -124,7 +124,11 @@ thumbnail: /img/driver.png
 
 			<td style="padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">Li&ecirc;n tục 40&nbsp;- 60 ph&uacute;t/chuyến</span></span></span></p>
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">Li&ecirc;n tục </span></span></span></p>
+
+
+
+			<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); background-color: rgb(255, 255, 255);">40&nbsp;- 60 ph&uacute;t/chuyến</span></span></span></p>
 
 
 
@@ -166,13 +170,13 @@ thumbnail: /img/driver.png
 
 			<th style="border-style: solid; border-color: rgb(221, 221, 221); text-align: center; width: 100px;">
 
-			<p>BẾN XE</p>
+			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">BẾN XE</span></span></p>
 
 			</th>
 
-			<th style="border-style: solid; border-color: rgb(221, 221, 221);">GIỜ XE CHẠY</th>
+			<th style="border-style: solid; border-color: rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">GIỜ XE CHẠY</span></span></th>
 
-			<th style="border-style: solid; border-color: rgb(221, 221, 221); text-align: center;">TẦN SUẤT</th>
+			<th style="border-style: solid; border-color: rgb(221, 221, 221); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">TẦN SUẤT</span></span></th>
 
 		</tr>
 
@@ -336,7 +340,7 @@ thumbnail: /img/driver.png
 
 <img alt="" src="http://www.freepngimg.com/download/phone/8-2-phone-picture.png" style="width: 30px; height: 30px;" /><strong>&nbsp;<span style="color:#FF0000;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">02253.717 717&nbsp;</span></span></span></strong><br />
 
-<img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 30px; height: 30px;" /><strong><span style="color: rgb(0, 137, 207); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(240, 250, 248);">/xekhachviphaiau/</span></strong></p>
+<img alt="" src="https://prairiemagicdesign.com/wp-content/uploads/2015/08/Facebook-Vector-Icon.png" style="width: 30px; height: 30px;" /><a href="https://www.facebook.com/xekhachviphaiau/"><strong><span style="color: rgb(0, 137, 207); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(240, 250, 248);">/xekhachviphaiau/</span></strong></a></p>
 
 </div>
 
