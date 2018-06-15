@@ -24,7 +24,7 @@ thumbnail: /img/hải-phòng.png
 
 Ngoài tắm biển, bạn có thể đi thăm quan rất nhiều các di tích lịch sử nổi tiếng ở nơi đây như: di tích bến tàu không số, Đền Bà Đế, biệt thự Vua Bảo Đại, sòng bài Casio, Hòn Dấu Resort,…
 
-![Hòn Dấu](/img/hòn-dấu-resort-2.jpg)
+![Hòn Dấu](/img/hòn-dấu.jpg)
 
 ![Hòn Dấu](/img/hòn-dấu.jpg)
 
