@@ -58,13 +58,9 @@ thumbnail: /img/hải-phòng.png
 
 
 
-![Bãi biển Tùng Thu](/img/bãi-tùng-thu.jpg)
+![Bãi biển Tùng Thu](/img/bãi-biển-tùng-thu.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 750px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển T&ugrave;ng Thu - b&atilde;i biển được quy hoạch theo ti&ecirc;u chuẩn quốc tế</span></span></p>
-
-![bãi tắm Tùng Thu](/img/bt-cong-bai-tam-tung-thu-22.jpg)
-
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 750px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Khu&ocirc;n vi&ecirc;n ph&iacute;a b&ecirc;n ngo&agrave;i B&atilde;i tắm T&ugrave;ng Thu</span></span></p>
 
 ![khu nghỉ dưỡng tại bãi biển Tùng Thu](/img/nghĩ-dưỡng-tại-bãi-biển-tùng-thu.jpg)
 
@@ -82,7 +78,7 @@ thumbnail: /img/hải-phòng.png
 
 Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên nét hoang sơ của núi và đá vôi, rừng cây xanh mát xung quanh, không khí trong lành và thư thái.
 
-![bãi biển Vạn Bội](/img/bãi-biển-vạn-bội.jpg)
+![bãi biển Vạn Bội](/img/bãi-tắm-vạn-bội.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 750px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển Vạn Bội l&agrave; sự kết hợp ho&agrave;n hảo của non nước m&acirc;y trời</span></span></p>
 
@@ -106,11 +102,11 @@ Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên 
 
 Vịnh Hạ Long với những bãi tắm tuyệt đẹp làn nước trong xanh, cảnh đẹp hoang sơ, không gian yên tĩnh như: Đảo Soi Sim, Đảo Ti-tốp,...
 
-![Đảo Soi Sim](/img/soi-sim.jpg)
+![Đảo Soi Sim](/img/đảo-soi-sim.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 750px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Đảo Soi Sim - ngập tr&agrave;n sắc xanh của thảm thực vật</span></font></p>
 
-![Đảo Ti-tốp](/img/ti-top.jpg)
+![Đảo Ti-tốp](/img/đảo-titop.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 750px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Đảo Ti-tốp&nbsp;nh&igrave;n từ tr&ecirc;n cao như một vầng trăng &ocirc;m lấy đảo</span></font></p>
 
