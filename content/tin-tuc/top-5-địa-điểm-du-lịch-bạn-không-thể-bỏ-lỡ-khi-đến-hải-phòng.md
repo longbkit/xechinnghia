@@ -92,6 +92,28 @@ Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên 
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font color="#111111"><span style="font-size: 14px;">Gh&eacute; thăm C&aacute;t B&agrave;, bạn c&ograve;n c&oacute; cơ hội thăm quan v&agrave; trải nghiệm Vườn Quốc gia C&aacute;t B&agrave; với 741 loại thực vật kh&aacute;c nhau c&ugrave;ng 60 loại động vật nằm trong danh S&aacute;ch đỏ Việt Nam. Ngo&agrave;i ra, ph&aacute;o đ&agrave;i thần c&ocirc;ng tr&ecirc;n cao điểm 177 cũng l&agrave; địa điểm th&uacute; vị bởi in dấu những chiến t&iacute;ch lịch sử h&agrave;o h&ugrave;ng của d&acirc;n tộc,&nbsp;</span></font><span style="font-size:14px;"><span style="text-align: justify; background-color: rgb(255, 255, 255);">những c&ocirc;ng tr&igrave;nh ph&aacute;o đ&agrave;i vẫn c&ograve;n gần như nguy&ecirc;n vẹn d&ugrave; đ&atilde; trải qua chiến tranh v&agrave; thời gian.</span></span></span></p>
 
+<p><font face="arial, helvetica, sans-serif"><b>VỊNH HẠ LONG</b></font></p>
+
+
+
+<p><font color="#111111" face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Vịnh Hạ Long l&agrave; địa điểm du lịch kh&ocirc;ng c&ograve;n xa lạ đối với kh&aacute;ch du lịch cả trong v&agrave; ngo&agrave;i khi nơi đ&acirc;y được UNESCO nhiều lần c&ocirc;ng nhận l&agrave; di sản thi&ecirc;n nhi&ecirc;n văn h&oacute;a thế giới. Vinh Hạ Long nổi bật với hệ thống đảo đ&aacute; v&agrave; hang động tự nhi&ecirc;n tuyệt đẹp c&ugrave;ng h&agrave;ng ngh&igrave;n loại động thực vật phong ph&uacute;, đa dạng.&nbsp;</span></font></p>
+
+
+
 ![Vịnh Hạ Long](/img/vịnh-hạ-long.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Vịnh Hạ Long - một thế giới về sinh động vừa huyền b&iacute;</span></span></p>
+
+Vịnh Hạ Long với những bãi tắm tuyệt đẹp làn nước trong xanh, cảnh đẹp hoang sơ, không gian yên tĩnh như: Đảo Soi Sim, Đảo Ti-tốp,...
+
+![Đảo Soi Sim](/img/soi-sim.jpg)
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Đảo Soi Sim - ngập tr&agrave;n sắc xanh của thảm thực vật</span></font></p>
+
+![Đảo Ti-tốp](/img/ti-top.jpg)
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Đảo Ti-tốp&nbsp;nh&igrave;n từ tr&ecirc;n cao như một vầng trăng &ocirc;m lấy đảo</span></font></p>
+
+<p><font color="#111111" face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Ngo&agrave;i ra, đến Vịnh Hạ Long, bạn c&ograve;n c&oacute; cơ hội trải nghiệm ch&egrave;o thuyền Kayak thư gi&atilde;n ngắm cảnh, luồn l&aacute;ch v&agrave;o c&aacute;c hang động, chạm tay v&agrave;o từng nhũ đ&aacute;,.....hoặc c&oacute; thể lựa chọn ch&egrave;o thuyền nan v&agrave; lắng nghe những c&acirc;u chuyện kể l&yacute; th&uacute;, k&igrave; b&iacute; về Vịnh từ ch&iacute;nh người d&acirc;n nơi đ&acirc;y, lắng nghe những l&agrave;n điệu h&ograve; ngọt ng&agrave;o, s&acirc;u lắng.&nbsp; Những chiếc t</span></font><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="text-align: justify; background-color: rgb(255, 255, 255);">huyền nan nhỏ b&eacute;, mang d&aacute;ng dấp cổ xưa của ngư d&acirc;n vạn ch&agrave;i sẽ đưa du kh&aacute;ch len lỏi, kh&aacute;m ph&aacute; những hang động, vũng &aacute;ng trong l&ograve;ng n&uacute;i tuyệt đẹp,</span></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Với một v&agrave;i gợi &yacute; tr&ecirc;n đ&acirc;y, mong rằng c&aacute;c bạn sẽ c&oacute; những lựa chọn du lịch biển hợp l&yacute; v&agrave; một m&ugrave;a h&egrave; thật tuyệt vời c&ugrave;ng gia đ&igrave;nh v&agrave; bạn b&egrave;&nbsp;nh&eacute;!</span></span></p>
