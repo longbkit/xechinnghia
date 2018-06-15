@@ -13,10 +13,11 @@ thumbnail: /img/hải-phòng.png
 ---
 <p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">M&ugrave;a h&egrave; l&agrave; khoảng thời gian du lịch v&agrave; nghỉ dưỡng l&yacute; tưởng trong năm, nhất l&agrave; c&aacute;c dự định đi biển, đắm m&igrave;nh v&agrave;o l&agrave;n nước trong xanh, thả d&aacute;ng tr&ecirc;n những bờ c&aacute;t trải d&agrave;i v&agrave; lưu giữ v&ocirc; v&agrave;n khoảnh khắc thật đẹp c&ugrave;ng gia đ&igrave;nh - bạn b&egrave;. Nếu bạn ngại đi xa v&agrave; sợ tốn k&eacute;m, xe kh&aacute;ch Hải &Acirc;u sẽ gợi &yacute; cho c&aacute;c bạn một v&agrave;i địa điểm gần ngay th&agrave;nh phố Hải Ph&ograve;ng, đảm bảo bạn sẽ th&iacute;ch m&ecirc;, nhanh ch&oacute;ng&nbsp;x&aacute;ch balo l&ecirc;n v&agrave; đi ngay th&ocirc;i!</span></span></p>
 
+
+
 <p><strong><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">ĐỒ SƠN</span></span></strong></p>
 
-\*\*
-\*\*
+
 
 ![Bãi biển Đồ Sơn](/img/đồ-sơn.jpg)
 
