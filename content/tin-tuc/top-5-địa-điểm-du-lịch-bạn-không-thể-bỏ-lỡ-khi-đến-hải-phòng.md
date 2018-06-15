@@ -73,7 +73,7 @@ Cát Bà - khu du lịch sinh thái bậc nhất tại Hải Phòng với với 
 
 Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên nét hoang sơ của núi và đá vôi, rừng cây xanh mát xung quanh, không khí trong lành và thư thái.
 
-![bãi biển Vạn Bội](/img/bãi-tắm-vạn-bội.jpg)
+![bãi biển Vạn Bội](/img/bãi-biển-vạn-bội.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 750px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển Vạn Bội l&agrave; sự kết hợp ho&agrave;n hảo của non nước m&acirc;y trời</span></span></p>
 
