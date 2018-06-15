@@ -1,7 +1,7 @@
 ---
 title: Xe khách Hải Âu
 banners:
-  - description: >
+  - description: >-
       <p class="dn db-l t0 l0 w-80 w-30-l w-6-l tc tl-l vxr-blue v-mid bg-blue
       o-90 ba br2 pa3 pointer">&nbsp;</p>
 
@@ -19,19 +19,11 @@ banners:
       style="font-size:16px;"><strong><span style="color:#0089cf;"><span
       style="font-family:arial,helvetica,sans-serif;"><span class="db w4 bg-cta
       black pa2 br2 mt3 tc o-100">Xe kh&aacute;ch Hải
-      &Acirc;u</span></span></span></strong></span></p>
-
-
-      <p class="dn db-l t0 l0 w-80 w-30-l w-6-l tc tl-l vxr-blue v-mid bg-blue
-      o-90 ba br2 pa3 pointer" style="text-align: center;"><strong><span
+      &Acirc;u</span></span></span></strong></span><strong><span
       style="color:#0089cf;"><span style="font-size:14px;"><span
       style="font-family:arial,helvetica,sans-serif;"><span class="db w4 bg-cta
       black pa2 br2 mt3 tc o-100">An to&agrave;n - Chuy&ecirc;n nghiệp - Văn
-      Minh</span></span></span></span></strong></p>
-
-
-      <p class="dn db-l t0 l0 w-80 w-30-l w-6-l tc tl-l vxr-blue v-mid bg-blue
-      o-90 ba br2 pa3 pointer" style="text-align: center;"><strong><span
+      Minh</span></span></span></span></strong><strong><span
       style="color:#0089cf;"><span style="font-size:14px;"><span
       style="font-family:arial,helvetica,sans-serif;"><span class="db w4 bg-cta
       black pa2 br2 mt3 tc o-100">Xem
