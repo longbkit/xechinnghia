@@ -22,7 +22,7 @@ thumbnail: /img/hải-phòng.png
 
 ![Bãi biển Đồ Sơn](/img/đồ-sơn.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Mỗi năm, Đồ Sơn thu h&uacute;t đ&ocirc;ng đảo du kh&aacute;ch đến tắm biển</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Mỗi năm, Đồ Sơn thu h&uacute;t đ&ocirc;ng đảo du kh&aacute;ch đến tắm biển</span></span></p>
 
 Ngoài tắm biển, bạn có thể đi thăm quan rất nhiều các di tích lịch sử nổi tiếng ở nơi đây như: di tích bến tàu không số, Đền Bà Đế, biệt thự Vua Bảo Đại, sòng bài Casio, Hòn Dấu Resort,…
 
@@ -30,15 +30,15 @@ Ngoài tắm biển, bạn có thể đi thăm quan rất nhiều các di tích 
 
 ![Hòn Dấu](/img/hòn-dấu.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">H&ograve;n Dấu Resort - đạt ti&ecirc;u chuẩn 4 sao với kh&ocirc;ng gian kết hợp h&agrave;i h&ograve;a giữa thảm thực vật trong xanh, m&aacute;t mẻ - địa điểm l&yacute; tưởng để nghĩ dưỡng trở về với thi&ecirc;n nhi&ecirc;n biển.</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">H&ograve;n Dấu Resort - đạt ti&ecirc;u chuẩn 4 sao với kh&ocirc;ng gian kết hợp h&agrave;i h&ograve;a giữa thảm thực vật trong xanh, m&aacute;t mẻ - địa điểm l&yacute; tưởng để nghĩ dưỡng trở về với thi&ecirc;n nhi&ecirc;n biển.</span></span></p>
 
 ![di tích bến tàu không số](/img/tàu-không-số.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Di t&iacute;ch bến t&agrave;u kh&ocirc;ng số</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Di t&iacute;ch bến t&agrave;u kh&ocirc;ng số</span></span></p>
 
 ![Casio Đồ Sơn](/img/casio-đồ-sơn.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">S&ograve;ng b&agrave;i Casio Đồ Sơn l&agrave; nơi du kh&aacute;ch kh&ocirc;ng thể bỏ qua khi thăm quan&nbsp;biệt thự&nbsp;Bảo Đại</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">S&ograve;ng b&agrave;i Casio Đồ Sơn l&agrave; nơi du kh&aacute;ch kh&ocirc;ng thể bỏ qua khi thăm quan&nbsp;biệt thự&nbsp;Bảo Đại</span></span></p>
 
 <p><font face="arial, helvetica, sans-serif"><b>C&Aacute;T B&Agrave;</b></font></p>
 
@@ -52,7 +52,7 @@ Ngoài tắm biển, bạn có thể đi thăm quan rất nhiều các di tích 
 
 ![Bãi Cát Cò](/img/bãi-cát-cò.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t C&ograve; (1,2,3) nổi tiếng nhất C&aacute;t B&agrave; n&ecirc;n c&oacute; dịch vụ về du lịch ph&aacute;t triển mạnh, nhiều resort đẹp ng&acirc;y ngất v&agrave; đa dạng về cả dịch vụ ẩm thực,...</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t C&ograve; (1,2,3) nổi tiếng nhất C&aacute;t B&agrave; n&ecirc;n c&oacute; dịch vụ về du lịch ph&aacute;t triển mạnh, nhiều resort đẹp ng&acirc;y ngất v&agrave; đa dạng về cả dịch vụ ẩm thực,...</span></span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(17, 17, 17); font-size: 14px;">D&ugrave; mới mở cửa hồi giữa năm 2010 nhưng b&atilde;i biển T&ugrave;ng Thu đ&atilde; thu h&uacute;t lượng lớn kh&aacute;ch du lịch tới nghĩ dưỡng bởi cảnh quan thi&ecirc;n nhi&ecirc;n đẹp ấn tượng v&agrave; chất lượng dịch vụ đa dạng, phong ph&uacute;.&nbsp;</span><span style="color: rgb(34, 34, 34); font-size: 14px; text-align: justify;">Đ&acirc;y l&agrave;&nbsp;b&atilde;i tắm&nbsp;đầu ti&ecirc;n tại&nbsp;đảo C&aacute;t B&agrave;&nbsp;được định hướng thiết kế&nbsp;quy hoạch v&agrave;&nbsp;x&acirc;y dựng đồng bộ&nbsp;theo ti&ecirc;u chuẩn quốc tế&nbsp;với&nbsp;nhiều dịch vụ&nbsp;vui chơi giải tr&iacute; đa dạng</span></span></p>
 
@@ -60,38 +60,38 @@ Ngoài tắm biển, bạn có thể đi thăm quan rất nhiều các di tích 
 
 ![Bãi biển Tùng Thu](/img/bãi-tùng-thu.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển T&ugrave;ng Thu - b&atilde;i biển được quy hoạch theo ti&ecirc;u chuẩn quốc tế</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển T&ugrave;ng Thu - b&atilde;i biển được quy hoạch theo ti&ecirc;u chuẩn quốc tế</span></span></p>
 
 ![bãi tắm Tùng Thu](/img/bt-cong-bai-tam-tung-thu-22.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Khu&ocirc;n vi&ecirc;n ph&iacute;a b&ecirc;n ngo&agrave;i B&atilde;i tắm T&ugrave;ng Thu</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Khu&ocirc;n vi&ecirc;n ph&iacute;a b&ecirc;n ngo&agrave;i B&atilde;i tắm T&ugrave;ng Thu</span></span></p>
 
 ![khu nghỉ dưỡng tại bãi biển Tùng Thu](/img/nghĩ-dưỡng-tại-bãi-biển-tùng-thu.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nghỉ dưỡng tại C&aacute;t B&agrave; Amatina ngay s&aacute;t b&atilde;i biển T&ugrave;ng Thu</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nghỉ dưỡng tại C&aacute;t B&agrave; Amatina ngay s&aacute;t b&atilde;i biển T&ugrave;ng Thu</span></span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font color="#111111"><span style="font-size: 14px;">Bạn cũng đừng bỏ lỡ B&atilde;i C&aacute;t Dứa, đảo Khỉ - b&atilde;i biển cao cấp tại C&aacute;t B&agrave; bởi&nbsp;</span></font><span style="color: rgb(17, 17, 17); font-size: 14px;">nơi đ&acirc;y được v&iacute; von như nơi để tận hưởng cảm gi&aacute;c &ldquo;tắm biển thật sự&rdquo; với nước trong vắt, sạch tuyệt đối v&agrave; nằm giữa vịnh Lan Hạ xinh đẹp ng&uacute;t ng&agrave;n, đảm bảo sẽ mang lại cho bạn những trải nghiệm tuyệt vời nhất trong k&igrave; nghỉ dưỡng tại biển đảo.</span></span></p>
 
 ![Bãi Cát Dứa](/img/bãi-cát-dứa-đảo-khỉ.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa - đảo Khỉ c&aacute;ch C&aacute;t B&agrave; chừng 2km</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa - đảo Khỉ c&aacute;ch C&aacute;t B&agrave; chừng 2km</span></span></p>
 
 ![đảo Cát Dứa 2](/img/đảo-cát-dứa-2.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa 2, nhỏ nhưng v&ocirc; c&ugrave;ng đẹp với khu Resort đảo Khỉ, d&agrave;nh cho những du kh&aacute;ch &quot;chịu chi&quot; v&agrave; muốn trải nghiệm một k&igrave; nghỉ dưỡng cao cấp.</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa 2, nhỏ nhưng v&ocirc; c&ugrave;ng đẹp với khu Resort đảo Khỉ, d&agrave;nh cho những du kh&aacute;ch &quot;chịu chi&quot; v&agrave; muốn trải nghiệm một k&igrave; nghỉ dưỡng cao cấp.</span></span></p>
 
 Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên nét hoang sơ của núi và đá vôi, rừng cây xanh mát xung quanh, không khí trong lành và thư thái.
 
 ![bãi biển Vạn Bội](/img/bãi-biển-vạn-bội.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển Vạn Bội l&agrave; sự kết hợp ho&agrave;n hảo của non nước m&acirc;y trời</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển Vạn Bội l&agrave; sự kết hợp ho&agrave;n hảo của non nước m&acirc;y trời</span></span></p>
 
 ![bãi biển Vạn Bội](/img/bãi-biển-vạn-bội-2.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">L&agrave;n nước trong xanh nh&igrave;n được cả đ&aacute;y c&aacute;t v&agrave; từng rặng san h&ocirc;</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">L&agrave;n nước trong xanh nh&igrave;n được cả đ&aacute;y c&aacute;t v&agrave; từng rặng san h&ocirc;</span></span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif;"><font color="#111111"><span style="font-size: 14px;">Gh&eacute; thăm C&aacute;t B&agrave;, bạn c&ograve;n c&oacute; cơ hội thăm quan v&agrave; trải nghiệm Vườn Quốc gia C&aacute;t B&agrave; với 741 loại thực vật kh&aacute;c nhau c&ugrave;ng 60 loại động vật nằm trong danh S&aacute;ch đỏ Việt Nam. Ngo&agrave;i ra, ph&aacute;o đ&agrave;i thần c&ocirc;ng tr&ecirc;n cao điểm 177 cũng l&agrave; địa điểm th&uacute; vị bởi in dấu những chiến t&iacute;ch lịch sử h&agrave;o h&ugrave;ng của d&acirc;n tộc,&nbsp;</span></font><span style="font-size:14px;"><span style="text-align: justify; background-color: rgb(255, 255, 255);">những c&ocirc;ng tr&igrave;nh ph&aacute;o đ&agrave;i vẫn c&ograve;n gần như nguy&ecirc;n vẹn d&ugrave; đ&atilde; trải qua chiến tranh v&agrave; thời gian.</span></span></span></p>
 
 ![Vịnh Hạ Long](/img/vịnh-hạ-long.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(230, 230, 230); width: 700px; background: none 0px 0px repeat scroll rgb(230, 230, 230); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Vịnh Hạ Long - một thế giới về sinh động vừa huyền b&iacute;</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(240, 240, 240); width: 800px; background: none 0px 0px repeat scroll rgb(240, 240, 240); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Vịnh Hạ Long - một thế giới về sinh động vừa huyền b&iacute;</span></span></p>
