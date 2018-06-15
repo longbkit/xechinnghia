@@ -3,7 +3,7 @@ title: Xe khách Hải Âu
 banners:
   - description: >-
       <p class="dn db-l t0 l0 w-80 w-30-l w-6-l tc tl-l vxr-blue mt4 mt5-l
-      bg-blue o-90 ba br2 pa3 pointer"><span style="font-size:14px;"><span
+      bg-blue o-90 ba br2 pa3 pointer"><span style="font-size:10px;"><span
       style="font-family:arial,helvetica,sans-serif;"><a class="link color-cta"
       href="/vip-hai-au-hai-phong-ha-noi/"><span class="f3 f3-l db ">Xe
       kh&aacute;ch Hải &Acirc;u</span><span class="f3 f3-l  db mt2 tc tj-l">An
