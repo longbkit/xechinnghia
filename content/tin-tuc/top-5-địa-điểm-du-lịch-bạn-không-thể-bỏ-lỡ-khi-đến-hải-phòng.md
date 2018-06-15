@@ -44,7 +44,7 @@ Ngoài tắm biển, bạn có thể đi thăm quan rất nhiều các di tích 
 
 ![Cát Bà](/img/cát-bà.jpg)
 
-<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(121, 130, 145); white-space: pre;">C&aacute;t B&agrave; - khu du lịch sinh th&aacute;i bậc nhất tại Hải Ph&ograve;ng với với h&agrave;ng trăm n&uacute;i đảo lớn nhỏ nổi n&ecirc;n giữa biển cả m&ecirc;nh m&ocirc;ng. Nơi đ&acirc;y tập trung nhiều b&atilde;i biển đẹp, nước trong xanh v&agrave; được nối với nhau bằng chiếc cầu gỗ nhỏ men theo sườn n&uacute;i, v&ocirc; c&ugrave;ng thơ mộng. </span></span></span></p>
+Cát Bà - khu du lịch sinh thái bậc nhất tại Hải Phòng với với hàng trăm núi đảo lớn nhỏ nổi nên giữa biển cả mênh mông. Nơi đây tập trung nhiều bãi biển đẹp, nước trong xanh và được nối với nhau bằng chiếc cầu gỗ nhỏ men theo sườn núi, vô cùng thơ mộng. 
 
 ![Bãi Cát Cò](/img/bãi-cát-cò.jpg)
 
