@@ -17,7 +17,7 @@ thumbnail: /img/hải-phòng.png
 
 ![Bãi biển Đồ Sơn](/img/đồ-sơn.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;Đồ Sơn thu h&uacute;t đ&ocirc;ng đảo du kh&aacute;ch đến tắm biển v&agrave;o dịp h&egrave;. Ảnh: kinhtedothi.vn</span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;Đồ Sơn thu h&uacute;t đ&ocirc;ng đảo du kh&aacute;ch đến tắm biển v&agrave;o dịp h&egrave;. <em>Ảnh: kinhtedothi.vn</em></span></span></p>
 
 </body>
 
@@ -63,11 +63,11 @@ Bạn cũng đừng bỏ lỡ Bãi Cát Dứa, đảo Khỉ - bãi biển cao c�
 
 ![Bãi Cát Dứa](/img/bãi-cát-dứa-đảo-khỉ.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa - đảo Khỉ c&aacute;ch C&aacute;t B&agrave; chừng 2km</span></span></p><em>Ảnh: Mytour</em></span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa - đảo Khỉ c&aacute;ch C&aacute;t B&agrave; chừng 2km</span></span>. <em>Ảnh: Mytour</em></span></span></p>
 
 ![đảo Cát Dứa 2](/img/đảo-cát-dứa-2.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa 2, nhỏ nhưng v&ocirc; c&ugrave;ng đẹp với khu Resort đảo Khỉ, d&agrave;nh cho những du kh&aacute;ch &quot;chịu chi&quot; v&agrave; muốn trải nghiệm một k&igrave; nghỉ dưỡng cao cấp.</span></span></p><em>Ảnh: Mytour</em></span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t Dứa 2, nhỏ nhưng v&ocirc; c&ugrave;ng đẹp với khu Resort đảo Khỉ, d&agrave;nh cho những du kh&aacute;ch &quot;chịu chi&quot; v&agrave; muốn trải nghiệm một k&igrave; nghỉ dưỡng cao cấp.</span></span> <em>Ảnh: Mytour</em></span></span></p>
 
 Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên nét hoang sơ của núi và đá vôi, rừng cây xanh mát xung quanh, không khí trong lành và thư thái.
 
