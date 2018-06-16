@@ -13,11 +13,7 @@ thumbnail: /img/hải-phòng.png
 ---
 <p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">M&ugrave;a h&egrave; l&agrave; khoảng thời gian du lịch v&agrave; nghỉ dưỡng l&yacute; tưởng trong năm, nhất l&agrave; c&aacute;c dự định đi biển, đắm m&igrave;nh v&agrave;o l&agrave;n nước trong xanh, thả d&aacute;ng tr&ecirc;n những bờ c&aacute;t trải d&agrave;i v&agrave; lưu giữ v&ocirc; v&agrave;n khoảnh khắc thật đẹp c&ugrave;ng gia đ&igrave;nh - bạn b&egrave;. Nếu bạn ngại đi xa v&agrave; sợ tốn k&eacute;m, xe kh&aacute;ch Hải &Acirc;u sẽ gợi &yacute; cho c&aacute;c bạn một v&agrave;i địa điểm gần ngay th&agrave;nh phố Hải Ph&ograve;ng, đảm bảo bạn sẽ th&iacute;ch m&ecirc;, nhanh ch&oacute;ng&nbsp;x&aacute;ch balo l&ecirc;n v&agrave; đi ngay th&ocirc;i!</span></span></p>
 
-
-
 <p><strong><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">ĐỒ SƠN</span></span></strong></p>
-
-
 
 ![Bãi biển Đồ Sơn](/img/đồ-sơn.jpg)
 
@@ -91,7 +87,7 @@ Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên 
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Vịnh Hạ Long - một thế giới về sinh động vừa huyền b&iacute;</span></span></p>
 
-Vịnh Hạ Long với những bãi tắm tuyệt đẹp làn nước trong xanh, cảnh đẹp hoang sơ, không gian yên tĩnh như: Đảo Soi Sim, Đảo Ti-tốp,...
+Vịnh Hạ Long với những bãi tắm tuyệt đẹp làn nước trong xanh, cảnh đẹp hoang sơ, không gian yên tĩnh như: Đảo Soi Sim, Đảo Ti-tốp,.....
 
 ![Đảo Soi Sim](/img/đảo-soi-sim.jpg)
 
