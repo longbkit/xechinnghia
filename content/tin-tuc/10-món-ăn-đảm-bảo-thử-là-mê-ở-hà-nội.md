@@ -1,6 +1,6 @@
 ---
 layout: tin-tuc
-title: 10 MÓN ĂN ĐẢM BẢO THỬ - LÀ - MÊ Ở HÀ NỘI
+title: NHỮNG MÓN ĂN ĐẢM BẢO THỬ - LÀ - MÊ Ở HÀ NỘI
 description: >-
   Ẩm thực Hà Nội luôn tốn nhiều giấy mực cho giới chuyên môn cả trong và ngoài
   nước bởi sự đa dạng và tinh tế, ẩn chứa cả tinh hoa văn hóa của người dân nơi
