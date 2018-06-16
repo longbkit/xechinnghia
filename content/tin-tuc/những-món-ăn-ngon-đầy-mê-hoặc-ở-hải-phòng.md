@@ -31,8 +31,6 @@ Bánh đa cua là món ăn phổ biến ở Hải Phòng, bạn có thể bắt 
 
 Một bát bánh đa cua đầy ắp nhân và nước dùng ngọt thơm đến miếng cuối cùng giá chỉ dao động trong khoảng 15k - 30k thôi bạn nhé!
 
-
-
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;"><b>LẨU&nbsp;CUA ĐỒNG</b></span></span></p>
 
 ![Lẩu cua đồng](/img/lẩu-cua-đồng.jpg)
@@ -49,8 +47,6 @@ Vẫn cách chế biến nước dùng hầm từ xương và cua đậm đà, �
 
 Bật mí: Bạn có thể tìm đến quán Lẩu cua đồng ở dọc đường Văn Cao với mức giá cũng hợp lý, chỉ tầm 120-150.000 đồng/ người là no căng bụng rồi.
 
-
-
 <p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;"><b>B&Aacute;NH M&Igrave; CAY</b></span></span></p>
 
 Bánh mì cay hay còn được gọi là bánh mì que bởi mỗi bánh mì chỉ bằng tầm 2 ngón tay, nguyên liệu khá đơn giản nhưng có sức hút với bất cứ ai dù ăn chỉ một lần.
@@ -66,8 +62,6 @@ Bí mật của chiếc bánh mì cay nằm ở phần pate và tương ớt ri�
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Mỗi chiếc b&aacute;nh m&igrave; ngập pate k&egrave;m ch&uacute;t x&iacute;u tương ớt ph&iacute;a tr&ecirc;n l&agrave; khiến bạn &quot;m&ecirc; mẩn&quot; ho&agrave;i kh&ocirc;ng th&ocirc;i. <em>Ảnh: thuviengiadinh</em></span></span></p>
 
 Giá cả của bánh mì cay lại cực kì bình dân với 2000 đồng/chiếc nhỏ, nếu 10.000 đồng với loại to. Những quán bán bánh mì cay nổi tiếng: Chợ Cột Đèn (ngã tư Tô HIệu – Chùa Hàng), bánh mì cay Bà Già (57 Lê Lợi),...
-
-
 
 <p><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;"><b>ỐC</b></span></font></p>
 
@@ -91,8 +85,6 @@ Gợi ý cho các bạn một quán ốc cực kì đông khách ở Hải Phòn
 
 Chả đi đâu mà có thể ăn được món bánh đúc Tàu ngon như Hải Phòng. Chỉ 10.000 đồng/bát đầy ắp nhân thịt chiên cháy cạnh, tôm, bánh đúc, rau củ hòa quyện cùng nước mắm giấm ớt chua ngọt cực kì đặc biệt. Món ăn vừa lạ vừa ngon miệng trở thành một thức quà chiều của nhiều người dân Hải Phòng.
 
-
-
 ![Bánh đúc tàu](/img/bánh-đúc-tàu.jpg)
 
 ![Bánh đúc tàu](/img/bánh-đúc-tàu-2.jpg)
@@ -100,3 +92,27 @@ Chả đi đâu mà có thể ăn được món bánh đúc Tàu ngon như Hải
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&aacute;nh đ&uacute;c t&agrave;u đầy ắp nh&acirc;n gi&aacute; chỉ 10k?&nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Ảnh: kenh14</em></span></span></p>
 
 Địa chỉ ngon nhất và đông nhất cho bánh đúc Tàu ở Hải Phòng chính là vỉa hè đường Cát Dài (đoạn 186 Cát Dài). Nếu muốn thưởng thức món ăn này các bạn hãy đến sớm tầm 3h-4h nhé, muộn hơn sẽ không còn chỗ ngồi đâu.
+
+
+
+<p><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;"><b>NEM CUA BỂ</b></span></font></p>
+
+![Nem cua bể](/img/nem-cua-bể.jpg)
+
+![](/img/nem-cua-bể-hp.jpg)
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nem cua bể Hải Ph&ograve;ng.&nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Ảnh: giadinh.net</em></span></span></p>
+
+Những món ăn từ cua là một trong những điểm ấn tượng của ẩm thực Hải Phòng. Nếu bạn đã thưởng thức bánh đa cua và lẩu cua đồng rồi thì chắc chắn không nên bỏ qua nem cua bể bởi sức hấp dẫn của món ăn này ngay từ cách trang trí đến cả công thức chế biến. Vỏ nem dày dặn được chiên vàng rộm, giòn tan trong miệng; nhân truyền thống với: giá, miến nhưng chủ yếu là hải sản như tôm, cua được gói thành khối vuông vức, đẹp mắt. Nem cua bể ăn kèm chút bún, rau sống và chấm nước mắm giấm sẽ khiến bạn ăn hoài không thôi.
+
+Địa chỉ: Bạn có thể ăn nem cua bể ở quán Bánh đa cua Bà cụ (đầu đường Cầu Đất), các quán bán bún chả, chợ Cố Đạo,…
+
+Giá cả: 40.000 – 70.000 đồng/chiếc.
+
+<p><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;"><b>GI&Aacute; BỂ X&Agrave;O</b></span></font></p>
+
+![Giá bể xào](/img/giá-bể-xào.jpg)
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Gi&aacute; bể x&agrave;o chỉ 10k - 20k/b&aacute;t.&nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Ảnh: YesVietnam</em></span></span></p>
+
+Tên lạ và cả hương vị cũng lạ nhưng rất dễ gây “nghiện”. Phần ruột bùi bùi, chân giá lại giòn giòn, dai dai ăn rất vui miệng, phần sốt được chế biến đặc biệt đậm đà cùng ít húng gai rắc lên thơm thơm. Bạn có thể tìm kiếm giá bể xào ở hầu hết các khu chợ ở Hải Phòng với mức giá từ 10.000 – 20.000 đồng/bát.
