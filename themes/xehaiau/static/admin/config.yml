@@ -84,7 +84,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
       - {label: "Danh mục", name: "category", widget: "select", 
           options: [
-            - {label: "Tuyển dụng", value: "tuyen-dung"}
+              {label: "Tuyển dụng", value: "tuyen-dung"},
               {label: "Khai trương tuyến mới", value: "khai-truong-tuyen-moi"}]}
       - {label: "Tiêu đề", name: "title", widget: "string"}
       - {label: "Mô tả", name: "description", widget: "string"}
@@ -126,7 +126,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
       - {label: "Danh mục", name: "category", widget: "select", 
           options: [
-            - {label: "Học đường", value: "hoc-duong"},
+              {label: "Học đường", value: "hoc-duong"},
               {label: "Mẹo vặt và cuộc sống", value: "meo-vat-cuoc-song"},
               {label: "Du lịch - Ẩm thực ", value: "du-lich-am-thuc"}]}
       - {label: "Tiêu đề", name: "title", widget: "string"}
