@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<main class="dark-gray">
+	{{ partial "carousel_other_page" . }}
+	<section class="ph3 ph6-l">
+		<div class=" ">
+			<p class="color tj">{{ .Content }}</p>
+		</div>
+    </section>
+	<section class="ph3 ph6-l center darkblue">
+		<div class="">
+        {{ range where .Site.Pages ".Params.category" .File.BaseFileName }}
+		<div class="w-100 mt2 pb3 bt b--blue">
+			<a href="{{ .URL }}" class="db link dim tc flex flex-wrap">
+				<div class="w-25">
+					<div class="aspect-ratio aspect-ratio--6x4 mt3">
+						<img src="{{ .Params.Thumbnail }}" alt="{{ .Title }}" class="aspect-ratio--object cover db black-10"/>
+					</div>
+				</div>
+				<div class="w-75 pl3">
+					<p class="f6 tl ml0 color b">{{ .Title }}</p>
+					<div class="f7 tl vxr-gray">{{ dateFormat "03/01/02" .Date }}</div>
+					<p class="f6 color tj">{{ .Description }}</p>
+				</div>
+			</a>
+		</div>
+		{{ end }}
+
+
+	</section>
+</main>
+
+{{ end }}

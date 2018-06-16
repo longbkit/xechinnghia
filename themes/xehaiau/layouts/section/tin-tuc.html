@@ -9,7 +9,7 @@
 	</section>
 	<section class="ph3 ph6-l center darkblue">
 		<div class="">
-		{{ range $index, $element := (.Paginate .Data.Pages.ByPublishDate.Reverse).Pages }}
+		{{ range $index, $element := (.Paginate ( ( where .Site.RegularPages "Section" "tin-tuc") ).ByPublishDate.Reverse).Pages }}
 		<div class="w-100 mt2 pb3 bt b--blue">
 			<a href="{{ .URL }}" class="db link dim tc flex flex-wrap">
 				<div class="w-25">
@@ -24,7 +24,6 @@
 				</div>
 			</a>
 		</div>
-
 		{{ end }}
 
 		{{ partial "pagination" . }}

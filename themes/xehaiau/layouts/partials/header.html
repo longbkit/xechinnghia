@@ -56,13 +56,36 @@
       </li>
       <li class="dib hover-bg-dark-blue">
         <a class="link b f6 dib mr3 white ph2 dim dtc v-mid" href="/tin-tuc/">Tin tức</a>
+        <div class="sub-menu dn absolute top-100 z-max vw-100 left-0 ph6 bg-white ba b--light-gray pv3">
+          {{ $sections := (.Site.GetPage "section" "tin-tuc").Sections }}
+          {{ range $sections }}
+          <ul class="list bg-white tl ph1 pt2 fl w-25">
+           <li class="b pa2 white bb b--white-50 bg-blue">
+            <a class="link white" href="{{.URL}}">{{ .Title }}</a>
+          </li>
+          {{ $sectionURL := .URL }}
+          {{ if .Params.customCategories  }}
+          {{ range .Params.customCategories }}
+          <li class=" bb b--white-50">
+            <a class="link f6 dib mr3 tl pa2 color dim ba bl-0 bt-0 br-0 b--dashed b--light-blue w-100" href="{{ $sectionURL }}{{.value}}">{{ .name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+          </ul>
+          {{ end }}
+        </div>
       </li>
       <li class="dib hover-bg-dark-blue">
-        <a class="link b f6 dib mr3 white ph2 dim dtc v-mid" href="/FAQs/">FAQs</a>
+        <a class="link b f6 dib mr3 white ph2 dim dtc v-mid" href="/faqs/">FAQs</a>
       </li>
       <li class="dib hover-bg-dark-blue">
         <a class="link b f6 dib white dim ph2 dtc v-mid" href="/lien-he/">Liên hệ</a>
       </li>
+      <!-- <li class="dib hover-bg-dark-blue v-mid">
+        <a href="https://www.facebook.com/xekhachviphaiau/">
+          <i class="fab fa-facebook "></i>
+          </a>
+      </li> -->
     </ul>
   </nav>
   <input type="checkbox" id="btnControl"/>

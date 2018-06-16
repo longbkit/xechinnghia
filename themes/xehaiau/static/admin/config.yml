@@ -64,13 +64,71 @@ collections:
           - {label: "Địa chỉ", name: "address", widget: "string"}
           - {label: "Số điện thoại", name: "phone", widget: "string"}
           - {label: "Google map", name: "googleMap", widget: "string"}
-  - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
-    label: "Tin tức" # Used in the UI
-    folder: "content/tin-tuc" # The path to the folder where the documents are stored
+      - file: "content/pages/FAQs.md"
+        name: "faqs"
+        label: "FAQs"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
+          - {label: "Danh mục", name: "category", widget: "string"}
+          - {label: "Tiêu đề", name: "title", widget: "string"}
+          - {label: "Mô tả", name: "description", widget: "string"}
+          - {label: "Ngày đăng", name: "date", widget: "datetime"}
+          - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
+          - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "tin-cong-ty" # Used in routes, e.g., /admin/collections/blog
+    label: "Tin công ty" # Used in the UI
+    folder: "content/tin-tuc/tin-cong-ty" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
+      - {label: "Danh mục", name: "category", widget: "select", 
+          options: [
+            - {label: "Tuyển dụng", value: "tuyen-dung"}
+              {label: "Khai trương tuyến mới", value: "khai-truong-tuyen-moi"}]}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "tin-trong-nganh" # Used in routes, e.g., /admin/collections/blog
+    label: "Tin trong ngành" # Used in the UI
+    folder: "content/tin-tuc/tin-trong-nganh" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
+      - {label: "Danh mục", name: "category", widget: "string"}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "chuong-trinh-khuyen-mai" # Used in routes, e.g., /admin/collections/blog
+    label: "Chương trình khuyến mãi" # Used in the UI
+    folder: "content/tin-tuc/chuong-trinh-khuyen-mai" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
+      - {label: "Danh mục", name: "category", widget: "string"}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Mô tả", name: "description", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+  - name: "tin-giai-tri" # Used in routes, e.g., /admin/collections/blog
+    label: "Giải trí" # Used in the UI
+    folder: "content/tin-tuc/giai-tri" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "tin-tuc"}
+      - {label: "Danh mục", name: "category", widget: "select", 
+          options: [
+            - {label: "Học đường", value: "hoc-duong"},
+              {label: "Mẹo vặt và cuộc sống", value: "meo-vat-cuoc-song"},
+              {label: "Du lịch - Ẩm thực ", value: "du-lich-am-thuc"}]}
       - {label: "Tiêu đề", name: "title", widget: "string"}
       - {label: "Mô tả", name: "description", widget: "string"}
       - {label: "Ngày đăng", name: "date", widget: "datetime"}

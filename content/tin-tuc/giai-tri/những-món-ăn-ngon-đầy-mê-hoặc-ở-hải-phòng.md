@@ -8,6 +8,7 @@ description: >-
   cua đồng, ốc, bánh mì cay,… Bạn đã nếm thử chưa?
 date: '2018-06-16T09:22:16+07:00'
 thumbnail: /img/ảnh-bìa.jpg
+category: du-lich-am-thuc
 ---
 Những món ăn dân dã nhưng độc đáo tại thành phố Hải Phòng luôn gây "thương nhớ" đối với giới trẻ mê ẩm thực khắp mọi miền và cả những du khách thập phương mỗi lần ghé thăm nơi đây. Bánh đa cua, lẩu cua đồng, bánh mì que, ốc đủ loại,......chỉ nhắc đến tên đã thèm! Cũng xe khách Hải Âu khám phá thiên đường ẩm thực tại Hải Phòng nhé!
 

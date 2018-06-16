@@ -9,6 +9,7 @@ description: >-
   ngon, hương vị đặc sắc ít nơi sánh được.
 date: '2018-06-16T14:36:48+07:00'
 thumbnail: /img/ảnh-bìa-hn.jpg
+category: du-lich-am-thuc
 ---
 Nét tinh tế trong ẩm thực của Hà Nội là niềm tự hào của người dân Hà thành và làm nên "danh tiếng" của ẩm thực Việt Nam trên đấu trường quốc tế. Những món ăn không quá cầu kì kiểu cách, không sử dụng nguyên liệu cao cấp hay bày bán trong những nhà hàng sang trọng bậc nhất vẫn khiến bất cứ chuyên gia ẩm thực nào trên thế giới "xiêu lòng". Đó mới chính là "thương hiệu" của món ăn Việt. Cùng xe khách Hải Âu dạo quanh một vòng Hà Nội và thưởng thức vô vàn những món ăn hấp dẫn nhé!
 
