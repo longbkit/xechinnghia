@@ -47,7 +47,7 @@ Cát Bà - khu du lịch sinh thái bậc nhất tại Hải Phòng với với 
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i C&aacute;t C&ograve; (1,2,3) nổi tiếng nhất C&aacute;t B&agrave; n&ecirc;n c&oacute; dịch vụ về du lịch ph&aacute;t triển mạnh, nhiều resort đẹp ng&acirc;y ngất v&agrave; đa dạng về cả dịch vụ ẩm thực,...</span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(17, 17, 17); font-size: 14px;">D&ugrave; mới mở cửa hồi giữa năm 2010 nhưng b&atilde;i biển T&ugrave;ng Thu đ&atilde; thu h&uacute;t lượng lớn kh&aacute;ch du lịch tới nghĩ dưỡng bởi cảnh quan thi&ecirc;n nhi&ecirc;n đẹp ấn tượng v&agrave; chất lượng dịch vụ đa dạng, phong ph&uacute;.&nbsp;</span><span style="color: rgb(34, 34, 34); font-size: 14px; text-align: justify;">Đ&acirc;y l&agrave;&nbsp;b&atilde;i tắm&nbsp;đầu ti&ecirc;n tại&nbsp;đảo C&aacute;t B&agrave;&nbsp;được định hướng thiết kế&nbsp;quy hoạch v&agrave;&nbsp;x&acirc;y dựng đồng bộ&nbsp;theo ti&ecirc;u chuẩn quốc tế&nbsp;với&nbsp;nhiều dịch vụ&nbsp;vui chơi giải tr&iacute; đa dạng</span></span></p>
+Dù mới mở cửa hồi giữa năm 2010 nhưng bãi biển Tùng Thu đã thu hút lượng lớn khách du lịch tới nghĩ dưỡng bởi cảnh quan thiên nhiên đẹp ấn tượng và chất lượng dịch vụ đa dạng, phong phú. Đây là bãi tắm đầu tiên tại đảo Cát Bà được định hướng thiết kế quy hoạch và xây dựng đồng bộ theo tiêu chuẩn quốc tế với nhiều dịch vụ vui chơi giải trí đa dạng.
 
 ![Bãi biển Tùng Thu](/img/bãi-biển-tùng-thu.jpg)
 
@@ -57,7 +57,7 @@ Cát Bà - khu du lịch sinh thái bậc nhất tại Hải Phòng với với 
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nghỉ dưỡng tại C&aacute;t B&agrave; Amatina ngay s&aacute;t b&atilde;i biển T&ugrave;ng Thu</span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif;"><font color="#111111"><span style="font-size: 14px;">Bạn cũng đừng bỏ lỡ B&atilde;i C&aacute;t Dứa, đảo Khỉ - b&atilde;i biển cao cấp tại C&aacute;t B&agrave; bởi&nbsp;</span></font><span style="color: rgb(17, 17, 17); font-size: 14px;">nơi đ&acirc;y được v&iacute; von như nơi để tận hưởng cảm gi&aacute;c &ldquo;tắm biển thật sự&rdquo; với nước trong vắt, sạch tuyệt đối v&agrave; nằm giữa vịnh Lan Hạ xinh đẹp ng&uacute;t ng&agrave;n, đảm bảo sẽ mang lại cho bạn những trải nghiệm tuyệt vời nhất trong k&igrave; nghỉ dưỡng tại biển đảo.</span></span></p>
+Bạn cũng đừng bỏ lỡ Bãi Cát Dứa, đảo Khỉ - bãi biển cao cấp tại Cát Bà bởi nơi đây được ví von như nơi để tận hưởng cảm giác “tắm biển thật sự” với nước trong vắt, sạch tuyệt đối và nằm giữa vịnh Lan Hạ xinh đẹp ngút ngàn, đảm bảo sẽ mang lại cho bạn những trải nghiệm tuyệt vời nhất trong kì nghỉ dưỡng tại biển đảo.
 
 ![Bãi Cát Dứa](/img/bãi-cát-dứa-đảo-khỉ.jpg)
 
