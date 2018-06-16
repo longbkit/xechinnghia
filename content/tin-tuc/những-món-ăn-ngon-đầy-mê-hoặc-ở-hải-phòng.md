@@ -116,3 +116,15 @@ Giá cả: 40.000 – 70.000 đồng/chiếc.
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Gi&aacute; bể x&agrave;o chỉ 10k - 20k/b&aacute;t.&nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Ảnh: YesVietnam</em></span></span></p>
 
 Tên lạ và cả hương vị cũng lạ nhưng rất dễ gây “nghiện”. Phần ruột bùi bùi, chân giá lại giòn giòn, dai dai ăn rất vui miệng, phần sốt được chế biến đặc biệt đậm đà cùng ít húng gai rắc lên thơm thơm. Bạn có thể tìm kiếm giá bể xào ở hầu hết các khu chợ ở Hải Phòng với mức giá từ 10.000 – 20.000 đồng/bát.
+
+
+
+<p><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;"><b>B&Aacute;NH B&Egrave;O</b></span></font></p>
+
+![Bánh bèo](/img/bánh-bèo.jpg)
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&aacute;nh b&egrave;o 30k/suất với đầy đủ chả thịt, gi&ograve; lụa v&agrave; 2 cặp b&aacute;nh đầy ắp.&nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Ảnh: Foody</em></span></span></p>
+
+Bánh bèo Hải Phòng rất nhiều nhân: thịt nạc xay xào với mộc nhĩ, hành phi băm nhỏ cùng lớp vỏ bột mềm mại. Phần nước chấm từ nước ninh xương, pha thêm mắm và ít gia vị như: hạt tiêu, rau răm, ớt bột,…Bạn có thể gọi thêm cả chả hoặc giò ăn kèm cùng bánh bèo cũng rất ngon.
+
+Thực đơn đầy đủ phía trên đã khiến các bạn "rung động"," mê mẩn" thành phố hoa phượng đỏ chưa? hãy lên kế hoạch và hội bạn thân "oanh tạc" cả Hải Phòng thôi nào!
