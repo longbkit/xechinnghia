@@ -35,6 +35,8 @@ Một bát bánh đa cua đầy ắp nhân và nước dùng ngọt thơm đến
 
 ![Lẩu cua đồng](/img/lẩu-cua-đồng.jpg)
 
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Ảnh: JamJa</em></span></span></p>
+
 Lẩu cua đồng cũng là một trong những món ăn cực kì nổi tiếng tại thành phố cảng, xếp sau bánh đa cua. Lẩu cua đồng ở đâu cũng có nhưng chỉ khi nếm thử hương vị ở Hải Phòng bạn mới thấy sự khác biệt, đặc sắc không lẫn ở đâu được.
 
 Vẫn cách chế biến nước dùng hầm từ xương và cua đậm đà, ăm ắp nhân khiến bất cứ ai chỉ cần nhìn ảnh thôi đã thấy “nao lòng”. Một nồi lẩu lớn đi kèm với đồ nhúng: thịt bò, chả cá, đậu phụ, lòng non, giò sống, tôm, ngao, mực,….cùng vài quả trứng vịt lộn đã đập sẵn vào nước dùng. Vậy thì làm sao mà nước dùng không ngọt, không thơm, không đậm vị?
@@ -67,15 +69,13 @@ Giá cả của bánh mì cay lại cực kì bình dân với 2000 đồng/chi�
 
 Không ít người từ Hà Nội xuống Hải Phòng hay từ các tỉnh thành khác ghé qua chỉ để thưởng thức cho đã đời các món ốc. Bởi ốc ở Hải Phòng đa dạng và giá rất sinh viên.
 
-![Ốc Hải Phòng](/img/ốc.jpg)
+![Ốc Hải Phòng](/img/ốc-hp.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Bạn đ&atilde; &quot;hoa mắt&quot; v&igrave; c&aacute;c m&oacute;n ốc Hải&nbsp; Ph&ograve;ng chưa?&nbsp;<em>Ảnh: thuviengiadinh</em></span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Bạn đ&atilde; &quot;hoa mắt&quot; v&igrave; c&aacute;c m&oacute;n ốc Hải&nbsp; Ph&ograve;ng chưa?&nbsp;<em>Ảnh: Foody</em></span></span></p>
 
 ![Ốc](/img/ốc-2.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Đa dạng từ c&aacute;c loại ốc th&ocirc;ng thường,ốc m&iacute;t đến c&aacute;c m&oacute;n cao cấp hơn như: đỏ m&ocirc;i, c&ugrave; kỳ, m&oacute;ng tay,...</span></span><br />
-
-<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;<em>Ảnh: thuviengiadinh</em></span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Đa dạng từ c&aacute;c loại ốc th&ocirc;ng thường,ốc m&iacute;t đến c&aacute;c m&oacute;n cao cấp hơn như: đỏ m&ocirc;i, c&ugrave; kỳ, m&oacute;ng tay,...</span></span><span style="font-family:arial,helvetica,sans-serif;">&nbsp;<span style="font-size:14px;"><em>Ảnh: kenh14</em></span></span></p>
 
 Không chỉ đa dạng các loại ốc mà còn đa dạng trong cách chế biến, phù hợp với khẩu vị của mọi người. Đi một nhóm càng đông người, bạn sẽ có cơ hội ăn nhiều các món ốc khác nhau và chỉ cần bỏ ra khoảng hơn một trăm nghìn là no bụng.
 
@@ -99,7 +99,7 @@ Chả đi đâu mà có thể ăn được món bánh đúc Tàu ngon như Hải
 
 ![Nem cua bể](/img/nem-cua-bể.jpg)
 
-![](/img/nem-cua-bể-hp.jpg)
+![Nem cua bể](/img/nem-cua-bể.jpeg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: justify;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nem cua bể Hải Ph&ograve;ng.&nbsp;</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><em>Ảnh: giadinh.net</em></span></span></p>
 
