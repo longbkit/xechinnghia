@@ -10,7 +10,6 @@
 	<section class="ph3 ph6-l center darkblue">
 		<div class="">
 		{{ range $index, $element := (.Paginate .Data.Pages.ByPublishDate.Reverse).Pages }}
-		{{ if eq $query["cat"] .Params.Category }}
 		<div class="w-100 mt2 pb3 bt b--blue">
 			<a href="{{ .URL }}" class="db link dim tc flex flex-wrap">
 				<div class="w-25">
@@ -25,7 +24,6 @@
 				</div>
 			</a>
 		</div>
-		{{ end }}
 		{{ end }}
 
 		{{ partial "pagination" . }}
