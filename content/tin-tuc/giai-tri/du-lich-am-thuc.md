@@ -1,5 +1,5 @@
 ---
-layout: tin-tuc
+layout: tin-tuc-con
 title: DU LỊCH - ẨM THỰC
 description: >-
   Cảnh đẹp và ẩm thực là hai yếu tố tạo nên sức hút riêng biệt của mỗi quốc gia
@@ -7,4 +7,3 @@ description: >-
 date: '2018-06-18T09:15:49+07:00'
 thumbnail: /img/ẩm-thực-việt.jpg
 ---
-123
