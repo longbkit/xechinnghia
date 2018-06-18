@@ -16,4 +16,4 @@ Vi vu Hà Nội là ý tưởng không tồi chút nào cho một nhóm bạn y�
 
 Vườn quốc gia Ba Vì, Hà Nội chỉ cách trung tâm thành phố khoảng 60km. Nơi đây là một quần thể các khu du lịch, nghỉ dưỡng, giải trí và khám phá. Sau một tuần học tuần và làm việc căng thẳng, các bạn hãy đến đây để tận hưởng khí hậu trong lành,mát mẻ của núi rừng hùng vĩ, hệ sinh thái đa dạng.
 
-![]()
+![null]()
