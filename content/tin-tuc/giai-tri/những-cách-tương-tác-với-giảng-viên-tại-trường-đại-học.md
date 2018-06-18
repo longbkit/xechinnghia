@@ -24,7 +24,8 @@ Liệu việc "tương tác" với giảng viên tại Đại học có khó kh�
 
 Giới thiệu bản thân không nên chỉ đưa ra cái tên của mình, bạn nên chuẩn bị một vài câu nói về sở thích, tính cách, nét đặc trưng, cá tính của bản thân để thu hút mọi người. Ngoài ra, bạn có thể tiếp cận giảng viên để đưa ra một vài câu hỏi, quan điểm, ý kiến,...để dành nhiều thời gian trò chuyện, kết nối với giảng viên và họ sẽ ấn tượng với bạn hơn.
 
-**2. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Tham gia đầy đủ c&aacute;c tiết học</strong></span></span></p>**
+**2. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Tham gia đầy đủ c&aacute;c tiết học</strong></span></span></p>
+**
 
 Khác với trung học, lên Đại học không bắt buộc bạn phải tham gia đầy đủ em các tiết học và có thầy cô kiểm tra sát sao bài vở. Tuy nhiên, để đạt kết quả tốt bạn nên đến lớp thường xuyên và tuyệt đối không trốn tiết, tự giác và chủ động trong học tập là cách tốt nhất để bạn luôn hiểu bài và nắm chắc kiến thức. Đồng thời, sự có mặt đầy đủ của bạn cũng là điểm cộng để thầy cô luôn quan tâm, giúp đỡ và ưu ái bạn trên lớp.
 
@@ -44,7 +45,8 @@ Trả lời câu hỏi của giảng viên hay đưa ra câu hỏi, ý kiến c�
 
 Bạn cũng nên chú ý, không nên hỏi những câu hỏi đã có nội dung cụ thể trên giáo trình hoặc những vấn đề riêng tư, cá nhân để tránh lãng phí thời gian giảng dạy.
 
-**4. <strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">T&igrave;m c&aacute;ch tương t&aacute;c với giảng vi&ecirc;n ngo&agrave;i giờ l&ecirc;n lớp</span></span></strong></p>**
+**4. <strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">T&igrave;m c&aacute;ch tương t&aacute;c với giảng vi&ecirc;n ngo&agrave;i giờ l&ecirc;n lớp</span></span></strong></p>
+**
 
 Nếu gặp khó khăn trong bài học trên lớp, bạn có thể liên lạc với giáo viên ngoài giờ để nhận sự hỗ trợ. Thời đại công nghệ và mạng xã hội ngày nay không quá khó để kết nối với mọi người, ngoài việc gặp trực tiếp, bạn có thể gọi điện, nhắn tin trao đổi để cảm thấy thoải mái. 
 
@@ -56,4 +58,20 @@ Nếu gặp khó khăn trong bài học trên lớp, bạn có thể liên lạc
 
 **5.** <span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;"><b>Lễ ph&eacute;p với giảng vi&ecirc;n</b></span></span></p>
 
-![]()
+![Tôn trọng giảng viên](/img/57.jpg)
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Sinh vi&ecirc;n phải biết t&ocirc;n trọng giảng vi&ecirc;n. <em>Ảnh:</em></span></span>http:<em><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"> pomor.spbu.ru</span></span></em></p>
+
+Chào hỏi là việc thể hiện ý thức của cá nhân mỗi người. Nhưng điều này giúp bạn kết nối gần hơn với giảng viên và mọi người quang quanh. Đừng ngại ngần nói lời xin chào khi gặp họ ngoài giờ lên lớp hay tình cờ gặp gỡ ngoài đường, quán xá,..Đôi khi chỉ là một vài lời hỏi thăm cũng khiến mối quan hệ của bạn trở nên tốt đẹp và tạo ấn tượng tốt đối với thầy cô. Văn hóa giao tiếp đôi khi chỉ là những cử chỉ, hành động rất đơn giản nhưng có giá trị rất lớn trong cuộc sống thường ngày.
+
+<p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Đừng ngại ngần n&oacute;i lời cảm ơn</span></span></strong></p>
+
+Lời cảm ơn như một lời tri ân đến người thầy cô của mình, cách nói đơn giản nhưng sẽ khiến bất cứ ai nghe cũng cảm thấy được trân trọng và hạnh phúc. Sau khi kết thúc học phần, đừng ngại ngần gặp gỡ giảng viên để bày tỏ rằng bạn thích và đánh giá cao việc học tập từ họ. Bạn có thể nói trực tiếp hoặc gửi email ngắn để thể hiện sự biết sơn của bạn. Việc làm nhỏ này sẽ khiến giảng viên không bao giờ quên bạn.
+
+![Lời cảm ơn](/img/thanks-teachers.jpg)
+
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Lời cảm ơn l&agrave; điều đơn giản v&agrave; c&oacute; sức ảnh hưởng nhất đối với mỗi ch&uacute;ng ta. <em>Ảnh:&nbsp;<a class="o5rIVb irc_hol i3724 irc_lth" data-noload="" data-ved="2ahUKEwiP6bC-r9zbAhXGEqYKHe_RA7IQjB16BAgBEAQ" href="https://backpackbeginnings.org/blog_teacher_appreciation2017/" jsaction="mousedown:irc.rl;keydown:irc.rlk" rel="noopener" style="text-decoration-line: none; color: rgb(125, 125, 125); cursor: pointer; font-family: arial, sans-serif; font-size: 13px; background-color: rgb(34, 34, 34);" tabindex="0" target="_blank"><span style="color:#000000;"><span class="irc_ho" dir="ltr" style="unicode-bidi: isolate; margin-right: -2px; padding-right: 2px;"><span style="background-color:#FFFFFF;">Backpack Beginnings</span></span></span></a></em></span></span></p>
+
+Những câu nói, việc làm đơn giản luôn có ý nghĩa rất lớn đối với thầy cô nên đừng ngại ngần mà không bày tỏ những tình cảm với họ một cách chân thành, bạn sẽ tạo được ấn tượng sâu đậm trong lòng họ đấy.
+
+Đừng ngại ngần thể hiện bản thân và chia sẻ tình cảm với mọi người xung quanh, đặc biệt là thầy cô và bạn bè. Bạn sẽ nhận được rất nhiều giá trị tích cực và ý nghĩa từ những điều giản dị nhất!
