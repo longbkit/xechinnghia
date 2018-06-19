@@ -34,8 +34,6 @@ thumbnail: /img/driver.png
 
 	<tbody>
 
-![Moto Taxi](/img/moto taxi.jpg)
-
 		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
 			<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">
