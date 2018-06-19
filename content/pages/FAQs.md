@@ -1,6 +1,8 @@
 ---
 title: FAQs
-description: FAQs
+description: >-
+  Tổng hợp nội dung những câu hỏi khách hàng thường xuyên thắc mắc trên fanpage
+  XE KHÁCH HẢI ÂU.
 date: 2018-03-16T04:47:10.000Z
 thumbnail: /img/driver.png
 ---
