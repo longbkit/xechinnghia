@@ -20,21 +20,17 @@ thumbnail: /img/driver.png
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(0, 137, 207); width: 800px; background: none 0px 0px repeat scroll rgb(240, 250, 248);"><span style="color: rgb(51, 51, 51); font-size: 14px; text-align: justify; font-family: arial, helvetica, sans-serif;"><span style="font-weight: 700;"><font color="#ff0000">Moto Taxi Hải &Acirc;u</font></span><span style="color: rgb(0, 137, 207); font-weight: 700;">&nbsp;</span></span><span style="font-size: 14px; text-align: justify; color: rgb(0, 137, 207); font-family: Arial; font-weight: 700;">l&agrave; dịch vụ đưa đ&oacute;n tận nh&agrave; miễn ph&iacute; của Xe kh&aacute;ch Hải &Acirc;u&nbsp;tại một số điểm quy định trong khu vực nội th&agrave;nh Hải Ph&ograve;ng, phục vụ kh&aacute;ch h&agrave;ng sử dụng dịch vụ cao tốc VIP Hải &Acirc;u.</span></p>
 
-![Moto Taxi](/img/image(7).png)
-
 </div>
 
 </div>
 
+</body>
 
+</html>
 
-<p>&nbsp;</p>
-
-
+![Moto taxi](/img/image(7).png)
 
 <table style="box-sizing: border-box; color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236); font-family: arial; text-align: center; width: 800px;">
-
-
 
 	<tbody>
 
@@ -103,8 +99,6 @@ thumbnail: /img/driver.png
 	</tbody>
 
 </table>
-
-</div>
 
 
 
