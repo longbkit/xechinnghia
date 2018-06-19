@@ -32,9 +32,9 @@ thumbnail: /img/driver.png
 
 <table style="box-sizing: border-box; color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236); font-family: arial; text-align: center; width: 800px;">
 
-![Moto Taxi](/img/image(7).png)
-
 	<tbody>
+
+![Moto Taxi](/img/moto taxi.jpg)
 
 		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
