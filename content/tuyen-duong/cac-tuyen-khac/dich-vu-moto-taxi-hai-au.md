@@ -28,7 +28,7 @@ thumbnail: /img/driver.png
 
 </html>
 
-![Moto taxi](/img/image(7).png)
+![Moto taxi](/img/moto-taxi-1-.jpg)
 
 <table style="box-sizing: border-box; color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236); font-family: arial; text-align: center; width: 800px;">
 
