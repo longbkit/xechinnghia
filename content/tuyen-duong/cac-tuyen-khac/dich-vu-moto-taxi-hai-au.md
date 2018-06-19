@@ -26,17 +26,13 @@ thumbnail: /img/driver.png
 
 
 
-<p>Image</p>
+<p>&nbsp;</p>
 
 
-
-<p style="box-sizing: border-box; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); text-align: center;">&nbsp;</p>
-
-
-
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
 <table style="box-sizing: border-box; color: rgb(41, 43, 44); border: 4px solid rgb(236, 236, 236); font-family: arial; text-align: center; width: 800px;">
+
+![Moto Taxi](/img/image(7).png)
 
 	<tbody>
 
