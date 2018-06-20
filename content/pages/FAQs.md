@@ -34,7 +34,7 @@ thumbnail: /img/driver.png
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Số điện thoại của tổng đ&agrave;i chăm s&oacute;c kh&aacute;ch h&agrave;ng?</td>
 
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px; text-align: right;"><strong><span style="color:#FF0000;">0225. 3 717 717</span></strong></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="color:#FF0000;">0225. 3 717 717</span></strong></td>
 
 		</tr>
 
