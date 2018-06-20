@@ -12,9 +12,6 @@ Tai nạn hay những rủi ro khi tham gia giao thông là điều khó tránh 
 
 <p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn h&atilde;ng xe uy t&iacute;n, phương tiện chất lượng</span></span></strong></p>
 
-**
-**
-
 ![Chon hãng xe uy tín](/img/bus_main.png)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn lựa h&atilde;ng xe uy t&iacute;n v&agrave; phương tiện xe chất lượng l&agrave; yếu tố h&agrave;ng đầu trong việc đảm bảo an to&agrave;n cho c&aacute;c h&agrave;nh kh&aacute;ch tr&ecirc;n xe. <em>Ảnh: </em></span></span><em><a class="o5rIVb irc_hol i3724 irc_lth" data-noload="" data-ved="2ahUKEwjYwq_isOHbAhVH_GEKHaoRDpgQjB16BAgBEAQ" href="https://www.lacharterbuscompany.com/long-beach-charter-bus" jsaction="mousedown:irc.rl;keydown:irc.rlk" rel="noopener" style="text-decoration-line: none; color: rgb(125, 125, 125); cursor: pointer; font-family: arial, sans-serif; font-size: 13px; background-color: rgb(34, 34, 34);" tabindex="0" target="_blank"><span style="color:#000000;"><span class="irc_ho" dir="ltr" style="unicode-bidi: isolate; margin-right: -2px; padding-right: 2px;"><span style="background-color:#FFFFFF;">Los Angeles Charter Bus Company</span></span></span></a></em></p>
@@ -23,10 +20,7 @@ Chất lượng quyết định không nhỏ tới sự thành công của các 
 
 Bởi vậy, lựa chọn một chiếc xe chất lượng để di chuyển, hành khách sẽ sẽ giữ được tinh thần thoải mái và tỉnh táo để tiếp tục công việc sau hành trình.
 
-** <p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn vị tr&iacute; ngồi</span></span></strong></p>**
-
-**
-**
+<p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn vị tr&iacute; ngồi</span></span></strong></p>
 
 ![Chọn vị trí ngồi](/img/chỗ-ngồi-trên-xe.jpg)
 
@@ -38,8 +32,6 @@ Phần giữa xe là nơi an toàn nhất khi đi xe khách vì đây là vị t
 
 <p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Lu&ocirc;n thắt d&acirc;y an to&agrave;n</span></span></strong></p>
 
-
-
 ![Thát dây an toàn](/img/thắt-dây-an-toàn.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Việc đầu ti&ecirc;n sau khi ổn định vị tr&iacute; ngồi l&agrave; thắt d&acirc;y an to&agrave;n. <span style="color:#000000;"><em><span style="background-color:#FFFFFF;">Ảnh: </span></em></span></span></span><em><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a class="o5rIVb irc_hol i3724 irc_lth" data-noload="" data-ved="2ahUKEwj5qIjU2OHbAhWRd94KHT6YCIkQjB16BAgBEAQ" href="http://www.kurer-sreda.ru/2016/08/05/245891-treugolnikami-i-busterami-poka-razresheno-pristegivat-detej-v-berdske" jsaction="mousedown:irc.rl;keydown:irc.rlk" rel="noopener" style="text-decoration-line: none; color: rgb(125, 125, 125); cursor: pointer; font-family: arial, sans-serif; font-size: 13px; background-color: rgb(34, 34, 34);" tabindex="0" target="_blank"><span style="color:#000000;"><span class="irc_ho" dir="ltr" style="unicode-bidi: isolate; margin-right: -2px; padding-right: 2px;"><span style="background-color:#FFFFFF;">kurer-sreda.ru</span></span></span></a></span></span></em></p>
@@ -48,9 +40,7 @@ Chúng ta nên thắt dây an toàn kể cả khi đi xe ghế ngồi hay giư�
 
 
 
-** <p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ngồi ở tư thế ph&ugrave; hợp</span></span></strong></p>**
-
-
+<p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ngồi ở tư thế ph&ugrave; hợp</span></span></strong></p>
 
 ![Ngồi ở tư thế hợp lý](/img/sit.jpg)
 
@@ -60,9 +50,7 @@ Ngồi thoải mái nhưng không ngả về phía trước hoặc sau quá nhi�
 
 
 
-** <p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hạn chế mang những vật nhọn v&agrave; đồ thủy tinh</span></span></strong></p>**
-
-
+<p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hạn chế mang những vật nhọn v&agrave; đồ thủy tinh</span></span></strong></p>
 
 ![Đồ thủy tinh](/img/đồ-thủy-tinh.jpg)
 
