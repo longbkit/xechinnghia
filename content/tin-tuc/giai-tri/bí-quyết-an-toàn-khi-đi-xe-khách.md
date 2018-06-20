@@ -88,6 +88,8 @@ Vùng đầu và cổ là những khu vực dễ bị chấn thương khi có va
 
 ![Tư thế ngồi bảo vệ những vùng dễ thương tổn](/img/tư-thế-ngồi-trên-xe.png)
 
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Tư thế ngồi&nbsp;&quot;b&agrave;o thai&quot; để tho&aacute;t nguy hiểm. </span></font><span style="color: rgb(0, 0, 0);"><em style=""><span style="background-color: rgb(255, 255, 255);"><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;">Ảnh:</span></font></span></em></span><em style=""><span style="color:#000000;"><span style="background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">&nbsp;</span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">yan.tv</span></span></span></span></em></p>
+
 Bạn hãy ngồi cuộn tròn, ngực áp vào đùi giống như bài thai trong bụng mẹ. Lưu ý: cúi đầu càng thấp càng tốt, dùng tay ôm đầu để tạo thành "một khối chặt". Tư thế này được hướng dẫn là tư thế tốt nhất để tránh được những tổn thương cho vùng đầu, cổ, ngực bụng.
 
 
