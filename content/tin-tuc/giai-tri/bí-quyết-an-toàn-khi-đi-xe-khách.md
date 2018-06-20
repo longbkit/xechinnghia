@@ -10,7 +10,7 @@ thumbnail: /img/photo-1-1475490713104.jpg
 ---
 Tai nạn hay những rủi ro khi tham gia giao thông là điều khó tránh khỏi. Chính vì thế, việc tích lũy các bí quyết đảm bảo an toàn cơ bản là điều cần thiết giúp chúng ta chủ động hơn trong các sự cố ngoài ý muốn. Xe khách Hải Âu sẽ gợi ý cho bạn 9 bí quyết để đảm bảo an toàn khi đi xe khách nhé!
 
-**1. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn h&atilde;ng xe uy t&iacute;n, phương tiện chất lượng</span></span></h1>
+**<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn h&atilde;ng xe uy t&iacute;n, phương tiện chất lượng</span></span></h1>
 **
 
 ![Chon hãng xe uy tín](/img/bus_main.png)
@@ -21,7 +21,7 @@ Chất lượng quyết định không nhỏ tới sự thành công của các 
 
 Bởi vậy, lựa chọn một chiếc xe chất lượng để di chuyển, hành khách sẽ sẽ giữ được tinh thần thoải mái và tỉnh táo để tiếp tục công việc sau hành trình.
 
-**2. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn vị tr&iacute; ngồi</span></span></h1>
+** <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Chọn vị tr&iacute; ngồi</span></span></h1>
 **
 
 ![Chọn vị trí ngồi](/img/chỗ-ngồi-trên-xe.jpg)
@@ -32,7 +32,7 @@ Phần giữa xe là nơi an toàn nhất khi đi xe khách vì đây là vị t
 
 
 
-**3.<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Lu&ocirc;n thắt d&acirc;y an to&agrave;n</span></span></h1>**
+**<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Lu&ocirc;n thắt d&acirc;y an to&agrave;n</span></span></h1>**
 
 ![Thát dây an toàn](/img/thắt-dây-an-toàn.jpg)
 
@@ -42,7 +42,7 @@ Chúng ta nên thắt dây an toàn kể cả khi đi xe ghế ngồi hay giư�
 
 
 
-** 4. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ngồi ở tư thế ph&ugrave; hợp</span></span></h1>**
+** <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ngồi ở tư thế ph&ugrave; hợp</span></span></h1>**
 
 ![Ngồi ở tư thế hợp lý](/img/sit.jpg)
 
@@ -52,7 +52,7 @@ Ngồi thoải mái nhưng không ngả về phía trước hoặc sau quá nhi�
 
 
 
-**5. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hạn chế mang những vật nhọn v&agrave; đồ thủy tinh</span></span></h1>**
+** <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Hạn chế mang những vật nhọn v&agrave; đồ thủy tinh</span></span></h1>**
 
 ![Đồ thủy tinh](/img/đồ-thủy-tinh.jpg)
 
@@ -62,7 +62,7 @@ Bạn nên hạn chế mang theo những món đồ thủy tinh như chai nướ
 
 
 
-**6. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ngồi xa thanh chắn v&agrave; vật cứng tr&ecirc;n xe</span></span></h1>**
+**<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Ngồi xa thanh chắn v&agrave; vật cứng tr&ecirc;n xe</span></span></h1>**
 
 ![Ngồi xa thanh chắn trên xe](/img/ngồi-xa-thanh-chắn-trên-xe.jpg)
 
@@ -72,7 +72,7 @@ Trong quá trình di chuyển, xe thắng gấp hay có xảy ra sự cố, nh�
 
 
 
-**7. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Bảo vệ v&ugrave;ng đầu v&agrave; cổ</span></span></h1>**
+** <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Bảo vệ v&ugrave;ng đầu v&agrave; cổ</span></span></h1>**
 
 ![Bảo vệ vùng đầu và cổ](/img/avatar-goi-hoi-du-lich-goi-van-phong-4.jpg)
 
@@ -80,7 +80,7 @@ Trong quá trình di chuyển, xe thắng gấp hay có xảy ra sự cố, nh�
 
 Vùng đầu và cổ là những khu vực dễ bị chấn thương khi có va chạm mạnh, để đảm bảo an toàn, bạn nên chuẩn bị gối ngủ hoặc những vật mềm như chăn, quần áo mỏng để quấn quanh. Ngoài ra, việc sử dụng gối ngủ sẽ khiến bạn đỡ mệt mỏi nếu phải ngồi lâu trong xe khách trong chuyến đi dài.
 
-**8. <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Sử dụng tư thế &quot;b&agrave;o thai&quot; để bảo vệ những v&ugrave;ng dễ thương tổn</span></span></h1>**
+** <span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Sử dụng tư thế &quot;b&agrave;o thai&quot; để bảo vệ những v&ugrave;ng dễ thương tổn</span></span></h1>**
 
 ![Tư thế ngồi bảo vệ những vùng dễ thương tổn](/img/tư-thế-ngồi-trên-xe.png)
 
@@ -88,7 +88,7 @@ Bạn hãy ngồi cuộn tròn, ngực áp vào đùi giống như bài thai tro
 
 
 
-**9.<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Tim c&aacute;ch tho&aacute;t hiểm nhanh ch&oacute;ng khi xe c&oacute; dấu hiệu ch&aacute;y nổ</span></span></h1>**
+**<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Tim c&aacute;ch tho&aacute;t hiểm nhanh ch&oacute;ng khi xe c&oacute; dấu hiệu ch&aacute;y nổ</span></span></h1>**
 
 ![](/img/xe-cháy-nổ.jpg)
 
