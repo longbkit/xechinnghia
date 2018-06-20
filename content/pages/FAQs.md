@@ -5,6 +5,7 @@ description: >-
   XE KHÁCH HẢI ÂU.
 date: 2018-03-16T04:47:10.000Z
 thumbnail: /img/driver.png
+url: /faqs
 ---
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>TỔNG HỢP C&Acirc;U HỎI THƯỜNG GẶP TR&Ecirc;N FANPAGE XE KH&Aacute;CH HẢI &Acirc;U</strong></span></span></p>
 
