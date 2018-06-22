@@ -5,6 +5,7 @@ description: >-
   XE KHÁCH HẢI ÂU.
 date: 2018-03-16T04:47:10.000Z
 thumbnail: /img/driver.png
+url: /FAQs/
 ---
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; font-size: 14px; text-align: justify; background: #ffffff; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
@@ -18,15 +19,15 @@ thumbnail: /img/driver.png
 
 	<tbody>
 
-		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
+		<tr>
 
-			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 250px;">
+			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 250px;background: rgb(0, 137, 207); color: rgb(255, 255, 255)">
 
-			<p style="box-sizing: border-box; margin-bottom: 0px; padding: 0px;"><span style="color: rgb(255, 255, 255); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">C&acirc;u hỏi thường gặp</span></p>
+			<p>C&Acirc;U HỎI THƯỜNG GẶP</p>
 
 			</th>
 
-			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 100px;">C&acirc;u trả lời</th>
+			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 100px;background: rgb(0, 137, 207); color: rgb(255, 255, 255)">C&Acirc;U TRẢ LỜI</th>
 
 		</tr>
 
