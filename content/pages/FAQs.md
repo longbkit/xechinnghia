@@ -4,7 +4,7 @@ description: >-
   Tổng hợp nội dung những câu hỏi khách hàng thường xuyên thắc mắc trên fanpage
   XE KHÁCH HẢI ÂU.
 date: 2018-03-16T04:47:10.000Z
-thumbnail: /img/driver.png
+thumbnail: /img/faq.png
 url: /FAQs/
 ---
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; font-size: 14px; text-align: justify; background: #ffffff; border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
