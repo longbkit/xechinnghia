@@ -394,19 +394,15 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">12h10 -&nbsp;13h10&nbsp;-&nbsp;13h40</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">12h10 -&nbsp;13h10&nbsp;-&nbsp;13h40 -</span><span style="font-family: arial, helvetica, sans-serif;">&nbsp;14h10</span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;14h10 -&nbsp;14h40 -&nbsp;15h10 - 15h40&nbsp;</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">14h40 -&nbsp;15h10 - 15h40 - 16h10 </span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">16h10 - 16h40 -&nbsp;17h10 - 17h40</span></p>
-
-
-
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><strong><span style="font-family: arial, helvetica, sans-serif;">18h40</span></strong></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">16h40 -&nbsp;17h10 - 17h40 -&nbsp;</span><strong><span style="font-family: arial, helvetica, sans-serif;">18h40</span></strong></p>
 
 			</td>
 
@@ -476,11 +472,11 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">15h00 - 15h30 - 16h00 - 16h30 - 19h00</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">15h00 - 15h30 - 16h00 - 16h30 - 17h00</span></p>
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;<strong>19h30</strong></span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">17h30 - 18h00 - 18h30 - 19h00</span>&nbsp;-&nbsp;<span style="font-family: arial, helvetica, sans-serif;"><strong>19h30</strong></span></p>
 
 			</td>
 
