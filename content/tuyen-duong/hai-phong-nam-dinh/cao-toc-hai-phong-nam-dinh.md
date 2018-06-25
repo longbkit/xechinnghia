@@ -64,7 +64,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p><span style="color:#FFFF00;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></span></span></p>
+			<p><span style="color:#FFD700;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></span></span></p>
 
 			</th>
 
