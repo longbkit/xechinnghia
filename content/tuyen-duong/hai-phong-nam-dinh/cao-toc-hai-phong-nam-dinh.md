@@ -62,6 +62,10 @@ thumbnail: /img/driver.png
 
 			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">HẢI PH&Ograve;NG - NAM ĐỊNH</span></span></p>
 
+
+
+			<p><span style="color:#FFFF00;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></span></span></p>
+
 			</th>
 
 		</tr>
@@ -161,6 +165,10 @@ thumbnail: /img/driver.png
 			<th colspan="3" style="border-style: solid; border-color: rgb(221, 221, 221); text-align: center; width: 150px;">
 
 			<p><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;">HẢI PH&Ograve;NG - NAM ĐỊNH</span></span></p>
+
+
+
+			<p><span style="color:#FFFF00;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></span></p>
 
 			</th>
 
