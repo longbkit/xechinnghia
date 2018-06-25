@@ -8,7 +8,11 @@ thumbnail: /img/driver.png
 ---
 <p class="b tc" style="box-sizing: border-box; font-weight: 700; text-align: center; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px;">DỊCH VỤ XE TRUNG CHUYỂN</p>
 
+
+
 <p class="i tc" style="box-sizing: border-box; font-style: italic; text-align: center; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px;">Dịch vụ miễn ph&iacute; d&agrave;nh cho kh&aacute;ch h&agrave;ng của Hải &Acirc;u</p>
+
+
 
 <div id="itemListLeading" style="box-sizing: border-box; font-size: 14px; text-align: justify; outline: 0px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
 
@@ -28,355 +32,501 @@ thumbnail: /img/driver.png
 
 </div>
 
-<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">LỊCH TR&Igrave;NH XE CHẠY</span></span></span></div>
+
+
+<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">LỊCH TR&Igrave;NH&nbsp;</span></span></span></div>
 
 </div>
+
+
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
 <table style="border:4px solid rgb(236, 236, 236);box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;text-align:center;width:800px;">
 
-```
-<tbody>
+	<tbody>
 
-	<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
+		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-		<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">
+			<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width:60px;">STT</th>
 
-		<p style="box-sizing: border-box; margin-bottom: 0px; padding: 0px;">LỘ TR&Igrave;NH TUYẾN</p>
+			<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">
 
-		</th>
+			<p style="box-sizing: border-box; margin-bottom: 0px; padding: 0px;">LỘ TR&Igrave;NH TUYẾN</p>
 
-		<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">TẦN SUẤT</th>
+			</th>
 
-		<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">THỜI GIAN PHỤC VỤ</th>
+			<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">TẦN SUẤT</th>
 
-	</tr>
+			<th style="box-sizing: border-box; text-align: center; border: 1px solid rgb(221, 221, 221); width: 100px;">THỜI GIAN PHỤC VỤ</th>
 
-	<tr>
+		</tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Thượng L&yacute; - Vạn Mỹ</span></strong></td>
+		<tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">30 - 40 ph&uacute;t/ 1 chuyến</span></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Tuyến số 1</strong></span></span></td>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">05h00 - 20h00</span></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">Cầu Đen -&nbsp; Qu&aacute;n Toan</span></strong></td>
 
-	</tr>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">40 ph&uacute;t/ 1 chuyến</span></td>
 
-	<tr style="box-sizing: border-box;">
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">05h55 - 17h55</span></td>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Thượng L&yacute; - Ph&agrave; Rừng</span></strong></td>
+		</tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+		<tr style="box-sizing: border-box;">
 
-		<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">40 ph&uacute;t/ 1 chuyến</span></p>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 2</span></span></strong></td>
 
-		</td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">16 T&ocirc;n Đức Thắng - Sở Dầu</strong></td>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-		<p style="box-sizing: border-box;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">05h00 - 20h00</span></p>
+			<p style="box-sizing: border-box; font-size: 13px; margin: 0px 0px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">30 ph&uacute;t/ 1 chuyến</span></p>
 
+			</td>
 
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">
 
-		<p style="box-sizing: border-box;">&nbsp;</p>
+			<p style="box-sizing: border-box;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">06h00 - 18h00</span></p>
 
-		</td>
+			</td>
 
-	</tr>
+		</tr>
 
-	<tr>
+		<tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">&nbsp;Bến xe ph&iacute;a Bắc - Qu&aacute;n Toan</span></strong></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 3</span></span></strong></td>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">30 ph&uacute;t/ 1 chuyến</span></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Bx. Xu&acirc;n Sơn - Bx.Thượng L&yacute; - Sở Dầu</span></strong></td>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">05h10 - 18h40</span></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">40 ph&uacute;t/ 1 chuyến</span></td>
 
-	</tr>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">05h00 - 19h00</span></td>
 
-	<tr>
+		</tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Cầu Đen -&nbsp; Qu&aacute;n Toan</span></strong></td>
+		<tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">30 ph&uacute;t/ 1 chuyến</span></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 4</span></span></strong></td>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">05h55 - 17h55</span></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Bx.Ph&iacute;a Bắc - Qu&aacute;n Toan</span></strong></td>
 
-	</tr>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">30 ph&uacute;t/ 1 chuyến</span></td>
 
-	<tr>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">05h10 - 18h40</span></td>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong>16 T&ocirc;n Đức Thắng - Sở Dầu</strong></td>
+		</tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">30 ph&uacute;t/ 1 chuyến</span></td>
+		<tr>
 
-		<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">06h00 - 18h00</td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 5</span></span></strong></td>
 
-	</tr>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><b>Bưu điện Vạn Mỹ - Sở Dầu</b></td>
 
-</tbody>
-```
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">30 ph&uacute;t/ 1 chuyến</span></td>
+
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);">05h00 - 19h30</td>
+
+		</tr>
+
+	</tbody>
 
 </table>
+
+
 
 <div id="itemListLeading" style="box-sizing: border-box; font-size: 14px; text-align: justify; outline: 0px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
 
 <div class="itemContainer itemContainerLast" style="box-sizing: border-box; outline: 0px; line-height: 26px; max-width: 100%; border: 0px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; float: left;">
 
-<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">ĐIỂM Đ&Oacute;N KH&Aacute;CH</span></span></span></div>
+<div style="box-sizing: border-box; font-family: arial; font-size: 16px; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">GIỜ XE CHẠY CHI TIẾT</span></span></span></div>
 
 </div>
 
-<p style="box-sizing: border-box;">&nbsp;</p>
+
 
 <p style="box-sizing: border-box;">&nbsp;</p>
 
-</div>
 
-<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: justify; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
-<table style="border-color:rgb(236, 236, 236);border-style:solid;border-width:4px;box-sizing:border-box;color:rgb(41, 43, 44);font-family:arial;text-align:center;width:800px;">
+<p style="box-sizing: border-box;">&nbsp;</p>
 
-```
-<tbody>
 
-	<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-		<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 100px;">
+<div id="itemListLeading" style="box-sizing: border-box; font-size: 14px; text-align: justify; outline: 0px; font-family: Arial; line-height: 26px; max-width: 100%; color: rgb(35, 31, 32); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: 0px; vertical-align: baseline; margin: 0px; padding: 0px;">
 
-		<p style="box-sizing: border-box; margin-bottom: 0px; padding: 0px;">&nbsp;TUYẾN</p>
+<div class="itemContainer itemContainerLast" style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; background: rgb(255, 255, 255); border: 0px; outline: 0px; vertical-align: baseline; margin: 0px; padding: 0px; float: left;">
 
-		</th>
+<table style="border-width: 4px; border-style: solid; border-color: rgb(236, 236, 236); box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; text-align: center; width: 800px;">
 
-		<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 100px;">LỘ TR&Igrave;NH</th>
+	<tbody>
 
-	</tr>
+		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
 
-	<tr>
+			<th colspan="2" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 60px;">
 
-		<td colspan="1" rowspan="10" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>THƯỢNG L&Yacute; - VẠN MỸ</strong></td>
+			<p>TUYẾN SỐ 1</p>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">BX Thượng L&yacute;</span></td>
+			</th>
 
-	</tr>
+		</tr>
 
-	<tr style="box-sizing: border-box;">
+		<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><font face="arial, helvetica, sans-serif"><b>Cầu Đen đi</b></font></td>
 
-		<p style="box-sizing: border-box;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ng&atilde; 3&nbsp;Xi Măng</span></p>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">Qu&aacute;n Toan về</span></strong></td>
 
-		</td>
+		</tr>
 
-	</tr>
+		<tr style="box-sizing: border-box;">
 
-	<tr>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Cầu Thượng L&yacute; (Vincom)</span></td>
+			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><strong>05h55</strong> - 06h35 - 07h15 - 07h55 </span></span></p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Cầu Lạc Long</span></td>
+			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">&nbsp;08h35 - 09h15 - 09h55 - 10h35</span></span></p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Đường Điện Bi&ecirc;n Phủ</span></td>
+			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">13h15 - 13h55 - 14h35 - 15h15</span></span></p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Vườn trẻ</span></td>
+			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">15h55 - 16h35 - 17h15 - <strong>17h55</strong></span></span></p>
 
-	</tr>
+			</td>
 
-	<tr>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ng&atilde; 6 cũ</span></td>
+			<p><strong>06h15</strong> - 06h55 - 07h35 - 08h15</p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ng&atilde; 6 Coopmart, M&aacute;y Tơ</span></td>
+			<p>08h55 - 09h35 - 10h15 - 10h55</p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Bưu điện Vạn Mỹ</span></td>
+			<p>13h35 - 14h15 - 14h55 - 15h35</p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Kh&aacute;ch sạn dầu kh&iacute;</span></td>
+			<p>16h15 - 16h55 - 17h35 - <strong>18h15</strong></p>
 
-	</tr>
+			</td>
 
-	<tr>
+		</tr>
 
-		<td colspan="1" rowspan="11" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>THƯỢNG L&Yacute; - PH&Agrave; RỪNG</strong></td>
+		<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">BX Thượng L&yacute;</span></td>
+			<td colspan="2" style="border-style: solid; background: rgb(0, 137, 207); color: rgb(255, 255, 255),border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-	</tr>
+			<p><span style="color: rgb(255, 255, 255); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">TUYẾN SỐ 2</span></p>
 
-	<tr>
+			</td>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Cầu B&iacute;nh</span></td>
+		</tr>
 
-	</tr>
+		<tr>
 
-	<tr>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>16 T&ocirc;n Đức Thắng đi</strong></td>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Khu c&ocirc;ng nghiệp VSIP</span></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Bx.Thượng L&yacute; (Sở Dầu) về</strong></td>
 
-	</tr>
+		</tr>
 
-	<tr>
+		<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">N&uacute;i Đ&egrave;o</span></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-	</tr>
+			<p><strong>06h00</strong> - 06h30 - 07h00 - 07h30</p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Thủy Đường</span></td>
 
-	</tr>
+			<p>&nbsp;08h00 - 08h30 - 09h00 - 09h30</p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">An Lư</span></td>
 
-	</tr>
+			<p>10h00 - 10h30 - 13h30 - 14h00</p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Trung H&agrave;</span></td>
 
-	</tr>
+			<p>14h30 - 15h00 - 15h30 - 16h00</p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Thủy Triều</span></td>
 
-	</tr>
+			<p>16h30 - 17h00 - 17h30 - <strong>18h00</strong></p>
 
-	<tr>
+			</td>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ngũ L&atilde;o (Thủy Nguy&ecirc;n)</span></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-	</tr>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><strong>06h15</strong>&nbsp;- 06h45 - 07h15 - 07h45&nbsp;</p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Minh Đức (Thủy Nguy&ecirc;n)&nbsp;</span></td>
 
-	</tr>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;08h15 - 08h45 - 09h15&nbsp;- 09h45</p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ph&agrave; Rừng</span></td>
 
-	</tr>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">10h15&nbsp;- 10h45&nbsp;- 13h45&nbsp;- 14h15</p>
 
-	<tr>
 
-		<td colspan="1" rowspan="4" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>CẦU ĐEN - QU&Aacute;N TOAN</strong></td>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Cầu Đen</td>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">14h55 - 15h15&nbsp;- 15h45&nbsp;- 16h15</p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Thị trấn An Dương</td>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">16h45 - 17h15&nbsp;- 17h45&nbsp;- <strong>18h15</strong></p>
 
-	</tr>
+			</td>
 
-	<tr>
+		</tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Long Th&agrave;nh</td>
+		<tr>
 
-	</tr>
+			<td colspan="2" style="border-style: solid; background: rgb(0, 137, 207); border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-	<tr>
+			<p><span style="color:#FFFFFF;"><strong>TUYẾN SỐ 3</strong></span></p>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Qu&aacute;n Toan</td>
+			</td>
 
-	</tr>
+		</tr>
 
-	<tr>
+		<tr>
 
-		<td colspan="1" rowspan="5" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>BX. PH&Iacute;A BẮC - QU&Aacute;N TOAN</strong></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Bx. Xu&acirc;n Sơn đi</strong></td>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Bx. Ph&iacute;a Bắc</td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Bx.Thượng L&yacute; (Sở Dầu) về</strong></td>
 
-	</tr>
+		</tr>
 
-	<tr>
+		<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Trịnh X&aacute;</td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-	</tr>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;"><strong>05h00</strong>&nbsp;- 05h40&nbsp;- 06h20&nbsp;- 07h00</span></p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Cầu Kiền</td>
 
-	</tr>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;07h40&nbsp;- 08h20&nbsp;- 09h00&nbsp;- 09h40</span></p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">An Hồng</td>
 
-	</tr>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">10h20&nbsp;- 11h00&nbsp;- 11h40&nbsp;- 12h20</span></p>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Qu&aacute;n Toan</td>
 
-	</tr>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">13h00&nbsp;- </span><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">13h40</span><span style="font-family: arial, helvetica, sans-serif;"> - 14h20 -&nbsp;15h00</span></p>
 
-	<tr>
 
-		<td colspan="1" rowspan="3" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>16 T&Ocirc;N ĐỨC THẮNG - SỞ DẦU</strong></td>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Ng&atilde; tư An Dương</td>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">15h40 - 16h20 - 17h00 - 17h40</span></p>
 
-	</tr>
 
-	<tr>
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Cầu Quay</td>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">18h20 - <strong>19h00</strong></span></p>
 
-	</tr>
+			</td>
 
-	<tr>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-		<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">Ng&atilde; 3 Xi Măng</td>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;"><strong>06h20</strong>&nbsp;- 07h00 -&nbsp;07h40&nbsp;- 08h20</span></p>
 
-	</tr>
 
-</tbody>
-```
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">09h00&nbsp;- 09h40 - 10h20&nbsp;- 11h00&nbsp;</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;11h40&nbsp;- 12h20 - 13h00&nbsp;-&nbsp;13h40</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;14h20 -&nbsp;15h00 - 15h40 - 16h20 </span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">17h00 - 17h40 - 18h20 -&nbsp;19h00</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">19h40 -<strong> 20h20</strong></span></p>
+
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td colspan="2" style="border-style: solid; border-color: rgb(221, 221, 221); background: rgb(0, 137, 207); box-sizing: border-box; padding: 5px 10px;">
+
+			<p><strong><span style="color:#FFFFFF;">TUYẾN SỐ 4</span></strong></p>
+
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Bx. Ph&iacute;a Bắc đi</strong></td>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Qu&aacute;n Toan về</strong></td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;"><strong>05h10</strong>&nbsp;- 05h40&nbsp;- 06h10&nbsp;- 06h40</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;07h10&nbsp;- 07h40&nbsp;- 08h10&nbsp;- 08h40</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">09h10&nbsp;- 09h40&nbsp;- 10h10&nbsp;- 11h10</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">12h10 -&nbsp;13h10&nbsp;-&nbsp;13h40</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;14h10 -&nbsp;14h40 -&nbsp;15h10 - 15h40&nbsp;</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">16h10 - 16h40 -&nbsp;17h10 - 17h40</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><strong><span style="font-family: arial, helvetica, sans-serif;">18h40</span></strong></p>
+
+			</td>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;"><strong>&nbsp;05h40</strong>&nbsp;- 06h10&nbsp;- 06h40 -&nbsp;07h10&nbsp;</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">07h40&nbsp;- 08h10&nbsp;- 08h40 - 09h10&nbsp;</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;09h40&nbsp;- 10h40&nbsp;- 11h40 - 12h40</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">13h10&nbsp;-&nbsp;13h40 - 14h10 -&nbsp;14h40</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">15h10 - 15h40 - 16h10 - 16h40 </span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">17h10 - 17h40</span>&nbsp;-&nbsp;<strong><span style="font-family: arial, helvetica, sans-serif;">19h10</span></strong></p>
+
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td colspan="2" style="border-style: solid; border-color: rgb(221, 221, 221); background: rgb(0, 137, 207); box-sizing: border-box; padding: 5px 10px;">
+
+			<p><span style="color:#FFFFFF;"><strong>TUYẾN SỐ 5</strong></span></p>
+
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Bưu điện Vạn Mỹ đi</strong></td>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Bx. Thượng L&yacute; (Sở Dầu) về</strong></td>
+
+		</tr>
+
+		<tr>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;"><strong>05h00</strong>&nbsp;- 05h30&nbsp;- 06h00&nbsp;- 06h30 - 07h00</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;07h30&nbsp;- 08h00&nbsp;- 08h30 -&nbsp;09h00&nbsp;- 09h30</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">10h00&nbsp;- 10h30 - 11h00&nbsp;- 11h30&nbsp;- 12h00</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">12h30&nbsp;-&nbsp;</span><span style="font-family: arial, helvetica, sans-serif;">13h00</span><span style="font-family: arial, helvetica, sans-serif;">&nbsp;- 13h30 - 14h00 -&nbsp;14h30</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">15h00 - 15h30 - 16h00 - 16h30 - 19h00</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;<strong>19h30</strong></span></p>
+
+			</td>
+
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;"><strong>&nbsp;05h30</strong>&nbsp;- 06h00&nbsp;- 06h30 -&nbsp;07h00 -&nbsp;07h30&nbsp;</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">08h00 - 08h30&nbsp;- 09h00 -&nbsp;09h30 - 10h00</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">&nbsp;10h30&nbsp;- 11h00 - 11h30 - 12h00 - 12h30</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">13h00&nbsp;-&nbsp;13h30 -&nbsp;14h00 -&nbsp;14h30 - 15h00</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">15h30 - 16h00 -&nbsp;16h30 - 17h00 - 17h30</span></p>
+
+
+
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif;">18h00 - 18h30 - 19h00 - 19h30</span>&nbsp;- 20<strong><span style="font-family: arial, helvetica, sans-serif;">h00</span></strong></p>
+
+			</td>
+
+		</tr>
+
+	</tbody>
 
 </table>
 
 </div>
 
-<div style="box-sizing: border-box; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">&nbsp;</div>
+</div>
+
+</div>
 
 </div>
 
 </div>
+
+
 
 <div style="font-size: 14px; text-align: justify; box-sizing: border-box;">
 
