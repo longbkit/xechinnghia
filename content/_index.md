@@ -70,7 +70,7 @@ popularRoutes:
     link: vip-thai-binh-ha-noi/
     to: 'BX Gia Lâm '
     type: VIP
-  - duration: 01 giờ 30 phút
+  - duration: 02 giờ 00 phút
     from: BX Cầu Rào
     image: /img/tbv1513916751.jpg
     link: /xe-cao-toc-cau-rao-gia-lam/
