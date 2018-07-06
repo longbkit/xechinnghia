@@ -1,7 +1,7 @@
 ---
 layout: tin-tuc
 category: du-lich-am-thuc
-title: GHÉ THĂM HẢI DƯƠNG – THƯỞNG THỨC MÓN CHẢ RƯƠI THƠM NGON MÊ HOẶC
+title: ĐẶC SẢN CHẢ RƯƠI HẢI DƯƠNG - ĂN MỘT LẦN LÀ MÊ
 description: >-
   Chả rươi là món ăn không thể bỏ qua vào mùa Thu, hương thơm quyến rũ cùng vị
   ngọt, béo ngậy của rươi khiến thực khách mê mẩn, quyến luyến ngay từ miếng đầu
