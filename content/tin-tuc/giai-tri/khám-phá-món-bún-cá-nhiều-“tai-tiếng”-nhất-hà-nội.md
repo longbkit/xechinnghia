@@ -36,6 +36,6 @@ Giờ cao điểm của quán là vào khoảng 12 giờ trưa, chỗ ngồi ph�
 
 Chỉ với 30.000 đồng một suất bún cá đầy đặn, bạn cũng nên nếm thử và đưa ra cảm nhận riêng của mình nhé! Đây cũng là một gợi ý cho bữa trưa để thay đổi cho những món ăn nhàm chán hàng ngày nhé!
 
-![Bún cá](/img/cmt-1.png)
+![Bún cá](/img/bún-cá-4.png)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><font face="arial, helvetica, sans-serif"><span style="font-size: 14px;">B&uacute;n c&aacute; Hạnh b&eacute;o - 30 Nguyễn Th&aacute;i Học, mở cửa từ 11:00 - 14:00.<em> Ảnh: Instagram</em></span></font></p>
