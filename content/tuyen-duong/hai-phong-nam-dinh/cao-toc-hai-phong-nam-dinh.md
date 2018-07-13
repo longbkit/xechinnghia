@@ -168,7 +168,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p><span style="color:#FFFF00;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></span></p>
+			<p><span style="color:#FFD700;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">GI&Aacute; V&Eacute;: 80.000Đ/NGƯỜI/LƯỢT</span></span></p>
 
 			</th>
 
@@ -246,15 +246,11 @@ thumbnail: /img/driver.png
 
 
 
-<div style="font-weight: 300; font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: bolder;">BẢNG GI&Aacute;&nbsp;</span></span></span></div>
+<div style="font-weight: 300; font-family: arial; font-size: 16px; text-align: center; background: rgb(0, 137, 207); padding: 5px 15px; margin: 15px 0px; color: rgb(255, 255, 255); display: table;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-weight: bolder;">BẢNG GI&Aacute;&nbsp;</span></span></span>&nbsp; &nbsp;</div>
 
 
 
 <div style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;; font-size: 13px; font-weight: 300; background-color: transparent; text-align: justify;">
-
-<p class="MsoListParagraphCxSpFirst" style="margin-left: 280px; text-indent: -0.25in; line-height: normal; text-align: left;">&nbsp; &nbsp;</p>
-
-
 
 <div style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">
 
