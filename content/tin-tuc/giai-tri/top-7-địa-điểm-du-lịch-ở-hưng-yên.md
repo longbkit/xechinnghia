@@ -23,8 +23,6 @@ Phố Hiến là một trong những địa điểm thu hút khách du  lịch n
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Phố Hiến - nơi lưu giữ n&eacute;t đẹp ho&agrave;i cổ.&nbsp;<em>Ảnh: Mytour</em></span></span></p>
 
-
-
 **2. Làng Nôm**
 
 Muốn tìm về chốn yên bình của một làng quê xưa, làng Nôm là một sự lựa chọn không thể tuyệt vời hơn. Bạn sẽ ngỡ ngàng trước không gian yên ả của những điều xưa cổ như: cây đa, nhà mái ngói, con đường nhỏ vào làng, cánh đồng lúa bất tận,…Ngôi làng mang đậm nét đẹp của nông thân Việt Nam, gần gũi, thân quen khiến người ta cảm thấy nét bình yên, thư thái đến kì lạ.
@@ -43,8 +41,6 @@ Muốn tìm về chốn yên bình của một làng quê xưa, làng Nôm là m
 
 Nét thanh tịnh, yên bình cùng cuộc sống giản dị, mộc mạc ở làng Nôm gợi nhắc người ta về những hoài niệm của quá khứ, của tuổi thơ, về những an yên của tâm hồn sau bộn về của công việc, cuộc sống nơi phồn hoa đô thị.
 
-
-
 **3. Đền Chử Đồng Tử**
 
 Đền Chử Đồng Tử thu hút khách du lịch vào ngày lễ hội tổ chức từ ngày 10-12 tháng Hai âm lịch hàng năm. Ngôi đền được nhiều người biết đến bởi Chử Đồng Tử được tôn vinh là một trong Tứ Bất Tử của thần linh Việt cùng với lối thiết kế độc đáo và tinh tế trong kiến trúc. 
@@ -52,8 +48,6 @@ Nét thanh tịnh, yên bình cùng cuộc sống giản dị, mộc mạc ở l
 ![Đền Chử Đồng Tử](/img/đền-chử-đồng-tử.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Đền Chử Đồng Tử&nbsp;.&nbsp;<em>Ảnh: Vietnamtourism.com</em></span></span></p>
-
-
 
 **4. Đền Trần**
 
