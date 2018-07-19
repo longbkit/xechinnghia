@@ -1,5 +1,6 @@
 ---
 layout: tin-tuc
+category: du-lich-am-thuc
 title: TOP 3 ĐỊA ĐIỂM DU LỊCH BIỂN TUYỆT ĐẸP TẠI HẢI PHÒNG
 description: >-
   Hải Phòng đâu chỉ nổi tiếng bởi sắc đỏ rực rỡ của hoa phượng, của những món ăn
@@ -9,7 +10,6 @@ description: >-
   địa điểm du lịch mà bạn chắc chắn không nên bỏ qua nếu đến với thành phố Hải
   Phòng.
 date: '2018-06-15T08:32:40+07:00'
-category: du-lich-am-thuc
 thumbnail: /img/hải-phòng.png
 ---
 <p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">M&ugrave;a h&egrave; l&agrave; khoảng thời gian du lịch v&agrave; nghỉ dưỡng l&yacute; tưởng trong năm, nhất l&agrave; c&aacute;c dự định đi biển, đắm m&igrave;nh v&agrave;o l&agrave;n nước trong xanh, thả d&aacute;ng tr&ecirc;n những bờ c&aacute;t trải d&agrave;i v&agrave; lưu giữ v&ocirc; v&agrave;n khoảnh khắc thật đẹp c&ugrave;ng gia đ&igrave;nh - bạn b&egrave;. Nếu bạn ngại đi xa v&agrave; sợ tốn k&eacute;m, xe kh&aacute;ch Hải &Acirc;u sẽ gợi &yacute; cho c&aacute;c bạn một v&agrave;i địa điểm gần ngay th&agrave;nh phố Hải Ph&ograve;ng, đảm bảo bạn sẽ th&iacute;ch m&ecirc;, nhanh ch&oacute;ng&nbsp;x&aacute;ch balo l&ecirc;n v&agrave; đi ngay th&ocirc;i!</span></span></p>
@@ -31,8 +31,6 @@ Ngoài tắm biển, bạn có thể đi thăm quan rất nhiều các di tích 
 ![di tích bến tàu không số](/img/tàu-không-số.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Di t&iacute;ch bến t&agrave;u kh&ocirc;ng số. <em>Ảnh: enternews.vn</em></span></span></p>
-
-
 
 ![Casio Đồ Sơn](/img/casio-đồ-sơn.jpg)
 
@@ -74,7 +72,7 @@ Cuối cùng là bãi Vạn Bội nằm ngay trên vịnh Lan Hạ còn nguyên 
 
 ![bãi biển Vạn Bội](/img/bãi-biển-vạn-bội.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển Vạn Bội l&agrave; sự kết hợp ho&agrave;n hảo của non nước m&acirc;y trời.<em> Ảnh: afamily</em></span></span></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">B&atilde;i biển Vạn Bội l&agrave; sự kết hợp ho&agrave;n hảo của non nước m&acirc;y trời.<em> Ảnh: buihongthang</em></span></span></p>
 
 ![bãi biển Vạn Bội](/img/bãi-biển-vạn-bội-2.jpg)
 
