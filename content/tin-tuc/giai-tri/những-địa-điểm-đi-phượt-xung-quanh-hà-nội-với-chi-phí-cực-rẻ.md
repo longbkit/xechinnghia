@@ -1,7 +1,7 @@
 ---
 layout: tin-tuc
 category: du-lich-am-thuc
-title: NHỮNG ĐỊA ĐIỂM ĐI PHƯỢT XUNG QUANH HÀ NỘI VỚI CHI PHÍ CỰC RẺ
+title: NHỮNG ĐỊA ĐIỂM "ĐI PHƯỢT" XUNG QUANH HÀ NỘI VỚI CHI PHÍ CỰC RẺ
 description: >-
   Ngoài những trung tâm thương mại, quán xá sầm uất ở trung tâm thủ đô, hãy cùng
   nhóm bạn lên lịch trình đi phượt vào ngày nghỉ cuối tuần để xả hơi, refresh
@@ -16,11 +16,11 @@ Vi vu Hà Nội là ý tưởng không tồi chút nào cho một nhóm bạn y�
 
 Vườn quốc gia Ba Vì, Hà Nội chỉ cách trung tâm thành phố khoảng 60km. Nơi đây là một quần thể các khu du lịch, nghỉ dưỡng, giải trí và khám phá. Sau một tuần học tuần và làm việc căng thẳng, các bạn hãy đến đây để tận hưởng khí hậu trong lành,mát mẻ của núi rừng hùng vĩ, hệ sinh thái đa dạng.
 
-
-
 ![Vườn quốc gia Ba Vì](/img/ba-vì.jpg)
 
-<p><strong><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Đừng ngại ngần n&oacute;i lời cảm ơn</span></span></strong></p>
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Khung cảnh vườn quốc gia Ba V&igrave;.</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;<em>Ảnh: Mytour</em></span></span></p>
+
+
 
 Bạn có thể lựa chọn phương tiện đi lại là xe máy hoặc oto tùy theo sở thích. Nhưng tốt nhất là nên đi xe máy thong dong để có cơ hội ngắm cảnh dọc đường, khám phá từng khu vực ở đây và có thêm nhiều trải nghiệm thú vị cùng nhóm bạn. Đến Ba Vì đừng quên ngắm Đỉnh Vua, đỉnh Tản Viên, đỉnh Ngọc Hoa – 3 đỉnh núi cao nhất thuộc dãy Ba Vì với nhiều khung cảnh tuyệt đẹp.
 
@@ -35,8 +35,6 @@ Bạn có thể lựa chọn phương tiện đi lại là xe máy hoặc oto t�
 ![Nhà thờ cổ](/img/nhà-thờ-cổ.jpg)
 
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Nh&agrave; thờ cổ tại B&agrave; V&igrave;.</span></span><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;<em>Ảnh: dulichbavi</em></span></span></p>
-
-
 
 <p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Đại Lải &ndash; Vĩnh Ph&uacute;c</strong></span></span></p>
 
@@ -54,8 +52,6 @@ Hồ Đại Lải gây ấn tượng với hơn 500ha xen lẫn rừng xanh bi�
 
 Các bạn có thể tổ chức cắm trại hay chuẩn bị đồ ăn sẵn và mở một bữa tiệc nhỏ ở ngay tại đây, cùng tâm sự đôi ba câu chuyện, hòa mình vào thiên nhiên và tận hưởng trọn vẹn giây phút thư giãn cuối tuần nhé!
 
-
-
 <p><strong>Tr&agrave;ng An &ndash; Ninh B&igrave;nh</strong></p>
 
 Quần thể danh thắng Tràng An, Ninh Bình cách Hà Nội gần 100km. Đây là địa danh được UNESCO công nhận là di sản văn hóa thế giới từ năm 2014 với cảnh đẹp thiên nhiên mê đắm lòng người. Bao quanh cảnh quan là rừng núi ngát xanh cùng các tháp dạng nón hùng vĩ cao 200m, các hồ nước trong xanh phẳng lặng tạo nên một thế giới tự nhiên sống động và cuốn hút. 
@@ -68,15 +64,12 @@ Bạn sẽ còn ấn tượng bởi những dãy núi đá hoang sơ, ẩn dư�
 
 ![Tràng An - Ninh Bình](/img/du-lich-ninh-binh-750x390.jpg)
 
-<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Những c&aacute;nh đồng l&uacute;a ch&iacute;n ngả m&agrave;u v&agrave;ng rực c&ugrave;ng&nbsp;sắc xanh của c&acirc;y cỏ, gam m&agrave;u tối của đất đ&aacute; đẹp ng&acirc;y ngất.&nbsp;<br /><em>Ảnh: Newszing</em></span></span></p>
-
-
+<p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Những c&aacute;nh đồng l&uacute;a ch&iacute;n ngả m&agrave;u v&agrave;ng rực c&ugrave;ng&nbsp;sắc xanh của c&acirc;y cỏ, gam m&agrave;u tối của đất đ&aacute; đẹp ng&acirc;y ngất.&nbsp;<br />
+<em>Ảnh: Newszing</em></span></span></p>
 
 <p><strong>Tam Đảo &ndash; Vĩnh Ph&uacute;c</strong></p>
 
 Khu du lịch Tam Đảo nằm ở phía Bắc huyện Tam Đảo, nằm cách Hà Nội khoảng 80km, được bao phủ bởi rừng nguyên sinh Quốc gia nên không khí ở đây trong lành, mát mẻ và  được mệnh danh là “Đà Lạt của miền Bắc”.
-
-
 
 ![Tam Đảo](/img/tam-dao-chim-trong-suong-khoi.jpg)
 
@@ -100,11 +93,7 @@ Sau những ồn ào, tập nập của chốn thị thành, không ít du khác
 
 ![Làng cổ Đường Lâm](/img/lang-co-duong-lam.jpg)
 
-
-
 <p style="box-sizing: border-box; margin-top: 16px; margin-bottom: 20px; padding: 5px 20px; border: 1px dashed rgb(255, 255, 255); width: 800px; background: none 0px 0px repeat scroll rgb(255, 255, 255); text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">C&acirc;y đa, giếng nước, s&acirc;n đ&igrave;nh, tường gạch ng&oacute;i,..giản dị, mộc mạc, rất đỗi th&acirc;n quen.&nbsp;<em>Ảnh: dulich24</em></span></span></p>
-
-
 
 <p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Thi&ecirc;n&nbsp;đường Bảo Sơn &ndash; H&agrave; Nội</strong></span></span></p>
 
