@@ -6,6 +6,18 @@ url: /xe-trung-chuyen-mien-phi/
 description: Xe trung chuyển miễn phí
 thumbnail: /img/driver.png
 ---
+<!doctype html>
+
+<html>
+
+<head>
+
+	<title></title>
+
+</head>
+
+<body>
+
 <p class="b tc" style="box-sizing: border-box; font-weight: 700; text-align: center; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px;">DỊCH VỤ XE TRUNG CHUYỂN</p>
 
 
@@ -62,21 +74,9 @@ thumbnail: /img/driver.png
 
 		</tr>
 
-		<tr>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Tuyến số 1</strong></span></span></td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">Cầu Đen -&nbsp; Qu&aacute;n Toan</span></strong></td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">40 ph&uacute;t/ 1 chuyến</span></td>
-
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">05h55 - 17h55</span></td>
-
-		</tr>
-
 		<tr style="box-sizing: border-box;">
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 2</span></span></strong></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 1</span></span></strong></td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">16 T&ocirc;n Đức Thắng - Sở Dầu</strong></td>
 
@@ -96,9 +96,9 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 3</span></span></strong></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 2</span></span></strong></td>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Bx. Xu&acirc;n Sơn - Bx.Thượng L&yacute; - Sở Dầu</span></strong></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Ph&agrave; Rừng - Bx.Thượng L&yacute; - Sở Dầu</span></strong></td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">40 ph&uacute;t/ 1 chuyến</span></td>
 
@@ -108,7 +108,7 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 4</span></span></strong></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 3</span></span></strong></td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; text-align: center;">Bx.Ph&iacute;a Bắc - Qu&aacute;n Toan</span></strong></td>
 
@@ -120,7 +120,7 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 5</span></span></strong></td>
+			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(41, 43, 44); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Tuyến số 4</span></span></strong></td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid rgb(221, 221, 221);"><b>Bưu điện Vạn Mỹ - Sở Dầu</b></td>
 
@@ -162,69 +162,11 @@ thumbnail: /img/driver.png
 
 	<tbody>
 
-		<tr style="box-sizing: border-box; background: rgb(0, 137, 207); color: rgb(255, 255, 255);">
-
-			<th colspan="2" style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 60px;">
-
-			<p>TUYẾN SỐ 1</p>
-
-			</th>
-
-		</tr>
-
-		<tr>
-
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><font face="arial, helvetica, sans-serif"><b>Cầu Đen đi</b></font></td>
-
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif;">Qu&aacute;n Toan về</span></strong></td>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
-
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><strong>05h55</strong> - 06h35 - 07h15 - 07h55 </span></span></p>
-
-
-
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">&nbsp;08h35 - 09h15 - 09h55 - 10h35</span></span></p>
-
-
-
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">13h15 - 13h55 - 14h35 - 15h15</span></span></p>
-
-
-
-			<p><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">15h55 - 16h35 - 17h15 - <strong>17h55</strong></span></span></p>
-
-			</td>
-
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
-
-			<p><strong>06h15</strong> - 06h55 - 07h35 - 08h15</p>
-
-
-
-			<p>08h55 - 09h35 - 10h15 - 10h55</p>
-
-
-
-			<p>13h35 - 14h15 - 14h55 - 15h35</p>
-
-
-
-			<p>16h15 - 16h55 - 17h35 - <strong>18h15</strong></p>
-
-			</td>
-
-		</tr>
-
 		<tr>
 
 			<td colspan="2" style="border-style: solid; background: rgb(0, 137, 207); color: rgb(255, 255, 255),border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-			<p><span style="color: rgb(255, 255, 255); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">TUYẾN SỐ 2</span></p>
+			<p><span style="color: rgb(255, 255, 255); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(0, 137, 207);">TUYẾN SỐ 1</span></p>
 
 			</td>
 
@@ -290,7 +232,7 @@ thumbnail: /img/driver.png
 
 			<td colspan="2" style="border-style: solid; background: rgb(0, 137, 207); border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;">
 
-			<p><span style="color:#FFFFFF;"><strong>TUYẾN SỐ 3</strong></span></p>
+			<p><span style="color:#FFFFFF;"><strong>TUYẾN SỐ 2</strong></span></p>
 
 			</td>
 
@@ -298,7 +240,7 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Bx. Xu&acirc;n Sơn đi</strong></td>
+			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong>Ph&agrave; Rừng</strong></td>
 
 			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Bx.Thượng L&yacute; (Sở Dầu) về</strong></td>
 
@@ -364,7 +306,7 @@ thumbnail: /img/driver.png
 
 			<td colspan="2" style="border-style: solid; border-color: rgb(221, 221, 221); background: rgb(0, 137, 207); box-sizing: border-box; padding: 5px 10px;">
 
-			<p><strong><span style="color:#FFFFFF;">TUYẾN SỐ 4</span></strong></p>
+			<p><strong><span style="color:#FFFFFF;">TUYẾN SỐ 3</span></strong></p>
 
 			</td>
 
@@ -438,7 +380,7 @@ thumbnail: /img/driver.png
 
 			<td colspan="2" style="border-style: solid; border-color: rgb(221, 221, 221); background: rgb(0, 137, 207); box-sizing: border-box; padding: 5px 10px;">
 
-			<p><span style="color:#FFFFFF;"><strong>TUYẾN SỐ 5</strong></span></p>
+			<p><span style="color:#FFFFFF;"><strong>TUYẾN SỐ 4</strong></span></p>
 
 			</td>
 
