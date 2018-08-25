@@ -9,6 +9,18 @@ description: >-
   Gia Lâm).
 thumbnail: /img/driver.png
 ---
+<!doctype html>
+
+<html>
+
+<head>
+
+	<title></title>
+
+</head>
+
+<body>
+
 <p style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &quot;avenir next&quot;, avenir, &quot;helvetica neue&quot;, helvetica, ubuntu, roboto, noto, &quot;segoe ui&quot;, arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); text-align: center;"><span style="font-size: 16px;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-weight: bolder;">XE CAO TỐC&nbsp;HẢI PH&Ograve;NG - H&Agrave; NỘI</span></span></span></p>
 
 
@@ -279,29 +291,11 @@ thumbnail: /img/driver.png
 
 			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; height: 104px; width: 397px;">
 
-			<p><strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400; text-align: justify;">Bx. Cầu R&agrave;o, Cầu&nbsp;vượt&nbsp;Lạch&nbsp;Tray, gầm&nbsp;cầu&nbsp;Niệm, Cơ Điện, Bx. Thượng&nbsp;L&yacute;, Sở Dầu, Qu&aacute;n&nbsp;Toan, Cầu&nbsp;Rế 2, ch&acirc;n&nbsp;cầu&nbsp;Trạm&nbsp;Bạc.</span></strong></p>
+			<p><strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400; text-align: justify;">Bx. Cầu R&agrave;o, Cầu&nbsp;vượt&nbsp;Lạch&nbsp;Tray, gầm&nbsp;cầu&nbsp;Niệm, Cơ Điện, Bx. Thượng&nbsp;L&yacute;, Sở Dầu, Qu&aacute;n&nbsp;Toan, Cầu&nbsp;Rế 2, ch&acirc;n&nbsp;cầu&nbsp;Trạm&nbsp;Bạc,&nbsp;</span></strong><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);"><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">n&uacute;t cao&nbsp;tốc&nbsp;An L&atilde;o.</span></strong></p>
 
 			</th>
 
 			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; height: 104px; width: 219px;"><span style="font-family: arial, helvetica, sans-serif;">Bx. Gia&nbsp;L&acirc;m</span></th>
-
-		</tr>
-
-		<tr style="box-sizing: border-box;">
-
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px; height: 84px; width: 218px;"><span style="color: rgb(255, 0, 0);"><strong>85.000 Đ</strong></span></td>
-
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px; height: 84px; width: 397px;">
-
-			<p><span style="text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">&nbsp;</span></strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">Cầu&nbsp;Trạm&nbsp;Bạc</span><strong><span style="font-family: arial, helvetica, sans-serif; font-weight: 400;">, chợ K&ecirc;nh, n&uacute;t cao&nbsp;tốc&nbsp;An L&atilde;o.</span></strong></span></p>
-
-			</td>
-
-			<td style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; padding: 5px 10px; height: 84px; width: 219px;">
-
-			<p style="box-sizing: border-box;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(0, 0, 0);">Bx. Gia&nbsp;L&acirc;m</span></span></strong></p>
-
-			</td>
 
 		</tr>
 
