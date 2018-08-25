@@ -17,6 +17,18 @@ description: >-
   thiện nhằm đem đến trải nghiệm thoải mái nhất cho khách hàng.
 thumbnail: /img/driver.png
 ---
+<!doctype html>
+
+<html>
+
+<head>
+
+	<title></title>
+
+</head>
+
+<body>
+
 <p style="text-align: center;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>VIP TH&Aacute;I B&Igrave;NH - H&Agrave; NỘI</strong></span></span></p>
 
 
@@ -99,7 +111,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; box-sizing: border-box; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">Chạy li&ecirc;n tục 60 ph&uacute;t/chuyến</span></p>
+			<p style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; box-sizing: border-box; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">Chạy li&ecirc;n tục 45 - 60 ph&uacute;t/chuyến</span></p>
 
 			</td>
 
@@ -127,7 +139,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid #dddddd; height: 235px; width: 323px;">
 
-			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);"><span style="font-family: Arial;">06h00 -</span><span style="font-family: Arial;">&nbsp;18h00</span></span></span></p>
+			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;"><span style="color: rgb(255, 0, 0);"><span style="font-family: Arial;">06h00&nbsp;-</span><span style="font-family: Arial;">&nbsp;18h00</span></span></span></p>
 
 
 
@@ -135,13 +147,13 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">Chạy li&ecirc;n tục 60 ph&uacute;t/chuyến</span></p>
+			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">Chạy li&ecirc;n tục </span><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">45 - 60</span><span style="font-weight: bolder;"> ph&uacute;t/chuyến</span></p>
 
 			</td>
 
 			<td style="box-sizing: border-box; padding: 5px 10px; border: 1px solid #dddddd; height: 235px; width: 323px;">
 
-			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-weight: bolder;"><span style="font-family: Arial;">06h00</span></span></span><span style="font-family: Arial;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: bolder;">&nbsp;- 18h00</span></span></span></p>
+			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-weight: bolder;"><span style="font-family: Arial;">06h00&nbsp;</span></span></span><span style="font-family: Arial;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: bolder;">- 18h00</span></span></span></p>
 
 
 
@@ -231,7 +243,7 @@ thumbnail: /img/driver.png
 
 
 
-			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">Chạy li&ecirc;n tục 60 ph&uacute;t/chuyến</span></p>
+			<p style="box-sizing: border-box; color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-weight: bolder;">Chạy li&ecirc;n tục </span><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">45 - 60</span><span style="font-weight: bolder;"> ph&uacute;t/chuyến</span></p>
 
 			</td>
 
