@@ -6,8 +6,6 @@ url: /xe-cao-toc-hai-phong-thai-binh-nam-dinh/
 description: cao tốc Hải Phòng - Nam Định
 thumbnail: /img/driver.png
 ---
-<div class="itemImageBlock" style="border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 10px 0px 16px; padding: 8px; float: left; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;">
-
 <div class="clr" style="border: 0px; outline: 0px; vertical-align: baseline; background: transparent; margin: 0px; padding: 0px; clear: both; height: 0px; line-height: 0; float: none; overflow: hidden; visibility: hidden; width: 0px;">&nbsp;</div>
 
 </div>
@@ -296,9 +294,9 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Ba Đợi - Bx. Nam Định</span></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Hải Ph&ograve;ng - Ba Đợi</span></td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">40.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">50.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
 
 		</tr>
 
@@ -314,7 +312,7 @@ thumbnail: /img/driver.png
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><span style="color: rgb(41, 43, 44); font-family: arial, helvetica, sans-serif; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Bx. Vĩnh Bảo - Bx. Nam Định</span></td>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">80.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">50.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
 
 		</tr>
 
@@ -328,7 +326,7 @@ thumbnail: /img/driver.png
 
 		<tr>
 
-			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;">Cao tốc An L&atilde;o - Bx. Nam ĐỊnh</td>
+			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;">Cao tốc An L&atilde;o - Bx. Nam Định</td>
 
 			<td style="box-sizing: border-box; border-style: solid; border-color: rgb(221, 221, 221); padding: 5px 10px; text-align: center;"><strong style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"><span style="color: rgb(255, 0, 0);"><span style="font-family: arial, helvetica, sans-serif;">65.000 đồng/1 v&eacute;/1 lượt</span></span></strong></td>
 
