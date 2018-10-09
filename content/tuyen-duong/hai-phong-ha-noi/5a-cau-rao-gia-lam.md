@@ -146,6 +146,12 @@ thumbnail: /img/driver.png
 
 			<div style="box-sizing: border-box;">&nbsp;</div>
 
+			</td>
+
+		</tr>
+
+	</tbody>
+
 </table>
 
 
@@ -300,7 +306,7 @@ thumbnail: /img/driver.png
 
 			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 170px;"><span style="color: rgb(41, 43, 44); font-family: arial; font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">Hải Ph&ograve;ng - Bưu điện Lai C&aacute;ch</span></th>
 
-			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 170px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(255, 0, 0); font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">65.000 đồng/1 v&eacute;/1 lượt</span></span></th>
+			<th style="border-style: solid; border-color: rgb(221, 221, 221); box-sizing: border-box; text-align: center; width: 170px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(255, 0, 0); font-size: 14px; font-weight: 700; text-align: center; background-color: rgb(255, 255, 255);">55.000 đồng/1 v&eacute;/1 lượt</span></span></th>
 
 		</tr>
 
